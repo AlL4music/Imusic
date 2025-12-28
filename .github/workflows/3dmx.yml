@@ -1,7 +1,7 @@
 name: Scraper - 3dmx
 
 on:
-  workflow_dispatch:  # Toto ponecháme, aby si ho mohol spustiť ručne
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -9,33 +9,34 @@ jobs:
     permissions:
       contents: write
     steps:
-    - name: Checkout kód
-      uses: actions/checkout@v3
+      - name: Checkout kód
+        uses: actions/checkout@v4  # Odporúčaná novšia verzia
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: pip install pandas requests beautifulsoup4 lxml
+      - name: Install dependencies
+        run: |
+          pip install pandas requests beautifulsoup4 lxml
 
-    - name: Run Script
-      run: python -u 3dmx.py
+      - name: Run Script
+        run: python -u 3dmx.py
 
-  - name: Save CSV to repo
-      run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "action@github.com"
-        
-        # 1. Pridáme súbory
-        git add *.csv
-        
-        # 2. Urobíme commit (TOTO JE NAJDÔLEŽITEJŠIE - uzavrie zmeny u robota)
-        git commit -m "Auto-update feeds $(date)" || echo "No changes"
-        
-        # 3. Teraz stiahneme zmeny z webu a naše pridáme navrch
-        git pull --rebase origin main
-        
-        # 4. A pošleme to domov
-        git push origin main
+      - name: Save CSV to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Pridáme všetky CSV súbory, ktoré skript vytvoril
+          git add *.csv
+          
+          # Commitne zmeny len ak nejaké sú, aby workflow nepadol na chybe "nothing to commit"
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update feeds $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
+          fi

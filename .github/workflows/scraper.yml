@@ -39,5 +39,6 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add *.csv
+        git pull --rebase
         git commit -m "Auto-update all 9 feeds $(date)" || echo "No changes"
         git push

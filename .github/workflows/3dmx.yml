@@ -1,9 +1,7 @@
-name: Scraper - 3dmx.yml
+name: Scraper - 3dmx
 
 on:
-  schedule:
-    - cron: '* * *'  # Tu si môžeš nastaviť iný čas pre každého
-  workflow_dispatch:
+  workflow_dispatch:  # Toto ponecháme, aby si ho mohol spustiť ručne
 
 jobs:
   build:
@@ -31,5 +29,5 @@ jobs:
         git config --global user.email "action@github.com"
         git add *.csv
         git pull --rebase
-        git commit -m "Auto-update 3dmx.py $(date)" || echo "No changes"
+        git commit -m "Manual update 3dmx.py $(date)" || echo "No changes"
         git push

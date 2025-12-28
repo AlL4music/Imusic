@@ -27,10 +27,13 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        # 1. Najprv súbory pridáme a urobíme commit (uložíme ich lokálne u robota)
+        
+        # 1. NAJPRV súbory pridáme a urobíme commit (tým ich "uzamkneme" u robota)
         git add *.csv
-        git commit -m "Auto-update feeds $(date)" || echo "No changes to commit"
-        # 2. Potom stiahneme prípadné zmeny z GitHubu a dáme naše zmeny "navrch"
+        git commit -m "Auto-update feeds $(date)" || echo "Žiadne zmeny"
+        
+        # 2. POTOM stiahneme zmeny z GitHubu (rebase ich hladko spojí)
         git pull --rebase
-        # 3. A až teraz to všetko naraz pošleme hore
+        
+        # 3. NAKONIEC to pošleme hore
         git push

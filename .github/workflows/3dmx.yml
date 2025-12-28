@@ -23,17 +23,19 @@ jobs:
     - name: Run Script
       run: python -u 3dmx.py
 
-    - name: Save CSV to repo
+  - name: Save CSV to repo
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         
-        # 1. NAJPRV súbory pridáme a urobíme commit (tým ich "uzamkneme" u robota)
+        # 1. Pridáme súbory
         git add *.csv
-        git commit -m "Auto-update feeds $(date)" || echo "Žiadne zmeny"
         
-        # 2. POTOM stiahneme zmeny z GitHubu (rebase ich hladko spojí)
-        git pull --rebase
+        # 2. Urobíme commit (TOTO JE NAJDÔLEŽITEJŠIE - uzavrie zmeny u robota)
+        git commit -m "Auto-update feeds $(date)" || echo "No changes"
         
-        # 3. NAKONIEC to pošleme hore
-        git push
+        # 3. Teraz stiahneme zmeny z webu a naše pridáme navrch
+        git pull --rebase origin main
+        
+        # 4. A pošleme to domov
+        git push origin main

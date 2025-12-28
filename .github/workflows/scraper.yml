@@ -2,7 +2,7 @@ name: Imusic Scraper Task
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Beží každé ráno o 04:00 UTC
+    - cron: '0 4,20 * * *'  # Beží každé ráno o 04:00 UTC
   workflow_dispatch:      # Umožní ti to spustiť aj manuálne
 
 jobs:

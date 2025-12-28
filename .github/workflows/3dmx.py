@@ -1,4 +1,4 @@
-name: Scraper - 3dmx.py
+name: Scraper - 3dmx.yml
 
 on:
   schedule:

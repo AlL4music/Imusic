@@ -1,0 +1,17 @@
+name: Test Saving Logic
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions: contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo "test" > test_subor.csv
+      - name: Save CSV to repo
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add *.csv
+          git commit -m "Test save" || echo "No changes"
+          git pull --rebase origin main
+          git push origin main

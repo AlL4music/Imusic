@@ -1,51 +1,22 @@
-name: Generalny Scraper
-
-on:
-  schedule:
-    - cron: '0 4 * * *'
-  workflow_dispatch:
+name: Test Saving Logic
+on: workflow_dispatch
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Toto bolo predtým na jednom riadku a spôsobovalo chybu
     steps:
-      - name: Checkout kod
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Odporúčam v4 pre lepšiu stabilitu
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+      - name: Create CSV file
+        run: echo "test,data,123" > test_subor.csv
 
-      - name: Install dependencies
-        run: pip install pandas requests beautifulsoup4 lxml
-
-      - name: Spustenie vsetkych skriptov
+      - name: Save CSV to repo
         run: |
-          python -u imusic.py
-          python -u musicpark.py
-          python -u musictrade.py
-          python -u rockster.py
-          python -u 3dmx.py
-          python -u imusicdata.py
-          python -u alexim.py
-          python -u basys.py
-          python -u eprodance.py
-
-      - name: Ulozenie CSV do repozitara
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          
-          # 1. Pridanie suborov a ich lokalne ulozenie (commit)
-          git add *.csv
-          git commit -m "Auto-update feeds $(date)" || echo "No changes to commit"
-          
-          # 2. Stiahnutie zmien z webu a spojenie (rebase)
-          # Toto vyriesi chybu 'fetch first' z tvojich obrazkov
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add test_subor.csv
+          git commit -m "Test save: $(date)" || echo "No changes to commit"
           git pull --rebase origin main
-          
-          # 3. Odoslanie spat na GitHub
           git push origin main

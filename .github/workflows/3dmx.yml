@@ -27,7 +27,10 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
+        # 1. Najprv súbory pridáme a urobíme commit (uložíme ich lokálne u robota)
         git add *.csv
+        git commit -m "Auto-update feeds $(date)" || echo "No changes to commit"
+        # 2. Potom stiahneme prípadné zmeny z GitHubu a dáme naše zmeny "navrch"
         git pull --rebase
-        git commit -m "Manual update 3dmx.py $(date)" || echo "No changes"
+        # 3. A až teraz to všetko naraz pošleme hore
         git push

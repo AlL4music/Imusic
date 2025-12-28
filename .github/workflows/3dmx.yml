@@ -1,0 +1,35 @@
+name: Scraper - 3dmx.yml
+
+on:
+  schedule:
+    - cron: '* * *'  # Tu si môžeš nastaviť iný čas pre každého
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout kód
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install pandas requests beautifulsoup4 lxml
+
+    - name: Run Script
+      run: python -u 3dmx.py
+
+    - name: Save CSV to repo
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add *.csv
+        git pull --rebase
+        git commit -m "Auto-update 3dmx.py $(date)" || echo "No changes"
+        git push

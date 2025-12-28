@@ -1,0 +1,34 @@
+name: Imusic Scraper Task
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # Beží každé ráno o 04:00 UTC
+  workflow_dispatch:      # Umožní ti to spustiť aj manuálne
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout kód
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run script
+      run: python imusic.py
+
+    - name: Save CSV to repo
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add imusicnetwork_sklad.csv
+        git commit -m "Auto-update $(date)" || echo "No changes"
+        git push

@@ -1,17 +1,51 @@
-name: Test Saving Logic
-on: workflow_dispatch
+name: Generalny Scraper
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
-    permissions: contents: write
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - run: echo "test" > test_subor.csv
-      - name: Save CSV to repo
+      - name: Checkout kod
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pandas requests beautifulsoup4 lxml
+
+      - name: Spustenie vsetkych skriptov
+        run: |
+          python -u imusic.py
+          python -u musicpark.py
+          python -u musictrade.py
+          python -u rockster.py
+          python -u 3dmx.py
+          python -u imusicdata.py
+          python -u alexim.py
+          python -u basys.py
+          python -u eprodance.py
+
+      - name: Ulozenie CSV do repozitara
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
+          # 1. Pridanie suborov a ich lokalne ulozenie (commit)
           git add *.csv
-          git commit -m "Test save" || echo "No changes"
+          git commit -m "Auto-update feeds $(date)" || echo "No changes to commit"
+          
+          # 2. Stiahnutie zmien z webu a spojenie (rebase)
+          # Toto vyriesi chybu 'fetch first' z tvojich obrazkov
           git pull --rebase origin main
+          
+          # 3. Odoslanie spat na GitHub
           git push origin main

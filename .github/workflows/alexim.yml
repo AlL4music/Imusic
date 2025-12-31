@@ -1,76 +1,38 @@
-import time
-import re
-import pandas as pd
-import requests
-from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor
+name: Scraper - Alexim Full
 
-# --- NASTAVENIA ---
-SITEMAP_URL = 'https://www.alexim.cz/sitemap.xml'
-VYSTUPNY_SUBOR = 'alexim_sklad.csv'
-HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
-MAX_WORKERS = 15  # Počet paralelných požiadaviek
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
-def get_product_urls():
-    print("Sťahujem a filtrujem sitemapu...")
-    try:
-        r = requests.get(SITEMAP_URL, headers=HEADERS, timeout=30)
-        soup = BeautifulSoup(r.content, 'lxml-xml')
-        all_urls = [loc.text for loc in soup.find_all('loc') if loc.text]
-        
-        # Filter: Nechceme kategórie, obrázky ani články
-        filtered = []
-        for u in all_urls:
-            if any(x in u for x in ['/c/', '/v/', '/clanky/', '/images/', '/p/', '.jpg', '.png']):
-                continue
-            filtered.append(u)
-        return filtered
-    except Exception as e:
-        print(f"Chyba sitemapy: {e}")
-        return []
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout kód
+        uses: actions/checkout@v4
 
-def scrape_product(url, session):
-    try:
-        res = session.get(url, timeout=15)
-        res.encoding = 'utf-8'
-        if res.status_code != 200: return None
-        
-        soup = BeautifulSoup(res.content, 'html.parser')
-        nazov_el = soup.find('h1', class_='product-detail__title')
-        nazov = nazov_el.get_text(strip=True) if nazov_el else "N/A"
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-        sku_el = soup.find('strong', string=re.compile(r'^\d+\.\d+$')) or \
-                 soup.find('strong', itemprop='sku') or \
-                 soup.find('span', itemprop='sku')
-        sku = sku_el.get_text(strip=True) if sku_el else None
-        
-        skladom = 1 if soup.find('strong', string=re.compile(r'skladem', re.IGNORECASE)) else 0
-        
-        if sku:
-            return {'SKU': sku, 'Nazov': nazov, 'Pocet_ks': skladom, 'URL': url}
-    except:
-        pass
-    return None
+      - name: Install dependencies
+        run: pip install pandas requests beautifulsoup4 lxml
 
-if __name__ == "__main__":
-    urls = get_product_urls()
-    print(f"Nájdených {len(urls)} produktov. Spúšťam sťahovanie...")
+      - name: Run Alexim Script
+        run: python -u Alexim.py
 
-    vysledky = []
-    start_time = time.time()
-
-    with requests.Session() as session:
-        session.headers.update(HEADERS)
-        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            # Spustíme všetky URL naraz cez vlákna
-            futures = [executor.submit(scrape_product, url, session) for url in urls]
-            for i, future in enumerate(futures):
-                result = future.result()
-                if result:
-                    vysledky.append(result)
-                if (i + 1) % 100 == 0:
-                    print(f"Spracované: {i + 1}/{len(urls)}...")
-
-    if vysledky:
-        pd.DataFrame(vysledky).to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-        print(f"HOTOVO! {len(vysledky)} produktov za {(time.time()-start_time)/60:.2f} min.")
+      - name: Save CSV
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add alexim_sklad.csv
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Full update: $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi

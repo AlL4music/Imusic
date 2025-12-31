@@ -3,7 +3,7 @@ name: Scraper - Alexim
 on:
   schedule:
     # Automatické spustenie každých 20 minút
-    - cron: '*/1 * * * *'
+    - cron: '*/02 * * * *'
   workflow_dispatch: # Možnosť spustiť aj ručne
 
 jobs:

@@ -1,22 +1,21 @@
-name: Alexim Scraper Incremental
+name: Scraper - Alexim
 
 on:
   schedule:
-    # Spúšťať každých 20 minút
+    # Automatické spustenie každých 20 minút
     - cron: '*/20 * * * *'
-  workflow_dispatch: # Aby si to mohol spustiť aj ručne
+  workflow_dispatch: # Možnosť spustiť aj ručne
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-      - name: Checkout repository
+      - name: Checkout kód
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -25,14 +24,22 @@ jobs:
         run: |
           pip install pandas requests beautifulsoup4 lxml
 
-      - name: Run Scraper
+      - name: Run Alexim Script
+        # Spustí tvoj alexim.py (uisti sa, že skript má v sebe logiku pre BATCH_SIZE)
         run: python -u alexim.py
 
-      - name: Commit and Push changes
+      - name: Save progress to repo
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add alexim_sklad.csv last_index.txt urls_to_process.txt
-          # Ak nie sú zmeny, commit zlyhá, preto || exit 0
-          git commit -m "Scraper update: $(cat last_index.txt) URLs processed" || exit 0
-          git push
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Pridáme CSV, ale aj stavové súbory, aby nabudúce skript vedel kde pokračovať
+          git add alexim_sklad.csv last_index.txt urls_to_process.txt || echo "No files to add"
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Alexim update: $(cat last_index.txt 2>/dev/null || echo 'start') processed"
+            git pull --rebase origin main
+            git push origin main
+          fi

@@ -26,7 +26,7 @@ jobs:
           pip install pandas requests beautifulsoup4 lxml
 
       - name: Run Scraper
-        run: python alexim.py
+        run: python -u alexim.py
 
       - name: Commit and Push changes
         run: |

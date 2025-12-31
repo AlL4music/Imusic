@@ -1,45 +1,17 @@
-name: Scraper - Basys Full Update
-
-on:
-  schedule:
-    # Spustí sa každé 4 hodiny (napr. o 00:00, 04:00, 08:00...)
-    - cron: '0 */4 * * *'
-  workflow_dispatch: # Umožní ti spustiť to ručne kedykoľvek
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # Dôležité pre povolenie zápisu CSV do repozitára
-
-    steps:
-      - name: Checkout kód
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          pip install pandas requests beautifulsoup4 lxml
-
-      - name: Run Basys Scraper
-        # Príznak -u zabezpečí, že výstupy uvidíš v logu okamžite
-        run: python -u basys.py
-
-      - name: Save and Push Results
+- name: Save and Push Results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           git add basys_sklad.csv
           
-          # Commitne len ak sa dáta zmenili, inak nespraví nič
           if git diff --staged --quiet; then
-            echo "Žiadne zmeny v stave skladu."
+            echo "Žiadne zmeny."
           else
-            git commit -m "Basys full update: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Basys update: $(date +'%Y-%m-%d %H:%M')"
+            
+            # TOTO JE OPRAVA: Stiahne zmeny od ostatných skriptov a tvoje pridá k nim
+            git pull --rebase origin main
+            
             git push origin main
           fi

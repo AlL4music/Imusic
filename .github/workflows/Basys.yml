@@ -1,17 +1,48 @@
-- name: Save and Push Results
+name: Scrapers - Daily All-in-One
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-scrapers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout kód
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install pandas requests beautifulsoup4 lxml
+
+      - name: Run Alexim
+        run: python -u Alexim.py
+
+      - name: Run 3dmx
+        run: python -u 3dmx.py
+
+      - name: Run Basys
+        run: python -u basys.py
+
+      - name: Save All Results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add basys_sklad.csv
+          # Pridáme všetky tri vygenerované súbory
+          git add alexim_sklad.csv 3dmx_sklad.csv basys_sklad.csv
           
           if git diff --staged --quiet; then
-            echo "Žiadne zmeny."
+            echo "Žiadne zmeny v skladoch."
           else
-            git commit -m "Basys update: $(date +'%Y-%m-%d %H:%M')"
-            
-            # TOTO JE OPRAVA: Stiahne zmeny od ostatných skriptov a tvoje pridá k nim
+            git commit -m "Hromadný update skladov: $(date +'%Y-%m-%d %H:%M')"
             git pull --rebase origin main
-            
             git push origin main
           fi

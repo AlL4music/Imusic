@@ -1,12 +1,13 @@
-name: Scrapers - Daily All-in-One
+name: Scraper - Basys
 
 on:
   schedule:
-    - cron: '0 1 * * *'
-  workflow_dispatch:
+    # Spúšťa sa každé 4 hodiny
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Tlačidlo na manuálne spustenie
 
 jobs:
-  run-scrapers:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -22,27 +23,24 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests beautifulsoup4 lxml
 
-      - name: Run Alexim
-        run: python -u Alexim.py
-
-      - name: Run 3dmx
-        run: python -u 3dmx.py
-
-      - name: Run Basys
+      - name: Run Basys Scraper
+        # Spustí tvoj skript (uisti sa, že sa volá presne basys.py)
         run: python -u basys.py
 
-      - name: Save All Results
+      - name: Save Results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Pridáme všetky tri vygenerované súbory
-          git add alexim_sklad.csv 3dmx_sklad.csv basys_sklad.csv
+          # Pridáme výsledné CSV
+          git add basys_sklad.csv
           
+          # Skontrolujeme, či sú nejaké zmeny na commitnutie
           if git diff --staged --quiet; then
-            echo "Žiadne zmeny v skladoch."
+            echo "Žiadne zmeny v sklade."
           else
-            git commit -m "Hromadný update skladov: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Basys update: $(date +'%Y-%m-%d %H:%M')"
+            # Prevencia konfliktov: najprv stiahne zmeny od iných scraperov
             git pull --rebase origin main
             git push origin main
           fi

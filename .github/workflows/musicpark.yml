@@ -22,7 +22,7 @@ jobs:
           pip install requests beautifulsoup4 pandas lxml pyyaml
 
       - name: Spustenie scrapera
-        run: python tvoj_skript.py
+        run: python musicpark.py
 
       - name: Nahranie výsledkov do úložiska
         run: |

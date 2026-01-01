@@ -2,8 +2,9 @@ name: Scraper - Alexim Full
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    # Spúšťa sa každé 4 hodiny
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Tlačidlo na manuálne spustenie
 
 jobs:
   build:

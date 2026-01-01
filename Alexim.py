@@ -11,7 +11,7 @@ VYSTUPNY_SUBOR = 'alexim_sklad.csv'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
-MAX_WORKERS = 15  # Počet paralelných sťahovaní
+MAX_WORKERS = 15 
 
 def get_product_urls():
     print("Sťahujem sitemapu a filtrujem produktové adresy...")
@@ -32,23 +32,20 @@ def scrape_product(url, session):
     """Funkcia pre jedno vlákno na stiahnutie dát produktu"""
     try:
         res = session.get(url, timeout=15)
-        res.encoding = 'utf-8' # Oprava kódovania češtiny
+        res.encoding = 'utf-8' 
         if res.status_code != 200:
             return None
         
         soup = BeautifulSoup(res.content, 'html.parser')
         
-        # Extrakcia názvu
         nazov_el = soup.find('h1', class_='product-detail__title')
         nazov = nazov_el.get_text(strip=True) if nazov_el else "N/A"
 
-        # Extrakcia SKU (skúša viacero možností, kde sa kód môže nachádzať)
         sku_el = soup.find('strong', string=re.compile(r'^\d+\.\d+$')) or \
                  soup.find('strong', itemprop='sku') or \
                  soup.find('span', itemprop='sku')
         sku = sku_el.get_text(strip=True) if sku_el else None
         
-        # Zisťovanie skladu (hľadá text "skladem")
         stock = 1 if soup.find('strong', string=re.compile(r'skladem', re.IGNORECASE)) else 0
         
         if sku:
@@ -70,7 +67,6 @@ if __name__ == "__main__":
     with requests.Session() as session:
         session.headers.update(HEADERS)
         
-        # Paralelné spracovanie všetkých URL adries
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             futures = [executor.submit(scrape_product, url, session) for url in urls]
             
@@ -79,11 +75,10 @@ if __name__ == "__main__":
                 if result:
                     vysledky.append(result)
                 
-                # Priebežný výpis stavu každých 100 produktov
                 if (i + 1) % 100 == 0:
                     print(f"Postup: {i + 1}/{len(urls)}")
 
-    # Spracovanie a uloženie výsledkov
+    # --- OPRAVENÉ ODSADENIE TU (Riadok 81+) ---
     if vysledky:
         df = pd.DataFrame(vysledky)
     else:

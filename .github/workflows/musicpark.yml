@@ -1,0 +1,33 @@
+name: Denný MusicPark Scraper
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Spustí sa každý deň o 03:00 ráno
+  workflow_dispatch:      # Umožní spustiť aj manuálne tlačidlom
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout kódu
+        uses: actions/checkout@v3
+
+      - name: Nastavenie Pythonu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Inštalácia knižníc
+        run: |
+          pip install requests beautifulsoup4 pandas lxml pyyaml
+
+      - name: Spustenie scrapera
+        run: python tvoj_skript.py
+
+      - name: Nahranie výsledkov do úložiska
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add musicpark_sklad.csv
+          git commit -m "Aktualizácia skladových zásob $(date)" || exit 0
+          git push

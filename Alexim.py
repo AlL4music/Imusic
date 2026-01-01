@@ -78,9 +78,10 @@ if __name__ == "__main__":
                     print(f"Postup: {i + 1}/{len(urls)}")
 
     # Uloženie všetkých dát naraz (staré CSV sa prepíše novým)
-    if vysledky:
+     if vysledky:
         df = pd.DataFrame(vysledky)
-        df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
+    else:
+        df = pd.DataFrame(columns=['SKU', 'Nazov', 'Pocet_ks', 'URL'])
         
         trvanie = (time.time() - start_time) / 60
         print(f"HOTOVO! {len(vysledky)} produktov spracovaných za {trvanie:.2f} minút.")

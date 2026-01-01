@@ -11,10 +11,9 @@ VYSTUPNY_SUBOR = 'musicpark_sklad.csv'
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'
 }
-MAX_WORKERS = 5 # Menej je niekedy viac, skúsime byť nenápadní
+MAX_WORKERS = 5 
 
 def get_product_urls():
-    # flush=True vynúti okamžitý výpis na Githube
     print(f"Krok 1: Sťahujem sitemapu...", flush=True)
     try:
         r = requests.get(SITEMAP_URL, headers=HEADERS, timeout=20)
@@ -34,7 +33,6 @@ def scrape_product(url, session):
         
         soup = BeautifulSoup(res.content, 'html.parser')
         
-        # SKU / Názov / Sklad (Logika Music-Park)
         kod = None
         sku_div = soup.find('div', string=re.compile(r'Obj\. kód:'))
         if sku_div:
@@ -58,7 +56,7 @@ def scrape_product(url, session):
 if __name__ == "__main__":
     urls = get_product_urls()
     
-    # GARANCIA SÚBORU: Aj keď nič nenájde, vytvorí prázdne CSV, aby Git nepadol
+    # Poistka pre Git - vytvorí prázdny súbor ak nič nenájde
     if not urls:
         print("Vytváram prázdny súbor (poistka pre Git).", flush=True)
         pd.DataFrame(columns=['SKU', 'Nazov', 'Pocet_ks', 'URL']).to_csv(VYSTUPNY_SUBOR, index=False, sep=';')
@@ -70,15 +68,9 @@ if __name__ == "__main__":
     with requests.Session() as session:
         session.headers.update(HEADERS)
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            futures = [executor.submit(scrape_product, url, session) for url in urls[:100]] # TEST na prvých 100
+            # Pre test nechávame limit 100, potom môžete zmazať [:100]
+            futures = [executor.submit(scrape_product, url, session) for url in urls[:100]] 
             
             for i, future in enumerate(futures):
                 res = future.result()
-                if res: vysledky.append(res)
-                if (i + 1) % 20 == 0:
-                    print(f"Postup: {i + 1}/{len(futures)}", flush=True)
-
-    # Uloženie (vždy prepíše súbor novými dátami)
-    df = pd.DataFrame(vysledky if vysledky else columns=['SKU', 'Nazov', 'Pocet_ks', 'URL'])
-    df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-    print(f"Hotovo. Uložené: {len(vysledky)} riadkov.", flush=True)
+                if res: vysled

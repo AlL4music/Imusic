@@ -1,15 +1,18 @@
 name: MusicPark Scraper
 
 on:
-  workflow_dispatch: # Manuálne spustenie tlačidlom
+  workflow_dispatch:
   schedule:
     - cron: '0 3 * * *'
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
+    # TOTO PRIDAJ: uvidíš logy okamžite, nebude to "stáť"
+    env:
+      PYTHONUNBUFFERED: 1
     permissions:
-      contents: write # Dôležité pre zápis CSV späť do repozitára
+      contents: write
     steps:
       - name: Checkout kódu
         uses: actions/checkout@v3
@@ -30,6 +33,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # Pridáme -f (force) alebo kontrolu existencie, aby to nepadlo
           git add musicpark_sklad.csv
-          git commit -m "Aktualizácia dát: $(date)" || echo "Žiadne zmeny"
+          git commit -m "Aktualizácia dát: $(date)" || echo "Žiadne zmeny na commit"
           git push

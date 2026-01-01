@@ -33,14 +33,17 @@ def scrape_product(url, session):
         
         soup = BeautifulSoup(res.content, 'html.parser')
         
+        # Extrakcia SKU
         kod = None
         sku_div = soup.find('div', string=re.compile(r'Obj\. kód:'))
         if sku_div:
             kod = sku_div.get_text(strip=True).split(':')[-1].strip().replace('\xa0', '')
         
+        # Extrakcia Názvu
         nazov_el = soup.find('h1')
         nazov = nazov_el.get_text(strip=True) if nazov_el else "N/A"
         
+        # Extrakcia Skladu
         stock = 0
         stock_span = soup.find('span', class_='dostupnost')
         if stock_span and 'skladom' in stock_span.get_text().lower():
@@ -56,7 +59,7 @@ def scrape_product(url, session):
 if __name__ == "__main__":
     urls = get_product_urls()
     
-    # Poistka pre Git - vytvorí prázdny súbor ak nič nenájde
+    # GARANCIA SÚBORU: Ak nič nenájde, vytvorí prázdne CSV s hlavičkou pre GitHub
     if not urls:
         print("Vytváram prázdny súbor (poistka pre Git).", flush=True)
         pd.DataFrame(columns=['SKU', 'Nazov', 'Pocet_ks', 'URL']).to_csv(VYSTUPNY_SUBOR, index=False, sep=';')
@@ -68,9 +71,22 @@ if __name__ == "__main__":
     with requests.Session() as session:
         session.headers.update(HEADERS)
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            # Pre test nechávame limit 100, potom môžete zmazať [:100]
+            # Pre test nechávame limit 100.
             futures = [executor.submit(scrape_product, url, session) for url in urls[:100]] 
             
             for i, future in enumerate(futures):
                 res = future.result()
-                if res: vysled
+                if res:
+                    vysledky.append(res)
+                if (i + 1) % 20 == 0:
+                    print(f"Postup: {i + 1}/{len(futures)}", flush=True)
+
+    # --- OPRAVENÁ ČASŤ (bez SyntaxError) ---
+    if vysledky:
+        df = pd.DataFrame(vysledky)
+    else:
+        df = pd.DataFrame(columns=['SKU', 'Nazov', 'Pocet_ks', 'URL'])
+    # ----------------------------------------
+
+    df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
+    print(f"Hotovo. Uložené: {len(vysledky)} riadkov.", flush=True)

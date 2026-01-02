@@ -766,6 +766,8 @@
 36746;Tombo Folk Blues Mark II 1210 Folk Blues Mark II;3;https://www.3dmx.cz/tombo-folk-blues-mark-ii-1210-folk-blues-mark-ii
 11128;Tombo Band Deluxe 1521 BandDeluxe;3;https://www.3dmx.cz/tombo-band-deluxe-1521-banddeluxe
 11131;Tombo Ultimo 1810;3;https://www.3dmx.cz/tombo-ultimo-1810
+31939;Tombo Aero Reed 2010;3;https://www.3dmx.cz/tombo-aero-reed-2010
+11135;Tombo Tremolo 3116 Tremolo;1;https://www.3dmx.cz/tombo-tremolo-3116-tremolo
 11136;Tombo Tremolo 3121 Band21;3;https://www.3dmx.cz/tombo-tremolo-3121-band21
 35067;Tombo Tremolo 3124 Band24;3;https://www.3dmx.cz/tombo-tremolo-3124-band24
 11140;Tombo 3330 Band30 C;0;https://www.3dmx.cz/tombo-3330-band30-c
@@ -871,7 +873,7 @@
 11881;Ibanez PF - Performance PF15ECE TBS Transparent Blue Sunburst;0;https://www.3dmx.cz/ibanez-pf-performance-pf15ece-tbs-transparent-blue-sunburst
 11282_04;Lee Oskar Major Diatonic 1910 A;3;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-a
 11282_03;Lee Oskar Major Diatonic 1910 Ab;1;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-ab
-11282_06;Lee Oskar Major Diatonic 1910 B;2;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-b
+11282_06;Lee Oskar Major Diatonic 1910 B;1;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-b
 11282_5;Lee Oskar Major Diatonic 1910 Bb;3;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-bb
 11282_07;Lee Oskar Major Diatonic 1910 C;3;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-c
 11282_09;Lee Oskar Major Diatonic 1910 D;3;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-d
@@ -889,6 +891,7 @@
 11281_03;Lee Oskar Harmonic Minor (moll) 1910H Abm;3;https://www.3dmx.cz/lee-oskar-harmonic-minor-moll-1910h-abm
 11281_06;Lee Oskar Harmonic Minor (moll) 1910H Bm;3;https://www.3dmx.cz/lee-oskar-harmonic-minor-moll-1910h-bm
 11281_08;Lee Oskar Harmonic Minor (moll) 1910H C#m;1;https://www.3dmx.cz/lee-oskar-harmonic-minor-moll-1910h-cm-100337000018005487
+11281_10;Lee Oskar Harmonic Minor (moll) 1910H Ebm;3;https://www.3dmx.cz/lee-oskar-harmonic-minor-moll-1910h-ebm
 11281_12;Lee Oskar Harmonic Minor (moll) 1910H Fm;3;https://www.3dmx.cz/lee-oskar-harmonic-minor-moll-1910h-fm
 11281_13;Lee Oskar Harmonic Minor (moll) 1910H F#m;3;https://www.3dmx.cz/lee-oskar-harmonic-minor-moll-1910h-fm-100337000018005493
 11133_04;Lee Oskar Melody Maker (dur) 1910MM A;3;https://www.3dmx.cz/lee-oskar-melody-maker-dur-1910mm-a
@@ -967,9 +970,7 @@
 31939_05;Tombo Aero Reed 2010 Bb;1;https://www.3dmx.cz/tombo-aero-reed-2010-bb
 31939_07;Tombo Aero Reed 2010 C;3;https://www.3dmx.cz/tombo-aero-reed-2010-c
 31939_09;Tombo Aero Reed 2010 D;1;https://www.3dmx.cz/tombo-aero-reed-2010-d
-31939_11;Tombo Aero Reed 2010 E;2;https://www.3dmx.cz/tombo-aero-reed-2010-e
 31939_12;Tombo Aero Reed 2010 F Ladění F;1;https://www.3dmx.cz/tombo-aero-reed-2010-f-ladeni-f
-31939_02;Tombo Aero Reed 2010 G;1;https://www.3dmx.cz/tombo-aero-reed-2010-g
 31939_03;Tombo Aero Reed 2010 Ab;1;https://www.3dmx.cz/tombo-aero-reed-2010-ab
 31939_06;Tombo Aero Reed 2010 B;1;https://www.3dmx.cz/tombo-aero-reed-2010-b
 31939_08;Tombo Aero Reed 2010 Db;2;https://www.3dmx.cz/tombo-aero-reed-2010-db
@@ -1063,6 +1064,7 @@
 101587;Aquarian Performance II PF-Cset;0;https://www.3dmx.cz/aquarian-performance-ii-pf-cset
 101129;Tombo Unica Formal 1244;2;https://www.3dmx.cz/tombo-unica-formal-1244
 103258;Madison MG790SCE N Natural;3;https://www.3dmx.cz/madison-mg790sce-n-natural
+47014;Fishman RareEarth Single Coil;0;https://www.3dmx.cz/fishman-rareearth-single-coil-100337000016710302
 44651_02;Tombo Premium 21 3521 G;1;https://www.3dmx.cz/tombo-premium-21-3521-g
 12618;Tama WHP2;1;https://www.3dmx.cz/tama-whp2
 47015;Fishman RareEarth Humbucker;1;https://www.3dmx.cz/fishman-rareearth-humbucker-100337000016710316
@@ -1538,6 +1540,7 @@
 101621;Vic Firth PTS16FLAG L;3;https://www.3dmx.cz/vic-firth-pts16flag-l
 101622;Vic Firth PTS16FLAG XL;3;https://www.3dmx.cz/vic-firth-pts16flag-xl
 101626;Paco Castillo cut-away thin body 234TE;0;https://www.3dmx.cz/paco-castillo-cut-away-thin-body-234te
+101637;La Bella RX-N4A;1;https://www.3dmx.cz/la-bella-rx-n4a
 101638;La Bella RX-N4B;1;https://www.3dmx.cz/la-bella-rx-n4b
 101639;La Bella RX-N4C;2;https://www.3dmx.cz/la-bella-rx-n4c
 101641;La Bella RX-N5A;2;https://www.3dmx.cz/la-bella-rx-n5a
@@ -1814,7 +1817,6 @@
 102251;Elixir 11075 POLYWEB Light-Medium;0;https://www.3dmx.cz/elixir-11075-polyweb-light-medium
 103238;Madison CS-A007J - BR VBR Vintage Bronze;1;https://www.3dmx.cz/madison-cs-a007j-br-vbr-vintage-bronze
 102252;Elixir 11100 POLYWEB Medium;0;https://www.3dmx.cz/elixir-11100-polyweb-medium
-102253;Elixir 11125 POLYWEB Resonator;1;https://www.3dmx.cz/elixir-11125-polyweb-resonator
 102254;Elixir 11150 POLYWEB 12-String Light;0;https://www.3dmx.cz/elixir-11150-polyweb-12-string-light
 102255;Elixir 19002 OPTIWEB Super Light;2;https://www.3dmx.cz/elixir-19002-optiweb-super-light
 102256;Elixir 19007 OPTIWEB 7-String Super Light;0;https://www.3dmx.cz/elixir-19007-optiweb-7-string-super-light
@@ -2083,7 +2085,9 @@
 103009;Tama THB02LBK;0;https://www.3dmx.cz/tama-thb02lbk
 103010;Tama THB02LNB;0;https://www.3dmx.cz/tama-thb02lnb
 103011;Tama THB02LWR;0;https://www.3dmx.cz/tama-thb02lwr
+103012;Tama TPB200BE;0;https://www.3dmx.cz/tama-tpb200be
 103013;Tama TPB200BK;0;https://www.3dmx.cz/tama-tpb200bk
+103014;Tama TPB200NB;0;https://www.3dmx.cz/tama-tpb200nb
 103015;Tama TPB200WR;0;https://www.3dmx.cz/tama-tpb200wr
 103016;Tama TDG10BKXL;0;https://www.3dmx.cz/tama-tdg10bkxl
 103017;Tama BSQ5S;0;https://www.3dmx.cz/tama-bsq5s
@@ -2094,6 +2098,7 @@
 103022;Tama SSR8;0;https://www.3dmx.cz/tama-ssr8
 103023;Tama SSR10;0;https://www.3dmx.cz/tama-ssr10
 103024;Tama SSR12;0;https://www.3dmx.cz/tama-ssr12
+103025;Tama SSR13;0;https://www.3dmx.cz/tama-ssr13
 103026;Tama SSR14;0;https://www.3dmx.cz/tama-ssr14
 103027;Tama SSR16;0;https://www.3dmx.cz/tama-ssr16
 103028;Tama SSRP52K;0;https://www.3dmx.cz/tama-ssrp52k
@@ -2106,6 +2111,7 @@
 103056;Tama Woodworks WP148BK NZW Natural Zebrawood Wrap;1;https://www.3dmx.cz/tama-woodworks-wp148bk-nzw-natural-zebrawood-wrap
 103039;Ibanez GRX40 BKN Black Night;1;https://www.3dmx.cz/ibanez-grx40-bkn-black-night
 103040;Ibanez GRX40 CA Candy Apple;0;https://www.3dmx.cz/ibanez-grx40-ca-candy-apple
+103044;Ibanez Premium SR1345B DWF Dual Shadow Burst Flat;1;https://www.3dmx.cz/ibanez-premium-sr1345b-dwf-dual-shadow-burst-flat
 103049;Ibanez GSR GSR200 TR Transparent Red;1;https://www.3dmx.cz/ibanez-gsr-gsr200-tr-transparent-red
 103051;Ibanez AEWC AEWC11 TCB Transparent Charcoal Burst;0;https://www.3dmx.cz/ibanez-aewc-aewc11-tcb-transparent-charcoal-burst
 103087;Meinl STB80BHH-G;0;https://www.3dmx.cz/meinl-stb80bhh-g
@@ -2123,6 +2129,7 @@
 103240;Madison CS-A007J - PB PB Purple Bronze;3;https://www.3dmx.cz/madison-cs-a007j-pb-pb-purple-bronze
 103241;Madison GWH-413;0;https://www.3dmx.cz/madison-gwh-413
 103245;Madison UK15SB NT Natural;0;https://www.3dmx.cz/madison-uk15sb-nt-natural
+103246;Madison UK15SB SPK Sparkle Pink;2;https://www.3dmx.cz/madison-uk15sb-spk-sparkle-pink
 103247;Madison UK15SB SSG Sparkle Surf Green;0;https://www.3dmx.cz/madison-uk15sb-ssg-sparkle-surf-green
 103248;Madison UK15SB SRD Sparkle Red;3;https://www.3dmx.cz/madison-uk15sb-srd-sparkle-red
 103249;Madison UK15SB SBU Sparkle Blue;0;https://www.3dmx.cz/madison-uk15sb-sbu-sparkle-blue
@@ -2175,6 +2182,7 @@
 103072_1;East Top Tremolo T2401S C;3;https://www.3dmx.cz/east-top-tremolo-t2401s-c
 103074;East Top Tremolo T2406K;3;https://www.3dmx.cz/east-top-tremolo-t2406k
 103074_1;East Top Tremolo T2406K C;1;https://www.3dmx.cz/east-top-tremolo-t2406k-c
+103074_3;East Top Tremolo T2406K D;1;https://www.3dmx.cz/east-top-tremolo-t2406k-d
 103074_5;East Top Tremolo T2406K E;2;https://www.3dmx.cz/east-top-tremolo-t2406k-e
 103074_6;East Top Tremolo T2406K F Ladění F;2;https://www.3dmx.cz/east-top-tremolo-t2406k-f-ladeni-f
 103074_8;East Top Tremolo T2406K G;2;https://www.3dmx.cz/east-top-tremolo-t2406k-g
@@ -2237,9 +2245,7 @@
 102817;Madison HMT10WT;3;https://www.3dmx.cz/madison-hmt10wt
 102818;Madison HLW1008;3;https://www.3dmx.cz/madison-hlw1008
 102820;Madison SNT40;3;https://www.3dmx.cz/madison-snt40
-102821;Madison SNT50;3;https://www.3dmx.cz/madison-snt50
 102822;Madison HMT20BK;3;https://www.3dmx.cz/madison-hmt20bk
-102826;Madison CBB7 BK Black;3;https://www.3dmx.cz/madison-cbb7-bk-black
 102827;Madison PA52;3;https://www.3dmx.cz/madison-pa52
 102828;Madison MR60;3;https://www.3dmx.cz/madison-mr60
 102829;Madison PA219 Gold;0;https://www.3dmx.cz/madison-pa219-gold
@@ -2421,7 +2427,6 @@
 103592;D´Addario XT XTABR1047-12;1;https://www.3dmx.cz/daddario-xt-xtabr1047-12
 103593;D´Addario XT XTAPB1047;1;https://www.3dmx.cz/daddario-xt-xtapb1047
 103594;D´Addario XT XTAPB1152;1;https://www.3dmx.cz/daddario-xt-xtapb1152
-103595;D´Addario XT XTAPB1253;0;https://www.3dmx.cz/daddario-xt-xtapb1253
 103596;D´Addario XT XTAPB1047-12;1;https://www.3dmx.cz/daddario-xt-xtapb1047-12
 103597;D´Addario XS XSAPB1047;0;https://www.3dmx.cz/daddario-xs-xsapb1047
 103598;D´Addario XS XSAPB1152;0;https://www.3dmx.cz/daddario-xs-xsapb1152
@@ -2529,7 +2534,6 @@
 103768;Ibanez Artwood AW54L OPN Open Pore Natural;0;https://www.3dmx.cz/ibanez-artwood-aw54l-opn-open-pore-natural
 103770;Ibanez AE410 LGS Natural Low Gloss;1;https://www.3dmx.cz/ibanez-ae410-lgs-natural-low-gloss
 103797;Ibanez Advanced Acoustic AAD50CE LG Natural Low Gloss;0;https://www.3dmx.cz/ibanez-advanced-acoustic-aad50ce-lg-natural-low-gloss
-103798;Ibanez GDC900;1;https://www.3dmx.cz/ibanez-gdc900
 103799;Ibanez IBAT006L;1;https://www.3dmx.cz/ibanez-ibat006l
 103803;Ibanez IBAT006XXL;1;https://www.3dmx.cz/ibanez-ibat006xxl
 101955_4;Tama Superstar Classic CL52KRS PGJP Gloss Java Lacebark Pine;0;https://www.3dmx.cz/tama-superstar-classic-cl52krs-pgjp-gloss-java-lacebark-pine-100337000022901625

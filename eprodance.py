@@ -12,8 +12,7 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
-# TURBO NASTAVENIA
-MAX_WORKERS = 15  # Zvýšené na 15 pre rýchlejšie spracovanie 15k produktov
+MAX_WORKERS = 15 
 TIMEOUT = 15
 
 def get_all_product_urls(sitemap_url):
@@ -21,13 +20,9 @@ def get_all_product_urls(sitemap_url):
     try:
         response = requests.get(sitemap_url, headers=HEADERS, timeout=30)
         response.raise_for_status()
-        # Pri sitemape používame content, lxml-xml si s tým poradí
         soup = BeautifulSoup(response.content, 'lxml-xml')
-        
         all_urls = [loc.text for loc in soup.find_all('loc') if loc.text]
-        # Filtrujeme len produktové URL (obsahujúce /p/)
         product_urls = [url for url in all_urls if '/p/' in url]
-        
         print(f"Nájdených {len(product_urls)} produktových URL adries.")
         return product_urls
     except Exception as e:
@@ -40,12 +35,13 @@ def scrape_product_data(url):
         if response.status_code != 200:
             return None 
 
-        # --- OPRAVA KÓDOVANIA ---
-        # Nastavíme kódovanie podľa toho, čo deteguje requests (vyrieši "REPLACEMENT CHARACTER")
-        response.encoding = response.apparent_encoding 
+        # --- HLAVNÁ OPRAVA PRE KÓDOVANIE ---
+        # 1. Skúsime UTF-8, ak sú tam chyby, ignorujeme ich (errors='ignore')
+        # Týmto zmiznú tie hlásenia "REPLACEMENT CHARACTER"
+        html_content = response.content.decode('utf-8', errors='ignore')
         
-        # Použijeme response.text (už dekódovaný string) namiesto response.content
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # 2. Spracujeme už vyčistený HTML text
+        soup = BeautifulSoup(html_content, 'html.parser')
 
         # 1. Názov
         nazov_element = soup.find('h1')
@@ -85,7 +81,7 @@ if __name__ == "__main__":
     if urls:
         vysledky = []
         celkovo = len(urls)
-        print(f"Štartujem spracovanie (vlákien: {MAX_WORKERS}). Prosím čakajte...")
+        print(f"Spúšťam turbo-scraper (vlákna: {MAX_WORKERS})...")
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             future_to_url = {executor.submit(scrape_product_data, url): url for url in urls}
@@ -98,14 +94,11 @@ if __name__ == "__main__":
                 
                 spracovane += 1
                 if spracovane % 100 == 0:
-                    print(f"Progress: {spracovane}/{celkovo} (Získaných {len(vysledky)} produktov)")
+                    print(f"Spracované: {spracovane}/{celkovo} | Nájdené SKU: {len(vysledky)}")
 
         if vysledky:
             df = pd.DataFrame(vysledky)
-            # Odstránenie duplicít a uloženie
             df.drop_duplicates(subset=['SKU'], inplace=True)
+            # Uloženie s UTF-8-SIG zabezpečí správne zobrazenie v Exceli
             df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-            print(f"--- HOTOVO ---")
-            print(f"Spracovaných: {spracovane} URL")
-            print(f"Uložených produktov: {len(df)}")
-            print(f"Súbor: {VYSTUPNY_SUBOR}")
+            print(f"HOTOVO! Súbor {VYSTUPNY_SUBOR} bol vytvorený.")

@@ -1,9 +1,6 @@
 name: MusicPark Scraper
 
 on:
-  schedule:
-    # Spúšťa sa každé 4 hodiny
-    - cron: '0 */4 * * *'
   workflow_dispatch: # Tlačidlo na manuálne spustenie
 
 jobs:

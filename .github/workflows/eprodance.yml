@@ -1,0 +1,42 @@
+name: Scraper - Eprodance
+
+on:
+  workflow_dispatch: # Tlačidlo na manuálne spustenie
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout kód
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas requests beautifulsoup4 lxml
+
+      - name: Run Script
+        # TU ZMEŇTE NÁZOV SÚBORU, ak sa váš skript volá inak
+        run: python -u eprodance.py
+
+      - name: Save CSV to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Pridáme vytvorený CSV súbor
+          git add eprodance_sklad.csv
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update eprodance sklad $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
+          fi

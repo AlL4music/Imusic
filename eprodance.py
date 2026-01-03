@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import warnings
 
-# Úplne vypneme varovania o kódovaní, aby log na GitHube ostal čistý
+# Vypneme varovania BeautifulSoup, aby bol log na GitHube čistý
 warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
 
 # --- NASTAVENIA ---
@@ -16,7 +16,7 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-MAX_WORKERS = 15 
+MAX_WORKERS = 15  # Rýchlejšie spracovanie
 TIMEOUT = 15
 
 session = requests.Session()
@@ -27,23 +27,26 @@ def get_all_product_urls(sitemap_url):
     try:
         response = session.get(sitemap_url, timeout=30)
         response.raise_for_status()
+        
+        # DÔLEŽITÉ: Parsujeme ako XML a hľadáme len <loc> vo vnútri <url>
         soup = BeautifulSoup(response.content, 'lxml-xml')
         
-        all_links = [loc.text for loc in soup.find_all('loc') if loc.text]
+        # Vytiahneme len texty z tagov <loc>, ktoré patria k <url> (ignorujeme tagy vnútri <image:image>)
+        all_links = [url_tag.find('loc').text for url_tag in soup.find_all('url') if url_tag.find('loc')]
         
-        # --- NOVÝ FILTER: Vyradíme značky a kategórie ---
-        blacklist = [
-            '/znacka/', '/clanky/', '/blog/', '/vyrobce/', 
-            '/kontakt', '/o-nas', '/kosik', '/zakaznik'
-        ]
+        # FILTER: Vyhodíme značky, kategórie a iný balast
+        blacklist = ['/znacka/', '/clanky/', '/blog/', '/vyrobce/', '/kontakt', '/o-nas', '/kosik']
         
         product_urls = [
             url for url in all_links 
             if not any(b in url for b in blacklist)
-            and url.count('/') >= 4  # Produkty sú na eprodance hlbšie v štruktúre
+            and url.endswith('/') # Produkty na eprodance zvyčajne končia lomkou
         ]
         
-        print(f"Nájdených {len(product_urls)} skutočných produktových adries.")
+        # Odstránime duplicity (ak by tam boli)
+        product_urls = list(set(product_urls))
+        
+        print(f"Nájdených {len(product_urls)} čistých produktových adries (ignorované značky a obrázky).")
         return product_urls
     except Exception as e:
         print(f"!!! CHYBA sitemapy: {e}")
@@ -55,27 +58,26 @@ def scrape_product_data(url):
         if response.status_code != 200:
             return None 
 
-        # TU JE FIX: Dekódujeme pomocou utf-8 a ignorujeme zlé znaky
-        # Použijeme 'html.parser', ktorý nevyhadzuje tie hnusné chyby do logu
+        # FIX PRE KÓDOVANIE: Dekódujeme bity na text a ignorujeme neplatné znaky
         html_text = response.content.decode('utf-8', errors='ignore')
         soup = BeautifulSoup(html_text, 'html.parser')
 
-        # 1. Názov
+        # 1. Názov (H1)
         nazov_element = soup.find('h1')
         if not nazov_element: return None
         nazov_produktu = nazov_element.get_text(strip=True)
 
-        # 2. SKU (Kód produktu)
+        # 2. SKU (Kód produktu) - Eprodance má kód v span.code
         sku_element = soup.find('span', class_='code') or soup.find('span', itemprop='sku')
         kod_produktu = sku_element.get_text(strip=True) if sku_element else None
         
         if not kod_produktu:
-            # Skúsime nájsť cez text "Kód:"
+            # Záložný pokus cez text "Kód:"
             match_sku = soup.find(string=re.compile(r'Kód:'))
             if match_sku:
                 kod_produktu = match_sku.parent.get_text(strip=True).replace('Kód:', '').strip()
 
-        # 3. Sklad
+        # 3. Sklad (Číslo v availability-amount)
         skladom_hodnota = 0 
         stock_span = soup.find('span', class_='availability-amount')
         if stock_span:
@@ -101,7 +103,7 @@ if __name__ == "__main__":
     if urls:
         vysledky = []
         celkovo = len(urls)
-        print(f"Štartujem sťahovanie (vlákna: {MAX_WORKERS})...")
+        print(f"Štartujem spracovanie (vlákna: {MAX_WORKERS})...")
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             future_to_url = {executor.submit(scrape_product_data, url): url for url in urls}
@@ -114,10 +116,10 @@ if __name__ == "__main__":
                 
                 spracovane += 1
                 if spracovane % 100 == 0:
-                    print(f"Progress: {spracovane}/{celkovo} (SKU: {len(vysledky)})")
+                    print(f"Progress: {spracovane}/{celkovo} | Získané produkty: {len(vysledky)}")
 
         if vysledky:
             df = pd.DataFrame(vysledky)
             df.drop_duplicates(subset=['SKU'], inplace=True)
             df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-            print(f"HOTOVO! Uložených {len(df)} produktov.")
+            print(f"HOTOVO! Súbor {VYSTUPNY_SUBOR} uložený. Počet produktov: {len(df)}")

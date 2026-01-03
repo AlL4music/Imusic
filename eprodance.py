@@ -4,24 +4,34 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import warnings
+
+# Vypneme otravné varovania o kódovaní v konzole
+warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
 
 # --- NASTAVENIA ---
 SITEMAP_URL = 'https://www.eprodance.cz/sitemap.xml'
 VYSTUPNY_SUBOR = 'eprodance_sklad.csv'
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-MAX_WORKERS = 15 
-TIMEOUT = 15
+MAX_WORKERS = 10  # Skúsime 10, aby sme boli k serveru šetrnejší
+TIMEOUT = 20
+
+# Vytvoríme session pre lepšiu stabilitu
+session = requests.Session()
+session.headers.update(HEADERS)
 
 def get_all_product_urls(sitemap_url):
     print(f"Načítavam sitemapu z: {sitemap_url}")
     try:
-        response = requests.get(sitemap_url, headers=HEADERS, timeout=30)
+        response = session.get(sitemap_url, timeout=30)
         response.raise_for_status()
+        # Sitemapu parsujeme ako XML
         soup = BeautifulSoup(response.content, 'lxml-xml')
         all_urls = [loc.text for loc in soup.find_all('loc') if loc.text]
+        # Vyberieme len produkty
         product_urls = [url for url in all_urls if '/p/' in url]
         print(f"Nájdených {len(product_urls)} produktových URL adries.")
         return product_urls
@@ -31,17 +41,14 @@ def get_all_product_urls(sitemap_url):
 
 def scrape_product_data(url):
     try:
-        response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        response = session.get(url, timeout=TIMEOUT)
         if response.status_code != 200:
             return None 
 
-        # --- HLAVNÁ OPRAVA PRE KÓDOVANIE ---
-        # 1. Skúsime UTF-8, ak sú tam chyby, ignorujeme ich (errors='ignore')
-        # Týmto zmiznú tie hlásenia "REPLACEMENT CHARACTER"
-        html_content = response.content.decode('utf-8', errors='ignore')
-        
-        # 2. Spracujeme už vyčistený HTML text
-        soup = BeautifulSoup(html_content, 'html.parser')
+        # HTML parser je odolnejší voči chybám v kódovaní než lxml
+        # errors='replace' nahradí poškodené znaky, aby skript nezastal
+        decoded_content = response.content.decode('utf-8', errors='replace')
+        soup = BeautifulSoup(decoded_content, 'html.parser')
 
         # 1. Názov
         nazov_element = soup.find('h1')
@@ -49,11 +56,14 @@ def scrape_product_data(url):
 
         # 2. Kód produktu (SKU)
         sku_element = soup.find('span', class_='code') or soup.find('span', itemprop='sku')
-        if not sku_element:
-             match_sku = soup.find(string=re.compile(r'Kód:'))
-             kod_produktu = match_sku.parent.get_text(strip=True).replace('Kód:', '').strip() if match_sku else None
+        kod_produktu = None
+        
+        if sku_element:
+            kod_produktu = sku_element.get_text(strip=True)
         else:
-             kod_produktu = sku_element.get_text(strip=True)
+            match_sku = soup.find(string=re.compile(r'Kód:'))
+            if match_sku:
+                kod_produktu = match_sku.parent.get_text(strip=True).replace('Kód:', '').strip()
 
         # 3. Stav Skladu
         skladom_hodnota = 0 
@@ -81,7 +91,7 @@ if __name__ == "__main__":
     if urls:
         vysledky = []
         celkovo = len(urls)
-        print(f"Spúšťam turbo-scraper (vlákna: {MAX_WORKERS})...")
+        print(f"Spúšťam stabilnejší scraper (vlákna: {MAX_WORKERS})...")
 
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
             future_to_url = {executor.submit(scrape_product_data, url): url for url in urls}
@@ -94,11 +104,12 @@ if __name__ == "__main__":
                 
                 spracovane += 1
                 if spracovane % 100 == 0:
-                    print(f"Spracované: {spracovane}/{celkovo} | Nájdené SKU: {len(vysledky)}")
+                    print(f"Spracované: {spracovane}/{celkovo} | Získané SKU: {len(vysledky)}")
 
         if vysledky:
             df = pd.DataFrame(vysledky)
             df.drop_duplicates(subset=['SKU'], inplace=True)
-            # Uloženie s UTF-8-SIG zabezpečí správne zobrazenie v Exceli
             df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-            print(f"HOTOVO! Súbor {VYSTUPNY_SUBOR} bol vytvorený.")
+            print(f"HOTOVO! Súbor {VYSTUPNY_SUBOR} bol vytvorený s {len(df)} produktami.")
+        else:
+            print("Chyba: Nepodarilo sa získať žiadne dáta.")

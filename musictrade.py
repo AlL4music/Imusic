@@ -1,21 +1,18 @@
-import time
 import re
 import json
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from tqdm import tqdm
 import warnings
 
-# --- OPRAVA LOGOVANIA ---
-# Toto vypne tie otravné hlášky o dekódovaní znakov
+# Úplné stíšenie BeautifulSoup varovaní
 warnings.filterwarnings("ignore", category=UserWarning, module='bs4')
 
 # --- NASTAVENIA ---
 SITEMAP_URL = 'https://www.musictrade.cz/sitemap.xml'
 VYSTUPNY_SUBOR = 'musictrade_sklad.csv'
-THREADS = 15 
+THREADS = 20  # Môžeš skúsiť aj 20, keďže sme vyhodili UI záťaž
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
@@ -24,18 +21,16 @@ session = requests.Session()
 session.headers.update(HEADERS)
 
 def get_all_product_urls(sitemap_url):
-    print(f"Načítavam sitemapu...")
+    print(f"Sťahujem sitemapu...")
     try:
         response = session.get(sitemap_url, timeout=30)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'lxml-xml')
-        
         all_urls = [loc.text for loc in soup.find_all('loc') if loc.text]
         product_urls = [url for url in all_urls if '/znacka/' not in url and '/kategorie/' not in url]
-        print(f"Nájdených {len(product_urls)} produktových URL.")
         return product_urls
     except Exception as e:
-        print(f"!!! CHYBA sitemapy: {e}")
+        print(f"Chyba sitemapy: {e}")
         return []
 
 def scrape_product_data(url):
@@ -44,10 +39,7 @@ def scrape_product_data(url):
         if response.status_code != 200:
             return None
 
-        # Vynútenie správneho kódovania, aby neboli v CSV nezmysly
         response.encoding = response.apparent_encoding 
-        
-        # Použijeme lxml a povieme mu, aby ignoroval chyby kódovania
         soup = BeautifulSoup(response.content, 'lxml', from_encoding='utf-8')
         
         scripts = soup.find_all('script')
@@ -86,24 +78,28 @@ if __name__ == "__main__":
     
     START_INDEX = 400
     urls_na_spracovanie = urls[START_INDEX:] if len(urls) > START_INDEX else []
+    total = len(urls_na_spracovanie)
     
     if not urls_na_spracovanie:
-        print("Žiadne URL na spracovanie.")
+        print("Žiadne dáta.")
     else:
         vysledky = []
-        print(f"Spúšťam turbo scraping ({THREADS} vlákien)...")
+        print(f"Štart scrapingu: {total} produktov ({THREADS} vlákien)")
         
         with ThreadPoolExecutor(max_workers=THREADS) as executor:
             futures = {executor.submit(scrape_product_data, url): url for url in urls_na_spracovanie}
             
-            # Progress bar bude teraz čistý bez spamu
-            for future in tqdm(as_completed(futures), total=len(urls_na_spracovanie), desc="Scraping"):
+            counter = 0
+            for future in as_completed(futures):
+                counter += 1
                 data = future.result()
                 if data:
                     vysledky.append(data)
+                
+                # Logujeme len každých 500 kusov, aby bol log čistý a rýchly
+                if counter % 500 == 0:
+                    print(f"Spracované: {counter}/{total}")
 
         if vysledky:
-            df = pd.DataFrame(vysledky)
-            # Ukladáme s utf-8-sig, aby Excel správne zobrazil diakritiku
-            df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-            print(f"\n✅ HOTOVO! Uložené do: {VYSTUPNY_SUBOR}")
+            pd.DataFrame(vysledky).to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
+            print(f"Hotovo. Uložených {len(vysledky)} položiek.")

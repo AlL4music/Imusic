@@ -4,48 +4,55 @@ import json
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm  # Bonus: pekný progress bar
 
 # --- NASTAVENIA ---
 SITEMAP_URL = 'https://www.musictrade.cz/sitemap.xml'
 VYSTUPNY_SUBOR = 'musictrade_sklad.csv'
+THREADS = 15  # Počet paralelných vlákien (odporúčam 10-20)
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
-PAUZA_MEDZI_POZIADAVKAMI = 0.002
+
+# Globálna session pre zrýchlenie (reusing TCP connections)
+session = requests.Session()
+session.headers.update(HEADERS)
 
 def get_all_product_urls(sitemap_url):
-    print(f"Načítavam sitemapu z: {sitemap_url}")
-    product_urls = []
+    print(f"Načítavam sitemapu...")
     try:
-        response = requests.get(sitemap_url, headers=HEADERS, timeout=30)
+        response = session.get(sitemap_url, timeout=30)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'lxml-xml')
         
         all_urls = [loc.text for loc in soup.find_all('loc') if loc.text]
-        print(f"Nájdených {len(all_urls)} URL. Filtrujem produkty...")
-
-        for url in all_urls:
-            if '/znacka/' not in url and '/kategorie/' not in url:
-                product_urls.append(url)
-        
+        # Filtrovanie produktov
+        product_urls = [url for url in all_urls if '/znacka/' not in url and '/kategorie/' not in url]
+        print(f"Nájdených {len(product_urls)} produktových URL.")
         return product_urls
     except Exception as e:
         print(f"!!! CHYBA sitemapy: {e}")
-        return None
+        return []
 
 def scrape_product_data(url):
     try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
-        if response.status_code != 200: return None
+        # Používame session namiesto requests.get
+        response = session.get(url, timeout=10)
+        if response.status_code != 200:
+            return None
 
         soup = BeautifulSoup(response.content, 'html.parser')
         scripts = soup.find_all('script')
+        
+        # Hľadáme dataLayer v scriptoch
         data_script = next((s.string for s in scripts if s.string and 'dataLayer.push' in s.string and '"product":' in s.string), None)
-
-        if not data_script: return None
+        if not data_script:
+            return None
 
         match = re.search(r'"product":\s*({.*?"priceWithVat":.*?})\s*,', data_script, re.DOTALL)
-        if not match: return None
+        if not match:
+            return None
         
         product_data = json.loads(match.group(1).replace(r'\/', '/'))
         
@@ -53,7 +60,7 @@ def scrape_product_data(url):
         if product_data.get('codes'):
             quantity_str = product_data['codes'][0].get('quantity')
             if quantity_str:
-                quantity_clean = quantity_str.replace('>', '').strip()
+                quantity_clean = str(quantity_str).replace('>', '').strip()
                 try:
                     skladom_hodnota = int(quantity_clean)
                 except ValueError:
@@ -69,21 +76,29 @@ def scrape_product_data(url):
         return None
 
 if __name__ == "__main__":
-    product_urls = get_all_product_urls(SITEMAP_URL)
-    if product_urls:
-        # Ponechávame tvoj START_INDEX = 400
-        START_INDEX = 400
-        urls_na_spracovanie = product_urls[START_INDEX:] if len(product_urls) > START_INDEX else []
-        
+    urls = get_all_product_urls(SITEMAP_URL)
+    
+    START_INDEX = 400
+    urls_na_spracovanie = urls[START_INDEX:] if len(urls) > START_INDEX else []
+    
+    if not urls_na_spracovanie:
+        print("Žiadne URL na spracovanie.")
+    else:
         vysledky = []
-        for i, url in enumerate(urls_na_spracovanie):
-            if (i + 1) % 50 == 0:
-                print(f"Spracované [{i + 1}/{len(urls_na_spracovanie)}]")
-            data = scrape_product_data(url)
-            if data:
-                vysledky.append(data)
-            time.sleep(PAUZA_MEDZI_POZIADAVKAMI)
+        print(f"Spúšťam turbo scraping s {THREADS} vláknami...")
+        
+        # ThreadPoolExecutor zabezpečí paralelný beh
+        with ThreadPoolExecutor(max_workers=THREADS) as executor:
+            # tqdm vytvorí pekný grafický ukazovateľ progresu
+            futures = {executor.submit(scrape_product_data, url): url for url in urls_na_spracovanie}
+            
+            for future in tqdm(as_completed(futures), total=len(urls_na_spracovanie), desc="Scraping"):
+                data = future.result()
+                if data:
+                    vysledky.append(data)
 
         if vysledky:
-            pd.DataFrame(vysledky).to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
-            print(f"HOTOVO! Uložené do {VYSTUPNY_SUBOR}")
+            df = pd.DataFrame(vysledky)
+            df.to_csv(VYSTUPNY_SUBOR, index=False, encoding='utf-8-sig', sep=';')
+            print(f"\n✅ HOTOVO! Spracovaných {len(vysledky)} produktov.")
+            print(f"Uložené do: {VYSTUPNY_SUBOR}")

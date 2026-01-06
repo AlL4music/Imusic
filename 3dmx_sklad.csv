@@ -65,7 +65,7 @@
 00004;Alvaro Student 40 Satin;3;https://www.3dmx.cz/alvaro-student-40-satin
 00012;Alvaro Student 70;1;https://www.3dmx.cz/alvaro-student-70
 36061;Aquarian Full Force FB20;2;https://www.3dmx.cz/aquarian-full-force-fb20
-36062;Aquarian Full Force FB22;2;https://www.3dmx.cz/aquarian-full-force-fb22
+36062;Aquarian Full Force FB22;1;https://www.3dmx.cz/aquarian-full-force-fb22
 36074;Aquarian Full Force FR22 Black;2;https://www.3dmx.cz/aquarian-full-force-fr22-black
 36068;Aquarian Full Force TCFB22;2;https://www.3dmx.cz/aquarian-full-force-tcfb22
 35940;Aquarian Impact Series IMPI20;0;https://www.3dmx.cz/aquarian-impact-series-impi20
@@ -270,12 +270,12 @@
 36142;Aquarian Super-2 TCS2-16;2;https://www.3dmx.cz/aquarian-super-2-tcs2-16
 35670;Aquarian Texture Coated TC8;1;https://www.3dmx.cz/aquarian-texture-coated-tc8
 35671;Aquarian Texture Coated TC10;3;https://www.3dmx.cz/aquarian-texture-coated-tc10
-35672;Aquarian Texture Coated TC12;3;https://www.3dmx.cz/aquarian-texture-coated-tc12
+35672;Aquarian Texture Coated TC12;2;https://www.3dmx.cz/aquarian-texture-coated-tc12
 35673;Aquarian Texture Coated TC13;3;https://www.3dmx.cz/aquarian-texture-coated-tc13
 35680;Aquarian Texture Coated TC14;3;https://www.3dmx.cz/aquarian-texture-coated-tc14
 35682;Aquarian Texture Coated TC16;3;https://www.3dmx.cz/aquarian-texture-coated-tc16
 35685;Aquarian Texture Coated TC20;1;https://www.3dmx.cz/aquarian-texture-coated-tc20
-35686;Aquarian Texture Coated TC22;1;https://www.3dmx.cz/aquarian-texture-coated-tc22
+35686;Aquarian Texture Coated TC22;0;https://www.3dmx.cz/aquarian-texture-coated-tc22
 35687;Aquarian Texture Coated TC24;0;https://www.3dmx.cz/aquarian-texture-coated-tc24
 35989;Aquarian Vintage MOTC-M8;0;https://www.3dmx.cz/aquarian-vintage-motc-m8
 35990;Aquarian Vintage MOTC-M10;2;https://www.3dmx.cz/aquarian-vintage-motc-m10
@@ -305,7 +305,7 @@
 12055;Aulos Haka 709B;3;https://www.3dmx.cz/aulos-haka-709b
 12056;Aulos Haka 709BW;3;https://www.3dmx.cz/aulos-haka-709bw
 31537;Aulos Symphony 521;3;https://www.3dmx.cz/aulos-symphony-521
-00024;Aulos 533B;3;https://www.3dmx.cz/aulos-533b-100337000016709025
+00024;Aulos 533B;1;https://www.3dmx.cz/aulos-533b-100337000016709025
 12043;Aulos Bel Canto 105A;3;https://www.3dmx.cz/aulos-bel-canto-105a
 12041;Aulos Robin 205A;3;https://www.3dmx.cz/aulos-robin-205a
 34871;Aulos Symphony 503B;3;https://www.3dmx.cz/aulos-symphony-503b
@@ -413,6 +413,7 @@
 10561;Ibanez PA14HLG WH White;3;https://www.3dmx.cz/ibanez-pa14hlg-wh-white
 10562;Ibanez PA14HLG RD Red;3;https://www.3dmx.cz/ibanez-pa14hlg-rd-red
 34208;Ibanez PA16HR WH White;3;https://www.3dmx.cz/ibanez-pa16hr-wh-white
+34214;Ibanez PA16HR RD Red;3;https://www.3dmx.cz/ibanez-pa16hr-rd-red
 34236;Ibanez PA16HS BK Black;3;https://www.3dmx.cz/ibanez-pa16hs-bk-black
 34238;Ibanez PA16HS RD Red;3;https://www.3dmx.cz/ibanez-pa16hs-rd-red
 34215;Ibanez PA16MR WH White;3;https://www.3dmx.cz/ibanez-pa16mr-wh-white
@@ -464,8 +465,8 @@
 579;La Bella HRS-71;1;https://www.3dmx.cz/la-bella-hrs-71
 11869;La Bella HRS-81;2;https://www.3dmx.cz/la-bella-hrs-81
 11832;La Bella HRS-L;3;https://www.3dmx.cz/la-bella-hrs-l
-11834;La Bella HRS-M;0;https://www.3dmx.cz/la-bella-hrs-m
-11833;La Bella HRS-R;0;https://www.3dmx.cz/la-bella-hrs-r
+11834;La Bella HRS-M;3;https://www.3dmx.cz/la-bella-hrs-m
+11833;La Bella HRS-R;3;https://www.3dmx.cz/la-bella-hrs-r
 11830;La Bella HRS-UL;3;https://www.3dmx.cz/la-bella-hrs-ul
 11831;La Bella HRS-XL;3;https://www.3dmx.cz/la-bella-hrs-xl
 11823;La Bella Golden Alloy 40PB;3;https://www.3dmx.cz/la-bella-golden-alloy-40pb
@@ -489,12 +490,12 @@
 10496;La Bella 2001FLA-MED;3;https://www.3dmx.cz/la-bella-2001fla-med
 34867;La Bella 2001HARD;3;https://www.3dmx.cz/la-bella-2001hard
 10497;La Bella 2001LIGHT;3;https://www.3dmx.cz/la-bella-2001light
-10499;La Bella 2001MED;0;https://www.3dmx.cz/la-bella-2001med
-10498;La Bella 2001MED-HARD;0;https://www.3dmx.cz/la-bella-2001med-hard
+10499;La Bella 2001MED;3;https://www.3dmx.cz/la-bella-2001med
+10498;La Bella 2001MED-HARD;3;https://www.3dmx.cz/la-bella-2001med-hard
 10500;La Bella Professional 413P;2;https://www.3dmx.cz/la-bella-professional-413p
 10501;La Bella Elite 427;3;https://www.3dmx.cz/la-bella-elite-427
 10502;La Bella Professional 500P;3;https://www.3dmx.cz/la-bella-professional-500p
-10503;La Bella Elite 820;1;https://www.3dmx.cz/la-bella-elite-820
+10503;La Bella Elite 820;3;https://www.3dmx.cz/la-bella-elite-820
 12262;La Bella Elite 820B;3;https://www.3dmx.cz/la-bella-elite-820b
 12263;La Bella Folksinger 830;3;https://www.3dmx.cz/la-bella-folksinger-830
 10504;La Bella Elite 850;3;https://www.3dmx.cz/la-bella-elite-850
@@ -556,7 +557,7 @@
 34278;Seiko SPM320 White;3;https://www.3dmx.cz/seiko-spm320-white
 11622;Seiko STM30 Black;2;https://www.3dmx.cz/seiko-stm30-black
 11623;Seiko STM30 WH White;1;https://www.3dmx.cz/seiko-stm30-wh-white
-71134;Tama Iron Cobra 200 Series HP200P;2;https://www.3dmx.cz/tama-iron-cobra-200-series-hp200p
+71134;Tama Iron Cobra 200 Series HP200P;1;https://www.3dmx.cz/tama-iron-cobra-200-series-hp200p
 35491;Tama Stage Master HP30;0;https://www.3dmx.cz/tama-stage-master-hp30
 10899;Tama Iron Cobra 200 Series HP200PTW;1;https://www.3dmx.cz/tama-iron-cobra-200-series-hp200ptw
 11103;Tama PMD1100A;0;https://www.3dmx.cz/tama-pmd1100a
@@ -608,7 +609,7 @@
 34609;Tama Traditional Series 5A;0;https://www.3dmx.cz/tama-traditional-series-5a
 36418;Tama Rhythmic Fire 5A-F-BR;3;https://www.3dmx.cz/tama-rhythmic-fire-5a-f-br
 36651;Tama Rhythmic Fire 5A-F-BS;3;https://www.3dmx.cz/tama-rhythmic-fire-5a-f-bs
-45027;Tama Rhythmic Fire 5A-F;3;https://www.3dmx.cz/tama-rhythmic-fire-5a-f
+45027;Tama Rhythmic Fire 5A-F;2;https://www.3dmx.cz/tama-rhythmic-fire-5a-f
 36565;Tama Sticks of Doom 5A-S-BS;3;https://www.3dmx.cz/tama-sticks-of-doom-5a-s-bs
 36650;Tama Sticks of Doom 5A-S;0;https://www.3dmx.cz/tama-sticks-of-doom-5a-s
 11634;Tama Rhythmic Fire 5B-F-BS;0;https://www.3dmx.cz/tama-rhythmic-fire-5b-f-bs
@@ -643,7 +644,7 @@
 34618;Tama MS205;2;https://www.3dmx.cz/tama-ms205
 34619;Tama MS205BK BK Black;1;https://www.3dmx.cz/tama-ms205bk-bk-black
 34620;Tama MS205ST;1;https://www.3dmx.cz/tama-ms205st
-10909;Tama 60 Series HS60W;1;https://www.3dmx.cz/tama-60-series-hs60w
+10909;Tama 60 Series HS60W;0;https://www.3dmx.cz/tama-60-series-hs60w
 10357;Tama HT130;1;https://www.3dmx.cz/tama-ht130
 12371;Tama TOL2;3;https://www.3dmx.cz/tama-tol2
 36371;Tama MSP-RT;0;https://www.3dmx.cz/tama-msp-rt
@@ -744,7 +745,6 @@
 34438;Tama MS620SH;0;https://www.3dmx.cz/tama-ms620sh
 11955;Tama MS648SHP;1;https://www.3dmx.cz/tama-ms648shp
 34980;Tama MS661SHP;0;https://www.3dmx.cz/tama-ms661shp
-34981;Tama MS676SHP;3;https://www.3dmx.cz/tama-ms676shp
 11957;Tama MS686SHP;1;https://www.3dmx.cz/tama-ms686shp
 36212;Tama MH18B;3;https://www.3dmx.cz/tama-mh18b
 36213;Tama MH22B;0;https://www.3dmx.cz/tama-mh22b
@@ -775,7 +775,7 @@
 11142;Tombo Tremolo 9521 Octave;1;https://www.3dmx.cz/tombo-tremolo-9521-octave
 11144;Tombo Unichromatic 1248S;1;https://www.3dmx.cz/tombo-unichromatic-1248s
 11958;Tombo Chromatic single S-50;2;https://www.3dmx.cz/tombo-chromatic-single-s-50
-11279;Tombo P13E;3;https://www.3dmx.cz/tombo-p13e
+11279;Tombo P13E;2;https://www.3dmx.cz/tombo-p13e
 11368;Tombo P 6 kytarová;3;https://www.3dmx.cz/tombo-p-6-kytarova
 11148;Tombo HH290;1;https://www.3dmx.cz/tombo-hh290
 11149;Tombo HH800;0;https://www.3dmx.cz/tombo-hh800
@@ -1036,7 +1036,7 @@
 12090;Ibanez Series SCC SCC20L;3;https://www.3dmx.cz/ibanez-series-scc-scc20l
 12101;Tama MTB25E;0;https://www.3dmx.cz/tama-mtb25e
 12129;Ibanez IFR50M;2;https://www.3dmx.cz/ibanez-ifr50m
-12130;Ibanez IEGS6;1;https://www.3dmx.cz/ibanez-iegs6
+12130;Ibanez IEGS6;0;https://www.3dmx.cz/ibanez-iegs6
 12131;Ibanez IEGS7;3;https://www.3dmx.cz/ibanez-iegs7
 12132;Ibanez IEGS8;3;https://www.3dmx.cz/ibanez-iegs8
 12134;Ibanez IGB924 BK Black;1;https://www.3dmx.cz/ibanez-igb924-bk-black
@@ -1046,7 +1046,6 @@
 11128_1;Tombo Band Deluxe 1521-A;3;https://www.3dmx.cz/tombo-band-deluxe-1521-a
 47008;Fishman Aura Sixteen;1;https://www.3dmx.cz/fishman-aura-sixteen
 100364;Meinl TOPCAJ2WN;0;https://www.3dmx.cz/meinl-topcaj2wn
-12145;Ibanez Signature M80M WK Weathered Black;0;https://www.3dmx.cz/ibanez-signature-m80m-wk-weathered-black
 101114;Aquarian Vintage MODII-12;1;https://www.3dmx.cz/aquarian-vintage-modii-12
 12149;Ibanez PF - Performance PC12MH OPN Open Pore Natural;1;https://www.3dmx.cz/ibanez-pf-performance-pc12mh-opn-open-pore-natural
 12150;Ibanez PCBE12MH OPN Open Pore Natural;0;https://www.3dmx.cz/ibanez-pcbe12mh-opn-open-pore-natural
@@ -1218,7 +1217,7 @@
 100228;Ibanez SA/GSA GSA60 BS Brown Sunburst;0;https://www.3dmx.cz/ibanez-sagsa-gsa60-bs-brown-sunburst
 100560;Vic Firth Signature SDOL;3;https://www.3dmx.cz/vic-firth-signature-sdol
 100243;Ibanez GSR GSR200B WNF Walnut Flat;0;https://www.3dmx.cz/ibanez-gsr-gsr200b-wnf-walnut-flat
-100575;Tama S812SH;1;https://www.3dmx.cz/tama-s812sh
+100575;Tama S812SH;0;https://www.3dmx.cz/tama-s812sh
 100245;Ibanez GSR GSR200 BK Black;0;https://www.3dmx.cz/ibanez-gsr-gsr200-bk-black
 100247;Ibanez GSR GSR180 BS Brown Sunburst;1;https://www.3dmx.cz/ibanez-gsr-gsr180-bs-brown-sunburst
 100248;Ibanez GSR GSR180 BK Black;0;https://www.3dmx.cz/ibanez-gsr-gsr180-bk-black
@@ -1310,7 +1309,7 @@
 100735;Ibanez SI07P (woven) CCT Camouflage City;0;https://www.3dmx.cz/ibanez-si07p-woven-cct-camouflage-city
 100736;Ibanez SI07P (woven) CGR Camouflage Green;0;https://www.3dmx.cz/ibanez-si07p-woven-cgr-camouflage-green
 100737;Ibanez SI10;2;https://www.3dmx.cz/ibanez-si10
-100738;Ibanez SI10 (woven) BG Beige;1;https://www.3dmx.cz/ibanez-si10-woven-bg-beige
+100738;Ibanez SI10 (woven) BG Beige;0;https://www.3dmx.cz/ibanez-si10-woven-bg-beige
 100740;Ibanez SI10 (woven) CCT Camouflage City;0;https://www.3dmx.cz/ibanez-si10-woven-cct-camouflage-city
 100741;Ibanez SI10 (woven) CGR Camouflage Green;0;https://www.3dmx.cz/ibanez-si10-woven-cgr-camouflage-green
 100742;Ibanez SI10L;3;https://www.3dmx.cz/ibanez-si10l
@@ -1770,9 +1769,9 @@
 102057;La Bella Bender B942;2;https://www.3dmx.cz/la-bella-bender-b942
 102058;La Bella Bender B946;1;https://www.3dmx.cz/la-bella-bender-b946
 102059;La Bella Bender B1046;3;https://www.3dmx.cz/la-bella-bender-b1046
-102060;La Bella Bender B1150;0;https://www.3dmx.cz/la-bella-bender-b1150
-102062;La Bella Bender B1152;0;https://www.3dmx.cz/la-bella-bender-b1152
-102064;La Bella Bender B1052;2;https://www.3dmx.cz/la-bella-bender-b1052
+102060;La Bella Bender B1150;3;https://www.3dmx.cz/la-bella-bender-b1150
+102062;La Bella Bender B1152;3;https://www.3dmx.cz/la-bella-bender-b1152
+102064;La Bella Bender B1052;3;https://www.3dmx.cz/la-bella-bender-b1052
 102065;Fishman Loudbox Mini Charge;3;https://www.3dmx.cz/fishman-loudbox-mini-charge
 102176;Martin Authentic SP MA175;3;https://www.3dmx.cz/martin-authentic-sp-ma175
 102066;Fishman Matrix Infinity PRO VT Narrow;1;https://www.3dmx.cz/fishman-matrix-infinity-pro-vt-narrow
@@ -1913,7 +1912,6 @@
 102481;Ibanez Kaleido PCP14XH-C1;0;https://www.3dmx.cz/ibanez-kaleido-pcp14xh-c1
 102484;Vic Firth Signature JPH5A;3;https://www.3dmx.cz/vic-firth-signature-jph5a
 102506;Fishman Fluence Signature PRF-CSB-DT2;0;https://www.3dmx.cz/fishman-fluence-signature-prf-csb-dt2
-102508;Tama HTW49WN;0;https://www.3dmx.cz/tama-htw49wn
 102509;Tama TSDB1465BK;1;https://www.3dmx.cz/tama-tsdb1465bk
 102510;Tama Iron Cobra 200 Series HH205S;1;https://www.3dmx.cz/tama-iron-cobra-200-series-hh205s
 102511;Tama Stage Master HC42WN;2;https://www.3dmx.cz/tama-stage-master-hc42wn
@@ -1962,7 +1960,7 @@
 102613;La Bella BG110-BE;3;https://www.3dmx.cz/la-bella-bg110-be
 102615;La Bella 770M;3;https://www.3dmx.cz/la-bella-770m
 102616;La Bella 880L;3;https://www.3dmx.cz/la-bella-880l
-102617;La Bella 880M;3;https://www.3dmx.cz/la-bella-880m
+102617;La Bella 880M;2;https://www.3dmx.cz/la-bella-880m
 102619;La Bella Uke-Pro 100;3;https://www.3dmx.cz/la-bella-uke-pro-100
 102621;La Bella Uke-Pro 200;2;https://www.3dmx.cz/la-bella-uke-pro-200
 102623;La Bella 11;3;https://www.3dmx.cz/la-bella-11
@@ -1985,7 +1983,7 @@
 102708;Meinl MCJB;0;https://www.3dmx.cz/meinl-mcjb
 102667;La Bella HRS-BL;3;https://www.3dmx.cz/la-bella-hrs-bl
 102668;La Bella Phospor Bronze 7GP-12XL;3;https://www.3dmx.cz/la-bella-phospor-bronze-7gp-12xl
-102669;La Bella Phospor Bronze 7GP-12L;0;https://www.3dmx.cz/la-bella-phospor-bronze-7gp-12l
+102669;La Bella Phospor Bronze 7GP-12L;3;https://www.3dmx.cz/la-bella-phospor-bronze-7gp-12l
 102670;La Bella VIVACE VIV-HT;3;https://www.3dmx.cz/la-bella-vivace-viv-ht
 102671;La Bella VIVACE VIV-HB;3;https://www.3dmx.cz/la-bella-vivace-viv-hb
 102673;La Bella VIVACE VIV-MB;3;https://www.3dmx.cz/la-bella-vivace-viv-mb
@@ -2069,7 +2067,7 @@
 102988;Ibanez WHS4;1;https://www.3dmx.cz/ibanez-whs4
 102989;Ibanez IEP10;1;https://www.3dmx.cz/ibanez-iep10
 102991;Tama Iron Cobra 200 Series HP200PTWL;0;https://www.3dmx.cz/tama-iron-cobra-200-series-hp200ptwl
-102992;Tama Stage Master HH45WN;1;https://www.3dmx.cz/tama-stage-master-hh45wn
+102992;Tama Stage Master HH45WN;0;https://www.3dmx.cz/tama-stage-master-hh45wn
 102993;Tama Stage Master HH45SN D;0;https://www.3dmx.cz/tama-stage-master-hh45sn-d
 102994;Tama Dyna-Sync Series HHDS1;0;https://www.3dmx.cz/tama-dyna-sync-series-hhds1
 102995;Tama Concert Percussion HS50HF;0;https://www.3dmx.cz/tama-concert-percussion-hs50hf
@@ -2100,7 +2098,6 @@
 103022;Tama SSR8;0;https://www.3dmx.cz/tama-ssr8
 103023;Tama SSR10;0;https://www.3dmx.cz/tama-ssr10
 103024;Tama SSR12;0;https://www.3dmx.cz/tama-ssr12
-103025;Tama SSR13;0;https://www.3dmx.cz/tama-ssr13
 103026;Tama SSR14;0;https://www.3dmx.cz/tama-ssr14
 103027;Tama SSR16;0;https://www.3dmx.cz/tama-ssr16
 103028;Tama SSRP52K;0;https://www.3dmx.cz/tama-ssrp52k
@@ -2137,7 +2134,6 @@
 103249;Madison UK15SB SBU Sparkle Blue;0;https://www.3dmx.cz/madison-uk15sb-sbu-sparkle-blue
 103251;Madison WGB15-2 BK Black;0;https://www.3dmx.cz/madison-wgb15-2-bk-black
 103252;Madison WGB15-1 GY Grey;0;https://www.3dmx.cz/madison-wgb15-1-gy-grey
-103256;Sigma Guitars DM-ST-MF;0;https://www.3dmx.cz/sigma-guitars-dm-st-mf
 103264;East Top Major Diatonic PRO20W;1;https://www.3dmx.cz/east-top-major-diatonic-pro20w
 103265;East Top CP-13;3;https://www.3dmx.cz/east-top-cp-13
 103266;East Top CP-6;2;https://www.3dmx.cz/east-top-cp-6
@@ -2194,10 +2190,12 @@
 103077_1;East Top Tremolo T2402 C;1;https://www.3dmx.cz/east-top-tremolo-t2402-c
 103059;East Top Major Diatonic T004;3;https://www.3dmx.cz/east-top-major-diatonic-t004
 103059_1;East Top Major Diatonic T004 C;3;https://www.3dmx.cz/east-top-major-diatonic-t004-c
-103059_3;East Top Major Diatonic T004 D;3;https://www.3dmx.cz/east-top-major-diatonic-t004-d
+103059_6;East Top Major Diatonic T004 F Ladění F;1;https://www.3dmx.cz/east-top-major-diatonic-t004-f-ladeni-f
 103059_8;East Top Major Diatonic T004 G;3;https://www.3dmx.cz/east-top-major-diatonic-t004-g
 103059_10;East Top Major Diatonic T004 A;3;https://www.3dmx.cz/east-top-major-diatonic-t004-a
 103061;East Top Major Diatonic T008K Blue;3;https://www.3dmx.cz/east-top-major-diatonic-t008k-blue
+103061_1;East Top Major Diatonic T008K Blue C;3;https://www.3dmx.cz/east-top-major-diatonic-t008k-blue-c
+103061_2;East Top Major Diatonic T008K Blue Db;3;https://www.3dmx.cz/east-top-major-diatonic-t008k-blue-db
 103061_3;East Top Major Diatonic T008K Blue D;3;https://www.3dmx.cz/east-top-major-diatonic-t008k-blue-d
 103061_4;East Top Major Diatonic T008K Blue Eb Es;3;https://www.3dmx.cz/east-top-major-diatonic-t008k-blue-eb-es
 103061_5;East Top Major Diatonic T008K Blue E;2;https://www.3dmx.cz/east-top-major-diatonic-t008k-blue-e
@@ -2393,7 +2391,7 @@
 103543;FGN Boundary (Odyssey) BOS2EW1MHH DMT Dark Mocha Burst;1;https://www.3dmx.cz/fgn-boundary-odyssey-bos2ew1mhh-dmt-dark-mocha-burst
 103547;Sigma Guitars DM-1;1;https://www.3dmx.cz/sigma-guitars-dm-1
 103548;Sigma Guitars DTC-STE-MF;0;https://www.3dmx.cz/sigma-guitars-dtc-ste-mf
-103549;Tama SPC50P4;2;https://www.3dmx.cz/tama-spc50p4
+103549;Tama SPC50P4;1;https://www.3dmx.cz/tama-spc50p4
 12098;Ibanez 2EL2-2G;0;https://www.3dmx.cz/ibanez-2el2-2g
 103552;Ibanez 2EL2-2C;0;https://www.3dmx.cz/ibanez-2el2-2c
 36567;Ibanez 2EL2-2K;1;https://www.3dmx.cz/ibanez-2el2-2k
@@ -2403,19 +2401,19 @@
 103566;Marshall DSL20CR;1;https://www.3dmx.cz/marshall-dsl20cr
 103567;Marshall CODE25;3;https://www.3dmx.cz/marshall-code25
 103568;Marshall CODE50;3;https://www.3dmx.cz/marshall-code50
-103569;Marshall MG10G;2;https://www.3dmx.cz/marshall-mg10g
+103569;Marshall MG10G;1;https://www.3dmx.cz/marshall-mg10g
 103570;Marshall MG15G;3;https://www.3dmx.cz/marshall-mg15g
 103571;Marshall MG15GR;2;https://www.3dmx.cz/marshall-mg15gr
 103572;Marshall MG15GFX;1;https://www.3dmx.cz/marshall-mg15gfx
 103574;Balbex T1 soft;0;https://www.3dmx.cz/balbex-t1-soft
 103575;Balbex T2 medium;0;https://www.3dmx.cz/balbex-t2-medium
-103576;DôÇAddario XJ EJ10;3;https://www.3dmx.cz/daddario-xj-ej10
+103576;D┬┤Addario XJ EJ10;3;https://www.3dmx.cz/daddario-xj-ej10
 103577;D´Addario XJ EJ11;1;https://www.3dmx.cz/daddario-xj-ej11
 103578;D´Addario XJ EJ12;1;https://www.3dmx.cz/daddario-xj-ej12
 103579;D´Addario XJ EJ13;1;https://www.3dmx.cz/daddario-xj-ej13
 103580;D´Addario XJ EJ14;1;https://www.3dmx.cz/daddario-xj-ej14
 103581;D´Addario XJ EJ36;0;https://www.3dmx.cz/daddario-xj-ej36
-103582;DôÇAddario XJ EJ15;1;https://www.3dmx.cz/daddario-xj-ej15
+103582;D┬┤Addario XJ EJ15;1;https://www.3dmx.cz/daddario-xj-ej15
 103583;D´Addario XJ EJ16;2;https://www.3dmx.cz/daddario-xj-ej16
 103584;D´Addario XJ EJ17;0;https://www.3dmx.cz/daddario-xj-ej17
 103585;D´Addario XJ EJ19;0;https://www.3dmx.cz/daddario-xj-ej19
@@ -2482,7 +2480,7 @@
 103647;D´Addario Classic Series PW-CMIC-50;1;https://www.3dmx.cz/daddario-classic-series-pw-cmic-50
 103648;D´Addario Classic Series PW-CSPK-03;3;https://www.3dmx.cz/daddario-classic-series-pw-cspk-03
 103649;D´Addario Classic Series PW-CSPK-05;0;https://www.3dmx.cz/daddario-classic-series-pw-cspk-05
-103650;DÂŽAddario Classic Series PW-CSPK-10;0;https://www.3dmx.cz/daddario-classic-series-pw-cspk-10
+103650;D┬┤Addario Classic Series PW-CSPK-10;0;https://www.3dmx.cz/daddario-classic-series-pw-cspk-10
 103651;D´Addario XLR8;3;https://www.3dmx.cz/daddario-xlr8
 34483;Tama Roadpro HC72WN;3;https://www.3dmx.cz/tama-roadpro-hc72wn
 103652;Sigma Guitars 000M-15E AGED;0;https://www.3dmx.cz/sigma-guitars-000m-15e-aged
@@ -2572,7 +2570,7 @@
 103910;FGN J-Standard (Odyssey) JOS2TDEW1R DMT Dark Mocha Burst;2;https://www.3dmx.cz/fgn-j-standard-odyssey-jos2tdew1r-dmt-dark-mocha-burst
 103919;Seiko VM80A Black;3;https://www.3dmx.cz/seiko-vm80a-black
 103929;Recording King Series G6 RGA-G6-CFE5;2;https://www.3dmx.cz/recording-king-series-g6-rga-g6-cfe5
-103930;Recording King Series G6 RO-G6;3;https://www.3dmx.cz/recording-king-series-g6-ro-g6
+103930;Recording King Series G6 RO-G6;2;https://www.3dmx.cz/recording-king-series-g6-ro-g6
 103937;Ibanez Artwood AW417CE OPS Open Pore Semi-Gloss;1;https://www.3dmx.cz/ibanez-artwood-aw417ce-ops-open-pore-semi-gloss-100337000026862217
 11282_18;Lee Oskar Major Diatonic 1910 Low-C;3;https://www.3dmx.cz/lee-oskar-major-diatonic-1910-low-c
 103945;Elixir 16546 NANOWEB Medium 3-Pack;2;https://www.3dmx.cz/elixir-16546-nanoweb-medium-3-pack
@@ -2611,7 +2609,7 @@
 103991;Recording King Dirty 30s RPH-R1 TS Satin Tobacco Burst;2;https://www.3dmx.cz/recording-king-dirty-30s-rph-r1-ts-satin-tobacco-burst
 103994;Recording King Dirty 30s Minnie Bucker RPH-R2-E MBK Matte Black;1;https://www.3dmx.cz/recording-king-dirty-30s-minnie-bucker-rph-r2-e-mbk-matte-black
 103999;D´Addario PW-CT-9VF;3;https://www.3dmx.cz/daddario-pw-ct-9vf
-104001;DôÇAddario Pro-Artûˋ EJ46FF;3;https://www.3dmx.cz/daddario-pro-arte-ej46ff
+104001;DﺡﺑAddario Pro-Artﺣ۸ EJ46FF;3;https://www.3dmx.cz/daddario-pro-arte-ej46ff
 104002;D´Addario Pro-Arté EJ45FF;1;https://www.3dmx.cz/daddario-pro-arte-ej45ff
 102634;Madison UKB05MM-S-BE;0;https://www.3dmx.cz/madison-ukb05mm-s-be
 102635;Madison UKB05MM-C-BE;0;https://www.3dmx.cz/madison-ukb05mm-c-be
@@ -2681,7 +2679,7 @@
 104195;Tama Imperialstar IP62H6W;0;https://www.3dmx.cz/tama-imperialstar-ip62h6w
 104196;Aulos Elite 303B;3;https://www.3dmx.cz/aulos-elite-303b
 104198;Tama THB04XLBK;1;https://www.3dmx.cz/tama-thb04xlbk
-104199;Tama STH10;1;https://www.3dmx.cz/tama-sth10
+104199;Tama STH10;0;https://www.3dmx.cz/tama-sth10
 104200;Tama TAT10;1;https://www.3dmx.cz/tama-tat10
 104201;Tama TIBL1;0;https://www.3dmx.cz/tama-tibl1
 104202;Tama TIBP1;0;https://www.3dmx.cz/tama-tibp1
@@ -2784,7 +2782,7 @@
 104269;Madison PA217 GR Green;1;https://www.3dmx.cz/madison-pa217-gr-green
 10060_NZR_1;Ibanez Promethean P3115 (vrácené, použité);1;https://www.3dmx.cz/ibanez-promethean-p3115-vracene-pouzite
 102797;Madison CBS501;3;https://www.3dmx.cz/madison-cbs501
-102798;Madison CBS502;3;https://www.3dmx.cz/madison-cbs502
+102798;Madison CBS502;2;https://www.3dmx.cz/madison-cbs502
 36163;Aquarian Super-2 PDS2-13;1;https://www.3dmx.cz/aquarian-super-2-pds2-13
 35774;Aquarian Response 2 RSP2PD10;1;https://www.3dmx.cz/aquarian-response-2-rsp2pd10
 35775;Aquarian Response 2 RSP2PD12;1;https://www.3dmx.cz/aquarian-response-2-rsp2pd12
@@ -2808,7 +2806,7 @@
 104305;D´Addario Fret Polishing System PW-FRP;1;https://www.3dmx.cz/daddario-fret-polishing-system-pw-frp
 104311;D´Addario Restore Detailer PW-PL-01S;1;https://www.3dmx.cz/daddario-restore-detailer-pw-pl-01s
 104312;D´Addario Protect Guitar Wax PW-PL-02S;1;https://www.3dmx.cz/daddario-protect-guitar-wax-pw-pl-02s
-104313;DôÇAddario Shine - Spray Cleaner PW-PL-03S;1;https://www.3dmx.cz/daddario-shine-spray-cleaner-pw-pl-03s
+104313;D┬┤Addario Shine - Spray Cleaner PW-PL-03S;1;https://www.3dmx.cz/daddario-shine-spray-cleaner-pw-pl-03s
 103510_NZR_1;Paco Castillo cut-away 220CCE (vrácené, použité);1;https://www.3dmx.cz/paco-castillo-cut-away-220cce-vracene-pouzite
 104315;Aquarian Concert 5 CT12WH;0;https://www.3dmx.cz/aquarian-concert-5-ct12wh
 104316;Aquarian Concert 5 CT13WH;0;https://www.3dmx.cz/aquarian-concert-5-ct13wh
@@ -3001,10 +2999,10 @@
 104622;Ibanez PWRS6;1;https://www.3dmx.cz/ibanez-pwrs6
 104623;Ibanez DCT08-BNR;1;https://www.3dmx.cz/ibanez-dct08-bnr-100337000061442185
 104624;Neural DSP Quad Cortex;1;https://www.3dmx.cz/neural-dsp-quad-cortex
-104625;Neural DSP Nano Cortex;2;https://www.3dmx.cz/neural-dsp-nano-cortex
+104625;Neural DSP Nano Cortex;1;https://www.3dmx.cz/neural-dsp-nano-cortex
 104627;Meinl ES2;0;https://www.3dmx.cz/meinl-es2
 104628;Meinl HDJ1-M;0;https://www.3dmx.cz/meinl-hdj1-m
-104629;Meinl SH4BK;1;https://www.3dmx.cz/meinl-sh4bk
+104629;Meinl SH4BK;0;https://www.3dmx.cz/meinl-sh4bk
 104630;D´Addario NYXL1149;2;https://www.3dmx.cz/daddario-nyxl1149-100337000063273146
 104631;Meinl FJS2S;1;https://www.3dmx.cz/meinl-fjs2s
 104632;Ibanez IGB681 GY Grey;1;https://www.3dmx.cz/ibanez-igb681-gy-grey
@@ -3065,14 +3063,14 @@
 104867;SIT NR545130MS;2;https://www.3dmx.cz/sit-nr545130ms
 104877;Ibanez V40WSCE OPB Open Pore Black;1;https://www.3dmx.cz/ibanez-v40wsce-opb-open-pore-black
 104878;Ibanez AJ54E OPN Open Pore Natural;1;https://www.3dmx.cz/ibanez-aj54e-opn-open-pore-natural
-10471;La Bella Deep Talkin Bass 760FS;0;https://www.3dmx.cz/la-bella-deep-talkin-bass-760fs
+10471;La Bella Deep Talkin Bass 760FS;2;https://www.3dmx.cz/la-bella-deep-talkin-bass-760fs
 101652;La Bella RX-S4D;1;https://www.3dmx.cz/la-bella-rx-s4d
 104885;East Top Tremolo T22S-C;3;https://www.3dmx.cz/east-top-tremolo-t22s-c
 103066;East Top Major Diatonic T10-4;0;https://www.3dmx.cz/east-top-major-diatonic-t10-4
 104886;Ibanez Jampack V54NJP WK Weathered Black;2;https://www.3dmx.cz/ibanez-jampack-v54njp-wk-weathered-black
 104887;Ibanez V44CE WK Weathered Black;1;https://www.3dmx.cz/ibanez-v44ce-wk-weathered-black
 104895;Ibanez Artcore AS73 TTF Transparent Tangerine Flat;1;https://www.3dmx.cz/ibanez-artcore-as73-ttf-transparent-tangerine-flat
-104898;La Bella Preferita 1P;0;https://www.3dmx.cz/la-bella-preferita-1p
+104898;La Bella Preferita 1P;3;https://www.3dmx.cz/la-bella-preferita-1p
 104899;Martin D-X2E Brazilian 12- String;0;https://www.3dmx.cz/martin-d-x2e-brazilian-12-string
 104902;3D Music P3DM071-WH;3;https://www.3dmx.cz/3d-music-p3dm071-wh
 104903;3D Music P3DM120-BK;3;https://www.3dmx.cz/3d-music-p3dm120-bk

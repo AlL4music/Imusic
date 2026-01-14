@@ -1,0 +1,59 @@
+name: Music Scrapers Suite
+
+on:
+  workflow_dispatch: # Tlačidlo na manuálne spustenie
+  # schedule:
+  #   - cron: '0 2 * * *' # Voliteľné: Spustenie každú noc o 02:00
+
+jobs:
+  run-scrapers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout kód
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas requests beautifulsoup4 lxml
+
+      - name: Run All Scrapers
+        run: |
+          echo "Spúšťam 3dmx..."
+          python -u 3dmx.py
+          echo "Spúšťam Alexim..."
+          python -u Alexim.py
+          echo "Spúšťam eprodance..."
+          python -u eprodance.py
+          echo "Spúšťam imusic..."
+          python -u imusic.py
+          echo "Spúšťam musicpark..."
+          python -u musicpark.py
+          echo "Spúšťam musictrade..."
+          python -u musictrade.py
+          echo "Spúšťam Rockster..."
+          python -u Rockster.py
+
+      - name: Save CSV files to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Pridáme všetky vytvorené alebo upravené CSV súbory
+          git add *.csv
+          
+          # Commit a push len ak nastali zmeny
+          if git diff --staged --quiet; then
+            echo "Žiadne zmeny v CSV súboroch."
+          else
+            git commit -m "Auto-update feeds: $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
+          fi

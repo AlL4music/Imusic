@@ -1,7 +1,6 @@
 name: Scraper - Basys
 
 on:
-  schedule:
   workflow_dispatch: # Tlačidlo na manuálne spustenie
 
 jobs:

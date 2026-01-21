@@ -2,8 +2,6 @@ name: Scraper - MusicTrade
 
 on:
   workflow_dispatch: # Tlačidlo na manuálne spustenie
-  schedule:
-    - cron: '0 1 * * *' # Spustí sa automaticky každú noc o 01:00
 
 jobs:
   build:

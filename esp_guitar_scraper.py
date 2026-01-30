@@ -285,9 +285,6 @@ class ESPScraper:
 
 def filter_guitars(df):
     """Filter only guitars from the CSV (exclude basses, cases, accessories)"""
-    brands = ['ESP', 'E-II', 'LTD']
-    df = df[df['Značka'].isin(brands)].copy()
-    
     # Exclude non-guitars
     exclude_patterns = [
         'Case', 'CASE', 'Bag', 'BAG', 'GIG', 'Picks', 'Pick', 'Logo', 
@@ -297,9 +294,20 @@ def filter_guitars(df):
     ]
     
     pattern = '|'.join(exclude_patterns)
-    df = df[~df['Popis'].str.contains(pattern, case=False, na=False)]
+    df = df[~df['Name'].str.contains(pattern, case=False, na=False)]
     
     return df
+
+
+def extract_brand(name):
+    """Extract brand from product name"""
+    if name.startswith('ESP '):
+        return 'ESP'
+    elif name.startswith('E-II '):
+        return 'E-II'
+    elif name.startswith('LTD '):
+        return 'LTD'
+    return 'LTD'
 
 
 def main():
@@ -328,9 +336,9 @@ def main():
     failed = []
     
     for idx, row in tqdm(df.iterrows(), total=len(df), desc="Scraping"):
-        sku = str(row['Item ID'])
-        brand = row['Značka']
-        original_name = row['Popis']
+        sku = str(row['SKU'])
+        original_name = row['Name']
+        brand = extract_brand(original_name)
         
         result = scraper.process_product(sku, brand, original_name)
         

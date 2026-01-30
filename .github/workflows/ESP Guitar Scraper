@@ -1,0 +1,39 @@
+name: ESP Guitar Scraper
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Number of products to process (0 = all)'
+        required: false
+        default: '10'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 pandas tqdm
+    
+    - name: Run scraper
+      run: |
+        python esp_guitar_scraper.py sound_serivce.csv esp_output.csv --limit ${{ github.event.inputs.limit }} --delay 1.5
+    
+    - name: Upload results
+      uses: actions/upload-artifact@v4
+      with:
+        name: esp-scraper-results
+        path: |
+          esp_output.csv
+          esp_output_failed.csv
+        retention-days: 30

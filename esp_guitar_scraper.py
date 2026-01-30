@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
-ESP Guitar Scraper
-==================
-Scrapes product data from espguitars.com and generates HTML descriptions
-for eMagicone import.
+ESP Guitar Scraper v3
+=====================
+Scrapes product data from espguitars.com and generates HTML descriptions.
 
 Usage:
-    python esp_guitar_scraper.py input.csv output.csv
+    python esp_guitar_scraper_v3.py input.csv output.csv
 
 Requirements:
     pip install requests beautifulsoup4 pandas tqdm
@@ -82,27 +81,112 @@ class ESPScraper:
         })
         self.base_url = "https://www.espguitars.com"
     
-    def search_product(self, search_term):
-        """Search for a product on ESP website"""
-        try:
-            url = f"{self.base_url}/search?q={requests.utils.quote(search_term)}&type=products"
-            resp = self.session.get(url, timeout=30)
-            resp.raise_for_status()
+    def create_search_terms(self, name):
+        """Create multiple search terms from product name"""
+        # Remove brand prefix
+        clean = name
+        for prefix in ['ESP ORIGINAL ', 'ESP ', 'E-II ', 'LTD ']:
+            if clean.startswith(prefix):
+                clean = clean[len(prefix):]
+                break
+        
+        # Remove common suffixes
+        for suffix in [' Original Series', ' Series', ' Guitars', ' Guitar']:
+            clean = clean.replace(suffix, '')
+        
+        # Get model name (first word usually)
+        parts = clean.split()
+        model = parts[0] if parts else clean
+        
+        # Create variations
+        terms = [
+            clean,  # Full clean name
+            model,  # Just model name
+            ' '.join(parts[:2]) if len(parts) >= 2 else model,  # Model + variant
+            ' '.join(parts[:3]) if len(parts) >= 3 else clean,  # Model + 2 words
+        ]
+        
+        return list(dict.fromkeys(terms))  # Remove duplicates
+    
+    def search_product(self, name, brand):
+        """Search for a product using multiple strategies"""
+        search_terms = self.create_search_terms(name)
+        
+        for term in search_terms:
+            # Try ESP's search
+            url = f"{self.base_url}/search?q={requests.utils.quote(term)}&type=products"
+            try:
+                resp = self.session.get(url, timeout=30)
+                resp.raise_for_status()
+                
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                
+                # Find product links
+                for a in soup.find_all('a', href=True):
+                    href = a['href']
+                    if '/products/' in href and not href.endswith('/products') and 'search' not in href and 'categories' not in href:
+                        # Skip cases, bags, basses
+                        if any(x in href.lower() for x in ['case', 'bag', 'bass', '-ta-', 'tom-araya']):
+                            continue
+                        if not href.startswith('http'):
+                            href = self.base_url + href
+                        logger.info(f"Found: {href} for term '{term}'")
+                        return href
+                
+            except Exception as e:
+                logger.debug(f"Search error for '{term}': {e}")
+                continue
             
-            soup = BeautifulSoup(resp.text, 'html.parser')
-            
-            # Find product links
-            for a in soup.find_all('a', href=True):
-                href = a['href']
-                if '/products/' in href and not href.endswith('/products') and 'search' not in href:
-                    if not href.startswith('http'):
-                        href = self.base_url + href
-                    return href
-            
-            return None
-        except Exception as e:
-            logger.error(f"Search error for '{search_term}': {e}")
-            return None
+            time.sleep(0.5)  # Small delay between searches
+        
+        # Try direct URL guessing based on common patterns
+        model_slug = self.guess_url_slug(name, brand)
+        if model_slug:
+            test_url = f"{self.base_url}/products/{model_slug}"
+            try:
+                resp = self.session.head(test_url, timeout=10, allow_redirects=True)
+                if resp.status_code == 200:
+                    logger.info(f"Found via URL guess: {test_url}")
+                    return test_url
+            except:
+                pass
+        
+        return None
+    
+    def guess_url_slug(self, name, brand):
+        """Try to guess the URL slug"""
+        # ESP ORIGINAL FRX LIQUID METAL SILVER -> esp-frx-lms
+        # E-II ECLIPSE BB BLKS -> e-ii-eclipse-bb-blks
+        
+        clean = name.lower()
+        for prefix in ['original ', 'series']:
+            clean = clean.replace(prefix, '')
+        
+        # Common abbreviations
+        abbreviations = {
+            'liquid metal silver': 'lms',
+            'liquid metal': 'lm',
+            'black satin': 'blks',
+            'see thru black': 'stblk',
+            'vintage black': 'vb',
+            'snow white': 'sw',
+            'reindeer blue': 'rdb',
+            'charcoal metallic satin': 'chms',
+            'black turquoise burst': 'btb',
+            'purple natural fade': 'pnf',
+        }
+        
+        for full, abbr in abbreviations.items():
+            if full in clean:
+                clean = clean.replace(full, abbr)
+        
+        # Build slug
+        parts = clean.split()
+        slug = '-'.join(parts[:4])  # Take first 4 parts
+        slug = re.sub(r'[^a-z0-9-]', '', slug)
+        slug = re.sub(r'-+', '-', slug)
+        
+        return slug if len(slug) > 3 else None
     
     def fetch_product_page(self, url):
         """Fetch product page HTML"""
@@ -246,16 +330,10 @@ class ESPScraper:
     
     def process_product(self, sku, brand, original_name):
         """Process a single product"""
-        # Create search term from original name
-        search_term = original_name.replace(brand, '').strip()
-        # Remove common suffixes
-        for suffix in ['Series Guitars', 'Guitars', 'Series']:
-            search_term = search_term.replace(suffix, '').strip()
-        
-        logger.info(f"Processing: {original_name} -> searching: {search_term}")
+        logger.info(f"Processing: {original_name}")
         
         # Search for product
-        product_url = self.search_product(search_term)
+        product_url = self.search_product(original_name, brand)
         if not product_url:
             logger.warning(f"Not found: {original_name}")
             return None
@@ -290,7 +368,7 @@ def filter_guitars(df):
         'Case', 'CASE', 'Bag', 'BAG', 'GIG', 'Picks', 'Pick', 'Logo', 
         'T Shirt', 'Strap', 'Bass', 'BASS', 'FL-', 'STREAM-', 'B-20', 
         'B-10', 'SURVEYOR', 'Form Fit', 'Tombstone', 'Set A', 'Preamp',
-        'MM-04', 'Booster', 'AP-', 'Basses'
+        'MM-04', 'Booster', 'AP-', 'Basses', 'TA-204', 'TA-604', 'TOM ARAYA'
     ]
     
     pattern = '|'.join(exclude_patterns)
@@ -307,11 +385,11 @@ def extract_brand(name):
         return 'E-II'
     elif name.startswith('LTD '):
         return 'LTD'
-    return 'LTD'
+    return 'ESP'
 
 
 def main():
-    parser = argparse.ArgumentParser(description='ESP Guitar Scraper')
+    parser = argparse.ArgumentParser(description='ESP Guitar Scraper v3')
     parser.add_argument('input_csv', help='Input CSV file with products')
     parser.add_argument('output_csv', help='Output CSV file')
     parser.add_argument('--limit', type=int, default=0, help='Limit number of products (0 = all)')

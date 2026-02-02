@@ -45,7 +45,7 @@ jobs:
           python -u musictrade.py || echo "musictrade failed"
 
           echo "=== Rockster ==="
-          python -u rockster.py || echo "rockster failed"
+          python -u rockster.py || echo "Rockster failed"
 
       - name: Commit and Push CSV files
         run: |

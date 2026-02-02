@@ -1,9 +1,9 @@
 name: Music Scrapers Suite
 
 on:
-  workflow_dispatch: # Tlačidlo na manuálne spustenie
+  workflow_dispatch:
   # schedule:
-  #   - cron: '0 2 * * *' # Voliteľné: Spustenie každú noc o 02:00
+  #   - cron: '0 6 * * *'  # Denne o 6:00 UTC
 
 jobs:
   run-scrapers:
@@ -12,48 +12,52 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout kód
+      - name: Checkout kod
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          pip install pandas requests beautifulsoup4 lxml
+        run: pip install -r requirements.txt
 
       - name: Run All Scrapers
         run: |
-          echo "Spúšťam 3dmx..."
-          python -u 3dmx.py
-          echo "Spúšťam Alexim..."
-          python -u Alexim.py
-          echo "Spúšťam eprodance..."
-          python -u eprodance.py
-          echo "Spúšťam imusic..."
-          python -u imusic.py
-          echo "Spúšťam musicpark..."
-          python -u musicpark.py
-          echo "Spúšťam musictrade..."
-          python -u musictrade.py
-          echo "Spúšťam Rockster..."
-          python -u Rockster.py
+          echo "=== 3DMX ==="
+          python -u 3dmx.py || echo "3dmx failed"
 
-      - name: Save CSV files to repo
+          echo "=== Alexim ==="
+          python -u Alexim.py || echo "Alexim failed"
+
+          echo "=== Eprodance ==="
+          python -u eprodance.py || echo "eprodance failed"
+
+          echo "=== iMusic Network ==="
+          python -u imusic.py || echo "imusic failed"
+
+          echo "=== Music Park ==="
+          python -u musicpark.py || echo "musicpark failed"
+
+          echo "=== Music Trade ==="
+          python -u musictrade.py || echo "musictrade failed"
+
+          echo "=== Rockster ==="
+          python -u rockster.py || echo "Rockster failed"
+
+      - name: Commit and Push CSV files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Pridáme všetky vytvorené alebo upravené CSV súbory
+
           git add *.csv
-          
-          # Commit a push len ak nastali zmeny
+
           if git diff --staged --quiet; then
-            echo "Žiadne zmeny v CSV súboroch."
+            echo "Ziadne zmeny v CSV suboroch."
           else
-            git commit -m "Auto-update feeds: $(date +'%Y-%m-%d %H:%M')"
+            git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
             git pull --rebase origin main
             git push origin main
           fi

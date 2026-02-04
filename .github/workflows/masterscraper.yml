@@ -1,4 +1,4 @@
-name: Music Scrapers Suite
+name: TTT
 
 on:
   workflow_dispatch:

@@ -363,13 +363,22 @@ async function previewCsv() {
     const qtyCol = $('#f-col-qty').value;
     const nameCol = $('#f-col-name').value;
 
+    const matchVal = $('#f-match').value;
+    const matchLabels = { 'old_shop_sku': 'Identifier', 'sku': 'SKU', 'model': 'Model', 'ean': 'EAN' };
+    const idLabel = matchLabels[matchVal] || 'Identifier';
+
     let html = `<div class="panel">
       <h2>CSV Preview <span style="font-size:14px;color:#999;">(${csvPreviewData.totalRows} rows total, showing first 20)</span></h2>
+      <p class="click-hint">💡 Click a column header to assign it as <strong>${esc(idLabel)}</strong>, <strong>Quantity</strong>, or <strong>Name</strong></p>
       <div class="csv-preview"><table><thead><tr><th class="row-num">#</th>`;
 
     for (const h of csvPreviewData.headers) {
-      const isMapped = (h === skuCol || h === qtyCol || h === nameCol);
-      html += `<th class="${isMapped ? 'mapped' : ''}">${esc(h)}${isMapped ? ' ✓' : ''}</th>`;
+      let mappedAs = '';
+      if (h === skuCol) mappedAs = idLabel;
+      else if (h === qtyCol) mappedAs = 'Qty';
+      else if (h === nameCol) mappedAs = 'Name';
+      const isMapped = mappedAs !== '';
+      html += `<th class="${isMapped ? 'mapped' : 'clickable-col'}" data-col="${esc(h)}">${esc(h)}${isMapped ? ' ✓ ' + mappedAs : ''}</th>`;
     }
     html += '</tr></thead><tbody>';
 
@@ -383,6 +392,36 @@ async function previewCsv() {
 
     html += '</tbody></table></div></div>';
     container.innerHTML = html;
+
+    // Click column headers to assign
+    container.querySelectorAll('th[data-col]').forEach(th => {
+      th.addEventListener('click', () => {
+        const col = th.dataset.col;
+        const assignOptions = [
+          { label: idLabel + ' Column', target: '#f-col-sku' },
+          { label: 'Quantity Column', target: '#f-col-qty' },
+          { label: 'Name Column', target: '#f-col-name' }
+        ];
+        // Simple popup: cycle through or use prompt
+        const current = [];
+        if ($('#f-col-sku').value === col) current.push(idLabel);
+        if ($('#f-col-qty').value === col) current.push('Qty');
+        if ($('#f-col-name').value === col) current.push('Name');
+
+        const choice = prompt(
+          'Assign column "' + col + '" as:\\n' +
+          '1 = ' + idLabel + ' column\\n' +
+          '2 = Quantity column\\n' +
+          '3 = Name column\\n' +
+          (current.length ? '(Currently: ' + current.join(', ') + ')' : ''),
+          '1'
+        );
+        if (choice === '1') { $('#f-col-sku').value = col; toast('"' + col + '" → ' + idLabel, 'success'); }
+        else if (choice === '2') { $('#f-col-qty').value = col; toast('"' + col + '" → Quantity', 'success'); }
+        else if (choice === '3') { $('#f-col-name').value = col; toast('"' + col + '" → Name', 'success'); }
+        if (choice) previewCsv(); // refresh to update highlights
+      });
+    });
 
     // Auto-fill column names if they're in the CSV
     if (csvPreviewData.headers.length > 0) {

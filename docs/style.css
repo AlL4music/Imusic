@@ -281,6 +281,12 @@ body {
 
 .back-link:hover { text-decoration: underline; }
 
+.click-hint {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 8px;
+}
+
 /* CSV Preview Table */
 .csv-preview {
   margin-top: 16px;
@@ -304,6 +310,15 @@ body {
 
 .csv-preview th.mapped {
   background: #4ecdc4;
+}
+
+.csv-preview th.clickable-col {
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.csv-preview th.clickable-col:hover {
+  background: #2a2a5e;
 }
 
 .csv-preview td {

@@ -5,8 +5,7 @@
   "delimiter": ",",
   "columns": {
     "sku": "Product Code",
-    "quantity": "Availability",
-    "name": ""
+    "quantity": "Availability"
   },
   "match_by": "model",
   "warehouse_id": 2

@@ -5,8 +5,7 @@
   "delimiter": ";",
   "columns": {
     "sku": "SKU",
-    "quantity": "Pocet_ks",
-    "name": "Nazov"
+    "quantity": "Pocet_ks"
   },
   "match_by": "old_shop_sku",
   "warehouse_id": 2

@@ -187,7 +187,7 @@ function renderFeedList(container) {
         enabled: true,
         csv_url: '',
         delimiter: ';',
-        columns: { sku: 'SKU', quantity: 'Pocet_ks', name: 'Nazov' },
+        columns: { sku: 'SKU', quantity: 'Pocet_ks' },
         match_by: 'old_shop_sku',
         warehouse_id: 2
       };
@@ -276,11 +276,6 @@ function renderFeedEdit(container) {
       </div>
 
       <div class="form-row">
-        <label>Name Column</label>
-        <input type="text" id="f-col-name" value="${esc(f.columns?.name || 'Nazov')}" placeholder="Column name for product name">
-      </div>
-
-      <div class="form-row">
         <label>Warehouse ID</label>
         <select id="f-warehouse">
           <option value="1" ${f.warehouse_id == 1 ? 'selected' : ''}>1 - All4music predajňa (Skladom)</option>
@@ -361,7 +356,6 @@ async function previewCsv() {
     csvPreviewData = await fetchCsvPreview(url, delimiter, 20);
     const skuCol = $('#f-col-sku').value;
     const qtyCol = $('#f-col-qty').value;
-    const nameCol = $('#f-col-name').value;
 
     const matchVal = $('#f-match').value;
     const matchLabels = { 'old_shop_sku': 'Identifier', 'sku': 'SKU', 'model': 'Model', 'ean': 'EAN' };
@@ -369,14 +363,13 @@ async function previewCsv() {
 
     let html = `<div class="panel">
       <h2>CSV Preview <span style="font-size:14px;color:#999;">(${csvPreviewData.totalRows} rows total, showing first 20)</span></h2>
-      <p class="click-hint">💡 Click a column header to assign it as <strong>${esc(idLabel)}</strong>, <strong>Quantity</strong>, or <strong>Name</strong></p>
+      <p class="click-hint">💡 Click a column header to assign it as <strong>${esc(idLabel)}</strong> or <strong>Quantity</strong></p>
       <div class="csv-preview"><table><thead><tr><th class="row-num">#</th>`;
 
     for (const h of csvPreviewData.headers) {
       let mappedAs = '';
       if (h === skuCol) mappedAs = idLabel;
       else if (h === qtyCol) mappedAs = 'Qty';
-      else if (h === nameCol) mappedAs = 'Name';
       const isMapped = mappedAs !== '';
       html += `<th class="${isMapped ? 'mapped' : 'clickable-col'}" data-col="${esc(h)}">${esc(h)}${isMapped ? ' ✓ ' + mappedAs : ''}</th>`;
     }
@@ -397,28 +390,19 @@ async function previewCsv() {
     container.querySelectorAll('th[data-col]').forEach(th => {
       th.addEventListener('click', () => {
         const col = th.dataset.col;
-        const assignOptions = [
-          { label: idLabel + ' Column', target: '#f-col-sku' },
-          { label: 'Quantity Column', target: '#f-col-qty' },
-          { label: 'Name Column', target: '#f-col-name' }
-        ];
-        // Simple popup: cycle through or use prompt
         const current = [];
         if ($('#f-col-sku').value === col) current.push(idLabel);
         if ($('#f-col-qty').value === col) current.push('Qty');
-        if ($('#f-col-name').value === col) current.push('Name');
 
         const choice = prompt(
           'Assign column "' + col + '" as:\\n' +
           '1 = ' + idLabel + ' column\\n' +
           '2 = Quantity column\\n' +
-          '3 = Name column\\n' +
           (current.length ? '(Currently: ' + current.join(', ') + ')' : ''),
           '1'
         );
         if (choice === '1') { $('#f-col-sku').value = col; toast('"' + col + '" → ' + idLabel, 'success'); }
         else if (choice === '2') { $('#f-col-qty').value = col; toast('"' + col + '" → Quantity', 'success'); }
-        else if (choice === '3') { $('#f-col-name').value = col; toast('"' + col + '" → Name', 'success'); }
         if (choice) previewCsv(); // refresh to update highlights
       });
     });
@@ -434,10 +418,6 @@ async function previewCsv() {
       if (!headers.includes($('#f-col-qty').value)) {
         const qtyGuess = headers.find(h => h.toLowerCase().includes('pocet') || h.toLowerCase().includes('qty') || h.toLowerCase().includes('quantity') || h.toLowerCase().includes('stock'));
         if (qtyGuess) $('#f-col-qty').value = qtyGuess;
-      }
-      if (!headers.includes($('#f-col-name').value)) {
-        const nameGuess = headers.find(h => h.toLowerCase().includes('nazov') || h.toLowerCase().includes('name') || h.toLowerCase().includes('title'));
-        if (nameGuess) $('#f-col-name').value = nameGuess;
       }
     }
   } catch (err) {
@@ -456,8 +436,7 @@ async function saveFeed() {
     delimiter: $('#f-delimiter').value,
     columns: {
       sku: $('#f-col-sku').value.trim(),
-      quantity: $('#f-col-qty').value.trim(),
-      name: $('#f-col-name').value.trim()
+      quantity: $('#f-col-qty').value.trim()
     },
     match_by: $('#f-match').value,
     warehouse_id: parseInt($('#f-warehouse').value)

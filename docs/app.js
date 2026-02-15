@@ -188,7 +188,7 @@ function renderFeedList(container) {
         csv_url: '',
         delimiter: ';',
         columns: { sku: 'SKU', quantity: 'Pocet_ks', name: 'Nazov' },
-        match_by: 'sku',
+        match_by: 'old_shop_sku',
         warehouse_id: 2
       };
       currentFeedSha = null;
@@ -269,13 +269,15 @@ function renderFeedEdit(container) {
         <input type="text" id="f-col-name" value="${esc(f.columns?.name || 'Nazov')}" placeholder="Column name for product name">
       </div>
 
-      <div class="form-row">
-        <label>Match By</label>
+      <div class="form-row highlight-row">
+        <label>Match By <span class="label-hint">(how to find products in new shop)</span></label>
         <select id="f-match">
-          <option value="sku" ${f.match_by === 'sku' ? 'selected' : ''}>SKU (oc_product.sku)</option>
-          <option value="model" ${f.match_by === 'model' ? 'selected' : ''}>Model (oc_product.model)</option>
-          <option value="ean" ${f.match_by === 'ean' ? 'selected' : ''}>EAN (oc_product.ean)</option>
+          <option value="old_shop_sku" ${f.match_by === 'old_shop_sku' ? 'selected' : ''}>🔗 Via Old Shop SKU → Model (recommended for supplier feeds)</option>
+          <option value="sku" ${f.match_by === 'sku' ? 'selected' : ''}>SKU — match directly by new shop SKU</option>
+          <option value="model" ${f.match_by === 'model' ? 'selected' : ''}>Model — match directly by new shop Model</option>
+          <option value="ean" ${f.match_by === 'ean' ? 'selected' : ''}>EAN — match directly by new shop EAN barcode</option>
         </select>
+        <p class="field-help" id="match-help"></p>
       </div>
 
       <div class="form-row">
@@ -309,6 +311,21 @@ function renderFeedEdit(container) {
 
   $('#btn-preview').addEventListener('click', previewCsv);
   $('#btn-save').addEventListener('click', saveFeed);
+
+  // Match help text
+  function updateMatchHelp() {
+    const help = $('#match-help');
+    const val = $('#f-match').value;
+    const hints = {
+      'old_shop_sku': 'Feed SKU column → look up in old shop SKU → get model → find in new shop by model. Best for supplier feeds with numeric codes.',
+      'sku': 'Feed SKU column is matched directly against oc_product.sku in the new shop.',
+      'model': 'Feed SKU column is matched directly against oc_product.model in the new shop.',
+      'ean': 'Feed SKU column is matched directly against oc_product.ean in the new shop.'
+    };
+    help.textContent = hints[val] || '';
+  }
+  $('#f-match').addEventListener('change', updateMatchHelp);
+  updateMatchHelp();
 
   if (!isNew) {
     $('#btn-delete').addEventListener('click', deleteFeed);

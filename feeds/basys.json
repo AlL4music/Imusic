@@ -8,6 +8,6 @@
     "quantity": "Pocet_ks",
     "name": "Nazov"
   },
-  "match_by": "sku",
+  "match_by": "old_shop_sku",
   "warehouse_id": 2
 }

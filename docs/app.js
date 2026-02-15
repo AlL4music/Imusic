@@ -254,9 +254,20 @@ function renderFeedEdit(container) {
         </select>
       </div>
 
+      <div class="form-row highlight-row">
+        <label>Match By <span class="label-hint">(how to find products in new shop)</span></label>
+        <select id="f-match">
+          <option value="old_shop_sku" ${f.match_by === 'old_shop_sku' ? 'selected' : ''}>🔗 Via Old Shop SKU → Model (recommended for supplier feeds)</option>
+          <option value="sku" ${f.match_by === 'sku' ? 'selected' : ''}>SKU — match directly by new shop SKU</option>
+          <option value="model" ${f.match_by === 'model' ? 'selected' : ''}>Model — match directly by new shop Model</option>
+          <option value="ean" ${f.match_by === 'ean' ? 'selected' : ''}>EAN — match directly by new shop EAN barcode</option>
+        </select>
+        <p class="field-help" id="match-help"></p>
+      </div>
+
       <div class="form-row">
-        <label>SKU Column</label>
-        <input type="text" id="f-col-sku" value="${esc(f.columns?.sku || 'SKU')}" placeholder="Column name for SKU">
+        <label id="lbl-col-sku">Identifier Column</label>
+        <input type="text" id="f-col-sku" value="${esc(f.columns?.sku || 'SKU')}" placeholder="Column name in CSV">
       </div>
 
       <div class="form-row">
@@ -267,17 +278,6 @@ function renderFeedEdit(container) {
       <div class="form-row">
         <label>Name Column</label>
         <input type="text" id="f-col-name" value="${esc(f.columns?.name || 'Nazov')}" placeholder="Column name for product name">
-      </div>
-
-      <div class="form-row highlight-row">
-        <label>Match By <span class="label-hint">(how to find products in new shop)</span></label>
-        <select id="f-match">
-          <option value="old_shop_sku" ${f.match_by === 'old_shop_sku' ? 'selected' : ''}>🔗 Via Old Shop SKU → Model (recommended for supplier feeds)</option>
-          <option value="sku" ${f.match_by === 'sku' ? 'selected' : ''}>SKU — match directly by new shop SKU</option>
-          <option value="model" ${f.match_by === 'model' ? 'selected' : ''}>Model — match directly by new shop Model</option>
-          <option value="ean" ${f.match_by === 'ean' ? 'selected' : ''}>EAN — match directly by new shop EAN barcode</option>
-        </select>
-        <p class="field-help" id="match-help"></p>
       </div>
 
       <div class="form-row">
@@ -312,17 +312,25 @@ function renderFeedEdit(container) {
   $('#btn-preview').addEventListener('click', previewCsv);
   $('#btn-save').addEventListener('click', saveFeed);
 
-  // Match help text
+  // Match help text + dynamic label
   function updateMatchHelp() {
     const help = $('#match-help');
+    const label = $('#lbl-col-sku');
     const val = $('#f-match').value;
     const hints = {
-      'old_shop_sku': 'Feed SKU column → look up in old shop SKU → get model → find in new shop by model. Best for supplier feeds with numeric codes.',
-      'sku': 'Feed SKU column is matched directly against oc_product.sku in the new shop.',
-      'model': 'Feed SKU column is matched directly against oc_product.model in the new shop.',
-      'ean': 'Feed SKU column is matched directly against oc_product.ean in the new shop.'
+      'old_shop_sku': 'CSV column value → look up in old shop SKU → get model → find in new shop by model. Best for supplier feeds with numeric codes.',
+      'sku': 'CSV column value is matched directly against oc_product.sku in the new shop.',
+      'model': 'CSV column value is matched directly against oc_product.model in the new shop.',
+      'ean': 'CSV column value is matched directly against oc_product.ean in the new shop.'
+    };
+    const labels = {
+      'old_shop_sku': 'SKU Column (old shop code)',
+      'sku': 'SKU Column',
+      'model': 'Model Column',
+      'ean': 'EAN Column'
     };
     help.textContent = hints[val] || '';
+    label.textContent = labels[val] || 'Identifier Column';
   }
   $('#f-match').addEventListener('change', updateMatchHelp);
   updateMatchHelp();

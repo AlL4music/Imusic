@@ -4,7 +4,7 @@ Downloads the Muziker B2B CSV feed and saves a clean copy
 with only the columns needed for stock import.
 
 Output: muziker_sklad.csv (semicolon-delimited)
-Columns: EAN;Code;StockQTY
+Columns: Code;EAN;SKU;StockQTY
 """
 
 import csv
@@ -47,8 +47,9 @@ def process_csv(csv_text):
 
     for row in reader:
         total += 1
-        ean = (row.get("EAN") or "").strip()
         code = (row.get("Code") or "").strip()
+        ean = (row.get("EAN") or "").strip()
+        sku = (row.get("SKU") or "").strip()
         qty_str = (row.get("StockQTY") or "0").strip()
 
         try:
@@ -59,12 +60,13 @@ def process_csv(csv_text):
         if qty > 0:
             in_stock += 1
 
-        if not ean:
+        if not code and not ean:
             continue
 
         rows.append({
-            "EAN": ean,
             "Code": code,
+            "EAN": ean,
+            "SKU": sku,
             "StockQTY": qty
         })
 
@@ -77,7 +79,7 @@ def write_csv(rows, output_file):
     with open(output_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["EAN", "Code", "StockQTY"],
+            fieldnames=["Code", "EAN", "SKU", "StockQTY"],
             delimiter=";",
             quoting=csv.QUOTE_MINIMAL
         )

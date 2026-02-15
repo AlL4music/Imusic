@@ -6,7 +6,7 @@ compatible with the feed import system.
 Note: PMC XML is UTF-16 encoded.
 
 Output: pmc_sklad.csv (semicolon-delimited)
-Columns: EAN;ITEM_ID;Availability
+Columns: ITEM_ID;EAN;Availability
 """
 
 import csv
@@ -72,15 +72,17 @@ def parse_xml_to_rows(xml_bytes):
 
         if not ean:
             no_ean += 1
+
+        if not item_id:
             continue
 
         rows.append({
-            "EAN": ean,
             "ITEM_ID": item_id,
+            "EAN": ean,
             "Availability": availability
         })
 
-    print(f"Parsed: {total} items, {in_stock} in stock, {no_ean} without EAN (skipped)")
+    print(f"Parsed: {total} items, {in_stock} in stock, {no_ean} without EAN")
     return rows
 
 
@@ -89,7 +91,7 @@ def write_csv(rows, output_file):
     with open(output_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["EAN", "ITEM_ID", "Availability"],
+            fieldnames=["ITEM_ID", "EAN", "Availability"],
             delimiter=";",
             quoting=csv.QUOTE_MINIMAL
         )
@@ -109,7 +111,8 @@ def main():
     write_csv(rows, OUTPUT_FILE)
 
     with_stock = sum(1 for r in rows if r["Availability"] > 0)
-    print(f"\nDone! {len(rows)} products (with EAN), {with_stock} in stock")
+    with_ean = sum(1 for r in rows if r["EAN"])
+    print(f"\nDone! {len(rows)} products, {with_ean} with EAN, {with_stock} in stock")
 
 
 if __name__ == "__main__":

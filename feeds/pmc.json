@@ -4,9 +4,10 @@
   "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/pmc_sklad.csv",
   "delimiter": ";",
   "columns": {
-    "sku": "EAN",
-    "quantity": "Availability"
+    "sku": "Productname",
+    "quantity": "Availability",
+    "name": "PRODUCTNAME"
   },
-  "match_by": "ean",
+  "match_by": "model",
   "warehouse_id": 2
 }

@@ -2,8 +2,8 @@ name: TTT
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 6 * * *'  # Denne o 6:00 UTC
+   schedule:
+     - cron: '0 6 * * *'  # Denne o 6:00 UTC
 
 jobs:
   run-scrapers:

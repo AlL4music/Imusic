@@ -1,0 +1,13 @@
+{
+  "name": "Kytary",
+  "enabled": true,
+  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/kytary_sklad.csv",
+  "delimiter": ";",
+  "columns": {
+    "sku": "ProductCode",
+    "quantity": "AvailableVolume",
+    "name": "ProductName"
+  },
+  "match_by": "old_shop_sku",
+  "warehouse_id": 2
+}

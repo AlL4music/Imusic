@@ -1,0 +1,36 @@
+name: Kytary B2B Feed
+
+on:
+  workflow_dispatch: # Manual trigger button
+  schedule:
+    - cron: '0 5 * * *' # Daily at 5:00 AM UTC
+
+jobs:
+  fetch-feed:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: 1
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch Kytary XML and convert to CSV
+        run: python kytary.py
+
+      - name: Commit and Push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add kytary_sklad.csv
+          git diff --staged --quiet || git commit -m "Update Kytary feed: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

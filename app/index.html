@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All4music - Feed Import Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header">
+    <h1><span>All4music</span> Feed Import Manager</h1>
+    <div class="auth-bar">
+      <input type="password" id="token-input" placeholder="GitHub Personal Access Token">
+      <span class="status" id="auth-status">Not connected</span>
+    </div>
+  </div>
+
+  <div class="container" id="app">
+    <div class="loading"><div class="spinner"></div><p>Loading...</p></div>
+  </div>
+
+  <script src="lib/papaparse.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

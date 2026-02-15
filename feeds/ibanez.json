@@ -6,7 +6,7 @@
   "columns": {
     "sku": "Product Code",
     "quantity": "Availability",
-    "name": "Nazov"
+    "name": ""
   },
   "match_by": "model",
   "warehouse_id": 2

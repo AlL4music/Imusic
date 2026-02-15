@@ -38,6 +38,9 @@ jobs:
           echo "=== iMusic Network ==="
           python -u imusic.py || echo "imusic failed"
 
+          echo "=== Kytary ==="
+          python -u kytary.py || echo "kytary failed"
+
           echo "=== Music Park ==="
           python -u musicpark.py || echo "musicpark failed"
 
@@ -61,3 +64,10 @@ jobs:
             git pull --rebase origin main
             git push origin main
           fi
+
+      - name: Trigger DB Import (both shops)
+        run: |
+          echo "=== Waiting 60s for GitHub CDN cache ==="
+          sleep 60
+          echo "=== Triggering cron feed import ==="
+          curl -s "https://new.all4music.sk/cron_feed_import.php?key=a4m_feed_2026_x7kP9mQ"

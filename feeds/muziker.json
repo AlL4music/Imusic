@@ -4,9 +4,10 @@
   "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/muziker_sklad.csv",
   "delimiter": ";",
   "columns": {
-    "sku": "EAN",
-    "quantity": "StockQTY"
+    "sku": "Code",
+    "quantity": "StockQTY",
+    "name": "Nazov"
   },
-  "match_by": "ean",
+  "match_by": "model",
   "warehouse_id": 2
 }

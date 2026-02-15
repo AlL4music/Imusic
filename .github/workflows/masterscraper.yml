@@ -44,6 +44,9 @@ jobs:
           echo "=== Music Park ==="
           python -u musicpark.py || echo "musicpark failed"
 
+          echo "=== Muziker ==="
+          python -u muziker.py || echo "muziker failed"
+
           echo "=== PMC ==="
           python -u pmc.py || echo "pmc failed"
 

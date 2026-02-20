@@ -67,7 +67,7 @@
 77142.01;EMG 40P snímač;1;https://www.alexim.cz/emg-40p-snimac
 77143.01;EMG 45P snímač;1;https://www.alexim.cz/emg-45p-snimac
 7710.01;EMG 35J snímač;1;https://www.alexim.cz/emg-35j-snimac
-7715.01;EMG 40J snímač;1;https://www.alexim.cz/emg-40j-snimac
+7715.01;EMG 40J snímač;0;https://www.alexim.cz/emg-40j-snimac
 77152.01;EMG 45J snímač;1;https://www.alexim.cz/emg-45j-snimac
 7746.01;EMG 35CS snímač baskytara;1;https://www.alexim.cz/emg-35cs-snimac-baskytara
 77461.01;EMG 40CS snímač;1;https://www.alexim.cz/emg-40cs-snimac
@@ -90,7 +90,7 @@
 7753.01;EMG VMC;0;https://www.alexim.cz/emg-vmc
 77531.01;EMG B64EQ;0;https://www.alexim.cz/emg-b64eq
 77532.01;EMG B30EQ;0;https://www.alexim.cz/emg-b30eq
-77172.01;EMG BTC  Control;1;https://www.alexim.cz/emg-btc-control
+77172.01;EMG BTC  Control;0;https://www.alexim.cz/emg-btc-control
 77162.01;EMG BTS  Control;1;https://www.alexim.cz/emg-bts-control
 77163.01;EMG BTC  System;1;https://www.alexim.cz/emg-btc-system
 77173.01;EMG BTS  System;1;https://www.alexim.cz/emg-bts-system
@@ -132,7 +132,7 @@
 5022.01;Martinez MCG-70S  650mm;0;https://www.alexim.cz/martinez-mcg-70s-650mm
 040412.01;Casio CTK-1150;0;https://www.alexim.cz/casio-ctk-1150
 10470.01;Dunlop Nylon 0.46;1;https://www.alexim.cz/dunlop-nylon-0-46
-104701.01;Dunlop Nylon 0.60;0;https://www.alexim.cz/dunlop-nylon-0-60
+104701.01;Dunlop Nylon 0.60;1;https://www.alexim.cz/dunlop-nylon-0-60
 104702.01;Dunlop Nylon 0.73;1;https://www.alexim.cz/dunlop-nylon-0-73
 104703.01;Dunlop Nylon 0.88;1;https://www.alexim.cz/dunlop-nylon-0-88
 104704.01;Dunlop Nylon 1.00;1;https://www.alexim.cz/dunlop-nylon-1-00
@@ -364,6 +364,127 @@
 067821.01;Gotoh 404BO-4 CK  4string;0;https://www.alexim.cz/gotoh-404bo-4-ck-4string
 06782.01;Gotoh 404BO-4 GD  4string;1;https://www.alexim.cz/gotoh-404bo-4-gd-4string
 060050.01;Gotoh SG301-01 CR;1;https://www.alexim.cz/gotoh-sg301-01-cr
+77325.01;EMG P  HZ;0;https://www.alexim.cz/emg-p-hz
+77328.01;EMG PJ  HZ  set;0;https://www.alexim.cz/emg-pj-hz-set
+77326.01;EMG MM  HZ;0;https://www.alexim.cz/emg-mm-hz
+7759.01;EMG SEHB;0;https://www.alexim.cz/emg-sehb
+1228.01;Wellton ACN-28;1;https://www.alexim.cz/wellton-acn-28
+77784.01;AER Head one;1;https://www.alexim.cz/aer-head-one
+77785.01;AER Cab one;1;https://www.alexim.cz/aer-cab-one
+777851.01;AER Cab two;1;https://www.alexim.cz/aer-cab-two
+04700.01;L.R.Baggs M1 snímač;1;https://www.alexim.cz/l-r-baggs-m1-snimac
+0470.01;L.R.Baggs M1A  Active snímač;1;https://www.alexim.cz/l-r-baggs-m1a-active-snimac
+0480.01;L.R.Baggs IBEAM snímač;0;https://www.alexim.cz/l-r-baggs-ibeam-snimac
+04800.01;L.R.Baggs IBEAM-C snímač;0;https://www.alexim.cz/l-r-baggs-ibeam-c-snimac
+0481.01;L.R.Baggs LB6 snímač;1;https://www.alexim.cz/l-r-baggs-lb6-snimac
+04810.01;L.R.Baggs LB6X snímač;1;https://www.alexim.cz/l-r-baggs-lb6x-snimac
+04811.01;L.R.Baggs LB12 snímač;1;https://www.alexim.cz/l-r-baggs-lb12-snimac
+0472.01;L.R.Baggs VIO snímač;1;https://www.alexim.cz/l-r-baggs-vio-snimac
+04720.01;L.R.Baggs VIO-NT;0;https://www.alexim.cz/l-r-baggs-vio-nt
+0479.01;L.R.Baggs RADIUS-M snímač;0;https://www.alexim.cz/l-r-baggs-radius-m-snimac
+04711.01;L.R.Baggs EAS active system;1;https://www.alexim.cz/l-r-baggs-eas-active-system
+04712.01;L.R.Baggs EAS-C active system;1;https://www.alexim.cz/l-r-baggs-eas-c-active-system
+0471.01;L.R.Baggs EAS VTC active system;0;https://www.alexim.cz/l-r-baggs-eas-vtc-active-system
+04710.01;L.R.Baggs EAS VTC-N active system;1;https://www.alexim.cz/l-r-baggs-eas-vtc-n-active-system
+04801.01;L.R.Baggs iBeam Active Steel;1;https://www.alexim.cz/l-r-baggs-ibeam-active-steel
+04802.01;L.R.Baggs iBeam-C Active;0;https://www.alexim.cz/l-r-baggs-ibeam-c-active
+04830.01;L.R.Baggs EOS-SM předzesilovač;1;https://www.alexim.cz/l-r-baggs-eos-sm-predzesilovac
+0484.01;L.R.Baggs IMIX snímač,předzesilovač;1;https://www.alexim.cz/l-r-baggs-imix-snimac-predzesilovac
+0478.01;L.R.Baggs DUAL SOURCE;0;https://www.alexim.cz/l-r-baggs-dual-source
+0476.01;L.R.Baggs PARA DI directbox;0;https://www.alexim.cz/l-r-baggs-para-di-directbox
+0477.01;L.R.Baggs MIXPRO předzesilovač;1;https://www.alexim.cz/l-r-baggs-mixpro-predzesilovac
+0487.01;L.R.Baggs CTRL-X předzesilovač;0;https://www.alexim.cz/l-r-baggs-ctrl-x-predzesilovac
+27041.01;LeeHooker Bass 5AL;0;https://www.alexim.cz/leehooker-bass-5al
+17200.01;John Pearse 500XL  ACOUSTIC;1;https://www.alexim.cz/john-pearse-500xl-ak-kytara
+1720.01;John Pearse 550SL  ACOUSTIC;1;https://www.alexim.cz/john-pearse-550sl-ak-kytara
+1721.01;John Pearse 600L  ACOUSTIC;1;https://www.alexim.cz/john-pearse-600l-ak-kytara
+1722.01;John Pearse 700M  ACOUSTIC;1;https://www.alexim.cz/john-pearse-700m-ak-kytara
+1727.01;John Pearse 960L  El.ak.kytara;1;https://www.alexim.cz/john-pearse-960l-el-ak-kytara
+17271.01;John Pearse 980M El.-akustické;1;https://www.alexim.cz/john-pearse-980m-el-akusticke
+1733.01;John Pearse 2400  El.kytara;1;https://www.alexim.cz/john-pearse-2400-el-kytara
+17331.01;John Pearse 2410  El.kytara;1;https://www.alexim.cz/john-pearse-2410-el-kytara
+1734.01;John Pearse 2500  El.kytara;1;https://www.alexim.cz/john-pearse-2500-el-kytara
+17341.01;John Pearse 2510  El.kytara;1;https://www.alexim.cz/john-pearse-2510-el-kytara
+1736.01;John Pearse 2920  Jazz kytara;1;https://www.alexim.cz/john-pearse-2920-jazz-kytara
+1740.01;John Pearse Single 070;1;https://www.alexim.cz/john-pearse-single-070
+17401.01;John Pearse Single 072;1;https://www.alexim.cz/john-pearse-single-072
+1728.01;John Pearse 1800M Banjo;1;https://www.alexim.cz/john-pearse-1800m-banjo
+1729.01;John Pearse 2150M  Mandolin;1;https://www.alexim.cz/john-pearse-2150m-mandolin
+1730.01;John Pearse 2250  Mandola;1;https://www.alexim.cz/john-pearse-2250-mandola
+1745.01;John Pearse Humidifier;1;https://www.alexim.cz/john-pearse-humidifier
+1746.01;John Pearse Sarod Pick Ebony;1;https://www.alexim.cz/john-pearse-sarod-pick-ebony
+0516.01;Shubb C1;1;https://www.alexim.cz/shubb-c1
+05161.01;Shubb C2;0;https://www.alexim.cz/shubb-c2
+05162.01;Shubb C3;1;https://www.alexim.cz/shubb-c3
+05163.01;Shubb C5;1;https://www.alexim.cz/shubb-c5
+70202.01;Kyser KYSER KLHA;0;https://www.alexim.cz/kyser-klha
+27074.01;LeeHooker Screamer Trip v2;1;https://www.alexim.cz/leehooker-screamer-trip
+27076.01;LeeHooker Comp Trip;1;https://www.alexim.cz/leehooker-comp-trip
+0021.01;Shure SM58SE;0;https://www.alexim.cz/shure-sm58se
+0020.01;Shure SM58 LCE;1;https://www.alexim.cz/shure-sm58-lce
+0023.01;Shure SM57 LCE;0;https://www.alexim.cz/shure-sm57-lce
+0025.01;Shure PG57-XLR;0;https://www.alexim.cz/shure-pg57-xlr
+0024.01;Shure PG58 QTR;0;https://www.alexim.cz/shure-pg58-qtr
+00241.01;Shure PG58 XLR;0;https://www.alexim.cz/shure-pg58-xlr
+072007.01;Cordial CBLI 9PP kabel BK;0;https://www.alexim.cz/cordial-cbli-9pp-kabel-bk
+072063.01;Cordial CCI 1.5PP kabel BK;1;https://www.alexim.cz/cordial-cci-1-5pp-kabel-bk
+072064.01;Cordial CCI 3PP kabel BK;1;https://www.alexim.cz/cordial-cci-3pp-kabel-bk
+072062.01;Cordial CCI 6PP kabel BK;1;https://www.alexim.cz/cordial-cci-6pp-kabel-bk
+072065.01;Cordial CCI 9PP kabel BK;0;https://www.alexim.cz/cordial-cci-9pp-kabel-bk
+072030.01;Cordial CCM 10 FM k mikrofonu;0;https://www.alexim.cz/cordial-ccm-10-fm-k-mikrofonu
+07203.01;Cordial CCM 7,5 FM kabel k mikrofonu;0;https://www.alexim.cz/cordial-ccm-7-5-fm-kabel-k-mikrofonu
+072031.01;Cordial CCM 7,5 FP k mikrofonu;0;https://www.alexim.cz/cordial-ccm-7-5-fp-k-mikrofonu
+072020.01;Cordial CFD 0,9AA MIDI BK;0;https://www.alexim.cz/cordial-cfd-0-9aa-midi-bk
+072021.01;Cordial CFI 0,15 RR;0;https://www.alexim.cz/cordial-cfi-0-15-rr
+0720320.01;Cordial CFM 10 FM;0;https://www.alexim.cz/cordial-cfm-10-fm
+072071.01;Cordial CGK 175 kabel BK;0;https://www.alexim.cz/cordial-cgk-175-kabel-bk
+07207.01;Cordial CGK  kabel BK 1m;0;https://www.alexim.cz/cordial-cgk-kabel-bk-1m
+07210.01;Cordial CII 3PP kabel BK 3m;1;https://www.alexim.cz/cordial-cii-3pp-kabel-bk-3m
+072101.01;Cordial CII 6PP kabel BK 6m;0;https://www.alexim.cz/cordial-cii-6pp-kabel-bk-6m
+072033.01;Cordial CIM 7,5 FM;0;https://www.alexim.cz/cordial-cim-7-5-fm
+072034.01;Cordial CIM 7,5 FP;0;https://www.alexim.cz/cordial-cim-7-5-fp
+072032.01;Cordial CPM 10 FM kabel;0;https://www.alexim.cz/cordial-cpm-10-fm-kabel
+07209.01;Cordial CSI 3PP 175 BK 3m;0;https://www.alexim.cz/cordial-csi-3pp-175-bk-3m
+072091.01;Cordial CSI 3PR 175 BK 3m;0;https://www.alexim.cz/cordial-csi-3pr-175-bk-3m
+07208.01;Cordial CSI 3PP 175 BK 6m;0;https://www.alexim.cz/cordial-csi-3pp-175-bk-6m
+072081.01;Cordial CSI 3PR 175 BK 6m;0;https://www.alexim.cz/cordial-csi-3pr-175-bk-6m
+072082.01;Cordial kabel Sp.-Sp. 15m;0;https://www.alexim.cz/cordial-kabel-sp-sp-15m
+0361.01;Fzone FM100 Metronom;1;https://www.alexim.cz/fzone-fm100-metronom
+3611.01;DR B HI-BEAM MR45;0;https://www.alexim.cz/dr-b-hi-beam-mr45
+3617.01;DR E PURE PHR-11;0;https://www.alexim.cz/dr-e-pure-phr-11
+36171.01;DR E PURE PHR-9;0;https://www.alexim.cz/dr-e-pure-phr-9
+36153.01;DR E TITE EH-11;0;https://www.alexim.cz/dr-e-tite-eh-11
+0176.01;DiMarzio D Activator Bridge;0;https://www.alexim.cz/dimarzio-d-activator-bridge
+0174.01;DiMarzio Chopper;0;https://www.alexim.cz/dimarzio-chopper
+0175.01;DiMarzio Cruiser Bridge;0;https://www.alexim.cz/dimarzio-cruiser-bridge
+0170.01;DiMarzio Dual Sound;0;https://www.alexim.cz/dimarzio-dual-sound
+0173.01;DiMarzio EJ Custom Bridge;0;https://www.alexim.cz/dimarzio-ej-custom-bridge
+0171.01;DiMarzio Evolution Bridge;0;https://www.alexim.cz/dimarzio-evolution-bridge
+0172.01;DiMarzio Steve´s Special;0;https://www.alexim.cz/dimarzio-steves-special
+0555.01;GHS FAST FRET;1;https://www.alexim.cz/ghs-fast-fret
+1065.01;D´Addario EJ16 light;0;https://www.alexim.cz/daddario-ej16-light
+10651.01;D´Addario EJ17 medium;1;https://www.alexim.cz/daddario-ej17-medium
+1060.01;D´Addario EXL110;1;https://www.alexim.cz/daddario-exl110
+10601.01;D´Addario EXL110+;0;https://www.alexim.cz/daddario-exl110-1
+10602.01;D´Addario EXL115;0;https://www.alexim.cz/daddario-exl115
+1061.01;D´Addario EXL120;0;https://www.alexim.cz/daddario-exl120
+10611.01;D´Addario EXL125;0;https://www.alexim.cz/daddario-exl125
+1062.01;D´Addario EXL140;0;https://www.alexim.cz/daddario-exl140
+1063.01;D´Addario XL157;0;https://www.alexim.cz/daddario-xl157
+29021.01;Grand Master Crash Medium Thin;1;https://www.alexim.cz/grand-master-crash-medium-thin
+212500.01;GEWA GIG BAG Economy bass gt.;0;https://www.alexim.cz/gewa-gig-bag-economy-bass-gt
+212100.01;GEWA GIG BAG Economy classic;0;https://www.alexim.cz/gewa-gig-bag-economy-classic
+212400.01;GEWA GIG BAG Economy el. gt.;0;https://www.alexim.cz/gewa-gig-bag-economy-el-gt
+212200.01;GEWA GIG BAG Economy western;1;https://www.alexim.cz/gewa-gig-bag-economy-western
+070075.01;Proel HPC 110 BK metráž;0;https://www.alexim.cz/proel-hpc-110-bk-metraz
+07171.01;Proel INT 130 vypínač;0;https://www.alexim.cz/proel-int-130-vypinac
+071602.01;Proel PFS20;0;https://www.alexim.cz/proel-pfs20
+071601.01;Proel PSF24;0;https://www.alexim.cz/proel-psf24
+07051.01;Proel PP300;0;https://www.alexim.cz/proel-pp300
+0705.01;Proel PP310;0;https://www.alexim.cz/proel-pp310
+77004.01;EMG 81TW BK;1;https://www.alexim.cz/emg-81tw-bk
+770721.01;EMG LJ;0;https://www.alexim.cz/emg-lj
+77382.01;EMG MM5TW;1;https://www.alexim.cz/emg-mm5tw
 06510.01;Gotoh RG-15 Srážeč strun;1;https://www.alexim.cz/gotoh-rg-15-srazec-strun
 065101.01;Gotoh RG-15 Srážeč strun;0;https://www.alexim.cz/gotoh-rg-15-srazec-strun-1
 065103.01;Gotoh RG-30 Srážeč strun;1;https://www.alexim.cz/gotoh-rg-30-srazec-strun
@@ -484,127 +605,6 @@
 0535.01;Knobloch Actives Strings Carbon C.X. 400ADC Double Silver;1;https://www.alexim.cz/knobloch-actives-strings-carbon-c-x-treble-400adc
 2834.01;EBS VDI;1;https://www.alexim.cz/ebs-vdi
 2835.01;EBS WHA;1;https://www.alexim.cz/ebs-wha
-77325.01;EMG P  HZ;0;https://www.alexim.cz/emg-p-hz
-77328.01;EMG PJ  HZ  set;0;https://www.alexim.cz/emg-pj-hz-set
-77326.01;EMG MM  HZ;0;https://www.alexim.cz/emg-mm-hz
-7759.01;EMG SEHB;0;https://www.alexim.cz/emg-sehb
-1228.01;Wellton ACN-28;1;https://www.alexim.cz/wellton-acn-28
-77784.01;AER Head one;1;https://www.alexim.cz/aer-head-one
-77785.01;AER Cab one;1;https://www.alexim.cz/aer-cab-one
-777851.01;AER Cab two;1;https://www.alexim.cz/aer-cab-two
-04700.01;L.R.Baggs M1 snímač;1;https://www.alexim.cz/l-r-baggs-m1-snimac
-0470.01;L.R.Baggs M1A  Active snímač;1;https://www.alexim.cz/l-r-baggs-m1a-active-snimac
-0480.01;L.R.Baggs IBEAM snímač;0;https://www.alexim.cz/l-r-baggs-ibeam-snimac
-04800.01;L.R.Baggs IBEAM-C snímač;0;https://www.alexim.cz/l-r-baggs-ibeam-c-snimac
-0481.01;L.R.Baggs LB6 snímač;1;https://www.alexim.cz/l-r-baggs-lb6-snimac
-04810.01;L.R.Baggs LB6X snímač;1;https://www.alexim.cz/l-r-baggs-lb6x-snimac
-04811.01;L.R.Baggs LB12 snímač;1;https://www.alexim.cz/l-r-baggs-lb12-snimac
-0472.01;L.R.Baggs VIO snímač;1;https://www.alexim.cz/l-r-baggs-vio-snimac
-04720.01;L.R.Baggs VIO-NT;0;https://www.alexim.cz/l-r-baggs-vio-nt
-0479.01;L.R.Baggs RADIUS-M snímač;0;https://www.alexim.cz/l-r-baggs-radius-m-snimac
-04711.01;L.R.Baggs EAS active system;1;https://www.alexim.cz/l-r-baggs-eas-active-system
-04712.01;L.R.Baggs EAS-C active system;1;https://www.alexim.cz/l-r-baggs-eas-c-active-system
-0471.01;L.R.Baggs EAS VTC active system;1;https://www.alexim.cz/l-r-baggs-eas-vtc-active-system
-04710.01;L.R.Baggs EAS VTC-N active system;1;https://www.alexim.cz/l-r-baggs-eas-vtc-n-active-system
-04801.01;L.R.Baggs iBeam Active Steel;1;https://www.alexim.cz/l-r-baggs-ibeam-active-steel
-04802.01;L.R.Baggs iBeam-C Active;0;https://www.alexim.cz/l-r-baggs-ibeam-c-active
-04830.01;L.R.Baggs EOS-SM předzesilovač;1;https://www.alexim.cz/l-r-baggs-eos-sm-predzesilovac
-0484.01;L.R.Baggs IMIX snímač,předzesilovač;1;https://www.alexim.cz/l-r-baggs-imix-snimac-predzesilovac
-0478.01;L.R.Baggs DUAL SOURCE;0;https://www.alexim.cz/l-r-baggs-dual-source
-0476.01;L.R.Baggs PARA DI directbox;0;https://www.alexim.cz/l-r-baggs-para-di-directbox
-0477.01;L.R.Baggs MIXPRO předzesilovač;1;https://www.alexim.cz/l-r-baggs-mixpro-predzesilovac
-0487.01;L.R.Baggs CTRL-X předzesilovač;0;https://www.alexim.cz/l-r-baggs-ctrl-x-predzesilovac
-27041.01;LeeHooker Bass 5AL;0;https://www.alexim.cz/leehooker-bass-5al
-17200.01;John Pearse 500XL  ACOUSTIC;1;https://www.alexim.cz/john-pearse-500xl-ak-kytara
-1720.01;John Pearse 550SL  ACOUSTIC;1;https://www.alexim.cz/john-pearse-550sl-ak-kytara
-1721.01;John Pearse 600L  ACOUSTIC;1;https://www.alexim.cz/john-pearse-600l-ak-kytara
-1722.01;John Pearse 700M  ACOUSTIC;1;https://www.alexim.cz/john-pearse-700m-ak-kytara
-1727.01;John Pearse 960L  El.ak.kytara;1;https://www.alexim.cz/john-pearse-960l-el-ak-kytara
-17271.01;John Pearse 980M El.-akustické;1;https://www.alexim.cz/john-pearse-980m-el-akusticke
-1733.01;John Pearse 2400  El.kytara;1;https://www.alexim.cz/john-pearse-2400-el-kytara
-17331.01;John Pearse 2410  El.kytara;1;https://www.alexim.cz/john-pearse-2410-el-kytara
-1734.01;John Pearse 2500  El.kytara;1;https://www.alexim.cz/john-pearse-2500-el-kytara
-17341.01;John Pearse 2510  El.kytara;1;https://www.alexim.cz/john-pearse-2510-el-kytara
-1736.01;John Pearse 2920  Jazz kytara;1;https://www.alexim.cz/john-pearse-2920-jazz-kytara
-1740.01;John Pearse Single 070;1;https://www.alexim.cz/john-pearse-single-070
-17401.01;John Pearse Single 072;1;https://www.alexim.cz/john-pearse-single-072
-1728.01;John Pearse 1800M Banjo;1;https://www.alexim.cz/john-pearse-1800m-banjo
-1729.01;John Pearse 2150M  Mandolin;1;https://www.alexim.cz/john-pearse-2150m-mandolin
-1730.01;John Pearse 2250  Mandola;1;https://www.alexim.cz/john-pearse-2250-mandola
-1745.01;John Pearse Humidifier;1;https://www.alexim.cz/john-pearse-humidifier
-1746.01;John Pearse Sarod Pick Ebony;1;https://www.alexim.cz/john-pearse-sarod-pick-ebony
-0516.01;Shubb C1;1;https://www.alexim.cz/shubb-c1
-05161.01;Shubb C2;0;https://www.alexim.cz/shubb-c2
-05162.01;Shubb C3;1;https://www.alexim.cz/shubb-c3
-05163.01;Shubb C5;1;https://www.alexim.cz/shubb-c5
-70202.01;Kyser KYSER KLHA;0;https://www.alexim.cz/kyser-klha
-27074.01;LeeHooker Screamer Trip v2;1;https://www.alexim.cz/leehooker-screamer-trip
-27076.01;LeeHooker Comp Trip;1;https://www.alexim.cz/leehooker-comp-trip
-0021.01;Shure SM58SE;0;https://www.alexim.cz/shure-sm58se
-0020.01;Shure SM58 LCE;1;https://www.alexim.cz/shure-sm58-lce
-0023.01;Shure SM57 LCE;0;https://www.alexim.cz/shure-sm57-lce
-0025.01;Shure PG57-XLR;0;https://www.alexim.cz/shure-pg57-xlr
-0024.01;Shure PG58 QTR;0;https://www.alexim.cz/shure-pg58-qtr
-00241.01;Shure PG58 XLR;0;https://www.alexim.cz/shure-pg58-xlr
-072007.01;Cordial CBLI 9PP kabel BK;0;https://www.alexim.cz/cordial-cbli-9pp-kabel-bk
-072063.01;Cordial CCI 1.5PP kabel BK;1;https://www.alexim.cz/cordial-cci-1-5pp-kabel-bk
-072064.01;Cordial CCI 3PP kabel BK;1;https://www.alexim.cz/cordial-cci-3pp-kabel-bk
-072062.01;Cordial CCI 6PP kabel BK;1;https://www.alexim.cz/cordial-cci-6pp-kabel-bk
-072065.01;Cordial CCI 9PP kabel BK;0;https://www.alexim.cz/cordial-cci-9pp-kabel-bk
-072030.01;Cordial CCM 10 FM k mikrofonu;0;https://www.alexim.cz/cordial-ccm-10-fm-k-mikrofonu
-07203.01;Cordial CCM 7,5 FM kabel k mikrofonu;0;https://www.alexim.cz/cordial-ccm-7-5-fm-kabel-k-mikrofonu
-072031.01;Cordial CCM 7,5 FP k mikrofonu;0;https://www.alexim.cz/cordial-ccm-7-5-fp-k-mikrofonu
-072020.01;Cordial CFD 0,9AA MIDI BK;0;https://www.alexim.cz/cordial-cfd-0-9aa-midi-bk
-072021.01;Cordial CFI 0,15 RR;0;https://www.alexim.cz/cordial-cfi-0-15-rr
-0720320.01;Cordial CFM 10 FM;0;https://www.alexim.cz/cordial-cfm-10-fm
-072071.01;Cordial CGK 175 kabel BK;0;https://www.alexim.cz/cordial-cgk-175-kabel-bk
-07207.01;Cordial CGK  kabel BK 1m;0;https://www.alexim.cz/cordial-cgk-kabel-bk-1m
-07210.01;Cordial CII 3PP kabel BK 3m;1;https://www.alexim.cz/cordial-cii-3pp-kabel-bk-3m
-072101.01;Cordial CII 6PP kabel BK 6m;0;https://www.alexim.cz/cordial-cii-6pp-kabel-bk-6m
-072033.01;Cordial CIM 7,5 FM;0;https://www.alexim.cz/cordial-cim-7-5-fm
-072034.01;Cordial CIM 7,5 FP;0;https://www.alexim.cz/cordial-cim-7-5-fp
-072032.01;Cordial CPM 10 FM kabel;0;https://www.alexim.cz/cordial-cpm-10-fm-kabel
-07209.01;Cordial CSI 3PP 175 BK 3m;0;https://www.alexim.cz/cordial-csi-3pp-175-bk-3m
-072091.01;Cordial CSI 3PR 175 BK 3m;0;https://www.alexim.cz/cordial-csi-3pr-175-bk-3m
-07208.01;Cordial CSI 3PP 175 BK 6m;0;https://www.alexim.cz/cordial-csi-3pp-175-bk-6m
-072081.01;Cordial CSI 3PR 175 BK 6m;0;https://www.alexim.cz/cordial-csi-3pr-175-bk-6m
-072082.01;Cordial kabel Sp.-Sp. 15m;0;https://www.alexim.cz/cordial-kabel-sp-sp-15m
-0361.01;Fzone FM100 Metronom;1;https://www.alexim.cz/fzone-fm100-metronom
-3611.01;DR B HI-BEAM MR45;0;https://www.alexim.cz/dr-b-hi-beam-mr45
-3617.01;DR E PURE PHR-11;0;https://www.alexim.cz/dr-e-pure-phr-11
-36171.01;DR E PURE PHR-9;0;https://www.alexim.cz/dr-e-pure-phr-9
-36153.01;DR E TITE EH-11;0;https://www.alexim.cz/dr-e-tite-eh-11
-0176.01;DiMarzio D Activator Bridge;0;https://www.alexim.cz/dimarzio-d-activator-bridge
-0174.01;DiMarzio Chopper;0;https://www.alexim.cz/dimarzio-chopper
-0175.01;DiMarzio Cruiser Bridge;0;https://www.alexim.cz/dimarzio-cruiser-bridge
-0170.01;DiMarzio Dual Sound;0;https://www.alexim.cz/dimarzio-dual-sound
-0173.01;DiMarzio EJ Custom Bridge;0;https://www.alexim.cz/dimarzio-ej-custom-bridge
-0171.01;DiMarzio Evolution Bridge;0;https://www.alexim.cz/dimarzio-evolution-bridge
-0172.01;DiMarzio Steve´s Special;0;https://www.alexim.cz/dimarzio-steves-special
-0555.01;GHS FAST FRET;1;https://www.alexim.cz/ghs-fast-fret
-1065.01;D´Addario EJ16 light;0;https://www.alexim.cz/daddario-ej16-light
-10651.01;D´Addario EJ17 medium;1;https://www.alexim.cz/daddario-ej17-medium
-1060.01;D´Addario EXL110;1;https://www.alexim.cz/daddario-exl110
-10601.01;D´Addario EXL110+;0;https://www.alexim.cz/daddario-exl110-1
-10602.01;D´Addario EXL115;0;https://www.alexim.cz/daddario-exl115
-1061.01;D´Addario EXL120;0;https://www.alexim.cz/daddario-exl120
-10611.01;D´Addario EXL125;0;https://www.alexim.cz/daddario-exl125
-1062.01;D´Addario EXL140;0;https://www.alexim.cz/daddario-exl140
-1063.01;D´Addario XL157;0;https://www.alexim.cz/daddario-xl157
-29021.01;Grand Master Crash Medium Thin;1;https://www.alexim.cz/grand-master-crash-medium-thin
-212500.01;GEWA GIG BAG Economy bass gt.;0;https://www.alexim.cz/gewa-gig-bag-economy-bass-gt
-212100.01;GEWA GIG BAG Economy classic;0;https://www.alexim.cz/gewa-gig-bag-economy-classic
-212400.01;GEWA GIG BAG Economy el. gt.;0;https://www.alexim.cz/gewa-gig-bag-economy-el-gt
-212200.01;GEWA GIG BAG Economy western;1;https://www.alexim.cz/gewa-gig-bag-economy-western
-070075.01;Proel HPC 110 BK metráž;0;https://www.alexim.cz/proel-hpc-110-bk-metraz
-07171.01;Proel INT 130 vypínač;0;https://www.alexim.cz/proel-int-130-vypinac
-071602.01;Proel PFS20;0;https://www.alexim.cz/proel-pfs20
-071601.01;Proel PSF24;0;https://www.alexim.cz/proel-psf24
-07051.01;Proel PP300;0;https://www.alexim.cz/proel-pp300
-0705.01;Proel PP310;0;https://www.alexim.cz/proel-pp310
-77004.01;EMG 81TW BK;1;https://www.alexim.cz/emg-81tw-bk
-770721.01;EMG LJ;0;https://www.alexim.cz/emg-lj
-77382.01;EMG MM5TW;1;https://www.alexim.cz/emg-mm5tw
 19833.01;KRC Vrut 2x10mm, typ A BK;1;https://www.alexim.cz/krc-vrut-2x10mm-typ-a-bk
 198331.01;KRC Vrut 2x10mm, typ A NI;1;https://www.alexim.cz/krc-vrut-2x10mm-typ-a-ni
 19834.01;KRC Vrut 2x10 typ A, GD;1;https://www.alexim.cz/krc-vrut-2x10-typ-a-gd
@@ -727,128 +727,6 @@
 7751.01;"EMG JH ""HET""  Set snímačů";1;https://www.alexim.cz/emg-jh-het-set-snimacu
 77211.01;EMG 25K potenciometr push-pull;1;https://www.alexim.cz/emg-25k-potenciometr-push-pull
 77111.01;EMG 35DCX snímač;1;https://www.alexim.cz/emg-35dcx-snimac
-00271.01;Shure PGX24/PG58-R system;0;https://www.alexim.cz/shure-pgx24-pg58-r-system
-77005.01;EMG 81CR;1;https://www.alexim.cz/emg-81cr
-77013.01;EMG 85 CR;1;https://www.alexim.cz/emg-85-cr
-28242.01;EBS 212;0;https://www.alexim.cz/ebs-212
-77006.01;EMG 81GD;1;https://www.alexim.cz/emg-81gd
-77014.01;EMG 85 GD;1;https://www.alexim.cz/emg-85-gd
-77007.01;EMG 81-X BK;1;https://www.alexim.cz/emg-81-x-bk
-77015.01;EMG 85-X  BK;1;https://www.alexim.cz/emg-85-x-bk
-77442.01;EMG S-X  BK;1;https://www.alexim.cz/emg-s-x-bk
-77203.01;EMG SA-X  BK;1;https://www.alexim.cz/emg-sa-x-bk
-77252.01;EMG EndPinJack;1;https://www.alexim.cz/emg-endpinjack
-04881.01;L.R.Baggs RTS II. 090;0;https://www.alexim.cz/l-r-baggs-rts-ii-090
-770722.01;EMG LJV;1;https://www.alexim.cz/emg-ljv
-2737.01;LeeHooker GIG BAG el.kytara;1;https://www.alexim.cz/leehooker-gig-bag-el-kytara
-27371.01;LeeHooker GIG BAG baskytara;0;https://www.alexim.cz/leehooker-gig-bag-baskytara
-05806.01;NSdesign WAV4 Violin BK;0;https://www.alexim.cz/nsdesign-wav4-violin-bk
-1747.01;John Pearse 1400L Ak.kytara 12;1;https://www.alexim.cz/john-pearse-1400l-ak-kytara-12
-05164.01;Shubb C4;1;https://www.alexim.cz/shubb-c4
-0884.01;Diezel BOX 212RH;1;https://www.alexim.cz/diezel-box-212rh
-0491.01;L.R.Baggs Venue DI předzesilovač;1;https://www.alexim.cz/l-r-baggs-venue-di-predzesilovac
-7790.01;AER strings 012 Ak.kytara;1;https://www.alexim.cz/aer-strings-012-ak-kytara
-7791.01;AER strings 013 Ak.kytara;1;https://www.alexim.cz/aer-strings-013-ak-kytara
-28133.01;EBS TD660;0;https://www.alexim.cz/ebs-td660
-17361.01;John Pearse 2600  Jazz Light  kytara;1;https://www.alexim.cz/john-pearse-2600-jazz-kytara
-17362.01;John Pearse 2700  Jazz kytara;1;https://www.alexim.cz/john-pearse-2700-jazz-kytara
-2814.01;EBS T90 head;0;https://www.alexim.cz/ebs-t90-head
-0970.01;Turner  SW200NL;0;https://www.alexim.cz/turner-sw200nl
-0971.01;Turner  W22C;0;https://www.alexim.cz/turner-w22c
-0972.01;Turner  W32;1;https://www.alexim.cz/turner-w32
-09721.01;Turner  W32S;0;https://www.alexim.cz/turner-w32s
-0950.01;Carina  SC100NL;0;https://www.alexim.cz/carina-sc100nl
-09501.01;Carina  SC120NL;0;https://www.alexim.cz/carina-sc120nl
-63203.01;Vovox sonorus protect A 350;0;https://www.alexim.cz/vovox-sonorus-protect-a-350
-63204.01;Vovox sonorus protect A 600;0;https://www.alexim.cz/vovox-sonorus-protect-a-600
-63206.01;Vovox sonorus protect A 30a;0;https://www.alexim.cz/vovox-sonorus-protect-a-30a
-63207.01;Vovox sonorus protect A 350a;0;https://www.alexim.cz/vovox-sonorus-protect-a-350a
-63208.01;Vovox sonorus protect A 600a;0;https://www.alexim.cz/vovox-sonorus-protect-a-600a
-60703.01;Vovox link protect A 350;0;https://www.alexim.cz/vovox-link-protect-a-350
-60707.01;Vovox link protect A 350a;0;https://www.alexim.cz/vovox-link-protect-a-350a
-60704.01;Vovox link protect A 600;1;https://www.alexim.cz/vovox-link-protect-a-600
-60708.01;Vovox link protect A 600a;1;https://www.alexim.cz/vovox-link-protect-a-600a
-60903.01;Vovox link direct S500;0;https://www.alexim.cz/vovox-link-direct-s500
-60904.01;Vovox link direct S750;0;https://www.alexim.cz/vovox-link-direct-s750
-3352.01;MiniFlex Model 10a;1;https://www.alexim.cz/miniflex-model-10a
-3354.01;MiniFlex Model 10c;1;https://www.alexim.cz/miniflex-model-10c
-065920.01;Gotoh 35P1800-2M;1;https://www.alexim.cz/gotoh-35g1800-2m
-0659.01;Gotoh 35G620-2R  gold;1;https://www.alexim.cz/gotoh-35g620-2r-gold
-04842.01;L.R.Baggs StagePro Element;0;https://www.alexim.cz/l-r-baggs-stagepro-element
-83200.01;Vovox sonorus protect A  1m;0;https://www.alexim.cz/vovox-sonorus-protect-a-1m
-040410.01;Casio CTK-240;0;https://www.alexim.cz/casio-ctk-240
-28130.01;EBS FA II, FAFNER;0;https://www.alexim.cz/ebs-fa-ii-fafner
-0561.01;PMC Pražcový drát 2,4mm;1;https://www.alexim.cz/pmc-prazcovy-drat-2-4mm
-05601.01;PMC Pražcový drát 2mm;0;https://www.alexim.cz/pmc-prazcovy-drat-2mm-1
-09723.01;Turner  W32S+;0;https://www.alexim.cz/turner-w32s-1
-0974.01;Turner  W33S;0;https://www.alexim.cz/turner-w33s
-0179.01;DiMarzio Super Distortion;0;https://www.alexim.cz/dimarzio-super-distortion
-0177.01;DiMarzio J-system;0;https://www.alexim.cz/dimarzio-j-system
-0178.01;DiMarzio P-Bass;0;https://www.alexim.cz/dimarzio-p-bass
-1180.01;Nash guitars USA T52;1;https://www.alexim.cz/nash-guitars-usa-t52
-1801.01;Dárkový poukaz 1000Kč;1;https://www.alexim.cz/darkovy-poukaz-1000kc
-0028.01;Shure Super 55;0;https://www.alexim.cz/shure-super-55
-04233.01;Casio AD-5SFP;0;https://www.alexim.cz/casio-ad-5sfp
-77270.01;EMG 58 snímač;0;https://www.alexim.cz/emg-58-snimac
-77302.01;EMG ALX SET;1;https://www.alexim.cz/emg-alx-set
-198314.01;KRC Vrut 2,1x10 typ A, Ni;1;https://www.alexim.cz/krc-vrut-2-1x10-typ-a-ni
-193132.01;KRC Závěs řemenu HE007 GD;1;https://www.alexim.cz/krc-zaves-remenu-he007-gd
-19901.01;KRC HP005 Humbucker zebra neck;0;https://www.alexim.cz/krc-hp005-humbucker-zebra-neck
-19902.01;KRC HP005 Humbucker zebra bridge;0;https://www.alexim.cz/krc-hp005-humbucker-zebra-bridge
-1047.01;Dunlop Nylon 0.38;1;https://www.alexim.cz/dunlop-nylon-0-38
-19472.01;KRC HJ005 BK jack plate;1;https://www.alexim.cz/krc-hj005-bk-jack-plate
-199212.01;KRC HC001 GD control plate;1;https://www.alexim.cz/krc-hc001-gd-control-plate
-19931.01;KRC HC002 BK control plate JB;1;https://www.alexim.cz/krc-hc002-bk-control-plate-jb
-194712.01;KRC HJ009 GD jack plate;1;https://www.alexim.cz/krc-hj009-gd-jack-plate
-199201.01;KRC BT004   bridge HB   CR;1;https://www.alexim.cz/krc-te004-cr-bridge
-1182.01;Nash guitars USA IV JB model 1963 SB;0;https://www.alexim.cz/nash-guitars-usa-iv-jb-model-1963-sb
-11821.01;Nash guitars USA IV  JB model 1963 IV;0;https://www.alexim.cz/nash-guitars-usa-iv-jb-model-1963-iv
-1181.01;Nash guitars USA ST S57 VW;0;https://www.alexim.cz/nash-guitars-usa-st-s57-vw
-11811.01;Nash guitars USA ST S57 SB;0;https://www.alexim.cz/nash-guitars-usa-st-s57-sb
-0492.01;L.R.Baggs ANTHEM Tru-Mic;0;https://www.alexim.cz/l-r-baggs-anthem-tru-mic
-04920.01;L.R.Baggs ANTHEM SL;1;https://www.alexim.cz/l-r-baggs-anthem-sl
-2901.01;Grand Master Crash Thin D.Glow;1;https://www.alexim.cz/grand-master-crash-thin-d-glow
-00240.01;Shure PG48 XLR;0;https://www.alexim.cz/shure-pg48-xlr
-0022.01;Shure BETA 58A;0;https://www.alexim.cz/shure-beta-58a
-17471.01;John Pearse 1300L Ak.kytara 12;1;https://www.alexim.cz/john-pearse-1300l-ak-kytara-12
-17290.01;John Pearse 2050L  Mandolina;1;https://www.alexim.cz/john-pearse-2050l-mandolina
-0542.01;Hercules GS301B stojan na ak.;0;https://www.alexim.cz/hercules-gs301b-stojan-na-ak
-05421.01;Hercules GS302B stojan na el.;0;https://www.alexim.cz/hercules-gs302b-stojan-na-el
-0541.01;Hercules GS401B stojan na ak.;0;https://www.alexim.cz/hercules-gs401b-stojan-na-ak
-05411.01;Hercules GS402B stojan na el.;0;https://www.alexim.cz/hercules-gs402b-stojan-na-el
-0200.01;Spectraflex GCO14;0;https://www.alexim.cz/spectraflex-gco14
-77121.01;EMG 40DCX snímač;1;https://www.alexim.cz/emg-40dcx-snimac
-7746101.01;EMG 40TWX snímač;1;https://www.alexim.cz/emg-40twx-snimac
-774611.01;EMG 40CSX snímač;1;https://www.alexim.cz/emg-40csx-snimac
-7746201.01;EMG 45TWX snímač;1;https://www.alexim.cz/emg-45twx-snimac
-77311.01;EMG 707TW  snímač;1;https://www.alexim.cz/emg-707tw-snimac
-770021.01;EMG 81-7X  snímač;0;https://www.alexim.cz/emg-81-7x-snimac
-77333.01;EMG H4A  snímač CR;1;https://www.alexim.cz/emg-h4a-snimac-cr
-77332.01;EMG H4  snímač CR;1;https://www.alexim.cz/emg-h4-snimac-cr
-770723.01;EMG LJVX  snímač;1;https://www.alexim.cz/emg-ljvx-snimac
-77075.01;EMG JAX  set;1;https://www.alexim.cz/emg-jax-set
-77221.01;EMG PA-V2X;1;https://www.alexim.cz/emg-pa-v2x
-77064.01;EMG PJX  set;1;https://www.alexim.cz/emg-pjx-set
-77063.01;EMG PJAX  set;1;https://www.alexim.cz/emg-pjax-set
-060052.01;Gotoh SG301-M01 CR;0;https://www.alexim.cz/gotoh-sg301-m01-cr
-06006.01;Gotoh SG301-04  GD;0;https://www.alexim.cz/gotoh-sg301-04-gd
-06001.01;Gotoh SG301-20 CK;0;https://www.alexim.cz/gotoh-sg301-20-ck
-0600532.01;Gotoh SG301-EN01 GD;0;https://www.alexim.cz/gotoh-sg301-en01-gd
-06004.01;Gotoh SG301-04MG  CK;0;https://www.alexim.cz/gotoh-sg301-04mg-ck
-060053.01;Gotoh SG301-EN01 CR;0;https://www.alexim.cz/gotoh-sg301-en01-cr
-060103.01;Gotoh SG360-01MG  GD;0;https://www.alexim.cz/gotoh-sg360-01mg-gd
-060102.01;Gotoh SG360-04  GD;0;https://www.alexim.cz/gotoh-sg360-04-gd
-06010.01;Gotoh SG360-04  CR;0;https://www.alexim.cz/gotoh-sg360-04-cr
-0601010.01;Gotoh SG360-04  CK;0;https://www.alexim.cz/gotoh-sg360-04-ck
-060101.01;Gotoh SG360-04  BK;0;https://www.alexim.cz/gotoh-sg360-04-bk
-06011.01;Gotoh SG360-04MG  CR;0;https://www.alexim.cz/gotoh-sg360-04mg-cr
-06012.01;Gotoh SG360-04MG  GD;1;https://www.alexim.cz/gotoh-sg360-04mg-gd
-773640.01;EMG SLV  set pickups BK;1;https://www.alexim.cz/emg-slv-set-pickups-bk
-77365.01;EMG SLVX pickup;1;https://www.alexim.cz/emg-slvx-pickup
-1704.01;BSG GA41F Exotic Ebony;0;https://www.alexim.cz/bsg-d10cf-dreadnought
-193141.01;KRC Závěs řemenu HE004 BK;1;https://www.alexim.cz/krc-zaves-remenu-he004-bk
-194215.01;KRC KN300G  Knob GD;1;https://www.alexim.cz/krc-dpk700-knob-gd
-069010.01;Gotoh Závěs řemenu se zámkem EPR CK;0;https://www.alexim.cz/gotoh-zaves-remenu-se-zamkem-epr-ck
 774601.01;EMG 35TWX snímač;1;https://www.alexim.cz/emg-35twx-snimac
 772701.01;EMG 57-B snímač;0;https://www.alexim.cz/emg-57-b-snimac
 77276.01;EMG 66-N snímač;1;https://www.alexim.cz/emg-66-n-snimac
@@ -971,6 +849,128 @@
 20114.01;KRC BR-163;1;https://www.alexim.cz/krc-br-163
 1468.01;Spector core 4 FL;0;https://www.alexim.cz/spector-core-4-fl
 05413.01;Hercules GS414B stojan na kytaru;1;https://www.alexim.cz/hercules-gs414b-stojan-na-kytaru
+00271.01;Shure PGX24/PG58-R system;0;https://www.alexim.cz/shure-pgx24-pg58-r-system
+77005.01;EMG 81CR;1;https://www.alexim.cz/emg-81cr
+77013.01;EMG 85 CR;1;https://www.alexim.cz/emg-85-cr
+28242.01;EBS 212;0;https://www.alexim.cz/ebs-212
+77006.01;EMG 81GD;1;https://www.alexim.cz/emg-81gd
+77014.01;EMG 85 GD;1;https://www.alexim.cz/emg-85-gd
+77007.01;EMG 81-X BK;1;https://www.alexim.cz/emg-81-x-bk
+77015.01;EMG 85-X  BK;1;https://www.alexim.cz/emg-85-x-bk
+77442.01;EMG S-X  BK;1;https://www.alexim.cz/emg-s-x-bk
+77203.01;EMG SA-X  BK;1;https://www.alexim.cz/emg-sa-x-bk
+77252.01;EMG EndPinJack;1;https://www.alexim.cz/emg-endpinjack
+04881.01;L.R.Baggs RTS II. 090;0;https://www.alexim.cz/l-r-baggs-rts-ii-090
+770722.01;EMG LJV;1;https://www.alexim.cz/emg-ljv
+2737.01;LeeHooker GIG BAG el.kytara;1;https://www.alexim.cz/leehooker-gig-bag-el-kytara
+27371.01;LeeHooker GIG BAG baskytara;0;https://www.alexim.cz/leehooker-gig-bag-baskytara
+05806.01;NSdesign WAV4 Violin BK;0;https://www.alexim.cz/nsdesign-wav4-violin-bk
+1747.01;John Pearse 1400L Ak.kytara 12;1;https://www.alexim.cz/john-pearse-1400l-ak-kytara-12
+05164.01;Shubb C4;1;https://www.alexim.cz/shubb-c4
+0884.01;Diezel BOX 212RH;1;https://www.alexim.cz/diezel-box-212rh
+0491.01;L.R.Baggs Venue DI předzesilovač;1;https://www.alexim.cz/l-r-baggs-venue-di-predzesilovac
+7790.01;AER strings 012 Ak.kytara;1;https://www.alexim.cz/aer-strings-012-ak-kytara
+7791.01;AER strings 013 Ak.kytara;1;https://www.alexim.cz/aer-strings-013-ak-kytara
+28133.01;EBS TD660;0;https://www.alexim.cz/ebs-td660
+17361.01;John Pearse 2600  Jazz Light  kytara;1;https://www.alexim.cz/john-pearse-2600-jazz-kytara
+17362.01;John Pearse 2700  Jazz kytara;1;https://www.alexim.cz/john-pearse-2700-jazz-kytara
+2814.01;EBS T90 head;0;https://www.alexim.cz/ebs-t90-head
+0970.01;Turner  SW200NL;0;https://www.alexim.cz/turner-sw200nl
+0971.01;Turner  W22C;0;https://www.alexim.cz/turner-w22c
+0972.01;Turner  W32;1;https://www.alexim.cz/turner-w32
+09721.01;Turner  W32S;0;https://www.alexim.cz/turner-w32s
+0950.01;Carina  SC100NL;0;https://www.alexim.cz/carina-sc100nl
+09501.01;Carina  SC120NL;0;https://www.alexim.cz/carina-sc120nl
+63203.01;Vovox sonorus protect A 350;0;https://www.alexim.cz/vovox-sonorus-protect-a-350
+63204.01;Vovox sonorus protect A 600;0;https://www.alexim.cz/vovox-sonorus-protect-a-600
+63206.01;Vovox sonorus protect A 30a;0;https://www.alexim.cz/vovox-sonorus-protect-a-30a
+63207.01;Vovox sonorus protect A 350a;0;https://www.alexim.cz/vovox-sonorus-protect-a-350a
+63208.01;Vovox sonorus protect A 600a;0;https://www.alexim.cz/vovox-sonorus-protect-a-600a
+60703.01;Vovox link protect A 350;0;https://www.alexim.cz/vovox-link-protect-a-350
+60707.01;Vovox link protect A 350a;0;https://www.alexim.cz/vovox-link-protect-a-350a
+60704.01;Vovox link protect A 600;1;https://www.alexim.cz/vovox-link-protect-a-600
+60708.01;Vovox link protect A 600a;1;https://www.alexim.cz/vovox-link-protect-a-600a
+60903.01;Vovox link direct S500;0;https://www.alexim.cz/vovox-link-direct-s500
+60904.01;Vovox link direct S750;0;https://www.alexim.cz/vovox-link-direct-s750
+3352.01;MiniFlex Model 10a;1;https://www.alexim.cz/miniflex-model-10a
+3354.01;MiniFlex Model 10c;1;https://www.alexim.cz/miniflex-model-10c
+065920.01;Gotoh 35P1800-2M;1;https://www.alexim.cz/gotoh-35g1800-2m
+0659.01;Gotoh 35G620-2R  gold;1;https://www.alexim.cz/gotoh-35g620-2r-gold
+04842.01;L.R.Baggs StagePro Element;0;https://www.alexim.cz/l-r-baggs-stagepro-element
+83200.01;Vovox sonorus protect A  1m;0;https://www.alexim.cz/vovox-sonorus-protect-a-1m
+040410.01;Casio CTK-240;0;https://www.alexim.cz/casio-ctk-240
+28130.01;EBS FA II, FAFNER;0;https://www.alexim.cz/ebs-fa-ii-fafner
+0561.01;PMC Pražcový drát 2,4mm;1;https://www.alexim.cz/pmc-prazcovy-drat-2-4mm
+05601.01;PMC Pražcový drát 2mm;0;https://www.alexim.cz/pmc-prazcovy-drat-2mm-1
+09723.01;Turner  W32S+;0;https://www.alexim.cz/turner-w32s-1
+0974.01;Turner  W33S;0;https://www.alexim.cz/turner-w33s
+0179.01;DiMarzio Super Distortion;0;https://www.alexim.cz/dimarzio-super-distortion
+0177.01;DiMarzio J-system;0;https://www.alexim.cz/dimarzio-j-system
+0178.01;DiMarzio P-Bass;0;https://www.alexim.cz/dimarzio-p-bass
+1180.01;Nash guitars USA T52;1;https://www.alexim.cz/nash-guitars-usa-t52
+1801.01;Dárkový poukaz 1000Kč;1;https://www.alexim.cz/darkovy-poukaz-1000kc
+0028.01;Shure Super 55;0;https://www.alexim.cz/shure-super-55
+04233.01;Casio AD-5SFP;0;https://www.alexim.cz/casio-ad-5sfp
+77270.01;EMG 58 snímač;0;https://www.alexim.cz/emg-58-snimac
+77302.01;EMG ALX SET;1;https://www.alexim.cz/emg-alx-set
+198314.01;KRC Vrut 2,1x10 typ A, Ni;1;https://www.alexim.cz/krc-vrut-2-1x10-typ-a-ni
+193132.01;KRC Závěs řemenu HE007 GD;1;https://www.alexim.cz/krc-zaves-remenu-he007-gd
+19901.01;KRC HP005 Humbucker zebra neck;0;https://www.alexim.cz/krc-hp005-humbucker-zebra-neck
+19902.01;KRC HP005 Humbucker zebra bridge;0;https://www.alexim.cz/krc-hp005-humbucker-zebra-bridge
+1047.01;Dunlop Nylon 0.38;1;https://www.alexim.cz/dunlop-nylon-0-38
+19472.01;KRC HJ005 BK jack plate;1;https://www.alexim.cz/krc-hj005-bk-jack-plate
+199212.01;KRC HC001 GD control plate;1;https://www.alexim.cz/krc-hc001-gd-control-plate
+19931.01;KRC HC002 BK control plate JB;1;https://www.alexim.cz/krc-hc002-bk-control-plate-jb
+194712.01;KRC HJ009 GD jack plate;1;https://www.alexim.cz/krc-hj009-gd-jack-plate
+199201.01;KRC BT004   bridge HB   CR;1;https://www.alexim.cz/krc-te004-cr-bridge
+1182.01;Nash guitars USA IV JB model 1963 SB;0;https://www.alexim.cz/nash-guitars-usa-iv-jb-model-1963-sb
+11821.01;Nash guitars USA IV  JB model 1963 IV;0;https://www.alexim.cz/nash-guitars-usa-iv-jb-model-1963-iv
+1181.01;Nash guitars USA ST S57 VW;0;https://www.alexim.cz/nash-guitars-usa-st-s57-vw
+11811.01;Nash guitars USA ST S57 SB;0;https://www.alexim.cz/nash-guitars-usa-st-s57-sb
+0492.01;L.R.Baggs ANTHEM Tru-Mic;0;https://www.alexim.cz/l-r-baggs-anthem-tru-mic
+04920.01;L.R.Baggs ANTHEM SL;1;https://www.alexim.cz/l-r-baggs-anthem-sl
+2901.01;Grand Master Crash Thin D.Glow;1;https://www.alexim.cz/grand-master-crash-thin-d-glow
+00240.01;Shure PG48 XLR;0;https://www.alexim.cz/shure-pg48-xlr
+0022.01;Shure BETA 58A;0;https://www.alexim.cz/shure-beta-58a
+17471.01;John Pearse 1300L Ak.kytara 12;1;https://www.alexim.cz/john-pearse-1300l-ak-kytara-12
+17290.01;John Pearse 2050L  Mandolina;1;https://www.alexim.cz/john-pearse-2050l-mandolina
+0542.01;Hercules GS301B stojan na ak.;0;https://www.alexim.cz/hercules-gs301b-stojan-na-ak
+05421.01;Hercules GS302B stojan na el.;0;https://www.alexim.cz/hercules-gs302b-stojan-na-el
+0541.01;Hercules GS401B stojan na ak.;0;https://www.alexim.cz/hercules-gs401b-stojan-na-ak
+05411.01;Hercules GS402B stojan na el.;0;https://www.alexim.cz/hercules-gs402b-stojan-na-el
+0200.01;Spectraflex GCO14;0;https://www.alexim.cz/spectraflex-gco14
+77121.01;EMG 40DCX snímač;1;https://www.alexim.cz/emg-40dcx-snimac
+7746101.01;EMG 40TWX snímač;1;https://www.alexim.cz/emg-40twx-snimac
+774611.01;EMG 40CSX snímač;1;https://www.alexim.cz/emg-40csx-snimac
+7746201.01;EMG 45TWX snímač;1;https://www.alexim.cz/emg-45twx-snimac
+77311.01;EMG 707TW  snímač;1;https://www.alexim.cz/emg-707tw-snimac
+770021.01;EMG 81-7X  snímač;0;https://www.alexim.cz/emg-81-7x-snimac
+77333.01;EMG H4A  snímač CR;1;https://www.alexim.cz/emg-h4a-snimac-cr
+77332.01;EMG H4  snímač CR;1;https://www.alexim.cz/emg-h4-snimac-cr
+770723.01;EMG LJVX  snímač;1;https://www.alexim.cz/emg-ljvx-snimac
+77075.01;EMG JAX  set;1;https://www.alexim.cz/emg-jax-set
+77221.01;EMG PA-V2X;1;https://www.alexim.cz/emg-pa-v2x
+77064.01;EMG PJX  set;1;https://www.alexim.cz/emg-pjx-set
+77063.01;EMG PJAX  set;1;https://www.alexim.cz/emg-pjax-set
+060052.01;Gotoh SG301-M01 CR;0;https://www.alexim.cz/gotoh-sg301-m01-cr
+06006.01;Gotoh SG301-04  GD;0;https://www.alexim.cz/gotoh-sg301-04-gd
+06001.01;Gotoh SG301-20 CK;0;https://www.alexim.cz/gotoh-sg301-20-ck
+0600532.01;Gotoh SG301-EN01 GD;0;https://www.alexim.cz/gotoh-sg301-en01-gd
+06004.01;Gotoh SG301-04MG  CK;0;https://www.alexim.cz/gotoh-sg301-04mg-ck
+060053.01;Gotoh SG301-EN01 CR;0;https://www.alexim.cz/gotoh-sg301-en01-cr
+060103.01;Gotoh SG360-01MG  GD;0;https://www.alexim.cz/gotoh-sg360-01mg-gd
+060102.01;Gotoh SG360-04  GD;0;https://www.alexim.cz/gotoh-sg360-04-gd
+06010.01;Gotoh SG360-04  CR;0;https://www.alexim.cz/gotoh-sg360-04-cr
+0601010.01;Gotoh SG360-04  CK;0;https://www.alexim.cz/gotoh-sg360-04-ck
+060101.01;Gotoh SG360-04  BK;0;https://www.alexim.cz/gotoh-sg360-04-bk
+06011.01;Gotoh SG360-04MG  CR;0;https://www.alexim.cz/gotoh-sg360-04mg-cr
+06012.01;Gotoh SG360-04MG  GD;1;https://www.alexim.cz/gotoh-sg360-04mg-gd
+773640.01;EMG SLV  set pickups BK;1;https://www.alexim.cz/emg-slv-set-pickups-bk
+77365.01;EMG SLVX pickup;1;https://www.alexim.cz/emg-slvx-pickup
+1704.01;BSG GA41F Exotic Ebony;0;https://www.alexim.cz/bsg-d10cf-dreadnought
+193141.01;KRC Závěs řemenu HE004 BK;1;https://www.alexim.cz/krc-zaves-remenu-he004-bk
+194215.01;KRC KN300G  Knob GD;1;https://www.alexim.cz/krc-dpk700-knob-gd
+069010.01;Gotoh Závěs řemenu se zámkem EPR CK;0;https://www.alexim.cz/gotoh-zaves-remenu-se-zamkem-epr-ck
 20052.01;KRC J-78;0;https://www.alexim.cz/krc-j-78-1
 2040.01;KRC J-07 L;1;https://www.alexim.cz/krc-j-07
 20401.01;KRC J-07 R;1;https://www.alexim.cz/krc-j-07-1
@@ -1387,7 +1387,7 @@
 040104.01;Casio CDP S100 se stojanem CS46P;0;https://www.alexim.cz/casio-cdp-s100-se-stojanem-cs46p
 21661.01;Lollar pickups Regal RBN Bridge Nikl;0;https://www.alexim.cz/lollar-pickups-regal-rbn-bridge-nikl
 2166.01;Lollar pickups Regal RNN Neck Nikl;1;https://www.alexim.cz/lollar-pickups-regal-rnn-neck-nikl
-7800.01;udo roesner amps Da Capo 75;0;https://www.alexim.cz/udo-roesner-amps-da-capo-75
+7800.01;udo roesner amps Da Capo 75;1;https://www.alexim.cz/udo-roesner-amps-da-capo-75
 0902.01;"MAGNATONE Super 59 MKII 1x12"" Combo";0;https://www.alexim.cz/magnatone-super-59-mkii-1x12-combo
 0903.01;"MAGNATONE Super 59 M-80 1x12"" Combo";0;https://www.alexim.cz/magnatone-super-59-m-80-1x12-combo
 19636.01;KRC H78P/B Push/Push A500 28mm;1;https://www.alexim.cz/krc-h78p-b-push-push-a500-28mm
@@ -1458,6 +1458,7 @@
 77274.01;EMG 60-7;1;https://www.alexim.cz/emg-60-7
 77008.01;EMG 81TWX BK;1;https://www.alexim.cz/emg-81twx-bk
 770041.01;EMG 81TW-R BK;1;https://www.alexim.cz/emg-81tw-r-bk
+90061.05;Gibson SG Standard 2024, USA;0;https://www.alexim.cz/gibson-sg-standard-2024-usa
 10610.01;D´Addario EXL120+;0;https://www.alexim.cz/daddario-exl120-1
 1066.01;D´Addario EXP12;0;https://www.alexim.cz/daddario-exp12
 1067.01;D´Addario EXP16;0;https://www.alexim.cz/daddario-exp16
@@ -1682,6 +1683,7 @@
 0076.01;Stromberg Fremont Sunburst Aged;1;https://www.alexim.cz/stromberg-fremont-sunburst-aged
 0077.01;Stromberg Monterey Sunburst;0;https://www.alexim.cz/stromberg-monterey-sunburst
 773031.01;EMG 81X/60X set Brushed Black Chrome;1;https://www.alexim.cz/emg-81x-60x-set-brushed-black-chrome
+04945.01;L.R.Baggs Align Chorus;0;https://www.alexim.cz/lrbaggs-align-chorus
 281331.01;EBS 802 Head;0;https://www.alexim.cz/ebs-802-head
 0686.01;Gotoh 801 kryt výztuhy na hlavici;1;https://www.alexim.cz/gotoh-801-kryt-vyztuhy-na-hlavici
 06861.01;Gotoh 804 kryt výztuhy Standard;1;https://www.alexim.cz/gotoh-804-kryt-vyztuhy-standard

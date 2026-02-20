@@ -2,7 +2,8 @@ name: Scraper - MusicTrade
 
 on:
   workflow_dispatch: # Tlačidlo na manuálne spustenie
-
+  schedule:
+    - cron: '0 8 * * *' # Daily at 5:00 AM UTC
 jobs:
   build:
     runs-on: ubuntu-latest

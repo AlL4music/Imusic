@@ -1,0 +1,12 @@
+{
+  "name": "Music Meyer",
+  "enabled": true,
+  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/MM.csv",
+  "delimiter": ";",
+  "columns": {
+    "sku": "Kod",
+    "quantity": "Stav"
+  },
+  "match_by": "model",
+  "warehouse_id": 2
+}

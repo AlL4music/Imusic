@@ -7,6 +7,6 @@
     "sku": "Item ID",
     "quantity": "Sklad"
   },
-  "match_by": "sku",
+  "match_by": "old_shop_sku",
   "warehouse_id": 2
 }

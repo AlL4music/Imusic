@@ -2,7 +2,7 @@
   "name": "Sound Service",
   "enabled": true,
   "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/sound%20serivce.csv",
-  "delimiter": ";",
+  "delimiter": ",",
   "columns": {
     "sku": "Item ID",
     "quantity": "Sklad"

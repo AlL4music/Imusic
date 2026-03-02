@@ -47,7 +47,7 @@ KRARPODYSREV1;ARP ARP Odyssey Rev1;0;https://www.music-park.sk/produkt/analogove
 KREK50;KORG EK-50;20;https://www.music-park.sk/produkt/aranzery/106/ek-50
 KRMP10;KORG MP-10 Pro;0;https://www.music-park.sk/produkt/aranzery/107/mp-10-pro
 KRPA1000;KORG Pa1000;15;https://www.music-park.sk/produkt/aranzery/108/pa1000
-KRPA300;KORG Pa300;4;https://www.music-park.sk/produkt/aranzery/112/pa300
+KRPA300;KORG Pa300;3;https://www.music-park.sk/produkt/aranzery/112/pa300
 KRPA3X61;KORG Pa3X-61;0;https://www.music-park.sk/produkt/aranzery/113/pa3x-61
 KRPA3X76;KORG Pa3X-76;0;https://www.music-park.sk/produkt/aranzery/114/pa3x-76
 KRPA3XLE76;KORG Pa3X-Le;0;https://www.music-park.sk/produkt/aranzery/115/pa3x-le
@@ -61,7 +61,7 @@ KRPA50SD;KORG Pa50SD;0;https://www.music-park.sk/produkt/aranzery/124/pa50sd
 KRPA588;KORG PA588;0;https://www.music-park.sk/produkt/aranzery/125/pa588
 KRPA600;KORG Pa600;20;https://www.music-park.sk/produkt/aranzery/127/pa600
 KRPA700;KORG Pa700;20;https://www.music-park.sk/produkt/aranzery/128/pa700
-KRPA700OR;KORG Pa700 Oriental;1;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
+KRPA700OR;KORG Pa700 Oriental;0;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
 KRPA800;KORG PA800;0;https://www.music-park.sk/produkt/aranzery/131/pa800
 KRPA900;KORG Pa900;0;https://www.music-park.sk/produkt/aranzery/132/pa900
 KRPALIVERP;KORG Liverpool;0;https://www.music-park.sk/produkt/aranzery/133/liverpool
@@ -75,7 +75,7 @@ VXAPIO;VOX AmPlug I/O;0;https://www.music-park.sk/produkt/audio-prevodniky/140/a
 VXJV1;VOX JamVOX;0;https://www.music-park.sk/produkt/software/141/jamvox
 AG4J60;Aguilar AG 4J-60;3;https://www.music-park.sk/produkt/baskytarove-snimace/142/ag-4j-60
 AG4J70;Aguilar AG 4J-70;5;https://www.music-park.sk/produkt/baskytarove-snimace/143/ag-4j-70
-AG4JHC;Aguilar AG 4J-HC;1;https://www.music-park.sk/produkt/baskytarove-snimace/144/ag-4j-hc
+AG4JHC;Aguilar AG 4J-HC;0;https://www.music-park.sk/produkt/baskytarove-snimace/144/ag-4j-hc
 AG4JHOT;Aguilar AG 4J-Hot;3;https://www.music-park.sk/produkt/baskytarove-snimace/145/ag-4j-hot
 AG4P60;Aguilar AG 4P-60;5;https://www.music-park.sk/produkt/baskytarove-snimace/146/ag-4p-60
 AG4PHOT;Aguilar AG 4P-HOT;3;https://www.music-park.sk/produkt/baskytarove-snimace/147/ag-4p-hot
@@ -88,13 +88,13 @@ AG5PJHC;Aguilar AG 5PJ-HC;4;https://www.music-park.sk/produkt/baskytarove-snimac
 AG5SSD2;Aguilar 5SS-D2;0;https://www.music-park.sk/produkt/baskytarove-snimace/157/5ss-d2
 AG6PJHC;Aguilar AG 6PJ-HC;0;https://www.music-park.sk/produkt/baskytarove-snimace/160/ag-6pj-hc
 AG6SSD4;Aguilar 6SS-D4;0;https://www.music-park.sk/produkt/baskytarove-snimace/161/6ss-d4
-AGAG4M;Aguilar AG 4M;1;https://www.music-park.sk/produkt/baskytarove-snimace/162/ag-4m
+AGAG4M;Aguilar AG 4M;0;https://www.music-park.sk/produkt/baskytarove-snimace/162/ag-4m
 AGAG5M;Aguilar AG 5M;5;https://www.music-park.sk/produkt/baskytarove-snimace/163/ag-5m
 AGDCBD1;Aguilar DCB-D1;3;https://www.music-park.sk/produkt/baskytarove-snimace/164/dcb-d1
 AGDCBD2;Aguilar DCB-D2;0;https://www.music-park.sk/produkt/baskytarove-snimace/165/dcb-d2
 AGDCBD4;Aguilar DCB-D4;3;https://www.music-park.sk/produkt/baskytarove-snimace/166/dcb-d4
 AGDCBG3;Aguilar DCB-G3;2;https://www.music-park.sk/produkt/baskytarove-snimace/167/dcb-g3
-AGDCBG4;Aguilar DCB-G4;4;https://www.music-park.sk/produkt/baskytarove-snimace/168/dcb-g4
+AGDCBG4;Aguilar DCB-G4;3;https://www.music-park.sk/produkt/baskytarove-snimace/168/dcb-g4
 AGDCBG5;Aguilar DCB-G5;1;https://www.music-park.sk/produkt/baskytarove-snimace/169/dcb-g5
 VXSL1B;VOX StompLab 1B;0;https://www.music-park.sk/produkt/baskytarove-efekty/175/stomplab-1b
 VXSL2B;VOX StompLab 2B;0;https://www.music-park.sk/produkt/baskytarove-efekty/176/stomplab-2b
@@ -294,7 +294,7 @@ KRB1SPWH;KORG B1SP-WH;0;https://www.music-park.sk/produkt/digitalni-piana/403/b1
 KRB1WH;KORG B1-WH;0;https://www.music-park.sk/produkt/digitalni-piana/404/b1-wh
 KRC1AIRBK;KORG C1 Air BK;5;https://www.music-park.sk/produkt/digitalni-piana/405/c1-air-bk
 KRC1AIRBR;KORG C1 Air BR;5;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
-KRC1AIRWH;KORG C1 Air WH;10;https://www.music-park.sk/produkt/digitalni-piana/407/c1-air-wh
+KRC1AIRWH;KORG C1 Air WH;5;https://www.music-park.sk/produkt/digitalni-piana/407/c1-air-wh
 KRHAVIAN30;KORG Havian 30;0;https://www.music-park.sk/produkt/digitalni-piana/418/havian-30
 KRLP180BK;KORG LP-180 BK;5;https://www.music-park.sk/produkt/digitalni-piana/419/lp-180-bk
 KRLP180WH;KORG LP-180 WH;5;https://www.music-park.sk/produkt/digitalni-piana/420/lp-180-wh
@@ -366,7 +366,7 @@ MBA195066;Markbass MB Footswitch Single;0;https://www.music-park.sk/produkt/nozn
 KRGA30;KORG GA30;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/565/ga30
 KRGT120;KORG GT-120;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/569/gt-120
 KRPB02;KORG Pitchblack+;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/578/pitchblack
-KRTUAW4GBK;KORG AW-4G BK;5;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/579/aw-4g-bk
+KRTUAW4GBK;KORG AW-4G BK;4;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/579/aw-4g-bk
 KRTUAW4GWH;KORG AW-4G WH;15;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/580/aw-4g-wh
 KRTUAWLT100G;KORG AW-LT100G;20;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/582/aw-lt100g
 KRTUAWOTB;KORG AW-OTB;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/583/aw-otb
@@ -435,6 +435,7 @@ VXV845;VOX V845;0;https://www.music-park.sk/produkt/kytarove-efekty/672/v845
 AGSL1108;Aguilar SL 110;5;https://www.music-park.sk/produkt/baskytarove-reproboxy/3356/sl-110
 AGSL2124;Aguilar SL 212-4;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3357/sl-212-4
 AGSL410X4;Aguilar SL 410X;2;https://www.music-park.sk/produkt/baskytarove-reproboxy/3358/sl-410x
+VXAC10HWR1XX;VOX AC10 Hand-Wired  (Rozbalené);2;https://www.music-park.sk/produkt/kytarova-komba/3359/ac10-hand-wired-rozbalene
 QL30.00469;Quik Lok RKSI/200-6;10;https://www.music-park.sk/produkt/nastrojove-kabely/1343/rksi-200-6
 QL30.00470;Quik Lok RKSI/200-9;15;https://www.music-park.sk/produkt/nastrojove-kabely/1344/rksi-200-9
 QL30.00789;Quik Lok RKSI/205-4,5;10;https://www.music-park.sk/produkt/nastrojove-kabely/1345/rksi-205-45
@@ -465,7 +466,7 @@ KRTUPC2PPK;KORG Pitchclip 2 Pikachu;0;https://www.music-park.sk/produkt/kytarove
 QL10.00251;Quik Lok MS/331;10;https://www.music-park.sk/produkt/notove-stojany/1371/ms-331
 QL10.00732;Quik Lok MS/335;20;https://www.music-park.sk/produkt/notove-stojany/1372/ms-335
 VXVFS2;VOX VFS-2;20;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1373/vfs-2
-VXVFS2A;VOX VFS2A;10;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1374/vfs2a
+VXVFS2A;VOX VFS2A;5;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1374/vfs2a
 VXVFS5;VOX VFS5;20;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1375/vfs5
 DVA134019;DV Mark DVM Controller;0;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1376/dvm-controller
 DVA292008;DV Mark DV EVO1 Controller;1;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1377/dv-evo1-controller
@@ -499,7 +500,7 @@ ACA195010;Markbass Cover AC 101;0;https://www.music-park.sk/produkt/obaly-na-apa
 ACA195011;Markbass Cover AC 601;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1406/cover-ac-601
 DVA134025;Markbass Multiamp Bag;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1407/multiamp-bag
 DVA134026;Markbass Markworld Bag LT;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1408/markworld-bag-lt
-DVA134040;Markbass Markworld Bag XS;1;https://www.music-park.sk/produkt/obaly-na-aparaty/1409/markworld-bag-xs
+DVA134040;Markbass Markworld Bag XS;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1409/markworld-bag-xs
 MBA195007;Markbass Markworld Bag M;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1410/markworld-bag-m
 MBA195008;Markbass Markworld Bag L;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1411/markworld-bag-l
 MBA195013;Markbass Cover Mini CMD 121P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1412/cover-mini-cmd-121p
@@ -609,7 +610,7 @@ KRSQ1;KORG SQ-1;10;https://www.music-park.sk/produkt/produkcni-nastroje/1543/sq-
 KRVOLCABASS;KORG Volca Bass;20;https://www.music-park.sk/produkt/produkcni-nastroje/1544/volca-bass
 KRVOLCABEAT;KORG Volca Beats;10;https://www.music-park.sk/produkt/produkcni-nastroje/1545/volca-beats
 KRVOLCAFM;KORG Volca FM;0;https://www.music-park.sk/produkt/produkcni-nastroje/1546/volca-fm
-KRVOLCAKEYS;KORG Volca Keys;3;https://www.music-park.sk/produkt/produkcni-nastroje/1547/volca-keys
+KRVOLCAKEYS;KORG Volca Keys;0;https://www.music-park.sk/produkt/produkcni-nastroje/1547/volca-keys
 KRVOLCAKICK;KORG Volca Kick;3;https://www.music-park.sk/produkt/produkcni-nastroje/1548/volca-kick
 KRVOLCAMIX;KORG Volca Mix;5;https://www.music-park.sk/produkt/produkcni-nastroje/1549/volca-mix
 KRVOLCASAMP;KORG Volca Sample;0;https://www.music-park.sk/produkt/produkcni-nastroje/1551/volca-sample
@@ -657,7 +658,7 @@ QL10.00315;Quik Lok SB/205;0;https://www.music-park.sk/produkt/stojany-pro-repro
 QL10.00775;Quik Lok SLS/15;0;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1625/sls-15
 QL10.00201;Quik Lok SP/180;3;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1626/sp-180
 QL10.01037;Quik Lok SP/282 BK;3;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1627/sp-282-bk
-KRPC300BK;KORG PC-300BK;1;https://www.music-park.sk/produkt/stolicky-a-lavice/1628/pc-300bk
+KRPC300BK;KORG PC-300BK;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1628/pc-300bk
 KRPC300WH;KORG PC-300WH;5;https://www.music-park.sk/produkt/stolicky-a-lavice/1629/pc-300wh
 KRPC550WH;KORG PC-550-WH;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1631/pc-550-wh
 KRPC770BK;KORG PC-770-BK;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1632/pc-770-bk
@@ -778,7 +779,7 @@ DVL131042;DV Mark DV Silver 412;1;https://www.music-park.sk/produkt/kytarove-rep
 DVL131038;DV Mark DV Gold 412;0;https://www.music-park.sk/produkt/kytarove-reproboxy/1788/dv-gold-412
 AG4MJHC;Aguilar AG 4MJ-HC;1;https://www.music-park.sk/produkt/baskytarove-snimace/1799/ag-4mj-hc
 AG5MJHC;Aguilar AG 5MJ-HC;2;https://www.music-park.sk/produkt/baskytarove-snimace/1800/ag-5mj-hc
-KRVOLCANUBASS;KORG Volca Nubass;1;https://www.music-park.sk/produkt/produkcni-nastroje/1801/volca-nubass
+KRVOLCANUBASS;KORG Volca Nubass;0;https://www.music-park.sk/produkt/produkcni-nastroje/1801/volca-nubass
 KRMINILOGUEXDM;KORG Minilogue XD Module;5;https://www.music-park.sk/produkt/analogove-syntezatory/1802/minilogue-xd-module
 KRB2N;KORG B2N;0;https://www.music-park.sk/produkt/digitalni-piana/1803/b2n
 KRTUMINIPITCHBL;KORG MiniPitch BL;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1804/minipitch-bl
@@ -860,7 +861,7 @@ VXAC30C2TTBMW;VOX AC30C2-TTBM-W;0;https://www.music-park.sk/produkt/kytarova-kom
 VXAC15C1TTBMW;VOX AC15C1-TTBM-W;0;https://www.music-park.sk/produkt/kytarova-komba/1910/ac15c1-ttbm-w
 VXAC10C1TTBMW;VOX AC10C1-TTBM-W;0;https://www.music-park.sk/produkt/kytarova-komba/1911/ac10c1-ttbm-w
 KRPA700RD;KORG Pa700 RD;0;https://www.music-park.sk/produkt/aranzery/1912/pa700-rd
-KRSQSCB2N;Sequenz SC-B2N;10;https://www.music-park.sk/produkt/klavesove-obaly/1913/sc-b2n
+KRSQSCB2N;Sequenz SC-B2N;5;https://www.music-park.sk/produkt/klavesove-obaly/1913/sc-b2n
 KRTUMA2PK;KORG MA-2-PK;0;https://www.music-park.sk/produkt/metronomy/1915/ma-2-pk
 KRTUMA2EV;KORG MA-2-EV;0;https://www.music-park.sk/produkt/metronomy/1916/ma-2-ev
 VXAC30S1TTBMW;VOX AC30S1-TTBM-W;0;https://www.music-park.sk/produkt/kytarova-komba/1917/ac30s1-ttbm-w
@@ -873,7 +874,7 @@ VXSDC1MINIWH;VOX SDC-1 Mini White;2;https://www.music-park.sk/produkt/elektricke
 VXSDC1MINIRD;VOX SDC-1 Mini Red;4;https://www.music-park.sk/produkt/elektricke-kytary/1926/sdc-1-mini-red
 VXVSBAA1HWHPW;VOX Starstream Active Bass 1H WH;0;https://www.music-park.sk/produkt/elektricke-baskytary/1927/starstream-active-bass-1h-wh
 VXVSBAA2SRDMR;VOX Starstream Active Bass 2S RD;0;https://www.music-park.sk/produkt/elektricke-baskytary/1930/starstream-active-bass-2s-rd
-AGDCBM4;Aguilar DCB-M4;3;https://www.music-park.sk/produkt/baskytarove-snimace/1931/dcb-m4
+AGDCBM4;Aguilar DCB-M4;0;https://www.music-park.sk/produkt/baskytarove-snimace/1931/dcb-m4
 AGDCBM5;Aguilar DCB-M5;3;https://www.music-park.sk/produkt/baskytarove-snimace/1932/dcb-m5
 MBH110090;Markbass Little Mark Vintage;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/1933/little-mark-vintage
 KRPC110BK;KORG PC-110-BK;20;https://www.music-park.sk/produkt/stolicky-a-lavice/1934/pc-110-bk
@@ -1036,7 +1037,7 @@ VXMINI5RMIV;VOX MINI5 RM-IV;0;https://www.music-park.sk/produkt/kytarova-komba/7
 VXMSB25;VOX Mini SuperBeetle;0;https://www.music-park.sk/produkt/kytarova-komba/782/mini-superbeetle
 VXMVX150C1;VOX MVX150C1;2;https://www.music-park.sk/produkt/kytarova-komba/783/mvx150c1
 VXNT15C1;VOX NT15C1;0;https://www.music-park.sk/produkt/kytarova-komba/784/nt15c1
-VXPF10;VOX Pathfinder 10;3;https://www.music-park.sk/produkt/kytarova-komba/786/pathfinder-10
+VXPF10;VOX Pathfinder 10;0;https://www.music-park.sk/produkt/kytarova-komba/786/pathfinder-10
 VXSBMINIBK;VOX Soundbox Mini BK;0;https://www.music-park.sk/produkt/kytarova-komba/792/soundbox-mini-bk
 VXSBMINIGR;VOX Soundbox Mini GR;0;https://www.music-park.sk/produkt/kytarova-komba/793/soundbox-mini-gr
 VXSBMINIIV;VOX Soundbox Mini IV;0;https://www.music-park.sk/produkt/kytarova-komba/794/soundbox-mini-iv
@@ -1088,7 +1089,7 @@ DVA134049;DV Mark Strap S DV Blue;0;https://www.music-park.sk/produkt/kytarove-p
 DVA134050;DV Mark Strap S DV Red;0;https://www.music-park.sk/produkt/kytarove-prislusenstvi/850/strap-s-dv-red
 VXV110NT;VOX V110NT;0;https://www.music-park.sk/produkt/kytarove-reproboxy/851/v110nt
 VXV112NTG2;VOX V112NT G2;0;https://www.music-park.sk/produkt/kytarove-reproboxy/853/v112nt-g2
-VXV212C;VOX V212C;2;https://www.music-park.sk/produkt/kytarove-reproboxy/856/v212c
+VXV212C;VOX V212C;1;https://www.music-park.sk/produkt/kytarove-reproboxy/856/v212c
 VXV212CWB;VOX V212C-WB;0;https://www.music-park.sk/produkt/kytarove-reproboxy/857/v212c-wb
 VXV212HWX;VOX V212HWX;0;https://www.music-park.sk/produkt/kytarove-zesilovace/858/v212hwx
 VXV212NTG2;VOX V212NT G2;0;https://www.music-park.sk/produkt/kytarove-reproboxy/860/v212nt-g2
@@ -1212,7 +1213,7 @@ DR1LLR40;DR Strings Hi-Beam LLR-40;0;https://www.music-park.sk/produkt/struny-na
 KRSV173BAG;KORG CB-SV1 73;3;https://www.music-park.sk/produkt/klavesove-obaly/1040/cb-sv1-73
 KRSV188BAG;KORG CB-SV1 88;5;https://www.music-park.sk/produkt/klavesove-obaly/1041/cb-sv1-88
 VXSCCONTINENT61;VOX SC-CONTINENTAL 61;5;https://www.music-park.sk/produkt/klavesove-obaly/1042/sc-continental-61
-VXSCCONTINENT73;VOX SC-CONTINENTAL 73;2;https://www.music-park.sk/produkt/klavesove-obaly/1043/sc-continental-73
+VXSCCONTINENT73;VOX SC-CONTINENTAL 73;3;https://www.music-park.sk/produkt/klavesove-obaly/1043/sc-continental-73
 KRSQMPTB1RD;Sequenz MP-TB1-RD;1;https://www.music-park.sk/produkt/klavesove-obaly/1045/mp-tb1-rd
 KRSQMPTB1NV;Sequenz MP-TB1-NV;0;https://www.music-park.sk/produkt/klavesove-obaly/1046/mp-tb1-nv
 KRSQMPTB1BK;Sequenz MP-TB1-BK;3;https://www.music-park.sk/produkt/klavesove-obaly/1047/mp-tb1-bk
@@ -1237,13 +1238,13 @@ QL60.00018;Quik Lok VP/26-U;3;https://www.music-park.sk/produkt/klavesove-pedaly
 MBA195122;Markbass MB58 Rack Ears;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/1066/mb58-rack-ears
 KRHDIK3;KORG HDIK-3;0;https://www.music-park.sk/produkt/ostatni-klavesove-prislusenstvi/1069/hdik-3
 KRHNS4331;KORG HNS-4331;20;https://www.music-park.sk/produkt/ostatni-klavesove-prislusenstvi/1070/hns-4331
-KRSQCAB6;KORG SQ-Cable-6;20;https://www.music-park.sk/produkt/ostatni-klavesove-prislusenstvi/1072/sq-cable-6
+KRSQCAB6;KORG SQ-Cable-6;15;https://www.music-park.sk/produkt/ostatni-klavesove-prislusenstvi/1072/sq-cable-6
 ASFS2;Ashdown FS-2;1;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1073/fs-2
 KRHAVIANST;KORG ST-H30-BK;0;https://www.music-park.sk/produkt/klavesove-stojany/1074/st-h30-bk
 KRSPST1BK;KORG SPST-1W-BK;0;https://www.music-park.sk/produkt/klavesove-stojany/1075/spst-1w-bk
 KRSPST1WH;KORG SPST-1W-WH;0;https://www.music-park.sk/produkt/klavesove-stojany/1076/spst-1w-wh
 KRSTB1BK;KORG STB1-BK;15;https://www.music-park.sk/produkt/klavesove-stojany/1077/stb1-bk
-KRSTB1WH;KORG STB1-WH;3;https://www.music-park.sk/produkt/klavesove-stojany/1078/stb1-wh
+KRSTB1WH;KORG STB1-WH;2;https://www.music-park.sk/produkt/klavesove-stojany/1078/stb1-wh
 KRSTSV1BK;KORG ST-SV1-BK;5;https://www.music-park.sk/produkt/klavesove-stojany/1080/st-sv1-bk
 QL10.00065;Quik Lok BS/619;3;https://www.music-park.sk/produkt/klavesove-stojany/1081/bs-619
 QL10.00070;Quik Lok BX/718;1;https://www.music-park.sk/produkt/klavesove-stojany/1082/bx-718
@@ -1267,7 +1268,7 @@ QL10.00943;Quik Lok WS/421;2;https://www.music-park.sk/produkt/klavesove-stojany
 QL10.00976;Quik Lok WS/650;3;https://www.music-park.sk/produkt/klavesove-stojany/1100/ws-650
 QL10.00361;Quik Lok Z/716;3;https://www.music-park.sk/produkt/klavesove-stojany/1101/z-716
 QL10.00237;Quik Lok Z/726L;3;https://www.music-park.sk/produkt/klavesove-stojany/1102/z-726l
-KRSQSKHB;Sequenz SKH-B;5;https://www.music-park.sk/produkt/klavesove-stojany/1103/skh-b
+KRSQSKHB;Sequenz SKH-B;2;https://www.music-park.sk/produkt/klavesove-stojany/1103/skh-b
 KRSQSTALB;Sequenz STA-L-B;0;https://www.music-park.sk/produkt/klavesove-stojany/1104/sta-l-b
 KRSQSTALS;Sequenz STA-L-S;0;https://www.music-park.sk/produkt/klavesove-stojany/1105/sta-l-s
 KRSQSTAMS;Sequenz STA-M-S;0;https://www.music-park.sk/produkt/klavesove-stojany/1106/sta-m-s
@@ -1291,7 +1292,7 @@ KRTUIE1M;KORG In-EarMetronome;0;https://www.music-park.sk/produkt/metronomy/1126
 KRTUKDM2;KORG KDM-2;0;https://www.music-park.sk/produkt/metronomy/1127/kdm-2
 KRTUKDM3BK;KORG KDM-3 BK;15;https://www.music-park.sk/produkt/metronomy/1128/kdm-3-bk
 KRTUKDM3WBK;KORG KDM-3 WDBK;20;https://www.music-park.sk/produkt/metronomy/1129/kdm-3-wdbk
-KRTUKDM3WH;KORG KDM-3 WH;10;https://www.music-park.sk/produkt/metronomy/1130/kdm-3-wh
+KRTUKDM3WH;KORG KDM-3 WH;5;https://www.music-park.sk/produkt/metronomy/1130/kdm-3-wh
 KRTULMA120;KORG LMA-120;0;https://www.music-park.sk/produkt/metronomy/1131/lma-120
 KRTUMA2BK;KORG MA-2 BKRD;20;https://www.music-park.sk/produkt/metronomy/1134/ma-2-bkrd
 KRTUMA2BL;KORG MA-2 BLBK;20;https://www.music-park.sk/produkt/metronomy/1135/ma-2-blbk
@@ -1306,14 +1307,14 @@ KRMICRK249A;KORG microKEY Air-49;5;https://www.music-park.sk/produkt/midi-kontro
 KRMICRK261;KORG microKEY2-61;5;https://www.music-park.sk/produkt/midi-kontrolery/1146/microkey2-61
 KRMICRK261A;KORG microKEY Air-61;0;https://www.music-park.sk/produkt/midi-kontrolery/1147/microkey-air-61
 KRMICROK25;KORG microKEY-25;5;https://www.music-park.sk/produkt/midi-kontrolery/1148/microkey-25
-KRNANOK2B;KORG nanoKEY2-BK;3;https://www.music-park.sk/produkt/midi-kontrolery/1160/nanokey2-bk
+KRNANOK2B;KORG nanoKEY2-BK;2;https://www.music-park.sk/produkt/midi-kontrolery/1160/nanokey2-bk
 KRNANOK2BLYL;KORG NanoKEY2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1161/nanokey2-blyl
 KRNANOK2ORGR;KORG NanoKEY2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1162/nanokey2-orgr
 KRNANOK2W;KORG nanoKEY2-WH;5;https://www.music-park.sk/produkt/midi-kontrolery/1163/nanokey2-wh
 KRNANOKO2B;KORG nanoKONTROL2-BK;20;https://www.music-park.sk/produkt/midi-kontrolery/1164/nanokontrol2-bk
 KRNANOKO2BLYL;KORG NanoKONTROL2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1165/nanokontrol2-blyl
 KRNANOKO2ORGR;KORG NanoKONTROL2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1166/nanokontrol2-orgr
-KRNANOKO2W;KORG nanoKONTROL2-WH;15;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
+KRNANOKO2W;KORG nanoKONTROL2-WH;10;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
 KRNANOKOST;KORG nanoKONTROL Studio;0;https://www.music-park.sk/produkt/midi-kontrolery/1168/nanokontrol-studio
 KRNANOKST;KORG nanoKEY Studio;5;https://www.music-park.sk/produkt/midi-kontrolery/1169/nanokey-studio
 KRNANOP2B;KORG nanoPAD2-BK;5;https://www.music-park.sk/produkt/midi-kontrolery/1170/nanopad2-bk
@@ -1439,11 +1440,11 @@ QL10.01075;Quik Lok LPH/005;3;https://www.music-park.sk/produkt/stojany-pro-poci
 QL10.00763;Quik Lok LPH/X;3;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/1304/lph-x
 QL20.00030;Quik Lok CM/805 BK;20;https://www.music-park.sk/produkt/multikabely-metraz/1305/cm-805-bk
 KRKA189;KORG KA-189;20;https://www.music-park.sk/produkt/napajeci-adaptery/1306/ka-189
-KRKA199;KORG KA-199;0;https://www.music-park.sk/produkt/napajeci-adaptery/1307/ka-199
+KRKA199;KORG KA-199;3;https://www.music-park.sk/produkt/napajeci-adaptery/1307/ka-199
 KRKA250;KORG KA-250;0;https://www.music-park.sk/produkt/napajeci-adaptery/1308/ka-250
 KRKA280;KORG KA-280;0;https://www.music-park.sk/produkt/napajeci-adaptery/1309/ka-280
 KRKA310;KORG KA-310;0;https://www.music-park.sk/produkt/napajeci-adaptery/1310/ka-310
-KRKA320;KORG KA-320;15;https://www.music-park.sk/produkt/napajeci-adaptery/1311/ka-320
+KRKA320;KORG KA-320;10;https://www.music-park.sk/produkt/napajeci-adaptery/1311/ka-320
 KRKA350;KORG KA-350;20;https://www.music-park.sk/produkt/napajeci-adaptery/1312/ka-350
 KRKA360;KORG KA-360;0;https://www.music-park.sk/produkt/napajeci-adaptery/1313/ka-360
 KRKA380;KORG KA-380;5;https://www.music-park.sk/produkt/napajeci-adaptery/1314/ka-380
@@ -1455,7 +1456,7 @@ QL20.00142;Quik Lok CS-535 BK;0;https://www.music-park.sk/produkt/nastrojove-kab
 QL20.00063;Quik Lok CS-732 BK;0;https://www.music-park.sk/produkt/nastrojove-kabely-metraz/1320/cs-732-bk
 VXVAC19;VOX VAC-19;5;https://www.music-park.sk/produkt/nastrojove-kabely/1321/vac-19
 VXVBC19;VOX VBC-19;15;https://www.music-park.sk/produkt/nastrojove-kabely/1322/vbc-19
-VXVCC090BK;VOX VCC-90 BK;5;https://www.music-park.sk/produkt/nastrojove-kabely/1323/vcc-90-bk
+VXVCC090BK;VOX VCC-90 BK;4;https://www.music-park.sk/produkt/nastrojove-kabely/1323/vcc-90-bk
 VXVCC090BL;VOX VCC-90 BL;5;https://www.music-park.sk/produkt/nastrojove-kabely/1324/vcc-90-bl
 VXVCC090RD;VOX VCC-90 RD;5;https://www.music-park.sk/produkt/nastrojove-kabely/1325/vcc-90-rd
 VXVCC090SL;VOX VCC-90 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/1326/vcc-90-sl
@@ -1500,7 +1501,7 @@ KRSV273S;KORG SV2-73S;1;https://www.music-park.sk/produkt/stage-piana/2042/sv2-7
 KRSV288;KORG SV2-88;5;https://www.music-park.sk/produkt/stage-piana/2043/sv2-88
 KRSV273;KORG SV2-73;1;https://www.music-park.sk/produkt/stage-piana/2044/sv2-73
 VXV847C;VOX Wah 847-C;0;https://www.music-park.sk/produkt/kytarove-efekty/2045/wah-847-c
-KRI3MB;KORG i3 MB;10;https://www.music-park.sk/produkt/pracovni-stanice/2046/i3-mb
+KRI3MB;KORG i3 MB;5;https://www.music-park.sk/produkt/pracovni-stanice/2046/i3-mb
 KREK50L;KORG EK-50 Limitless;10;https://www.music-park.sk/produkt/aranzery/2047/ek-50-limitless
 KRODS;KORG OD-S;10;https://www.music-park.sk/produkt/kytarove-efekty/2048/od-s
 KRI3MS;KORG i3 MS;5;https://www.music-park.sk/produkt/pracovni-stanice/2049/i3-ms
@@ -1533,7 +1534,7 @@ KRMS20FSGR;KORG MS-20 FS GR;0;https://www.music-park.sk/produkt/analogove-syntez
 KRMS20FSWH;KORG MS-20 FS WH;0;https://www.music-park.sk/produkt/analogove-syntezatory/2081/ms-20-fs-wh
 KRSQSCRCLWH;Sequenz RC-L WH;5;https://www.music-park.sk/produkt/obaly/2082/rc-l-wh
 KRSQSCRCLBK;Sequenz RC-L BK;0;https://www.music-park.sk/produkt/obaly/2083/rc-l-bk
-KRXE20SP;KORG XE20SP;10;https://www.music-park.sk/produkt/digitalni-piana/2084/xe20sp
+KRXE20SP;KORG XE20SP;5;https://www.music-park.sk/produkt/digitalni-piana/2084/xe20sp
 KRSQSCLARGEMSG;Sequenz SC LARGE MSG;0;https://www.music-park.sk/produkt/klavesove-obaly/2085/sc-large-msg
 KRSQSCSBWH;Sequenz SB-KORG WH;0;https://www.music-park.sk/produkt/obaly/2086/sb-korg-wh
 KRSQSCSBPK;Sequenz SB-KORG PK;0;https://www.music-park.sk/produkt/obaly/2087/sb-korg-pk
@@ -1566,7 +1567,7 @@ VXTELSTAR;VOX Telstar 2020;0;https://www.music-park.sk/produkt/bici-soupravy/212
 ASSTUDIOJNR;Ashdown Studio Junior;4;https://www.music-park.sk/produkt/baskytarova-komba/2126/studio-junior
 ASSTUDIO8;Ashdown Studio 8;0;https://www.music-park.sk/produkt/baskytarova-komba/2127/studio-8
 ASSTUDIO10;Ashdown Studio 10;5;https://www.music-park.sk/produkt/baskytarova-komba/2128/studio-10
-ASSTUDIO12;Ashdown Studio 12;1;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
+ASSTUDIO12;Ashdown Studio 12;0;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
 ASSTUDIO15;Ashdown Studio 15;1;https://www.music-park.sk/produkt/baskytarova-komba/2130/studio-15
 VXAC15C1VB;VOX AC15C1-VB;0;https://www.music-park.sk/produkt/kytarova-komba/2131/ac15c1-vb
 AGCC210SL;Aguilar SL 210 Cover;2;https://www.music-park.sk/produkt/obaly-na-aparaty/2132/sl-210-cover
@@ -1637,7 +1638,7 @@ VXVGHAC30;VOX VGH AC30;0;https://www.music-park.sk/produkt/sluchatka/2200/vgh-ac
 MBH120006;Markbass Mark Vintage Pre;0;https://www.music-park.sk/produkt/baskytarove-efekty/2201/mark-vintage-pre
 KRSTWL;KORG ST-WL;2;https://www.music-park.sk/produkt/klavesove-stojany/2202/st-wl
 MBB148016;Markbass GV4 Gloxy 3-Tone Sunburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2203/gv4-gloxy-3-tone-sunburst
-VXVMG50;VOX Mini Go 50;5;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
+VXVMG50;VOX Mini Go 50;2;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
 ASSTUDIOTOUR;Ashdown Studio Tourbus;5;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
 VXVMG10;VOX Mini Go 10;0;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
 VXVMG3;VOX Mini Go 3;10;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
@@ -1755,9 +1756,9 @@ VXAC10C1RB;VOX AC10C1 RB;0;https://www.music-park.sk/produkt/kytarova-komba/2356
 KRMINILOGUEBA;KORG Minilogue Bass;0;https://www.music-park.sk/produkt/analogove-syntezatory/2357/minilogue-bass
 VXMK3MINIAG;VOX Mark III Mini Aqua Green;3;https://www.music-park.sk/produkt/elektricke-kytary/2358/mark-iii-mini-aqua-green
 VXCONTINENT73BK;VOX VOX Continental 73 BK;0;https://www.music-park.sk/produkt/stage-piana/2359/vox-continental-73-bk
-KRVOLCAFM2;KORG Volca FM2;4;https://www.music-park.sk/produkt/produkcni-nastroje/2360/volca-fm2
+KRVOLCAFM2;KORG Volca FM2;0;https://www.music-park.sk/produkt/produkcni-nastroje/2360/volca-fm2
 VXMK3MINILR;VOX Mark III Mini Loud Red;3;https://www.music-park.sk/produkt/elektricke-kytary/2361/mark-iii-mini-loud-red
-KRHC61KEY;KORG HC-61KEY;1;https://www.music-park.sk/produkt/kufry-pro-klavesy/2362/hc-61key
+KRHC61KEY;KORG HC-61KEY;0;https://www.music-park.sk/produkt/kufry-pro-klavesy/2362/hc-61key
 KRHC76KEY;KORG HC-76KEY;3;https://www.music-park.sk/produkt/kufry-pro-klavesy/2363/hc-76key
 KRHC88KEY;KORG HC-88KEY;0;https://www.music-park.sk/produkt/kufry-pro-klavesy/2364/hc-88key
 KRNTS2BUNDLE;KORG NTS-2 Oscilloscope Kit;0;https://www.music-park.sk/produkt/produkcni-nastroje/2365/nts-2-oscilloscope-kit
@@ -1767,12 +1768,13 @@ KRLIANOGR;KORG Liano Metallic Gray;0;https://www.music-park.sk/produkt/digitalni
 KRLIANORD;KORG Liano Red;5;https://www.music-park.sk/produkt/digitalni-piana/2369/liano-red
 KRLIANOSV;KORG Liano Metallic Silver;0;https://www.music-park.sk/produkt/digitalni-piana/2370/liano-metallic-silver
 KRLIANOWH;KORG Liano Pearl White;0;https://www.music-park.sk/produkt/digitalni-piana/2371/liano-pearl-white
-KRPA5X61;KORG Pa5X-61;3;https://www.music-park.sk/produkt/aranzery/2373/pa5x-61
+KRPA5X61;KORG Pa5X-61;1;https://www.music-park.sk/produkt/aranzery/2373/pa5x-61
 KRPA5X76;KORG Pa5X-76;10;https://www.music-park.sk/produkt/aranzery/2374/pa5x-76
 KRPA5X88;KORG Pa5X-88;0;https://www.music-park.sk/produkt/aranzery/2375/pa5x-88
 GLTI-ACL-115R01M86;G&L Tribute ASAT Classic Gloss Black, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/2376/tribute-asat-classic-gloss-black-mp
 GLTI-ACL-120R39M56;G&L Tribute ASAT Classic Butterscotch Blonde, MP;1;https://www.music-park.sk/produkt/elektricke-kytary/2377/tribute-asat-classic-butterscotch-blonde-mp
 GLTI-ACB-115R03R46;G&L Tribute ASAT Classic Bluesboy Candy Apple Red, RW;2;https://www.music-park.sk/produkt/elektricke-kytary/2378/tribute-asat-classic-bluesboy-candy-apple-red-rw
+GLTI-ACB-S71R46M76;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Clear Orange, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2379/tribute-asat-classic-bluesboy-semi-hollow-clear-orange-mp
 GLTI-ACL-115R63R46;G&L Tribute ASAT Classic Emerald Blue, RW;2;https://www.music-park.sk/produkt/elektricke-kytary/2380/tribute-asat-classic-emerald-blue-rw
 GLTI-ACL-175R24M86;G&L Tribute ASAT Classic Tobacco Sunburst, MP;5;https://www.music-park.sk/produkt/elektricke-kytary/2381/tribute-asat-classic-tobacco-sunburst-mp
 GLTI-ACL-175L20M46;G&L Tribute ASAT Classic Lefty 3-Tone Sunburst, MP;3;https://www.music-park.sk/produkt/elektricke-kytary/2382/tribute-asat-classic-lefty-3-tone-sunburst-mp
@@ -1923,7 +1925,7 @@ MBB148030;Markbass GV5 Gloxy Tobacco Sunburst;0;https://www.music-park.sk/produk
 MBB148019;Markbass GV5 Gloxy Fiesta Red;0;https://www.music-park.sk/produkt/elektricke-baskytary/2539/gv5-gloxy-fiesta-red
 QL10.01144;Quik Lok TST/001;10;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/2540/tst-001
 QL10.01145;Quik Lok VSC/001;1;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/2541/vsc-001
-EK06216200;EKO Ranger 6 Natural;1;https://www.music-park.sk/produkt/akusticke-kytary/2542/ranger-6-natural
+EK06216200;EKO Ranger 6 Natural;0;https://www.music-park.sk/produkt/akusticke-kytary/2542/ranger-6-natural
 EK06216210;EKO Ranger 6 Black;3;https://www.music-park.sk/produkt/akusticke-kytary/2543/ranger-6-black
 EK06216220;EKO Ranger 6 Red Sunburst;0;https://www.music-park.sk/produkt/akusticke-kytary/2544/ranger-6-red-sunburst
 EK06216230;EKO Ranger 6 Blue Sunburst;1;https://www.music-park.sk/produkt/akusticke-kytary/2545/ranger-6-blue-sunburst
@@ -1938,7 +1940,7 @@ EK06216610;EKO Ranger CW EQ Black;1;https://www.music-park.sk/produkt/akusticke-
 EK06216620;EKO Ranger CW EQ Red Sunburst;0;https://www.music-park.sk/produkt/akusticke-kytary/2554/ranger-cw-eq-red-sunburst
 EK06216630;EKO Ranger CW EQ Blue Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2555/ranger-cw-eq-blue-sunburst
 EK06216650;EKO Ranger CW EQ Brown Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2556/ranger-cw-eq-brown-sunburst
-EK06216940;EKO Ranger VI VR Honey Burst;2;https://www.music-park.sk/produkt/akusticke-kytary/2558/ranger-vi-vr-honey-burst
+EK06216940;EKO Ranger VI VR Honey Burst;1;https://www.music-park.sk/produkt/akusticke-kytary/2558/ranger-vi-vr-honey-burst
 EK06217128;EKO Ranger VI VR EQ Natural Top Stained;3;https://www.music-park.sk/produkt/akusticke-kytary/2559/ranger-vi-vr-eq-natural-top-stained
 EK06216942;EKO Ranger VI VR EQ Honey Burst;5;https://www.music-park.sk/produkt/akusticke-kytary/2560/ranger-vi-vr-eq-honey-burst
 EK06217203;EKO One D Natural;0;https://www.music-park.sk/produkt/akusticke-kytary/2561/one-d-natural
@@ -1984,7 +1986,7 @@ DR2DDT10;DR Strings Drop-Down Tuning DDT-10;10;https://www.music-park.sk/produkt
 DR2DDT1052;DR Strings Drop-Down Tuning DDT-10/52;20;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2602/drop-down-tuning-ddt-10-52
 DR2DDT1060;DR Strings Drop-Down Tuning DDT-10/60;0;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2603/drop-down-tuning-ddt-10-60
 DR2DDT11;DR Strings Drop-Down Tuning DDT-11;20;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2604/drop-down-tuning-ddt-11
-DR2DDT12;DR Strings Drop-Down Tuning DDT-12;20;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2605/drop-down-tuning-ddt-12
+DR2DDT12;DR Strings Drop-Down Tuning DDT-12;15;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2605/drop-down-tuning-ddt-12
 DR2DDT13;DR Strings Drop-Down Tuning DDT-13;10;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2606/drop-down-tuning-ddt-13
 DR2DSE9;DR Strings Dragon Skin DSE-9;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/2607/dragon-skin-dse-9
 DR2DSE946;DR Strings Dragon Skin DSE-9/46;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/2608/dragon-skin-dse-9-46
@@ -2060,9 +2062,9 @@ DR1NPB540;DR Strings Neon Pink NPB5-40;0;https://www.music-park.sk/produkt/potaz
 DR1NPB545;DR Strings Neon Pink NPB5-45;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2678/neon-pink-npb5-45
 DR1LH40;DR Strings Lo-Rider LH-40;20;https://www.music-park.sk/produkt/struny-na-baskytary/2679/lo-rider-lh-40
 DR1MLH45;DR Strings Lo-Rider MLH-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2680/lo-rider-mlh-45
-DR1MH45;DR Strings Lo-Rider MH-45;15;https://www.music-park.sk/produkt/struny-na-baskytary/2681/lo-rider-mh-45
+DR1MH45;DR Strings Lo-Rider MH-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2681/lo-rider-mh-45
 DR1LH540;DR Strings Lo-Rider LH5-40;5;https://www.music-park.sk/produkt/struny-na-baskytary/2682/lo-rider-lh5-40
-DR1MH545;DR Strings Lo-Rider MH5-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2683/lo-rider-mh5-45
+DR1MH545;DR Strings Lo-Rider MH5-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2683/lo-rider-mh5-45
 DR1PB40;DR Strings Pure Blues PB-40;4;https://www.music-park.sk/produkt/struny-na-baskytary/2684/pure-blues-pb-40
 DR1PB45100;DR Strings Pure Blues PB-45/100;5;https://www.music-park.sk/produkt/struny-na-baskytary/2685/pure-blues-pb-45-100
 DR1PB45;DR Strings Pure Blues PB-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2686/pure-blues-pb-45
@@ -2071,7 +2073,7 @@ DR1PB545;DR Strings Pure Blues PB5-45;15;https://www.music-park.sk/produkt/strun
 DR1NLR40;DR Strings Sunbeams NLR-40;10;https://www.music-park.sk/produkt/struny-na-baskytary/2689/sunbeams-nlr-40
 DR1NMLR45;DR Strings Sunbeams NMLR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2690/sunbeams-nmlr-45
 DR1NMR45;DR Strings Sunbeams NMR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2691/sunbeams-nmr-45
-DR1NLR540;DR Strings Sunbeams NLR5-40;15;https://www.music-park.sk/produkt/struny-na-baskytary/2692/sunbeams-nlr5-40
+DR1NLR540;DR Strings Sunbeams NLR5-40;10;https://www.music-park.sk/produkt/struny-na-baskytary/2692/sunbeams-nlr5-40
 DR1NMR545;DR Strings Sunbeams NMR5-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2693/sunbeams-nmr5-45
 EK06201009;EKO CS-10 Natural;1;https://www.music-park.sk/produkt/klasicke-kytary/2694/cs-10-natural
 KRNAUTILUS61AT;KORG Nautilus 61 AT;5;https://www.music-park.sk/produkt/pracovni-stanice/2696/nautilus-61-at
@@ -2079,7 +2081,7 @@ KRNAUTILUS88AT;KORG Nautilus 88 AT;0;https://www.music-park.sk/produkt/pracovni-
 KROPSIXSE;KORG Opsix SE;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2698/opsix-se
 KRWAVESTATESE;KORG Wavestate SE;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2699/wavestate-se
 VXVUKE50;VOX Ukulele 50;5;https://www.music-park.sk/produkt/kytarova-komba/2700/ukulele-50
-VXVCM60;VOX Clubman 60;5;https://www.music-park.sk/produkt/kytarova-komba/2701/clubman-60
+VXVCM60;VOX Clubman 60;4;https://www.music-park.sk/produkt/kytarova-komba/2701/clubman-60
 DR2LLTR8;DR Strings Hi-Beam LLTR-8;0;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2702/hi-beam-lltr-8
 DR2LTR9;DR Strings Hi-Beam LTR-9;20;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2703/hi-beam-ltr-9
 DR2LHR9;DR Strings Hi-Beam LHR-9;20;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2704/hi-beam-lhr-9
@@ -2215,11 +2217,11 @@ GLFDCOM-MBM-CR;G&L USA Fullerton Deluxe Comanche - Midnight Blue Metallic;0;http
 GLFDACLA-OST-MP;G&L USA Fullerton Deluxe ASAT Classic Alnico - Old School Tobacco;1;https://www.music-park.sk/produkt/elektricke-kytary/2839/usa-fullerton-deluxe-asat-classic-alnico-old-school-tobacco
 GLFDPL2000-GRY-MP;G&L USA Fullerton Deluxe L-2000 - Grey Pearl;0;https://www.music-park.sk/produkt/elektricke-baskytary/2840/usa-fullerton-deluxe-l-2000-grey-pearl
 KRKEYSTAGE49;KORG Keystage 49;10;https://www.music-park.sk/produkt/midi-kontrolery/2841/keystage-49
-KRKEYSTAGE61;KORG Keystage 61;1;https://www.music-park.sk/produkt/midi-kontrolery/2842/keystage-61
+KRKEYSTAGE61;KORG Keystage 61;0;https://www.music-park.sk/produkt/midi-kontrolery/2842/keystage-61
 MBH110122;Markbass Little Marcus 58R;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/2843/little-marcus-58r
 MBA195129;Markbass MB58R Cover CMD - M;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/2844/mb58r-cover-cmd-m
 MBA195130;Markbass MB58R Cover CMD - L;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/2845/mb58r-cover-cmd-l
-QL10.01021;Quik Lok MKS/4;2;https://www.music-park.sk/produkt/klavesove-stojany/2846/mks-4
+QL10.01021;Quik Lok MKS/4;1;https://www.music-park.sk/produkt/klavesove-stojany/2846/mks-4
 KRSQMPLARGEMSG;Sequenz MP-Large MSG;20;https://www.music-park.sk/produkt/klavesove-obaly/2847/mp-large-msg
 VXMK5MINIBK;VOX Mark V mini BK;4;https://www.music-park.sk/produkt/elektricke-kytary/2848/mark-v-mini-bk
 VXMK5MINIWH;VOX Mark V mini WH;2;https://www.music-park.sk/produkt/elektricke-kytary/2849/mark-v-mini-wh
@@ -2234,7 +2236,7 @@ EK05130060;EKO S-300 Metallic Blue;5;https://www.music-park.sk/produkt/elektrick
 EK05130130;EKO S-300 LH Black;4;https://www.music-park.sk/produkt/elektricke-kytary/2859/s-300-lh-black
 KRKPREPLAY;KORG KAOSS Replay;5;https://www.music-park.sk/produkt/produkcni-nastroje/2861/kaoss-replay
 KRMPS10;KORG MPS-10;10;https://www.music-park.sk/produkt/elektronicke-bici/2862/mps-10
-KRMODWAVEMK2;KORG Modwave mk II;4;https://www.music-park.sk/produkt/digitalni-syntezatory/2863/modwave-mk-ii
+KRMODWAVEMK2;KORG Modwave mk II;3;https://www.music-park.sk/produkt/digitalni-syntezatory/2863/modwave-mk-ii
 EK05130071;EKO S-100 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-kytary/2865/s-100-chrome-red
 EK05130072;EKO S-100 Metallic Blue;2;https://www.music-park.sk/produkt/elektricke-kytary/2866/s-100-metallic-blue
 EK05130100;EKO S-350 Sunburst Flamed;5;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
@@ -2354,7 +2356,7 @@ DR1BKB5130;DR Strings Black Beauties BKB5-130;0;https://www.music-park.sk/produk
 DR1BKB630;DR Strings Black Beauties BKB6-30;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3023/black-beauties-bkb6-30
 GLS500-CLF-HNB-CR;G&L USA CLF Research S500 - Honeyburst;1;https://www.music-park.sk/produkt/elektricke-kytary/3024/usa-clf-research-s500-honeyburst
 VXAC4HWR1;VOX AC4 Hand-Wired;4;https://www.music-park.sk/produkt/kytarova-komba/3025/ac4-hand-wired
-VXAC10HWR1;VOX AC10 Hand-Wired;2;https://www.music-park.sk/produkt/kytarova-komba/3026/ac10-hand-wired
+VXAC10HWR1;VOX AC10 Hand-Wired;0;https://www.music-park.sk/produkt/kytarova-komba/3026/ac10-hand-wired
 VXAC15HWR1X;VOX AC15 Hand-Wired;3;https://www.music-park.sk/produkt/kytarova-komba/3028/ac15-hand-wired
 VXAC30HWR2X;VOX AC30 Hand-Wired;0;https://www.music-park.sk/produkt/kytarova-komba/3030/ac30-hand-wired
 VXAPC1BL;VOX APC-1 BL;2;https://www.music-park.sk/produkt/elektricke-kytary/3033/apc-1-bl
@@ -2393,7 +2395,7 @@ EK06204190;EKO CS-10 Red Burst;5;https://www.music-park.sk/produkt/klasicke-kyta
 EK06204170;EKO CS-10 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3072/cs-10-sunburst
 EK06204108;EKO CS-5 Blue Burst;5;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
 EK06130065;EKO CS-5 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3077/cs-5-pack
-FDFNI40100;Fodera STR-4-40100-N;20;https://www.music-park.sk/produkt/struny-na-baskytary/3079/str-4-40100-n
+FDFNI40100;Fodera STR-4-40100-N;15;https://www.music-park.sk/produkt/struny-na-baskytary/3079/str-4-40100-n
 FDFNI45105;Fodera STR-4-45105-N;20;https://www.music-park.sk/produkt/struny-na-baskytary/3080/str-4-45105-n
 FDFNI40120UL;Fodera STR-5-40120-N-UL;10;https://www.music-park.sk/produkt/struny-na-baskytary/3081/str-5-40120-n-ul
 FDFNI28100;Fodera STR-5-28100-N;5;https://www.music-park.sk/produkt/struny-na-baskytary/3082/str-5-28100-n
@@ -2402,7 +2404,7 @@ FDFNI34105;Fodera STR-5-34105-N;5;https://www.music-park.sk/produkt/struny-na-ba
 FDFNI45125;Fodera STR-5-45125-N;15;https://www.music-park.sk/produkt/struny-na-baskytary/3085/str-5-45125-n
 FDFNI45130;Fodera STR-5-45130-N;5;https://www.music-park.sk/produkt/struny-na-baskytary/3086/str-5-45130-n
 FDFNI28100XS;Fodera STR-5-28100-N-XS;4;https://www.music-park.sk/produkt/struny-na-baskytary/3087/str-5-28100-n-xs
-FDFNI34105XS;Fodera STR-5-34105-N-XS;4;https://www.music-park.sk/produkt/struny-na-baskytary/3088/str-5-34105-n-xs
+FDFNI34105XS;Fodera STR-5-34105-N-XS;3;https://www.music-park.sk/produkt/struny-na-baskytary/3088/str-5-34105-n-xs
 FDFNI45125XS;Fodera STR-5-45125-N-XS;10;https://www.music-park.sk/produkt/struny-na-baskytary/3089/str-5-45125-n-xs
 FDFNI28120;Fodera STR-6-28120-N;5;https://www.music-park.sk/produkt/struny-na-baskytary/3090/str-6-28120-n
 FDFNI34125;Fodera STR-6-34125-N;5;https://www.music-park.sk/produkt/struny-na-baskytary/3091/str-6-34125-n
@@ -2454,7 +2456,7 @@ KRPC400PB;KORG PC-400-PB;0;https://www.music-park.sk/produkt/stolicky-a-lavice/3
 VXAC10C1TTBC;VOX AC10C1 TTBC;0;https://www.music-park.sk/produkt/kytarova-komba/3140/ac10c1-ttbc
 VXAC15C1TTBC;VOX AC15C1 TTBC;0;https://www.music-park.sk/produkt/kytarova-komba/3141/ac15c1-ttbc
 VXAC30C2TTBC;VOX AC30C2 TTBC;1;https://www.music-park.sk/produkt/kytarova-komba/3142/ac30c2-ttbc
-AGTHPREPEDAL;Aguilar Tone Hammer Preamp;15;https://www.music-park.sk/produkt/baskytarove-efekty/3145/tone-hammer-preamp
+AGTHPREPEDAL;Aguilar Tone Hammer Preamp;10;https://www.music-park.sk/produkt/baskytarove-efekty/3145/tone-hammer-preamp
 MBH110023XX;Markbass Little Mark Tube 800 (Demo);0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3150/little-mark-tube-800-demo
 DR2DEQ9;DR Strings Dragon Skin+ DEQ-9;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3151/dragon-skin-deq-9
 DR2DEQ946;DR Strings Dragon Skin+ DEQ-9/46;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3152/dragon-skin-deq-9-46
@@ -2485,7 +2487,7 @@ DR1DBSM45;DR Strings Dragon Skin+ Multi-Scale DBSM-45;10;https://www.music-park.
 DR1DBSM545;DR Strings Dragon Skin+ Multi-Scale DBSM5-45;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3177/dragon-skin-multi-scale-dbsm5-45
 DR1DBSM630;DR Strings Dragon Skin+ Multi-Scale DBSM6-30;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3178/dragon-skin-multi-scale-dbsm6-30
 DR1DBQ40;DR Strings Dragon Skin+ DBQ-40;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3179/dragon-skin-dbq-40
-DR1DBQ45100;DR Strings Dragon Skin+ DBQ-45/100;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3180/dragon-skin-dbq-45-100
+DR1DBQ45100;DR Strings Dragon Skin+ DBQ-45/100;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3180/dragon-skin-dbq-45-100
 DR1DBQ45;DR Strings Dragon Skin+ DBQ-45;20;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3181/dragon-skin-dbq-45
 DR1DBQ540;DR Strings Dragon Skin+ DBQ5-40;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3182/dragon-skin-dbq5-40
 DR1DBQ545;DR Strings Dragon Skin+ DBQ5-45;15;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3183/dragon-skin-dbq5-45
@@ -2524,13 +2526,13 @@ MBH110121;Markbass Little AG 58R;0;https://www.music-park.sk/produkt/baskytarove
 MBC105113;Markbass MB CMD 151 GOG;0;https://www.music-park.sk/produkt/baskytarova-komba/3217/mb-cmd-151-gog
 KRMULTIPOLYM;KORG Multi/Poly Module;10;https://www.music-park.sk/produkt/digitalni-syntezatory/3218/multi-poly-module
 KRTUPST1SV;KORG Pitchstrap Silver;10;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/3219/pitchstrap-silver
-KRTUPST1GD;KORG Pitchstrap Gold;2;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/3220/pitchstrap-gold
+KRTUPST1GD;KORG Pitchstrap Gold;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/3220/pitchstrap-gold
 KRTUPST1BK;KORG Pitchstrap Black;20;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/3221/pitchstrap-black
 KRPIANOREC;KORG PianoRec;15;https://www.music-park.sk/produkt/digitalni-piana/3222/pianorec
 MBH110132;Markbass Little Marcus 1000 58R;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3223/little-marcus-1000-58r
 KRPS3300;KORG PS-3300;0;https://www.music-park.sk/produkt/analogove-syntezatory/3225/ps-3300
 KRMINI700SM;KORG miniKORG 700Sm;10;https://www.music-park.sk/produkt/analogove-syntezatory/3226/minikorg-700sm
-VXPF10RD;VOX Pathfinder 10 Red;20;https://www.music-park.sk/produkt/kytarova-komba/3227/pathfinder-10-red
+VXPF10RD;VOX Pathfinder 10 Red;15;https://www.music-park.sk/produkt/kytarova-komba/3227/pathfinder-10-red
 KRTUPBXBL;KORG Pitchblack X BL;10;https://www.music-park.sk/produkt/chromaticke-ladicky/3228/pitchblack-x-bl
 KRTUPBXCR;KORG Pitchblack X CR;10;https://www.music-park.sk/produkt/chromaticke-ladicky/3229/pitchblack-x-cr
 QL10.00919;Quik Lok LPH001;4;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/3230/lph001
@@ -2559,7 +2561,7 @@ MBH110126;Markbass Little Mark Casa 58R;0;https://www.music-park.sk/produkt/bask
 QL10.01071;Quik Lok SW702;5;https://www.music-park.sk/produkt/kytarove-stojany/3256/sw702
 MBC105114;Markbass CMB 102 Black Line;0;https://www.music-park.sk/produkt/baskytarova-komba/3257/cmb-102-black-line
 GLFDASATZ3-3TS-RW;G&L USA Fullerton Deluxe ASAT Z-3 3-Tone Sunburst;0;https://www.music-park.sk/produkt/elektricke-kytary/3258/usa-fullerton-deluxe-asat-z-3-3-tone-sunburst
-KRB2+BK;KORG B2+ BK;20;https://www.music-park.sk/produkt/digitalni-piana/3259/b2-bk
+KRB2+BK;KORG B2+ BK;15;https://www.music-park.sk/produkt/digitalni-piana/3259/b2-bk
 KRB2+WH;KORG B2+ WH;20;https://www.music-park.sk/produkt/digitalni-piana/3260/b2-wh
 KRB2+SPBK;KORG B2+SP BK;4;https://www.music-park.sk/produkt/digitalni-piana/3261/b2sp-bk
 KRB2+SPWH;KORG B2+SP WH;20;https://www.music-park.sk/produkt/digitalni-piana/3262/b2sp-wh

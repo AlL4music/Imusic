@@ -2,8 +2,6 @@ name: Kytary B2B Feed
 
 on:
   workflow_dispatch: # Manual trigger button
-  schedule:
-    - cron: '0 5 * * *' # Daily at 5:00 AM UTC
 
 jobs:
   fetch-feed:

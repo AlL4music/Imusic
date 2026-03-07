@@ -5,7 +5,9 @@
   "delimiter": ",",
   "columns": {
     "sku": "Item ID",
-    "quantity": "Sklad"
+    "quantity": "Sklad",
+    "name": "Popis",
+    "brand": "Znacka"
   },
   "match_by": "sku",
   "warehouse_id": 2

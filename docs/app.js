@@ -104,26 +104,43 @@ async function loadCsvFiles() {
   }
 }
 
-async function fetchCsvPreview(url, delimiter, maxRows) {
+async function fetchCsvPreview(url, delimiter, maxRows, quoteChar) {
   maxRows = maxRows || 20;
   const res = await fetch(url);
   if (!res.ok) throw new Error(`Failed to fetch CSV: ${res.status}`);
   const text = await res.text();
 
+  const parseConfig = {
+    header: true,
+    preview: maxRows,
+    skipEmptyLines: true,
+    complete: () => {}
+  };
+
+  // Delimiter: auto-detect or explicit
+  if (delimiter && delimiter !== 'auto') {
+    parseConfig.delimiter = delimiter;
+  }
+  // else PapaParse auto-detects
+
+  // Quote character
+  if (quoteChar === '') {
+    parseConfig.quoteChar = '\0'; // effectively no quoting
+  } else if (quoteChar) {
+    parseConfig.quoteChar = quoteChar;
+  }
+  // else default double-quote
+
   return new Promise((resolve) => {
-    Papa.parse(text, {
-      delimiter: delimiter || ';',
-      header: true,
-      preview: maxRows,
-      skipEmptyLines: true,
-      complete: (results) => {
-        resolve({
-          headers: results.meta.fields || [],
-          rows: results.data,
-          totalRows: text.split('\n').length - 1
-        });
-      }
-    });
+    parseConfig.complete = (results) => {
+      resolve({
+        headers: results.meta.fields || [],
+        rows: results.data,
+        totalRows: text.split('\n').length - 1,
+        detectedDelimiter: results.meta.delimiter
+      });
+    };
+    Papa.parse(text, parseConfig);
   });
 }
 
@@ -250,7 +267,18 @@ function renderFeedEdit(container) {
         <select id="f-delimiter">
           <option value=";" ${f.delimiter === ';' ? 'selected' : ''}>Semicolon (;)</option>
           <option value="," ${f.delimiter === ',' ? 'selected' : ''}>Comma (,)</option>
-          <option value="\t" ${f.delimiter === '\t' ? 'selected' : ''}>Tab</option>
+          <option value="\t" ${f.delimiter === '\t' ? 'selected' : ''}>Tab (\\t)</option>
+          <option value="|" ${f.delimiter === '|' ? 'selected' : ''}>Pipe (|)</option>
+          <option value="auto" ${f.delimiter === 'auto' ? 'selected' : ''}>Auto-detect</option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <label>Quote Character <span class="label-hint">(how values are wrapped)</span></label>
+        <select id="f-quotechar">
+          <option value="&quot;" ${(f.quote_char || '"') === '"' ? 'selected' : ''}>Double quote (")</option>
+          <option value="'" ${f.quote_char === "'" ? 'selected' : ''}>Single quote (')</option>
+          <option value="" ${f.quote_char === '' ? 'selected' : ''}>None</option>
         </select>
       </div>
 
@@ -273,6 +301,21 @@ function renderFeedEdit(container) {
       <div class="form-row">
         <label>Quantity Column</label>
         <input type="text" id="f-col-qty" value="${esc(f.columns?.quantity || 'Pocet_ks')}" placeholder="Column name for quantity">
+      </div>
+
+      <div class="form-row">
+        <label>Product Name Column <span class="label-hint">(optional — for Feed Prep dashboard)</span></label>
+        <input type="text" id="f-col-name" value="${esc(f.columns?.name || '')}" placeholder="e.g. Nazov, ProductName, Popis">
+      </div>
+
+      <div class="form-row">
+        <label>Brand Column <span class="label-hint">(optional — for brand filtering)</span></label>
+        <input type="text" id="f-col-brand" value="${esc(f.columns?.brand || '')}" placeholder="e.g. marke, Značka, Brand">
+      </div>
+
+      <div class="form-row">
+        <label>URL Column <span class="label-hint">(optional — source link)</span></label>
+        <input type="text" id="f-col-url" value="${esc(f.columns?.url || '')}" placeholder="e.g. URL, ProductUrl">
       </div>
 
       <div class="form-row">
@@ -306,6 +349,8 @@ function renderFeedEdit(container) {
 
   $('#btn-preview').addEventListener('click', previewCsv);
   $('#btn-save').addEventListener('click', saveFeed);
+  $('#f-delimiter').addEventListener('change', () => { if ($('#f-csv-url').value) previewCsv(); });
+  $('#f-quotechar').addEventListener('change', () => { if ($('#f-csv-url').value) previewCsv(); });
 
   // Match help text + dynamic label
   function updateMatchHelp() {
@@ -343,6 +388,7 @@ function renderFeedEdit(container) {
 async function previewCsv() {
   const url = $('#f-csv-url').value.trim();
   const delimiter = $('#f-delimiter').value;
+  const quoteChar = $('#f-quotechar').value;
   const container = $('#csv-preview-container');
 
   if (!url) {
@@ -353,23 +399,34 @@ async function previewCsv() {
   container.innerHTML = '<div class="panel"><div class="loading"><div class="spinner"></div><p>Loading CSV...</p></div></div>';
 
   try {
-    csvPreviewData = await fetchCsvPreview(url, delimiter, 20);
+    csvPreviewData = await fetchCsvPreview(url, delimiter, 20, quoteChar);
     const skuCol = $('#f-col-sku').value;
     const qtyCol = $('#f-col-qty').value;
+    const nameCol = $('#f-col-name').value;
+    const brandCol = $('#f-col-brand').value;
+    const urlCol = $('#f-col-url').value;
 
     const matchVal = $('#f-match').value;
     const matchLabels = { 'old_shop_sku': 'Identifier', 'sku': 'SKU', 'model': 'Model', 'ean': 'EAN' };
     const idLabel = matchLabels[matchVal] || 'Identifier';
 
+    // Show detected delimiter if auto
+    const delimNote = delimiter === 'auto' && csvPreviewData.detectedDelimiter
+      ? ` — detected delimiter: "${esc(csvPreviewData.detectedDelimiter)}"`
+      : '';
+
     let html = `<div class="panel">
-      <h2>CSV Preview <span style="font-size:14px;color:#999;">(${csvPreviewData.totalRows} rows total, showing first 20)</span></h2>
-      <p class="click-hint">💡 Click a column header to assign it as <strong>${esc(idLabel)}</strong> or <strong>Quantity</strong></p>
+      <h2>CSV Preview <span style="font-size:14px;color:#999;">(${csvPreviewData.totalRows} rows total, showing first 20${delimNote})</span></h2>
+      <p class="click-hint">💡 Click a column header to assign it as <strong>${esc(idLabel)}</strong>, <strong>Quantity</strong>, <strong>Name</strong>, <strong>Brand</strong>, or <strong>URL</strong></p>
       <div class="csv-preview"><table><thead><tr><th class="row-num">#</th>`;
 
     for (const h of csvPreviewData.headers) {
       let mappedAs = '';
       if (h === skuCol) mappedAs = idLabel;
       else if (h === qtyCol) mappedAs = 'Qty';
+      else if (h === nameCol) mappedAs = 'Name';
+      else if (h === brandCol) mappedAs = 'Brand';
+      else if (h === urlCol) mappedAs = 'URL';
       const isMapped = mappedAs !== '';
       html += `<th class="${isMapped ? 'mapped' : 'clickable-col'}" data-col="${esc(h)}">${esc(h)}${isMapped ? ' ✓ ' + mappedAs : ''}</th>`;
     }
@@ -393,16 +450,35 @@ async function previewCsv() {
         const current = [];
         if ($('#f-col-sku').value === col) current.push(idLabel);
         if ($('#f-col-qty').value === col) current.push('Qty');
+        if ($('#f-col-name').value === col) current.push('Name');
+        if ($('#f-col-brand').value === col) current.push('Brand');
+        if ($('#f-col-url').value === col) current.push('URL');
 
         const choice = prompt(
-          'Assign column "' + col + '" as:\\n' +
-          '1 = ' + idLabel + ' column\\n' +
-          '2 = Quantity column\\n' +
+          'Assign column "' + col + '" as:\n' +
+          '1 = ' + idLabel + ' column\n' +
+          '2 = Quantity column\n' +
+          '3 = Product Name column\n' +
+          '4 = Brand column\n' +
+          '5 = URL column\n' +
+          '0 = Clear assignment\n' +
           (current.length ? '(Currently: ' + current.join(', ') + ')' : ''),
-          '1'
+          current.length ? '' : '1'
         );
         if (choice === '1') { $('#f-col-sku').value = col; toast('"' + col + '" → ' + idLabel, 'success'); }
         else if (choice === '2') { $('#f-col-qty').value = col; toast('"' + col + '" → Quantity', 'success'); }
+        else if (choice === '3') { $('#f-col-name').value = col; toast('"' + col + '" → Name', 'success'); }
+        else if (choice === '4') { $('#f-col-brand').value = col; toast('"' + col + '" → Brand', 'success'); }
+        else if (choice === '5') { $('#f-col-url').value = col; toast('"' + col + '" → URL', 'success'); }
+        else if (choice === '0') {
+          // Clear any assignment matching this column
+          if ($('#f-col-sku').value === col) $('#f-col-sku').value = '';
+          if ($('#f-col-qty').value === col) $('#f-col-qty').value = '';
+          if ($('#f-col-name').value === col) $('#f-col-name').value = '';
+          if ($('#f-col-brand').value === col) $('#f-col-brand').value = '';
+          if ($('#f-col-url').value === col) $('#f-col-url').value = '';
+          toast('"' + col + '" cleared', 'success');
+        }
         if (choice) previewCsv(); // refresh to update highlights
       });
     });
@@ -412,12 +488,24 @@ async function previewCsv() {
       const headers = csvPreviewData.headers;
       // Suggest column names if current values don't match
       if (!headers.includes($('#f-col-sku').value)) {
-        const skuGuess = headers.find(h => h.toLowerCase().includes('sku') || h.toLowerCase().includes('code'));
+        const skuGuess = headers.find(h => h.toLowerCase().includes('sku') || h.toLowerCase().includes('code') || h.toLowerCase() === 'id');
         if (skuGuess) $('#f-col-sku').value = skuGuess;
       }
       if (!headers.includes($('#f-col-qty').value)) {
-        const qtyGuess = headers.find(h => h.toLowerCase().includes('pocet') || h.toLowerCase().includes('qty') || h.toLowerCase().includes('quantity') || h.toLowerCase().includes('stock'));
+        const qtyGuess = headers.find(h => h.toLowerCase().includes('pocet') || h.toLowerCase().includes('qty') || h.toLowerCase().includes('quantity') || h.toLowerCase().includes('stock') || h.toLowerCase().includes('available'));
         if (qtyGuess) $('#f-col-qty').value = qtyGuess;
+      }
+      if (!$('#f-col-name').value && !headers.includes($('#f-col-name').value)) {
+        const nameGuess = headers.find(h => h.toLowerCase().includes('nazov') || h.toLowerCase().includes('productname') || h.toLowerCase().includes('name') || h.toLowerCase().includes('popis'));
+        if (nameGuess) $('#f-col-name').value = nameGuess;
+      }
+      if (!$('#f-col-brand').value && !headers.includes($('#f-col-brand').value)) {
+        const brandGuess = headers.find(h => h.toLowerCase().includes('brand') || h.toLowerCase().includes('marke') || h.toLowerCase().includes('značka') || h.toLowerCase().includes('manufacturer'));
+        if (brandGuess) $('#f-col-brand').value = brandGuess;
+      }
+      if (!$('#f-col-url').value && !headers.includes($('#f-col-url').value)) {
+        const urlGuess = headers.find(h => h.toLowerCase().includes('url') || h.toLowerCase().includes('link'));
+        if (urlGuess) $('#f-col-url').value = urlGuess;
       }
     }
   } catch (err) {
@@ -429,18 +517,33 @@ async function saveFeed() {
   const name = $('#f-name').value.trim();
   if (!name) { toast('Please enter a feed name', 'error'); return; }
 
+  const columns = {
+    sku: $('#f-col-sku').value.trim(),
+    quantity: $('#f-col-qty').value.trim()
+  };
+  // Only include optional columns if they have a value
+  const nameCol = $('#f-col-name').value.trim();
+  const brandCol = $('#f-col-brand').value.trim();
+  const urlCol = $('#f-col-url').value.trim();
+  if (nameCol) columns.name = nameCol;
+  if (brandCol) columns.brand = brandCol;
+  if (urlCol) columns.url = urlCol;
+
   const feedData = {
     name: name,
     enabled: $('#f-enabled').checked,
     csv_url: $('#f-csv-url').value.trim(),
     delimiter: $('#f-delimiter').value,
-    columns: {
-      sku: $('#f-col-sku').value.trim(),
-      quantity: $('#f-col-qty').value.trim()
-    },
+    columns: columns,
     match_by: $('#f-match').value,
     warehouse_id: parseInt($('#f-warehouse').value)
   };
+
+  // Only include quote_char if not default (double quote)
+  const quoteChar = $('#f-quotechar').value;
+  if (quoteChar !== '"') {
+    feedData.quote_char = quoteChar;
+  }
 
   const filename = name.toLowerCase().replace(/[^a-z0-9]/g, '_') + '.json';
   const path = `${FEEDS_PATH}/${filename}`;

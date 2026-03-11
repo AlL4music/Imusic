@@ -1,0 +1,75 @@
+name: SEO Health Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * *'  # Daily at 7:00 UTC (after scrapers finish at 6:00)
+
+jobs:
+  seo-check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run SEO checks
+        id: seo
+        continue-on-error: true
+        run: python -u seo_check.py
+
+      - name: Commit SEO report
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Keep history of reports
+          if [ -f reports/seo_report.json ]; then
+            DATE=$(date +'%Y-%m-%d')
+            cp reports/seo_report.json "reports/seo_report_${DATE}.json"
+          fi
+
+          git add reports/
+
+          if git diff --staged --quiet; then
+            echo "No changes in SEO report."
+          else
+            git commit -m "SEO report: $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+      - name: Check for critical issues
+        if: steps.seo.outcome == 'failure'
+        run: |
+          echo "::warning::SEO check found critical issues! Check reports/seo_report.json"
+          # Extract summary from report
+          if [ -f reports/seo_report.json ]; then
+            python3 -c "
+          import json
+          with open('reports/seo_report.json') as f:
+              r = json.load(f)
+          s = r['summary']
+          print(f'Errors: {s[\"errors\"]}, Warnings: {s[\"warnings\"]}, Info: {s[\"info\"]}')
+          # Print all errors
+          for section in r['global_checks'].values():
+              for i in section.get('issues', []):
+                  if i['severity'] == 'error':
+                      print(f'  ERROR: {i[\"msg\"]}')
+          for page in r['pages']:
+              for i in page.get('issues', []):
+                  if i['severity'] == 'error':
+                      print(f'  ERROR [{page[\"url\"]}]: {i[\"msg\"]}')
+          "
+          fi

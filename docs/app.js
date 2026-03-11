@@ -652,9 +652,141 @@ function toast(msg, type) {
   setTimeout(() => el.remove(), 3000);
 }
 
+// ============ SEO Dashboard ============
+
+let seoReport = null;
+
+async function loadSeoReport() {
+  try {
+    const data = await ghGet('reports/seo_report.json');
+    seoReport = JSON.parse(decodeURIComponent(escape(atob(data.content))));
+    return seoReport;
+  } catch (e) {
+    seoReport = null;
+    return null;
+  }
+}
+
+function renderSeo(container) {
+  container.innerHTML = '<div class="loading"><div class="spinner"></div><p>Loading SEO report...</p></div>';
+
+  loadSeoReport().then(report => {
+    if (!report) {
+      container.innerHTML = `<div class="panel">
+        <h2>SEO Health Dashboard</h2>
+        <p>No SEO report found yet. Run the SEO Health Check workflow from GitHub Actions, or wait for it to run automatically.</p>
+      </div>`;
+      return;
+    }
+
+    const s = report.summary;
+    let html = `
+      <div class="panel">
+        <h2>SEO Health Dashboard</h2>
+        <p class="seo-timestamp">Last check: ${new Date(report.timestamp).toLocaleString()} | Site: ${esc(report.site_url)}</p>
+
+        <div class="seo-summary">
+          <div class="seo-stat errors"><div class="num">${s.errors}</div><div class="label">Errors</div></div>
+          <div class="seo-stat warnings"><div class="num">${s.warnings}</div><div class="label">Warnings</div></div>
+          <div class="seo-stat info"><div class="num">${s.info}</div><div class="label">Info</div></div>
+        </div>
+      </div>`;
+
+    // Global checks
+    for (const [name, section] of Object.entries(report.global_checks || {})) {
+      if (section.issues && section.issues.length > 0) {
+        html += `<div class="panel"><div class="seo-section">
+          <div class="seo-section-title">${esc(name.replace(/_/g, ' ').toUpperCase())}</div>`;
+
+        // Show relevant info
+        if (section.info) {
+          html += '<dl class="seo-meta-grid">';
+          for (const [k, v] of Object.entries(section.info)) {
+            if (v !== null && v !== undefined && k !== 'content') {
+              const display = typeof v === 'object' ? JSON.stringify(v) : String(v);
+              html += `<dt>${esc(k.replace(/_/g, ' '))}</dt><dd>${esc(display.slice(0, 200))}</dd>`;
+            }
+          }
+          html += '</dl>';
+        }
+
+        for (const issue of section.issues) {
+          const icon = {error: 'X', warning: '!', info: 'i'}[issue.severity];
+          html += `<div class="seo-issue ${issue.severity}">
+            <span class="icon">${icon}</span>
+            <span>${esc(issue.msg)}</span>
+          </div>`;
+        }
+        html += '</div></div>';
+      }
+    }
+
+    // Per-page checks
+    for (const page of report.pages || []) {
+      html += `<div class="panel"><div class="seo-section">
+        <div class="seo-section-title">PAGE: ${esc(page.url)}</div>`;
+
+      if (page.checks) {
+        // Show key meta info
+        const meta = page.checks.meta_tags;
+        if (meta) {
+          html += '<dl class="seo-meta-grid">';
+          if (meta.title) html += `<dt>Title</dt><dd>${esc(meta.title)}</dd>`;
+          if (meta.meta_description) html += `<dt>Description</dt><dd>${esc(meta.meta_description)}</dd>`;
+          if (meta.html_lang) html += `<dt>Language</dt><dd>${esc(meta.html_lang)}</dd>`;
+          if (meta.canonical) html += `<dt>Canonical</dt><dd>${esc(meta.canonical)}</dd>`;
+          html += '</dl>';
+        }
+
+        const hreflang = page.checks.hreflang;
+        if (hreflang && hreflang.hreflang_tags && hreflang.hreflang_tags.length > 0) {
+          html += '<dl class="seo-meta-grid">';
+          for (const tag of hreflang.hreflang_tags) {
+            html += `<dt>hreflang="${esc(tag.lang)}"</dt><dd>${esc(tag.href)}</dd>`;
+          }
+          html += '</dl>';
+        }
+      }
+
+      if (page.issues && page.issues.length > 0) {
+        for (const issue of page.issues) {
+          const icon = {error: 'X', warning: '!', info: 'i'}[issue.severity];
+          html += `<div class="seo-issue ${issue.severity}">
+            <span class="icon">${icon}</span>
+            <span>${esc(issue.msg)}</span>
+          </div>`;
+        }
+      } else {
+        html += '<p style="color:#2abb67;font-weight:600;">All checks passed!</p>';
+      }
+
+      html += '</div></div>';
+    }
+
+    container.innerHTML = html;
+  });
+}
+
 // ============ Init ============
+
+let activeTab = 'feeds'; // feeds | seo
 
 document.addEventListener('DOMContentLoaded', () => {
   initAuth();
   render();
+
+  // Tab navigation
+  document.querySelectorAll('.nav-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeTab = btn.dataset.view;
+      if (activeTab === 'seo') {
+        renderSeo($('#app'));
+      } else {
+        currentView = 'list';
+        render();
+      }
+    });
+  });
 });

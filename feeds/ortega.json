@@ -7,6 +7,6 @@
     "sku": "Product Code",
     "quantity": "Availability"
   },
-  "match_by": "old_shop_sku",
+  "match_by": "model",
   "warehouse_id": 2
 }

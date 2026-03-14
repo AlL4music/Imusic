@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T07:32:23.701997Z",
+  "timestamp": "2026-03-14T08:53:01.116170Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -151,14 +151,10 @@
     "robots_txt": {
       "info": {
         "exists": true,
-        "content": "User-agent: *\nDisallow: /*?page=$\nDisallow: /*&page=$\nDisallow: /*?sort=\nDisallow: /*&sort=\nDisallow: /*?order=\nDisallow: /*&order=\nDisallow: /*?limit=\nDisallow: /*&limit=\nDisallow: /*?filter_name=\nDisallow: /*&filter_name=\nDisallow: /*?filter_sub_category=\nDisallow: /*&filter_sub_category=\nDisallow: /*?filter_description=\nDisallow: /*&filter_description=\n",
-        "has_sitemap": false
+        "content": "User-agent: *\nDisallow: /admin/\nDisallow: /system/\nDisallow: /*?page=$\nDisallow: /*&page=$\nDisallow: /*?sort=\nDisallow: /*&sort=\nDisallow: /*?order=\nDisallow: /*&order=\nDisallow: /*?limit=\nDisallow: /*&limit=\nDisallow: /*?filter_name=\nDisallow: /*&filter_name=\nDisallow: /*?filter_sub_category=\nDisallow: /*&filter_sub_category=\nDisallow: /*?filter_description=\nDisallow: /*&filter_description=\nDisallow: /*?tracking=\nDisallow: /*&tracking=\n\nSitemap: https://new.all4music.sk/sitemap.xml\n",
+        "has_sitemap": true
       },
       "issues": [
-        {
-          "severity": "warning",
-          "msg": "robots.txt does not reference a Sitemap"
-        },
         {
           "severity": "error",
           "msg": "robots.txt may be blocking all crawlers"
@@ -167,12 +163,15 @@
     },
     "sitemap": {
       "info": {
-        "url": null
+        "url": "https://new.all4music.sk/sitemap.xml",
+        "size_bytes": 609,
+        "url_count": 4,
+        "has_hreflang_in_sitemap": false
       },
       "issues": [
         {
-          "severity": "error",
-          "msg": "No sitemap.xml found"
+          "severity": "warning",
+          "msg": "Sitemap does not include hreflang annotations. For multilingual sites, add <xhtml:link> entries for each language variant."
         }
       ]
     },
@@ -180,8 +179,8 @@
       "info": {
         "language_versions": {
           "sk": {
-            "url": "https://new.all4music.sk/index.php?route=common/home&language=en-gb",
-            "pattern": "query_param",
+            "url": "https://new.all4music.sk/en/",
+            "pattern": "path_prefix",
             "html_lang": "en",
             "title": "All4music.sk"
           }
@@ -196,10 +195,10 @@
     }
   },
   "summary": {
-    "errors": 5,
+    "errors": 4,
     "warnings": 11,
     "info": 0,
     "passed": 0,
-    "total_checks": 16
+    "total_checks": 15
   }
 }

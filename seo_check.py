@@ -226,8 +226,15 @@ def check_robots_txt(base_url):
         info['has_sitemap'] = 'sitemap' in content.lower()
         if not info['has_sitemap']:
             issues.append({'severity': 'warning', 'msg': 'robots.txt does not reference a Sitemap'})
-        if 'disallow: /' in content.lower() and 'disallow: /\n' not in content.lower():
-            issues.append({'severity': 'error', 'msg': 'robots.txt may be blocking all crawlers'})
+        # Check for blanket block-all: a bare "Disallow: /" line (not /admin/ etc.)
+        lines = [l.strip().lower() for l in content.split('\n')]
+        if 'disallow: /' in lines:
+            issues.append({'severity': 'error', 'msg': 'robots.txt is blocking all crawlers with "Disallow: /"'})
+        # Check there's no missing Allow directive when Disallow rules exist
+        has_disallow = any(l.startswith('disallow:') and l != 'disallow:' for l in lines)
+        has_allow = any(l.startswith('allow:') for l in lines)
+        if has_disallow and not has_allow:
+            issues.append({'severity': 'info', 'msg': 'Consider adding "Allow: /" to explicitly allow crawling of non-blocked paths'})
     else:
         info['exists'] = False
         issues.append({'severity': 'warning', 'msg': 'No robots.txt found'})
@@ -236,7 +243,7 @@ def check_robots_txt(base_url):
 
 
 def check_sitemap(base_url):
-    """Check sitemap.xml."""
+    """Check sitemap.xml (supports sitemap index files with sub-sitemaps)."""
     issues = []
     info = {}
 
@@ -253,18 +260,53 @@ def check_sitemap(base_url):
             info['url'] = sitemap_url
             info['size_bytes'] = len(resp.text)
 
-            # Count URLs in sitemap
-            url_count = resp.text.count('<loc>')
-            info['url_count'] = url_count
-            if url_count == 0:
-                issues.append({'severity': 'error', 'msg': f'Sitemap at {sitemap_url} contains 0 URLs'})
-            else:
-                print(f"  Sitemap found: {sitemap_url} ({url_count} URLs)")
+            # Detect if this is a sitemap index (contains <sitemapindex>)
+            is_index = '<sitemapindex' in resp.text
+            info['is_sitemap_index'] = is_index
 
-            # Check for language variants in sitemap
-            has_xhtml_link = 'xhtml:link' in resp.text or 'hreflang' in resp.text
-            info['has_hreflang_in_sitemap'] = has_xhtml_link
-            if not has_xhtml_link:
+            if is_index:
+                # Parse sub-sitemap URLs from the index
+                import re as _re
+                sub_urls = _re.findall(r'<loc>(.*?)</loc>', resp.text)
+                info['sub_sitemaps'] = len(sub_urls)
+                print(f"  Sitemap index found: {sitemap_url} ({len(sub_urls)} sub-sitemaps)")
+
+                # Fetch each sub-sitemap and count total URLs
+                total_urls = 0
+                total_bytes = len(resp.text)
+                has_xhtml_link = False
+                for sub_url in sub_urls:
+                    sub_resp, _ = fetch_page(sub_url.strip())
+                    if sub_resp and sub_resp.status_code == 200:
+                        sub_count = sub_resp.text.count('<loc>')
+                        total_urls += sub_count
+                        total_bytes += len(sub_resp.text)
+                        if 'xhtml:link' in sub_resp.text or 'hreflang' in sub_resp.text:
+                            has_xhtml_link = True
+                        print(f"    {sub_url.split('/')[-1]}: {sub_count} URLs")
+
+                info['url_count'] = total_urls
+                info['total_size_bytes'] = total_bytes
+                info['has_hreflang_in_sitemap'] = has_xhtml_link
+
+                if total_urls == 0:
+                    issues.append({'severity': 'error', 'msg': f'Sitemap index at {sitemap_url} contains 0 URLs across all sub-sitemaps'})
+                else:
+                    print(f"  Total URLs across all sub-sitemaps: {total_urls}")
+
+            else:
+                # Regular single sitemap
+                url_count = resp.text.count('<loc>')
+                info['url_count'] = url_count
+                if url_count == 0:
+                    issues.append({'severity': 'error', 'msg': f'Sitemap at {sitemap_url} contains 0 URLs'})
+                else:
+                    print(f"  Sitemap found: {sitemap_url} ({url_count} URLs)")
+
+                has_xhtml_link = 'xhtml:link' in resp.text or 'hreflang' in resp.text
+                info['has_hreflang_in_sitemap'] = has_xhtml_link
+
+            if not info.get('has_hreflang_in_sitemap'):
                 issues.append({
                     'severity': 'warning',
                     'msg': 'Sitemap does not include hreflang annotations. '

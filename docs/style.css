@@ -529,3 +529,183 @@ body {
 .audit-table a:hover {
   text-decoration: underline;
 }
+
+/* Clickable rows in issue/manufacturer tables */
+.mfr-row, .clickable-issue {
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.mfr-row:hover, .clickable-issue:hover {
+  background: #edf6fe !important;
+}
+.active-filter {
+  background: #e8f5e9 !important;
+}
+.active-filter:hover {
+  background: #c8e6c9 !important;
+}
+.filter-badge {
+  display: inline-block;
+  background: #4ecdc4;
+  color: #fff;
+  font-size: 10px;
+  padding: 1px 6px;
+  border-radius: 8px;
+  margin-left: 6px;
+  font-weight: 600;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+/* Filter toolbar */
+.filter-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 12px 0;
+  padding: 12px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #eee;
+}
+.filter-group {
+  flex-shrink: 0;
+}
+.filter-input {
+  padding: 7px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 13px;
+  width: 220px;
+  background: #fff;
+}
+.filter-input:focus {
+  border-color: #4ecdc4;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(78,205,196,0.15);
+}
+.filter-select {
+  padding: 7px 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 13px;
+  background: #fff;
+  cursor: pointer;
+}
+.filter-select:focus {
+  border-color: #4ecdc4;
+  outline: none;
+}
+.btn-clear-filters {
+  background: #e74c3c !important;
+  color: #fff !important;
+  border: none;
+  margin-left: auto;
+}
+.btn-clear-filters:hover {
+  background: #c0392b !important;
+}
+.filter-stats {
+  font-size: 13px;
+  color: #666;
+  padding: 4px 0 8px;
+}
+
+/* Product table enhancements */
+.product-table {
+  margin-top: 8px;
+}
+.product-table .cell-name {
+  max-width: 360px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.product-table .cell-model {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+  color: #888;
+}
+.product-link {
+  color: #3498db !important;
+  font-weight: 600;
+}
+.row-done {
+  opacity: 0.6;
+}
+.row-todo td:first-child {
+  border-left: 3px solid #e74c3c;
+}
+.row-done td:first-child {
+  border-left: 3px solid #2abb67;
+}
+
+/* Issue tags */
+.issue-tag {
+  display: inline-block;
+  background: #fdf0ef;
+  color: #e74c3c;
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 3px;
+  margin: 1px 2px;
+  border: 1px solid #f5c6cb;
+  white-space: nowrap;
+}
+
+/* Status badges */
+.status-done {
+  display: inline-block;
+  background: #d4edda;
+  color: #155724;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.status-todo {
+  display: inline-block;
+  background: #fde8e4;
+  color: #c0392b;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid #eee;
+  flex-wrap: wrap;
+}
+.page-btn {
+  min-width: 34px;
+  text-align: center;
+}
+.page-info {
+  font-size: 12px;
+  color: #999;
+  margin-left: 12px;
+}
+
+/* Responsive filter toolbar */
+@media (max-width: 768px) {
+  .filter-toolbar {
+    flex-direction: column;
+  }
+  .filter-input {
+    width: 100%;
+  }
+  .filter-select {
+    width: 100%;
+  }
+}

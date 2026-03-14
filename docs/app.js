@@ -770,8 +770,21 @@ function renderSeo(container) {
 // ============ Product Audit Dashboard ============
 
 let productAudit = null;
+let auditFilters = { search: '', manufacturer: '', issue: '', status: 'all', sort: 'score_asc' };
+let auditPage = 0;
+const AUDIT_PAGE_SIZE = 50;
 
 async function loadProductAudit() {
+  if (productAudit) return productAudit;
+  try {
+    // Try direct GitHub Pages URL first (faster, no base64)
+    const directUrl = `https://all4music.github.io/Imusic/reports/product_audit.json?_=${Date.now()}`;
+    const res = await fetch(directUrl);
+    if (res.ok) {
+      productAudit = await res.json();
+      return productAudit;
+    }
+  } catch (e) { /* fallback */ }
   try {
     const data = await ghGet('reports/product_audit.json');
     productAudit = JSON.parse(decodeURIComponent(escape(atob(data.content))));
@@ -780,6 +793,50 @@ async function loadProductAudit() {
     productAudit = null;
     return null;
   }
+}
+
+function getFilteredProducts(report) {
+  let products = report.products || [];
+
+  // Status filter
+  if (auditFilters.status === 'done') {
+    products = products.filter(p => (p.i || []).length === 0);
+  } else if (auditFilters.status === 'todo') {
+    products = products.filter(p => (p.i || []).length > 0);
+  }
+
+  // Manufacturer filter
+  if (auditFilters.manufacturer) {
+    products = products.filter(p => p.b === auditFilters.manufacturer);
+  }
+
+  // Issue filter
+  if (auditFilters.issue) {
+    products = products.filter(p => (p.i || []).includes(auditFilters.issue));
+  }
+
+  // Text search
+  if (auditFilters.search) {
+    const q = auditFilters.search.toLowerCase();
+    products = products.filter(p =>
+      (p.n || '').toLowerCase().includes(q) ||
+      (p.m || '').toLowerCase().includes(q) ||
+      String(p.id).includes(q)
+    );
+  }
+
+  // Sort
+  const [sortKey, sortDir] = auditFilters.sort.split('_');
+  const dir = sortDir === 'desc' ? -1 : 1;
+  products.sort((a, b) => {
+    if (sortKey === 'score') return (a.s - b.s) * dir;
+    if (sortKey === 'name') return (a.n || '').localeCompare(b.n || '') * dir;
+    if (sortKey === 'brand') return (a.b || '').localeCompare(b.b || '') * dir;
+    if (sortKey === 'id') return (a.id - b.id) * dir;
+    return 0;
+  });
+
+  return products;
 }
 
 function renderProducts(container) {
@@ -793,87 +850,298 @@ function renderProducts(container) {
       </div>`;
       return;
     }
+    renderProductsDashboard(container, report);
+  });
+}
 
-    const total = report.total_products;
-    const done = report.complete_count;
-    const todo = report.incomplete_count;
-    const pct = report.completeness_pct;
+function renderProductsDashboard(container, report) {
+  const total = report.total_products;
+  const done = report.complete_count;
+  const todo = report.incomplete_count;
+  const pct = report.completeness_pct;
 
-    let html = `
-      <div class="panel">
-        <h2>Product Completeness</h2>
-        <p class="seo-timestamp">Last audit: ${new Date(report.timestamp).toLocaleString()} | ${total.toLocaleString()} enabled products</p>
+  // Get filtered products
+  const filtered = getFilteredProducts(report);
+  const pageCount = Math.ceil(filtered.length / AUDIT_PAGE_SIZE);
+  if (auditPage >= pageCount) auditPage = Math.max(0, pageCount - 1);
+  const pageProducts = filtered.slice(auditPage * AUDIT_PAGE_SIZE, (auditPage + 1) * AUDIT_PAGE_SIZE);
 
-        <div class="seo-summary">
-          <div class="seo-stat" style="border-color:#2abb67"><div class="num" style="color:#2abb67">${done.toLocaleString()}</div><div class="label">Done</div></div>
-          <div class="seo-stat" style="border-color:#e67e22"><div class="num" style="color:#e67e22">${todo.toLocaleString()}</div><div class="label">Needs Work</div></div>
-          <div class="seo-stat" style="border-color:#3498db"><div class="num" style="color:#3498db">${pct}%</div><div class="label">Complete</div></div>
-        </div>
+  // Filtered stats
+  const filteredDone = filtered.filter(p => (p.i || []).length === 0).length;
+  const filteredTodo = filtered.length - filteredDone;
+  const filteredPct = filtered.length > 0 ? Math.round(filteredDone / filtered.length * 1000) / 10 : 0;
+  const isFiltered = auditFilters.search || auditFilters.manufacturer || auditFilters.issue || auditFilters.status !== 'all';
 
-        <div style="background:#eee;border-radius:8px;height:24px;margin:16px 0;overflow:hidden">
-          <div style="background:linear-gradient(90deg,#2abb67,#27ae60);height:100%;width:${pct}%;transition:width .5s;border-radius:8px"></div>
-        </div>
-      </div>`;
+  // Build manufacturers list for dropdown
+  const manufacturers = (report.by_manufacturer || []).map(m => m.name).sort();
 
-    // Issue breakdown
-    html += `<div class="panel"><h3>Issue Breakdown</h3><table class="audit-table"><thead><tr><th>Issue</th><th>Count</th><th>% of Products</th><th></th></tr></thead><tbody>`;
-    const issueOrder = ['no_description','short_description','no_image','no_seo_url','no_meta_title','no_meta_description','no_manufacturer','no_price','no_model','no_name','no_category','no_extra_images'];
-    for (const key of issueOrder) {
-      const issue = (report.issue_summary || {})[key];
-      if (!issue || issue.count === 0) continue;
-      const ipct = Math.round(issue.count / total * 100);
-      const isExtra = key === 'no_category' || key === 'no_extra_images';
-      html += `<tr${isExtra ? ' style="opacity:.5"' : ''}>
-        <td>${esc(issue.label)}</td>
-        <td style="text-align:right;font-weight:600">${issue.count.toLocaleString()}</td>
-        <td style="text-align:right">${ipct}%</td>
-        <td style="width:200px"><div style="background:#eee;border-radius:4px;height:12px;overflow:hidden"><div style="background:${isExtra ? '#bbb' : '#e74c3c'};height:100%;width:${ipct}%"></div></div></td>
+  // Issue labels
+  const issueLabels = {
+    no_name: 'Missing name', no_description: 'Missing description', short_description: 'Short description',
+    no_meta_title: 'Missing meta title', no_meta_description: 'Missing meta desc',
+    no_seo_url: 'Missing SEO URL', no_image: 'Missing image', no_manufacturer: 'No brand',
+    no_price: 'No price', no_model: 'Missing model'
+  };
+  const issueShort = {
+    no_name: 'Name', no_description: 'Desc', short_description: 'Short desc',
+    no_meta_title: 'Meta title', no_meta_description: 'Meta desc',
+    no_seo_url: 'SEO URL', no_image: 'Image', no_manufacturer: 'Brand',
+    no_price: 'Price', no_model: 'Model'
+  };
+
+  let html = `
+    <div class="panel">
+      <h2>Product Completeness</h2>
+      <p class="seo-timestamp">Last audit: ${new Date(report.timestamp).toLocaleString()} | ${total.toLocaleString()} enabled products</p>
+
+      <div class="seo-summary">
+        <div class="seo-stat" style="border-color:#2abb67"><div class="num" style="color:#2abb67">${done.toLocaleString()}</div><div class="label">Done</div></div>
+        <div class="seo-stat" style="border-color:#e67e22"><div class="num" style="color:#e67e22">${todo.toLocaleString()}</div><div class="label">Needs Work</div></div>
+        <div class="seo-stat" style="border-color:#3498db"><div class="num" style="color:#3498db">${pct}%</div><div class="label">Complete</div></div>
+      </div>
+
+      <div style="background:#eee;border-radius:8px;height:24px;margin:16px 0;overflow:hidden">
+        <div style="background:linear-gradient(90deg,#2abb67,#27ae60);height:100%;width:${pct}%;transition:width .5s;border-radius:8px"></div>
+      </div>
+    </div>`;
+
+  // Issue breakdown (clickable)
+  html += `<div class="panel"><h3>Issue Breakdown <span style="font-weight:400;font-size:13px;color:#888">— click to filter</span></h3><table class="audit-table"><thead><tr><th>Issue</th><th>Count</th><th>% of Products</th><th></th></tr></thead><tbody>`;
+  const issueOrder = ['no_description','short_description','no_image','no_seo_url','no_meta_title','no_meta_description','no_manufacturer','no_price','no_model','no_name','no_category','no_extra_images'];
+  for (const key of issueOrder) {
+    const issue = (report.issue_summary || {})[key];
+    if (!issue || issue.count === 0) continue;
+    const ipct = Math.round(issue.count / total * 100);
+    const isExtra = key === 'no_category' || key === 'no_extra_images';
+    const isActive = auditFilters.issue === key;
+    html += `<tr class="issue-row${isActive ? ' active-filter' : ''}${isExtra ? '' : ' clickable-issue'}" data-issue="${key}"${isExtra ? ' style="opacity:.5"' : ''}>
+      <td>${esc(issue.label)}${isActive ? ' <span class="filter-badge">filtered</span>' : ''}</td>
+      <td style="text-align:right;font-weight:600">${issue.count.toLocaleString()}</td>
+      <td style="text-align:right">${ipct}%</td>
+      <td style="width:200px"><div style="background:#eee;border-radius:4px;height:12px;overflow:hidden"><div style="background:${isExtra ? '#bbb' : '#e74c3c'};height:100%;width:${ipct}%"></div></div></td>
+    </tr>`;
+  }
+  html += '</tbody></table></div>';
+
+  // By manufacturer (clickable)
+  if (report.by_manufacturer && report.by_manufacturer.length > 0) {
+    html += `<div class="panel"><h3>By Manufacturer <span style="font-weight:400;font-size:13px;color:#888">— click to filter</span></h3><table class="audit-table"><thead><tr><th>Brand</th><th>Total</th><th>Done</th><th>Needs Work</th><th>%</th><th></th></tr></thead><tbody>`;
+    for (const m of report.by_manufacturer) {
+      const barColor = m.pct >= 80 ? '#2abb67' : m.pct >= 50 ? '#e67e22' : '#e74c3c';
+      const isActive = auditFilters.manufacturer === m.name;
+      html += `<tr class="mfr-row${isActive ? ' active-filter' : ''}" data-mfr="${esc(m.name)}">
+        <td style="font-weight:600">${esc(m.name)}${isActive ? ' <span class="filter-badge">filtered</span>' : ''}</td>
+        <td style="text-align:right">${m.total}</td>
+        <td style="text-align:right;color:#2abb67">${m.complete}</td>
+        <td style="text-align:right;color:#e74c3c">${m.incomplete}</td>
+        <td style="text-align:right;font-weight:600">${m.pct}%</td>
+        <td style="width:150px"><div style="background:#eee;border-radius:4px;height:12px;overflow:hidden"><div style="background:${barColor};height:100%;width:${m.pct}%"></div></div></td>
       </tr>`;
     }
     html += '</tbody></table></div>';
+  }
 
-    // By manufacturer
-    if (report.by_manufacturer && report.by_manufacturer.length > 0) {
-      html += `<div class="panel"><h3>By Manufacturer</h3><table class="audit-table"><thead><tr><th>Brand</th><th>Total</th><th>Done</th><th>Needs Work</th><th>%</th><th></th></tr></thead><tbody>`;
-      for (const m of report.by_manufacturer) {
-        const barColor = m.pct >= 80 ? '#2abb67' : m.pct >= 50 ? '#e67e22' : '#e74c3c';
-        html += `<tr>
-          <td style="font-weight:600">${esc(m.name)}</td>
-          <td style="text-align:right">${m.total}</td>
-          <td style="text-align:right;color:#2abb67">${m.complete}</td>
-          <td style="text-align:right;color:#e74c3c">${m.incomplete}</td>
-          <td style="text-align:right;font-weight:600">${m.pct}%</td>
-          <td style="width:150px"><div style="background:#eee;border-radius:4px;height:12px;overflow:hidden"><div style="background:${barColor};height:100%;width:${m.pct}%"></div></div></td>
-        </tr>`;
-      }
-      html += '</tbody></table></div>';
+  // Filter toolbar + product list
+  html += `<div class="panel" id="product-list-panel">
+    <h3>Products ${isFiltered ? '<span style="color:#e67e22;font-weight:400;font-size:14px">— filtered</span>' : ''}</h3>
+
+    <div class="filter-toolbar">
+      <div class="filter-group">
+        <input type="text" id="audit-search" class="filter-input" placeholder="Search name, model or ID..." value="${esc(auditFilters.search)}">
+      </div>
+      <div class="filter-group">
+        <select id="audit-mfr" class="filter-select">
+          <option value="">All brands</option>
+          ${manufacturers.map(m => `<option value="${esc(m)}"${auditFilters.manufacturer === m ? ' selected' : ''}>${esc(m)}</option>`).join('')}
+        </select>
+      </div>
+      <div class="filter-group">
+        <select id="audit-issue" class="filter-select">
+          <option value="">All issues</option>
+          ${Object.entries(issueLabels).map(([k, v]) => `<option value="${k}"${auditFilters.issue === k ? ' selected' : ''}>${v}</option>`).join('')}
+        </select>
+      </div>
+      <div class="filter-group">
+        <select id="audit-status" class="filter-select">
+          <option value="all"${auditFilters.status === 'all' ? ' selected' : ''}>All status</option>
+          <option value="todo"${auditFilters.status === 'todo' ? ' selected' : ''}>Needs Work</option>
+          <option value="done"${auditFilters.status === 'done' ? ' selected' : ''}>Done</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <select id="audit-sort" class="filter-select">
+          <option value="score_asc"${auditFilters.sort === 'score_asc' ? ' selected' : ''}>Score: Low first</option>
+          <option value="score_desc"${auditFilters.sort === 'score_desc' ? ' selected' : ''}>Score: High first</option>
+          <option value="name_asc"${auditFilters.sort === 'name_asc' ? ' selected' : ''}>Name: A-Z</option>
+          <option value="name_desc"${auditFilters.sort === 'name_desc' ? ' selected' : ''}>Name: Z-A</option>
+          <option value="brand_asc"${auditFilters.sort === 'brand_asc' ? ' selected' : ''}>Brand: A-Z</option>
+          <option value="id_asc"${auditFilters.sort === 'id_asc' ? ' selected' : ''}>ID: Low first</option>
+          <option value="id_desc"${auditFilters.sort === 'id_desc' ? ' selected' : ''}>ID: High first</option>
+        </select>
+      </div>
+      ${isFiltered ? '<button class="btn btn-sm btn-clear-filters" id="audit-clear">Clear filters</button>' : ''}
+    </div>
+
+    <div class="filter-stats">
+      Showing <strong>${filtered.length.toLocaleString()}</strong> products
+      ${isFiltered ? ` (of ${total.toLocaleString()})` : ''}
+      — <span style="color:#2abb67">${filteredDone.toLocaleString()} done</span>,
+      <span style="color:#e74c3c">${filteredTodo.toLocaleString()} needs work</span>
+      (${filteredPct}% complete)
+    </div>`;
+
+  // Products table
+  html += `<table class="audit-table product-table"><thead><tr>
+    <th style="width:60px">ID</th>
+    <th>Name</th>
+    <th style="width:100px">Model</th>
+    <th style="width:120px">Brand</th>
+    <th style="width:60px">Score</th>
+    <th>Missing</th>
+    <th style="width:60px">Status</th>
+  </tr></thead><tbody>`;
+
+  if (pageProducts.length === 0) {
+    html += '<tr><td colspan="7" style="text-align:center;padding:24px;color:#999">No products match your filters</td></tr>';
+  }
+
+  for (const p of pageProducts) {
+    const issues = p.i || [];
+    const isDone = issues.length === 0;
+    const scoreColor = p.s >= 100 ? '#2abb67' : p.s >= 80 ? '#2abb67' : p.s >= 50 ? '#e67e22' : '#e74c3c';
+    const missing = issues.map(i => issueShort[i] || i);
+    html += `<tr class="${isDone ? 'row-done' : 'row-todo'}">
+      <td><a href="https://all4.rentit.sk/admin/index.php?route=catalog/product/edit&product_id=${p.id}" target="_blank" class="product-link">${p.id}</a></td>
+      <td class="cell-name" title="${esc(p.n)}">${esc(p.n)}</td>
+      <td class="cell-model" title="${esc(p.m)}">${esc(p.m)}</td>
+      <td>${esc(p.b)}</td>
+      <td style="font-weight:700;color:${scoreColor}">${p.s}%</td>
+      <td>${isDone ? '' : missing.map(m => `<span class="issue-tag">${esc(m)}</span>`).join(' ')}</td>
+      <td>${isDone ? '<span class="status-done">Done</span>' : '<span class="status-todo">Todo</span>'}</td>
+    </tr>`;
+  }
+
+  html += '</tbody></table>';
+
+  // Pagination
+  if (pageCount > 1) {
+    html += '<div class="pagination">';
+    if (auditPage > 0) {
+      html += `<button class="btn btn-sm btn-secondary page-btn" data-page="0">First</button>`;
+      html += `<button class="btn btn-sm btn-secondary page-btn" data-page="${auditPage - 1}">&laquo; Prev</button>`;
     }
-
-    // Incomplete products list
-    if (report.incomplete_products && report.incomplete_products.length > 0) {
-      html += `<div class="panel"><h3>Products Needing Work <span style="font-weight:400;color:#888">(showing first ${report.incomplete_products.length})</span></h3>`;
-      html += `<table class="audit-table"><thead><tr><th>ID</th><th>Name</th><th>Brand</th><th>Score</th><th>Missing</th></tr></thead><tbody>`;
-      for (const p of report.incomplete_products) {
-        const scoreColor = p.score >= 80 ? '#2abb67' : p.score >= 50 ? '#e67e22' : '#e74c3c';
-        const missingLabels = {
-          no_name: 'Name', no_description: 'Desc', short_description: 'Short desc',
-          no_meta_title: 'Meta title', no_meta_description: 'Meta desc',
-          no_seo_url: 'SEO URL', no_image: 'Image', no_manufacturer: 'Brand',
-          no_price: 'Price', no_model: 'Model'
-        };
-        const missing = (p.issues || []).map(i => missingLabels[i] || i).join(', ');
-        html += `<tr>
-          <td><a href="https://all4.rentit.sk/admin/index.php?route=catalog/product/edit&product_id=${p.id}" target="_blank" style="color:#3498db">${p.id}</a></td>
-          <td>${esc(p.name)}</td>
-          <td>${esc(p.manufacturer)}</td>
-          <td style="font-weight:600;color:${scoreColor}">${p.score}%</td>
-          <td><span style="color:#e74c3c;font-size:12px">${esc(missing)}</span></td>
-        </tr>`;
-      }
-      html += '</tbody></table></div>';
+    // Show page numbers around current
+    const startPage = Math.max(0, auditPage - 3);
+    const endPage = Math.min(pageCount - 1, auditPage + 3);
+    for (let i = startPage; i <= endPage; i++) {
+      html += `<button class="btn btn-sm ${i === auditPage ? 'btn-primary' : 'btn-secondary'} page-btn" data-page="${i}">${i + 1}</button>`;
     }
+    if (auditPage < pageCount - 1) {
+      html += `<button class="btn btn-sm btn-secondary page-btn" data-page="${auditPage + 1}">Next &raquo;</button>`;
+      html += `<button class="btn btn-sm btn-secondary page-btn" data-page="${pageCount - 1}">Last</button>`;
+    }
+    html += `<span class="page-info">Page ${auditPage + 1} of ${pageCount}</span>`;
+    html += '</div>';
+  }
 
-    container.innerHTML = html;
+  html += '</div>'; // close panel
+
+  container.innerHTML = html;
+
+  // ---- Event bindings ----
+
+  // Search (debounced)
+  let searchTimer;
+  const searchInput = document.getElementById('audit-search');
+  if (searchInput) {
+    searchInput.addEventListener('input', () => {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        auditFilters.search = searchInput.value.trim();
+        auditPage = 0;
+        renderProductsDashboard(container, report);
+      }, 300);
+    });
+    // Keep focus on search after re-render
+    if (auditFilters.search) {
+      searchInput.focus();
+      searchInput.setSelectionRange(searchInput.value.length, searchInput.value.length);
+    }
+  }
+
+  // Dropdowns
+  const bindSelect = (id, key) => {
+    const el = document.getElementById(id);
+    if (el) el.addEventListener('change', () => {
+      auditFilters[key] = el.value;
+      auditPage = 0;
+      renderProductsDashboard(container, report);
+    });
+  };
+  bindSelect('audit-mfr', 'manufacturer');
+  bindSelect('audit-issue', 'issue');
+  bindSelect('audit-status', 'status');
+  bindSelect('audit-sort', 'sort');
+
+  // Clear filters
+  const clearBtn = document.getElementById('audit-clear');
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      auditFilters = { search: '', manufacturer: '', issue: '', status: 'all', sort: 'score_asc' };
+      auditPage = 0;
+      renderProductsDashboard(container, report);
+    });
+  }
+
+  // Clickable manufacturer rows
+  container.querySelectorAll('.mfr-row').forEach(row => {
+    row.addEventListener('click', () => {
+      const mfr = row.dataset.mfr;
+      if (auditFilters.manufacturer === mfr) {
+        auditFilters.manufacturer = '';
+      } else {
+        auditFilters.manufacturer = mfr;
+      }
+      auditPage = 0;
+      renderProductsDashboard(container, report);
+      // Scroll to product list
+      setTimeout(() => {
+        const panel = document.getElementById('product-list-panel');
+        if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 50);
+    });
+  });
+
+  // Clickable issue rows
+  container.querySelectorAll('.clickable-issue').forEach(row => {
+    row.addEventListener('click', () => {
+      const issue = row.dataset.issue;
+      if (auditFilters.issue === issue) {
+        auditFilters.issue = '';
+      } else {
+        auditFilters.issue = issue;
+        auditFilters.status = 'todo'; // issues only apply to incomplete products
+      }
+      auditPage = 0;
+      renderProductsDashboard(container, report);
+      setTimeout(() => {
+        const panel = document.getElementById('product-list-panel');
+        if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 50);
+    });
+  });
+
+  // Pagination
+  container.querySelectorAll('.page-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      auditPage = parseInt(btn.dataset.page);
+      renderProductsDashboard(container, report);
+      // Scroll to top of product table
+      setTimeout(() => {
+        const panel = document.getElementById('product-list-panel');
+        if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 50);
+    });
   });
 }
 

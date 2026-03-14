@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T08:53:01.116170Z",
+  "timestamp": "2026-03-14T09:04:24.922444Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -151,21 +151,19 @@
     "robots_txt": {
       "info": {
         "exists": true,
-        "content": "User-agent: *\nDisallow: /admin/\nDisallow: /system/\nDisallow: /*?page=$\nDisallow: /*&page=$\nDisallow: /*?sort=\nDisallow: /*&sort=\nDisallow: /*?order=\nDisallow: /*&order=\nDisallow: /*?limit=\nDisallow: /*&limit=\nDisallow: /*?filter_name=\nDisallow: /*&filter_name=\nDisallow: /*?filter_sub_category=\nDisallow: /*&filter_sub_category=\nDisallow: /*?filter_description=\nDisallow: /*&filter_description=\nDisallow: /*?tracking=\nDisallow: /*&tracking=\n\nSitemap: https://new.all4music.sk/sitemap.xml\n",
+        "content": "User-agent: *\nAllow: /\nDisallow: /admin/\nDisallow: /system/\nDisallow: /*?page=$\nDisallow: /*&page=$\nDisallow: /*?sort=\nDisallow: /*&sort=\nDisallow: /*?order=\nDisallow: /*&order=\nDisallow: /*?limit=\nDisallow: /*&limit=\nDisallow: /*?filter_name=\nDisallow: /*&filter_name=\nDisallow: /*?filter_sub_category=\nDisallow: /*&filter_sub_category=\nDisallow: /*?filter_description=\nDisallow: /*&filter_description=\nDisallow: /*?tracking=\nDisallow: /*&tracking=\n\nSitemap: https://new.all4music.sk/sitemap.xml\n",
         "has_sitemap": true
       },
-      "issues": [
-        {
-          "severity": "error",
-          "msg": "robots.txt may be blocking all crawlers"
-        }
-      ]
+      "issues": []
     },
     "sitemap": {
       "info": {
         "url": "https://new.all4music.sk/sitemap.xml",
         "size_bytes": 609,
-        "url_count": 4,
+        "is_sitemap_index": true,
+        "sub_sitemaps": 4,
+        "url_count": 24930,
+        "total_size_bytes": 4417660,
         "has_hreflang_in_sitemap": false
       },
       "issues": [
@@ -195,10 +193,10 @@
     }
   },
   "summary": {
-    "errors": 4,
+    "errors": 3,
     "warnings": 11,
     "info": 0,
     "passed": 0,
-    "total_checks": 15
+    "total_checks": 14
   }
 }

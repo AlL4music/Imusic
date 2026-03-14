@@ -1,0 +1,8265 @@
+{
+  "timestamp": "2026-03-14T09:58:17.191Z",
+  "total_products": 22518,
+  "complete_count": 14917,
+  "incomplete_count": 7601,
+  "completeness_pct": 66.2,
+  "issue_summary": {
+    "no_name": {
+      "count": 0,
+      "label": "Missing product name"
+    },
+    "no_description": {
+      "count": 2121,
+      "label": "Missing description"
+    },
+    "short_description": {
+      "count": 3885,
+      "label": "Description too short (<50 chars)"
+    },
+    "no_meta_title": {
+      "count": 0,
+      "label": "Missing meta title"
+    },
+    "no_meta_description": {
+      "count": 20,
+      "label": "Missing meta description"
+    },
+    "no_seo_url": {
+      "count": 612,
+      "label": "Missing SEO URL"
+    },
+    "no_image": {
+      "count": 3089,
+      "label": "Missing main image"
+    },
+    "no_extra_images": {
+      "count": 9529,
+      "label": "No additional images"
+    },
+    "no_category": {
+      "count": 22511,
+      "label": "Not in any category"
+    },
+    "no_manufacturer": {
+      "count": 0,
+      "label": "No manufacturer set"
+    },
+    "no_price": {
+      "count": 6,
+      "label": "No price or price is 0"
+    },
+    "no_model": {
+      "count": 0,
+      "label": "Missing model/SKU"
+    }
+  },
+  "by_manufacturer": [
+    {
+      "name": "Tama",
+      "total": 6026,
+      "complete": 4717,
+      "incomplete": 1309,
+      "pct": 78
+    },
+    {
+      "name": "Ibanez",
+      "total": 4276,
+      "complete": 2980,
+      "incomplete": 1296,
+      "pct": 70
+    },
+    {
+      "name": "Meinl Percussion",
+      "total": 2024,
+      "complete": 1745,
+      "incomplete": 279,
+      "pct": 86
+    },
+    {
+      "name": "Ortega",
+      "total": 1490,
+      "complete": 1413,
+      "incomplete": 77,
+      "pct": 95
+    },
+    {
+      "name": "Jupiter",
+      "total": 1118,
+      "complete": 266,
+      "incomplete": 852,
+      "pct": 24
+    },
+    {
+      "name": "Meinl Sonic Energy",
+      "total": 905,
+      "complete": 802,
+      "incomplete": 103,
+      "pct": 89
+    },
+    {
+      "name": "Majestic",
+      "total": 836,
+      "complete": 337,
+      "incomplete": 499,
+      "pct": 40
+    },
+    {
+      "name": "Meinl Cymbals",
+      "total": 759,
+      "complete": 739,
+      "incomplete": 20,
+      "pct": 97
+    },
+    {
+      "name": "Sonor",
+      "total": 649,
+      "complete": 0,
+      "incomplete": 649,
+      "pct": 0
+    },
+    {
+      "name": "Gretsch",
+      "total": 518,
+      "complete": 2,
+      "incomplete": 516,
+      "pct": 0
+    },
+    {
+      "name": "PRS",
+      "total": 494,
+      "complete": 53,
+      "incomplete": 441,
+      "pct": 11
+    },
+    {
+      "name": "Nino Percussion",
+      "total": 285,
+      "complete": 282,
+      "incomplete": 3,
+      "pct": 99
+    },
+    {
+      "name": "LTD",
+      "total": 268,
+      "complete": 36,
+      "incomplete": 232,
+      "pct": 13
+    },
+    {
+      "name": "Sandberg",
+      "total": 192,
+      "complete": 14,
+      "incomplete": 178,
+      "pct": 7
+    },
+    {
+      "name": "ESP",
+      "total": 185,
+      "complete": 37,
+      "incomplete": 148,
+      "pct": 20
+    },
+    {
+      "name": "Godin",
+      "total": 183,
+      "complete": 6,
+      "incomplete": 177,
+      "pct": 3
+    },
+    {
+      "name": "Stentor",
+      "total": 180,
+      "complete": 168,
+      "incomplete": 12,
+      "pct": 93
+    },
+    {
+      "name": "Hagstrom",
+      "total": 142,
+      "complete": 136,
+      "incomplete": 6,
+      "pct": 96
+    },
+    {
+      "name": "Marca",
+      "total": 140,
+      "complete": 140,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Otto Link",
+      "total": 138,
+      "complete": 106,
+      "incomplete": 32,
+      "pct": 77
+    },
+    {
+      "name": "Mapex Marching",
+      "total": 122,
+      "complete": 84,
+      "incomplete": 38,
+      "pct": 69
+    },
+    {
+      "name": "Lanikai",
+      "total": 108,
+      "complete": 108,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Nuvo",
+      "total": 108,
+      "complete": 107,
+      "incomplete": 1,
+      "pct": 99
+    },
+    {
+      "name": "JET Guitars",
+      "total": 107,
+      "complete": 0,
+      "incomplete": 107,
+      "pct": 0
+    },
+    {
+      "name": "GR Bass",
+      "total": 103,
+      "complete": 0,
+      "incomplete": 103,
+      "pct": 0
+    },
+    {
+      "name": "E-II",
+      "total": 97,
+      "complete": 75,
+      "incomplete": 22,
+      "pct": 77
+    },
+    {
+      "name": "Meyer",
+      "total": 88,
+      "complete": 21,
+      "incomplete": 67,
+      "pct": 24
+    },
+    {
+      "name": "FGN",
+      "total": 83,
+      "complete": 83,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "XO Brass",
+      "total": 74,
+      "complete": 74,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "P&H Bows",
+      "total": 71,
+      "complete": 71,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Spector",
+      "total": 61,
+      "complete": 59,
+      "incomplete": 2,
+      "pct": 97
+    },
+    {
+      "name": "Vintage",
+      "total": 57,
+      "complete": 0,
+      "incomplete": 57,
+      "pct": 0
+    },
+    {
+      "name": "Rickenbacker",
+      "total": 56,
+      "complete": 49,
+      "incomplete": 7,
+      "pct": 88
+    },
+    {
+      "name": "Hohner",
+      "total": 56,
+      "complete": 2,
+      "incomplete": 54,
+      "pct": 4
+    },
+    {
+      "name": "ESP USA",
+      "total": 49,
+      "complete": 49,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Azumi",
+      "total": 42,
+      "complete": 26,
+      "incomplete": 16,
+      "pct": 62
+    },
+    {
+      "name": "Seagull",
+      "total": 41,
+      "complete": 1,
+      "incomplete": 40,
+      "pct": 2
+    },
+    {
+      "name": "Walden",
+      "total": 37,
+      "complete": 37,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Kohala",
+      "total": 36,
+      "complete": 35,
+      "incomplete": 1,
+      "pct": 97
+    },
+    {
+      "name": "DigiTech",
+      "total": 34,
+      "complete": 32,
+      "incomplete": 2,
+      "pct": 94
+    },
+    {
+      "name": "Arnolds &amp; Sons",
+      "total": 34,
+      "complete": 0,
+      "incomplete": 34,
+      "pct": 0
+    },
+    {
+      "name": "Razzor Cases",
+      "total": 32,
+      "complete": 10,
+      "incomplete": 22,
+      "pct": 31
+    },
+    {
+      "name": "Zildjian",
+      "total": 28,
+      "complete": 2,
+      "incomplete": 26,
+      "pct": 7
+    },
+    {
+      "name": "Alhambra",
+      "total": 26,
+      "complete": 0,
+      "incomplete": 26,
+      "pct": 0
+    },
+    {
+      "name": "Gallien-Krueger",
+      "total": 26,
+      "complete": 0,
+      "incomplete": 26,
+      "pct": 0
+    },
+    {
+      "name": "Sela",
+      "total": 25,
+      "complete": 2,
+      "incomplete": 23,
+      "pct": 8
+    },
+    {
+      "name": "LUDWIG",
+      "total": 18,
+      "complete": 0,
+      "incomplete": 18,
+      "pct": 0
+    },
+    {
+      "name": "ADAM AUDIO",
+      "total": 13,
+      "complete": 0,
+      "incomplete": 13,
+      "pct": 0
+    },
+    {
+      "name": "Mackie",
+      "total": 11,
+      "complete": 0,
+      "incomplete": 11,
+      "pct": 0
+    },
+    {
+      "name": "Focusrite",
+      "total": 11,
+      "complete": 0,
+      "incomplete": 11,
+      "pct": 0
+    },
+    {
+      "name": "Modal",
+      "total": 9,
+      "complete": 9,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Bacio Instruments",
+      "total": 8,
+      "complete": 0,
+      "incomplete": 8,
+      "pct": 0
+    },
+    {
+      "name": "Acus",
+      "total": 8,
+      "complete": 0,
+      "incomplete": 8,
+      "pct": 0
+    },
+    {
+      "name": "Lewitt",
+      "total": 5,
+      "complete": 0,
+      "incomplete": 5,
+      "pct": 0
+    },
+    {
+      "name": "CentoLight",
+      "total": 5,
+      "complete": 0,
+      "incomplete": 5,
+      "pct": 0
+    },
+    {
+      "name": "Flight",
+      "total": 4,
+      "complete": 0,
+      "incomplete": 4,
+      "pct": 0
+    },
+    {
+      "name": "Tanglewood",
+      "total": 3,
+      "complete": 0,
+      "incomplete": 3,
+      "pct": 0
+    },
+    {
+      "name": "Kali Audio",
+      "total": 3,
+      "complete": 0,
+      "incomplete": 3,
+      "pct": 0
+    },
+    {
+      "name": "Novation",
+      "total": 2,
+      "complete": 0,
+      "incomplete": 2,
+      "pct": 0
+    },
+    {
+      "name": "Expressive E",
+      "total": 2,
+      "complete": 0,
+      "incomplete": 2,
+      "pct": 0
+    },
+    {
+      "name": "Marcus Bonna",
+      "total": 1,
+      "complete": 1,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Music Man",
+      "total": 1,
+      "complete": 1,
+      "incomplete": 0,
+      "pct": 100
+    },
+    {
+      "name": "Soundsation",
+      "total": 1,
+      "complete": 0,
+      "incomplete": 1,
+      "pct": 0
+    },
+    {
+      "name": "Joyo",
+      "total": 1,
+      "complete": 0,
+      "incomplete": 1,
+      "pct": 0
+    },
+    {
+      "name": "Reloop",
+      "total": 1,
+      "complete": 0,
+      "incomplete": 1,
+      "pct": 0
+    },
+    {
+      "name": "Wavebone",
+      "total": 1,
+      "complete": 0,
+      "incomplete": 1,
+      "pct": 0
+    },
+    {
+      "name": "Reloop HiFi",
+      "total": 1,
+      "complete": 0,
+      "incomplete": 1,
+      "pct": 0
+    }
+  ],
+  "incomplete_products": [
+    {
+      "id": 23805,
+      "name": "GR815.204",
+      "model": "GR815.204",
+      "manufacturer": "Gretsch",
+      "issues": [
+        "no_description",
+        "no_meta_description",
+        "no_seo_url",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 60
+    },
+    {
+      "id": 20439,
+      "name": "AZUMI Catalogue, 2025, german",
+      "model": "KTAZCDE",
+      "manufacturer": "Azumi",
+      "issues": [
+        "no_description",
+        "no_image",
+        "no_price"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 70
+    },
+    {
+      "id": 20440,
+      "name": "AZUMI Catalogue, 2025, english",
+      "model": "KTAZCEN",
+      "manufacturer": "Azumi",
+      "issues": [
+        "no_description",
+        "no_image",
+        "no_price"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 70
+    },
+    {
+      "id": 20441,
+      "name": "JUPITER Concept guide, LOOP, German/English 10 units",
+      "model": "KTJFLWKDEEN",
+      "manufacturer": "Jupiter",
+      "issues": [
+        "no_description",
+        "no_image",
+        "no_price"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 70
+    },
+    {
+      "id": 20442,
+      "name": "JUPITER Brochure, flute, square, english, 25 units",
+      "model": "KTJPBFLUTEEN",
+      "manufacturer": "Jupiter",
+      "issues": [
+        "no_description",
+        "no_image",
+        "no_price"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 70
+    },
+    {
+      "id": 20443,
+      "name": "JUPITER Catalog, General catalog 2023 DE, EN, FR, NL, 10 units",
+      "model": "KTJPK",
+      "manufacturer": "Jupiter",
+      "issues": [
+        "no_description",
+        "no_image",
+        "no_price"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 70
+    },
+    {
+      "id": 20444,
+      "name": "JUPITER Flyer, DINA5, Student instruments, English, 25 units",
+      "model": "KTJPSCHFLE",
+      "manufacturer": "Jupiter",
+      "issues": [
+        "no_description",
+        "no_image",
+        "no_price"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 70
+    },
+    {
+      "id": 1656,
+      "name": "IBANEZ PCB Assembly For NTS",
+      "model": "8PCC3014",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 1685,
+      "name": "IBANEZ 5-Str Bass Nut Black, For UB805",
+      "model": "4NUB5R-PBK",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 1695,
+      "name": "IBANEZ Speaker Full Range TSA112C Until 2013",
+      "model": "8VL1335Z1",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 1696,
+      "name": "IBANEZ Speaker Full Range T80N Until 2013",
+      "model": "8VL1342N1",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 2080,
+      "name": "IBANEZ Ramp GWB1",
+      "model": "4PT1GWBNT",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4257,
+      "name": "IBANEZ Neck for SR800",
+      "model": "1B-1NK-SR800",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4655,
+      "name": "IBANEZ E-Bass Gigbag",
+      "model": "IGB-JSEB",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4788,
+      "name": "IBANEZ Neck for GRX70L-BK",
+      "model": "1NK-GRX70L-BK",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4800,
+      "name": "IBANEZ Pickguard for AM2000H Turtoise Shell",
+      "model": "4PGX018R-BTS",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4862,
+      "name": "IBANEZ Jack for Power Unit WH10V2",
+      "model": "8JKC7003",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4863,
+      "name": "IBANEZ Jack for WH10V2, 0,25\"",
+      "model": "8JKC7004",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4864,
+      "name": "IBANEZ Jack For WH10V2, 0,25\"",
+      "model": "8JKC7005",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4865,
+      "name": "IBANEZ Plastic Knob for WH10V2",
+      "model": "8KBC7002",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4866,
+      "name": "IBANEZ Battery Snap for WH10V2",
+      "model": "8OPC7012",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4867,
+      "name": "IBANEZ Metal Shaft for WH10V2",
+      "model": "8OPC7013",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4868,
+      "name": "IBANEZ Metal Bracket for WH10V2",
+      "model": "8OPC7014",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4869,
+      "name": "IBANEZ Metal Bracket for WH10V2",
+      "model": "8OPC7015",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4870,
+      "name": "IBANEZ Rubber Sheet for WH10V2",
+      "model": "8OPC7030",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4871,
+      "name": "IBANEZ Rubber Part for WH10V2",
+      "model": "8OPC7031",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4872,
+      "name": "IBANEZ Metal Spring for WH10V2",
+      "model": "8OPC7032",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4873,
+      "name": "IBANEZ Screw Package for WH10V2",
+      "model": "8OPC7038",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4874,
+      "name": "IBANEZ PCB Assy for WH10V2 w/o Foot Switch & LED",
+      "model": "8PCC7002",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4875,
+      "name": "IBANEZ PCB Assy for WH10V2",
+      "model": "8PCC7005",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4876,
+      "name": "IBANEZ PCB Assy for WH10V2 Full Assembled",
+      "model": "8PCC7006",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4877,
+      "name": "IBANEZ Semiconductor for WH10V2",
+      "model": "8SDC7002",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4884,
+      "name": "IBANEZ Power Transformer for TSA30 - 240V",
+      "model": "8PTBN009S",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4917,
+      "name": "IBANEZ Knob for Promethean Push Switch",
+      "model": "8KBB5007",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 4975,
+      "name": "IBANEZ Switch Black, 2way Toggle",
+      "model": "3SW00A0003",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5003,
+      "name": "IBANEZ Poti For T80II Vertical, Metal, Knurl",
+      "model": "8VRBN042",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5004,
+      "name": "IBANEZ Preamp Potentiometer For Volume, 2pin For",
+      "model": "3VPV22A",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5010,
+      "name": "IBANEZ Pickguard for AE Series - Brown Tortoise",
+      "model": "4PGAAE-BTS",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5225,
+      "name": "IBANEZ Pickguard for Lefty PF/PC Series - Black",
+      "model": "4PGAPF2-RT",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5226,
+      "name": "IBANEZ Pickguard Black for AC Series",
+      "model": "4PGAAC-RT",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5260,
+      "name": "IBANEZ Alpha 1 Pickup for BTB605 - Flat Black",
+      "model": "3PUAL15A4-FB",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5261,
+      "name": "IBANEZ Alpha 1 Pickup for BTB606 - Flat Black",
+      "model": "3PUAL16A4-FB",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5276,
+      "name": "IBANEZ Pickguard Flat for TMB420B - Black",
+      "model": "4PGBTMB2-FB",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5277,
+      "name": "IBANEZ Pickguard Flat for TMB425B - Black",
+      "model": "4PGBTMB25-FB",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5316,
+      "name": "IBANEZ Preamp Module Main Unit Only for AUP10FMNE",
+      "model": "5EM2UV2-C",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5327,
+      "name": "IBANEZ PCB Assembly for T30II, T80II",
+      "model": "8PCB5026",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5328,
+      "name": "IBANEZ PCB Assembly for T30II",
+      "model": "8PCB5034",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5354,
+      "name": "IBANEZ Neck for SR300EB-WNF",
+      "model": "1NK1PC0424WNF",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5413,
+      "name": "IBANEZ Pickguard for AAM Series - Black",
+      "model": "4PGAAAM-BK",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5417,
+      "name": "IBANEZ Jack - 1/4\"",
+      "model": "8JKC7001",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5418,
+      "name": "IBANEZ Jack DC Power Input",
+      "model": "8JKC7002",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5419,
+      "name": "IBANEZ Knob",
+      "model": "8KBC7001",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5439,
+      "name": "IBANEZ Poti for PTPRE, PTEQ Slide",
+      "model": "8VRBH008",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5470,
+      "name": "IBANEZ Neck for AZ24S1F/AZ24S2",
+      "model": "1NK5NA0011",
+      "manufacturer": "Ibanez",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5636,
+      "name": "TAMA Shaft Assembly for HP50",
+      "model": "HP502",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5698,
+      "name": "TAMA Screw Anchor w/ Spring for HP910LWCB/HP910LCB",
+      "model": "7114SPAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5977,
+      "name": "TAMA Claw Hook Assembly For Star Drums",
+      "model": "MCH90FC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5994,
+      "name": "MEINL Percussion Bracket for MC100 Mini Conga - Chrome",
+      "model": "BRACKET-31",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 5995,
+      "name": "MEINL Percussion Bracket for MC100 Mini Conga - Black",
+      "model": "BRACKET-32",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 6312,
+      "name": "MEINL Percussion True Feel Pandeiro Head - 12\"",
+      "model": "HEAD-141",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 6326,
+      "name": "TAMA Lower Pull Rod & Spring Assembly for HH805D",
+      "model": "HH805D14",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 6552,
+      "name": "MEINL Percussion Cover Cap rubber (6-pc set) - for MEINL ADJ Djembes",
+      "model": "CAPS-05",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 6948,
+      "name": "TAMA Tuning Lug for Snare/Tom - Brushed Black Nickel (Starclassic)",
+      "model": "MSL-SCTHB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 6949,
+      "name": "TAMA Lock Nut for HTB5-1N",
+      "model": "HTB5-15",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 6996,
+      "name": "Meinl Percussion upper tube - TMPTS + TMPETS",
+      "model": "STAND-75",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7086,
+      "name": "MEMORY CLAMP MEINL",
+      "model": "STAND-74",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7099,
+      "name": "MEINL Percussion Rubber for DDG-STAND",
+      "model": "SPARE-115",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7100,
+      "name": "MEINL Percussion Wing Screw for DDG-STAND",
+      "model": "SPARE-116",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7101,
+      "name": "MEINL Percussion Rubber Feet for DDG-STAND - 3 pcs.",
+      "model": "SPARE-117",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7102,
+      "name": "MEINL Percussion Rubber Feet for TMDDGS - 4 pcs.",
+      "model": "SPARE-121",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7103,
+      "name": "MEINL PERCUSSION Pandeiro Holder",
+      "model": "HOLDER-05",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7105,
+      "name": "MEINL Percussion Plastic Wing Nut - 8 mm",
+      "model": "SPARE-134",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7106,
+      "name": "MEINL Percussion Rubber for Cajon Holder TMCP",
+      "model": "SPARE-137",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7107,
+      "name": "MEINL Percussion Stand - for TMPTS & TMPETS",
+      "model": "STAND-52",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7114,
+      "name": "MEINL Percussion Tuning Key for Jumbo Djembe",
+      "model": "KEY-17",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7232,
+      "name": "MEINL Percussion Reso Head for Caixa",
+      "model": "SPARE-129",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7265,
+      "name": "MEINL Percussion - True Skin Buffalo 11\" Natural for SSR Rim",
+      "model": "TS-B-55",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7266,
+      "name": "MEINL Percussion - True Skin Buffalo 11 3/4\" Natural for SSR Rim",
+      "model": "TS-B-56",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7269,
+      "name": "MEINL Percussion - True Skin Buffalo 12 1/2\" Natural for SSR Rim",
+      "model": "TS-B-57",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7473,
+      "name": "MEINL Percussion Head 6 3/4\" for MB100",
+      "model": "HEAD-36",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7696,
+      "name": "ORTEGA Tuning Machines for TourPlayer Set - Black HW / Black Tubes",
+      "model": "OTM-TP",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 7792,
+      "name": "ORTEGA Mandolin Bridge Low for Americana min 18 mm - Rosewood",
+      "model": "OER-30250",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 8234,
+      "name": "MEINL Percussion Reso Head for Caixa - 12\"",
+      "model": "HEAD-129",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 9321,
+      "name": "TAMA Die-Cast Drum Hoop 4 Hole - Smoked Black Nickel 8\"",
+      "model": "MDH8-4U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 10596,
+      "name": "TAMA Beater Holder - Black",
+      "model": "HP2-4-BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 10940,
+      "name": "TAMA Beater Holder Vari-Pitch",
+      "model": "M1400MB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 10941,
+      "name": "TAMA Beater Holder",
+      "model": "M1453MB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 10945,
+      "name": "TAMA Case for HP910",
+      "model": "PCB910",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 10998,
+      "name": "TAMA Imperialstar Head 20\"",
+      "model": "H20B-IEB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 10999,
+      "name": "TAMA Imperialstar Reso Head - 20\" black",
+      "model": "H20B-IER",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11041,
+      "name": "TAMA Snare Wire",
+      "model": "MS20S-S",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11102,
+      "name": "TAMA Die-Cast Drum Hoop 14\" - gold",
+      "model": "1B-MDH14-8FG",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11108,
+      "name": "TAMA Drum Hoop - 18\"  Indigo Blue for Swingstar Custom",
+      "model": "1B-MLH18-IDB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11109,
+      "name": "TAMA Drum Hoop - 20\" Blue Sparkle for Starclassic Maple",
+      "model": "1B-MLH20-BLS",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11110,
+      "name": "TAMA Drum Hoop - 20\" Dark Brown for Swingstar Custom",
+      "model": "1B-MLH20-DB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11112,
+      "name": "TAMA Drum Hoop - 20\"  Indigo Blue for Swingstar Custom",
+      "model": "1B-MLH20-IDB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11113,
+      "name": "TAMA Drum Hoop - 20\" Piano Black for Swingstar Custom",
+      "model": "1B-MLH20-PBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11115,
+      "name": "TAMA Drum Hoop - 22\"  Indigo Blue for Swingstar Custom",
+      "model": "1B-MLH22-IDB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11117,
+      "name": "TAMA Drum Hoop - 24\" Natural for Superstar",
+      "model": "1B-MLH24-NT",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11136,
+      "name": "TAMA Drum Hoop - 18\"  Silky Yellow for Artstar",
+      "model": "1B-MBH18-SLY",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11137,
+      "name": "TAMA Drum Hoop - 20\" Cherry Black for Starclassic Maple",
+      "model": "1B-MBH20-CBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11138,
+      "name": "TAMA Drum Hoop - 20\" Cherry Rose for Artstar 86",
+      "model": "1B-MBH20-CHR",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11189,
+      "name": "TAMA Mounting for Bass Drum Legs - Black Nickel",
+      "model": "MSB651BN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11192,
+      "name": "TAMA Bass Drum Spur / Spur Bracket for Starclassic - Spur bracket(players right)",
+      "model": "MSB30RU",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11195,
+      "name": "TAMA Mounting Bassdrum Legs Top Part - Chrome (ARTSTAR)",
+      "model": "MSB50A",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11204,
+      "name": "TAMA Bass Drum Spur (for Silver Star & Metro JAM 16\" Bass Drums, 1 pc)",
+      "model": "MSP-MJ2",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11234,
+      "name": "TAMA Tom Bracket - Casting only",
+      "model": "MTB75E-1",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11264,
+      "name": "TAMA Strap Holding Plate for MLS30A/B & MLS50 - Black Nickel",
+      "model": "MLSHPBN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11266,
+      "name": "TAMA Strainer with Spacer - Black Nickel",
+      "model": "MLS30ABN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11268,
+      "name": "TAMA Butt with Spacer - Black Nickel",
+      "model": "MLS30BBN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11272,
+      "name": "TAMA Drum Hoop Snare Side - 14\"",
+      "model": "MFH14S-8BN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11273,
+      "name": "TAMA Drum Hoop 8 Hole - Chrome 12\"",
+      "model": "MFM12-8",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11274,
+      "name": "TAMA Bass Drum Hoop for Star Bass Drums 22\" - Antique Maple",
+      "model": "TWH22-ATM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11275,
+      "name": "TAMA Bass Drum Hoop for Star Bass Drums 22\" - Natural Indian Laurel",
+      "model": "TWH22-LNTI",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11276,
+      "name": "TAMA wood hoop - 14\" 8 holes (Batter Side)",
+      "model": "WMH1408F",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11293,
+      "name": "TAMA Drum Hoop 22\" - Black Clouds & Silver Linings (for Starclassic Walnut/Birch",
+      "model": "MWH22-BCS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11294,
+      "name": "TAMA Starclassic Maple Spannreifen - 22\" Flat Black",
+      "model": "MWH22-FBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11307,
+      "name": "TAMA Die-Cast Drum Hoop 8 Hole - 18\" Hairline (Starclassic)",
+      "model": "MDH18-8H",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11308,
+      "name": "TAMA Drum Hoop 8 Hole -15\" Brass for Kenny Aronoff Signature Snare",
+      "model": "MFB15-8",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11322,
+      "name": "TAMA Die-Cast Drum Hoop 10 Hole - Gold 10\" (Starclassic)",
+      "model": "MDH14-10G",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11332,
+      "name": "TAMA Flanged Drum Hoop 14\" 8 Hole - Snareside",
+      "model": "MFH14S8BBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11362,
+      "name": "TAMA Star-Cast Drum Hoop 6 Hole - Smoked Black Nickel12\"  (Starclassic + Superst",
+      "model": "MDH12-6FU",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11398,
+      "name": "TAMA Drum Hoop  14\" / 8 Hole - Chrome Black",
+      "model": "MFH14-8BBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11415,
+      "name": "TAMA Omni-Tune Drum Hoop 6 Hole - Hairline 13\" (Starcast)",
+      "model": "MPH13-6FH",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11430,
+      "name": "TAMA Bass Drum Hoop for Star Bass Drums 22\" - Satin Antique Brown",
+      "model": "TWH22-SAB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11434,
+      "name": "TAMA Bass Drum Hoop 22\" for Imperialstar Bass Drums - Hairline Blue",
+      "model": "IPH22C-HLB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11435,
+      "name": "TAMA Bass Drum Hoop 22\" for Imperialstar Bass Drums - Hairline Black",
+      "model": "IPH22C-HBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11438,
+      "name": "TAMA Bass Drum Hoop 22\" for Imperialstar Bass Drums - Burnt Red Mist",
+      "model": "IPH22C-BRM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11439,
+      "name": "TAMA Bass Drum Hoop 20\" for Imperialstar Bass Drums - Hairline Blue",
+      "model": "IPH20C-HLB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11440,
+      "name": "TAMA Bass Drum Hoop 20\" for Imperialstar Bass Drums - Hairline Black",
+      "model": "IPH20C-HBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11443,
+      "name": "TAMA Bass Drum Hoop 20\" for Imperialstar Bass Drums - Burnt Red Mist",
+      "model": "IPH20C-BRM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11444,
+      "name": "TAMA Bass Drum Hoop 18\" for Imperialstar Bass Drums - Hairline Blue",
+      "model": "IPH18C-HLB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11445,
+      "name": "TAMA Bass Drum Hoop 18\" for Imperialstar Bass Drums - Hairline Black",
+      "model": "IPH18C-HBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11448,
+      "name": "TAMA Bass Drum Hoop 18\" for Imperialstar Bass Drums - Burnt Red Mist",
+      "model": "IPH18C-BRM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11449,
+      "name": "TAMA Steel Drum Hoop Triple Flanged, 6-Hole Snare Side 10\" - Black",
+      "model": "MFH10S6BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11450,
+      "name": "TAMA Steel Drum Hoop Triple Flanged, 6-Hole Batter Side 10\" - Black",
+      "model": "MFH10-6BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11451,
+      "name": "TAMA Drum Hoop for Superstar Classic Exotic - 22\" - Piano Black",
+      "model": "MLH22-PBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11452,
+      "name": "TAMA Stagestar Bass Drum Hoop 20\" - Black Night Sparkle",
+      "model": "SGH20-BNS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11453,
+      "name": "TAMA Stagestar Bass Drum Hoop 20\" - Candy Red Sparkle",
+      "model": "SGH20-CDS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11454,
+      "name": "TAMA Stagestar Bass Drum Hoop 20\" - Sea Blue Mist",
+      "model": "SGH20-SEM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11455,
+      "name": "TAMA Stagestar Bass Drum Hoop 22\" - Black Night Sparkle",
+      "model": "SGH22-BNS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11456,
+      "name": "TAMA Stagestar Bass Drum Hoop 22\" - Candy Red Sparkle",
+      "model": "SGH22-CDS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11457,
+      "name": "TAMA Stagestar Bass Drum Hoop 22\" - Sea Blue Mist",
+      "model": "SGH22-SEM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11458,
+      "name": "TAMA Drum Hoop 22\" - Deeper Purple (for Starclassic Walnut/Birch)",
+      "model": "MWH22-DPP",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11459,
+      "name": "TAMA Bass Drum Hoop for STAR Walnut - 20\" Red Burgundy Walnut",
+      "model": "TWW20-RBW",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11460,
+      "name": "TAMA Drum Hoop 13\" 8 Hole - Black (Imperialstar)",
+      "model": "MFH13-8BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11461,
+      "name": "TAMA Snare Side Drum Hoop 13\"/8 Hole - Black",
+      "model": "MFH13S8BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11462,
+      "name": "TAMA Die-Cast Drum Hoop 14\" 10 Holes, Chrome, Snare Side for Mastercraft Snares",
+      "model": "MDH14S10L",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11463,
+      "name": "TAMA Bass Drum Wood Hoop for Star Walnut Bass Drums 22\" - Dark Mocha Walnut",
+      "model": "TWW22-DMW",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11464,
+      "name": "TAMA Drum Hoop - 18\" Black Oak Wrap",
+      "model": "IEH18C-BOW",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11465,
+      "name": "TAMA Drum Hoop - 18\" Candy Apple Mist",
+      "model": "IEH18C-CPM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11466,
+      "name": "TAMA Drum Hoop - 18\" Hairline Black",
+      "model": "IEH18C-HBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11467,
+      "name": "TAMA Drum Hoop - 18\" Hairline Blue",
+      "model": "IEH18C-HLB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11468,
+      "name": "TAMA Drum Hoop - 18\" Vintage White Sparkle",
+      "model": "IEH18C-VWS",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11469,
+      "name": "TAMA Drum Hoop - 20\" Black Oak Wrap",
+      "model": "IEH20C-BOW",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11470,
+      "name": "TAMA Drum Hoop - 20\" Burgundy Walnut Wrap",
+      "model": "IEH20C-BWW",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11471,
+      "name": "TAMA Drum Hoop - 20\" Candy Apple Mist",
+      "model": "IEH20C-CPM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11472,
+      "name": "TAMA Drum Hoop - 20\" Hariline Blue",
+      "model": "IEH20C-HLB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11473,
+      "name": "TAMA Drum Hoop - 20\" Vintage White Sparkle",
+      "model": "IEH20C-VWS",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11474,
+      "name": "TAMA Drum Hoop - 22\" Black Oak Wrap",
+      "model": "IEH22C-BOW",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11475,
+      "name": "TAMA Drum Hoop - 22\" Burgundy Walnut Wrap",
+      "model": "IEH22C-BWW",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11476,
+      "name": "TAMA Drum Hoop - 22\" Candy Apple Mist",
+      "model": "IEH22C-CPM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11477,
+      "name": "TAMA Drum Hoop - 22\" Hairline Black",
+      "model": "IEH22C-HBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11478,
+      "name": "TAMA Drum Hoop - 22\" Hairline Blue",
+      "model": "IEH22C-HLB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11479,
+      "name": "TAMA Drum Hoop - 22\" Vintage White Sparkle",
+      "model": "IEH22C-VWS",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11480,
+      "name": "TAMA Bass Drum Hoop 14\" For LJK44 Wood",
+      "model": "LJKH14",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11481,
+      "name": "TAMA Bass Drum Hoop 14\" w/cutaway for LJK44 Wood",
+      "model": "LJKH14G",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11484,
+      "name": "TAMA Drum Hoop 22\" - Crystal Blue Burst (Starclassic Performer BB)",
+      "model": "MBBH22-CBB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11485,
+      "name": "TAMA Drum Hoop 22\" - Dark Mocha Fade - Light (Starclassic Performer BB)",
+      "model": "MBBH22L-DMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11486,
+      "name": "TAMA Drum Hoop 20\" - Indigo Blue (Starclassic Maple / Performer Birch)",
+      "model": "MBH20-IDB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11487,
+      "name": "TAMA Spannreifen 20\" - Aztec Red Fade-Dunkel - Light",
+      "model": "MBH20L-ARF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11489,
+      "name": "TAMA Drum hoop 22\" - Black Magic (Starclassic Maple / Performer Birch)",
+      "model": "MBH22-BKM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11491,
+      "name": "TAMA Drum Hoop 22\" - Blue Sparkle Fade - Dark (Starclassic Maple / Performer Bir",
+      "model": "MBH22BSF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11492,
+      "name": "TAMA Drum Hoop 22\" - Gold Sunburst - Dark (Starclassic Maple / Performer BB)",
+      "model": "MBH22GSB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11493,
+      "name": "DRUM HOOP 22\" TAMA AZTEC RED FADE - LIGHT (SC MAPLE/PERFORMER BIRCH)",
+      "model": "MBH22LARF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11494,
+      "name": "TAMA Drum Hoop 22\" - Dark Cherry Fade - Light ( Starclassic Maple / Performer Bi",
+      "model": "MBH22LDCF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11496,
+      "name": "TAMA Bass Drum Hoop 22\" - Natural Bubinga",
+      "model": "MBUH22-NBG",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11497,
+      "name": "TAMA Bass Drum Hoop - 24\" (Bubinga Omnitune)",
+      "model": "MBUH24",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11498,
+      "name": "TAMA Superstar Bass Drum Hoop - 20\" Indigo Sparkle",
+      "model": "MKH20C-ISP",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11500,
+      "name": "TAMA Drum Hoop - Sugar Whit 22\" (Superstar)",
+      "model": "MKH22C-SGW",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11501,
+      "name": "TAMA Drum Hoop - Custom Titanium Fade Light 20\" (Superstar Custom)",
+      "model": "MLH20L-CTF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11502,
+      "name": "TAMA Drum Hoop - 22\" Midnight Spectrum (Superstar Custom)",
+      "model": "MLH22-MNS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11503,
+      "name": "TAMA Bass Drum Hoop 22\" - Satin Cherry Burst",
+      "model": "MLH22-SCY",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11504,
+      "name": "TAMA Drum Hoop - 22\" Vintage Blue Metallic (Superstar Custom)",
+      "model": "MLH22-VBM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11505,
+      "name": "TAMA Drum Hoop - 22\" Blue Metallic Fade - Light (Superstar Custom)",
+      "model": "MLH22L-BMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11506,
+      "name": "TAMA Drum Hoop - Custom Titanium Fade Light 22\" (Superstar Custom)",
+      "model": "MLH22L-CTF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11507,
+      "name": "TAMA Drum Hoop - Gold Platinum Fade - Light - 22\" (Superstar Custom)",
+      "model": "MLH22L-GPF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11508,
+      "name": "TAMA Starclassic Bass Drum Hoop - 16\" Lacquer Shamrock Oyster",
+      "model": "MWH16-LSO",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11509,
+      "name": "TAMA Starclassic Drum Hoop 20\" - Lacquer Shamrock Oyster",
+      "model": "MWH20-LSO",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11510,
+      "name": "TAMA Drum Hoop 20\" Red Oyster For Starclassic",
+      "model": "MWH20C-ROY",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11512,
+      "name": "TAMA Drum Hoop - 22\" Molten Brown Burst for Starclassic",
+      "model": "MWH22-MBR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11513,
+      "name": "TAMA Starclassic Maple Drum Hoop - 22\" Piano White",
+      "model": "MWH22-PWH",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11514,
+      "name": "TAMA Drum Hoop 22\" Red Oyster For Starclassic",
+      "model": "MWH22C-ROY",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11515,
+      "name": "TAMA Drum Hoop 24\" Platinum Sparkle",
+      "model": "MWH24-PTS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11516,
+      "name": "TAMA Drum Hoop 24\" Red Oyster For Starclassic",
+      "model": "MWH24C-ROY",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11521,
+      "name": "TAMA Bass Drum Hoop - Coffee Fade 22\" (Superstar Custom)",
+      "model": "MLH22D-CFF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11522,
+      "name": "TAMA Bass Drum Hoop - Coffee Fade - Light 22\" (Superstar Custom)",
+      "model": "MLH22L-CFF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11524,
+      "name": "TAMA Star-Cast Drum Hoop 8 Hole - Smoked Black Nickel 16\" (Starclassic + Superst",
+      "model": "MDH16-8FU",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11525,
+      "name": "TAMA Die-Cast Drum Hoop 8 Hole -  16\" Smoked Black Nickel (Starclassic + Superst",
+      "model": "MDH16-8U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11526,
+      "name": "TAMA Die-Cast Drum Hoop 8 Hole - Smoked Black Nickel 18\" (Starclassic + Supersta",
+      "model": "MDH18-8U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11528,
+      "name": "TAMA Drum Hoop 16\" 6 Hole - Black (IMPERIALSTAR)",
+      "model": "MFH16-6BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11533,
+      "name": "TAMA Bass Drum Hoop - Matte Dark Brown 20\"",
+      "model": "TWH20-SDM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11534,
+      "name": "TAMA Bass Drum Hoop - 22\" Sunset Australian Acacia Burst",
+      "model": "TWH22-SAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11535,
+      "name": "TAMA Bass Drum Hoop - 22\" Dark Brown Matte",
+      "model": "TWH22-SDM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11536,
+      "name": "TAMA Die-Cast Drum Hoop 8 Hole Snare Side - Smoked Black Nickel 13\"",
+      "model": "MDH13S-8U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11547,
+      "name": "TAMA Key Lock - (Imperialstar)",
+      "model": "ML105D-B",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11548,
+      "name": "TAMA Limited Lug for Superstar Reissue Rack Tom",
+      "model": "SU-6370",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11576,
+      "name": "TAMA Square Head Bolt",
+      "model": "MS410R",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11633,
+      "name": "TAMA Tuning Lug (for Rockstar)",
+      "model": "MRHL8T",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11661,
+      "name": "TAMA Brass Tube Lug for Tom Tom",
+      "model": "MTL30B",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11668,
+      "name": "TAMA Memory lock STAR - Smoked Black Nickel",
+      "model": "MTB90A2U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11672,
+      "name": "TAMA Tuning Lug Inset for MTH1000 Tom Holder with Sliding Base",
+      "model": "MBM-SCS4",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11677,
+      "name": "TAMA Top Cover (MTH300)",
+      "model": "MOH30B4",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11702,
+      "name": "TAMA Screw with Spring",
+      "model": "MS825SH",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11714,
+      "name": "TAMA Tom Holder Lower Pipe",
+      "model": "MBM-SCSA-A",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11715,
+      "name": "TAMA Bolt M8 x 25mm",
+      "model": "MBM-SCS3A",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11716,
+      "name": "TAMA Rubber Plate",
+      "model": "MBM-SCS5",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11717,
+      "name": "TAMA Metal Back Plate",
+      "model": "MBM-SCS6",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11718,
+      "name": "TAMA Casting w/ Bolt & Screws",
+      "model": "MBM-SCUN1",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11719,
+      "name": "TAMA Bassdrum Rosestte",
+      "model": "MBMRM",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11722,
+      "name": "TAMA Square Head Bolt (HP310LBC/HP310LWBC)",
+      "model": "KBM610AC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11723,
+      "name": "TAMA Square Head Bolt (HP310LBC/HP310LWBC)",
+      "model": "KBM620AC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11726,
+      "name": "TAMA Mounting screw M5 x 14mm 20 pcs. Set - for Spur Bracket for Club Jam, Rhyth",
+      "model": "MS514B20P",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11729,
+      "name": "TAMA Square Head Bolt (HP310LBC/HP310LWBC)",
+      "model": "M8088AC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11730,
+      "name": "TAMA Screw M8 x 12",
+      "model": "M8088BN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11754,
+      "name": "TAMA Support Bar - 9\" - 11\"",
+      "model": "MDM11B",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11777,
+      "name": "TAMA Starcast Mount - 10\"",
+      "model": "MAM10HN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11782,
+      "name": "TAMA Support Bar - 12\" -14\"",
+      "model": "MDM14B",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11783,
+      "name": "TAMA Support Bar - 6\" -8\"",
+      "model": "MDM8B",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11792,
+      "name": "TAMA Drum Hoop Starclassic Maple Cherry Black",
+      "model": "1B-MBH20-MBF",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11897,
+      "name": "TAMA  Nylon Bushing - Pressure Plate & Nut for 1st Chair HT430B/BC",
+      "model": "NB222FC4",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11899,
+      "name": "TAMA Cymbal Tilter",
+      "model": "7143",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11900,
+      "name": "TAMA T-Bolt with Spring & Washer (M8x20)",
+      "model": "TS820TS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11948,
+      "name": "TAMA Drum Throne Seat Bracket Clamp, Plate only for HT530B, HT730B, HT741B, HT65",
+      "model": "HSH51",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 11949,
+      "name": "TAMA Drum Throne Bolt M4 x 16mm for HT530B, HT730B, HT830B,etc",
+      "model": "L46",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12043,
+      "name": "TAMA \"Safety Seat\" Cymbal Bottom Seat",
+      "model": "SB15SC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12113,
+      "name": "TAMA Anchor Plate Assembly",
+      "model": "ACPDS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12175,
+      "name": "TAMA Gear with Screws",
+      "model": "HP38P-09",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12283,
+      "name": "TAMA Angle Memory Cap Right for HPDS1TWL",
+      "model": "AMCDSR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12289,
+      "name": "TAMA Angle Memory Cap Left",
+      "model": "AMCDSL",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12298,
+      "name": "TAMA Sync Coil complete",
+      "model": "HPSC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12303,
+      "name": "TAMA  Footboard Assembly for HP300 Top and Bottom - Black",
+      "model": "HP3H89-BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12308,
+      "name": "TAMA Rocker Cam (HP310LBC/HP310LWBC)",
+      "model": "M1197MB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12309,
+      "name": "TAMA Hoop Clamp (HP310LBC/HP310LWBC)",
+      "model": "M1364MB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12310,
+      "name": "TAMA Sprocket Base (HP310LBC/HPC310LWBC)",
+      "model": "M1424NAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12311,
+      "name": "TAMA Footboard Assembly (HP310LBC/HP310LWBC)",
+      "model": "M1544AMB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12313,
+      "name": "TAMA Connecting Tube Only (HP310LBC/HP310LWBC)",
+      "model": "M4447NMB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12314,
+      "name": "TAMA Base Plate (HP310LBC/HP310LWBC)",
+      "model": "M4520MB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12315,
+      "name": "TAMA Sprocket - black (HP600DBK)",
+      "model": "M7275AMB",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12317,
+      "name": "TAMA Screw M6 x 12mm - chrome",
+      "model": "L612C",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12318,
+      "name": "TAMA Screw  M x 20",
+      "model": "L620",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12319,
+      "name": "TAMA Bolt (M4 x 20mm) Washer & Nut Assembly",
+      "model": "MSS420R",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12320,
+      "name": "TAMA Connection Rod Black For HP900/HP910 Black Edition HP310LBC/HP310LWBC",
+      "model": "M4446NAMB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12402,
+      "name": "TAMA Rubber Feet Double Braced",
+      "model": "RF-W",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12427,
+      "name": "TAMA Short Telecoping Boom 3/8\" BK",
+      "model": "CA734B1B",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12428,
+      "name": "TAMA Boom Tilter & Clamp Assembly",
+      "model": "734TC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12429,
+      "name": "TAMA Pressure Plate",
+      "model": "734PP",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12430,
+      "name": "TAMA Torque Nut & Washers",
+      "model": "734HDSB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12433,
+      "name": "TAMA Felt Washer - 2 pcs.",
+      "model": "FWCSP",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12434,
+      "name": "TAMA Beater Lod (HP310LBC/HP310LWBC)",
+      "model": "M4418CBA",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12436,
+      "name": "TAMA Eye Bolt (M8 x 30mm)",
+      "model": "EBA830",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12438,
+      "name": "TAMA Square Head Bolt  (M6x15mm) ＆nylon nut for HPDS1 Dyna-Sync Single Pedal",
+      "model": "MS615SHNN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12439,
+      "name": "TAMA Adjust Bolt & Washer",
+      "model": "MS899AB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12447,
+      "name": "TAMA Drum Hoop - 20\" Violet Shade for SC Performer",
+      "model": "1B-MBH20-VLS",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12448,
+      "name": "TAMA Drum Hoop - 22\" Cherry Rose for Artstar 86",
+      "model": "1B-MBH22-CHR",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12449,
+      "name": "TAMA Drum Hoop - 22\" White Pearl for SC Bubinga",
+      "model": "1B-MBH22-IWPD",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12450,
+      "name": "TAMA Drum Hoop - 22\" Platin Sparkle for Maple/Bubinga",
+      "model": "1B-MBH22-PTS",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12451,
+      "name": "TAMA Drum Hoop - 22\" Red Mahogany for SC Performer",
+      "model": "1B-MBH22-RDM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12452,
+      "name": "TAMA Drum Hoop - 22\" Silky Yellow for Artstar",
+      "model": "1B-MBH22-SLY",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12453,
+      "name": "TAMA Drum Hoop - 24\" Diamond Dust for SC Performer",
+      "model": "1B-MBH24-DDD",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12597,
+      "name": "MEINL Percussion Head for ADJ10",
+      "model": "HEAD-135",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12647,
+      "name": "MEINL Percussion lug - for HYT1315",
+      "model": "LUG-54",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12698,
+      "name": "MEINL Percussion DUO10 Drum Hoop - 10\"",
+      "model": "RIM-01",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12717,
+      "name": "MEINL Percussion rim for FMDJ Djembe - 8\"",
+      "model": "RIM-57",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12752,
+      "name": "MEINL Percussion ring for FWB190 (bottom) - 8\" black",
+      "model": "RING-26",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12758,
+      "name": "MEINL Percussion Ring for WB200 - 6 3/4 gold",
+      "model": "RING-32",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12762,
+      "name": "MEINL Percussion Stand Ring for Artist Conga \"William Kachiro Thompson\" 11\" - go",
+      "model": "RING-WKT11NT",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12764,
+      "name": "MEINL Percussion Standring for 12 1/2\" MCC Conga",
+      "model": "RINGSTMCC1212",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12767,
+      "name": "MEINL Percussion TTR Drum Hoop for WBP400 8,5\" - Chrome",
+      "model": "TTR-33",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12833,
+      "name": "MEINL Percussion Rim for HE-2000 6\" - black",
+      "model": "HE-RIM-2000",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12843,
+      "name": "MEINL Percussion SSR rim for bongo WB200 - 6 3/4\" gold",
+      "model": "SSR-41",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12844,
+      "name": "MEINL Percussion SSR rim for bongo WB200 - 6 3/4\" gold",
+      "model": "SSR-42",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12849,
+      "name": "MEINL Percussion SSR-RIM 11\" WCO11 - Chrome",
+      "model": "SSR-48",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 12850,
+      "name": "MEINL Percussion Hoop - 11 3/4\" SSR Conga",
+      "model": "SSR-49",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 13146,
+      "name": "TAMA Plastic Seat",
+      "model": "6815-24",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15295,
+      "name": "TAMA Drum Hoop - 20\" Black Oak Wrap",
+      "model": "1B-IEH20C-BOW",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15296,
+      "name": "TAMA Drum Hoop - 24\" Aspen White for Swingstar",
+      "model": "1B-6052",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15422,
+      "name": "TAMA Drum Hoop 11 Hole - Chrome 14\"",
+      "model": "MFM14-11",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15424,
+      "name": "TAMA Omni-Tune Drum Hoop 6 Hole - Hairline 12\" (Starcast)",
+      "model": "MPH12-6FH",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15426,
+      "name": "DRUM HOOP 12\" TAMA 8 HOLE BLACK NICKEL (ARTWOOD+METALWORKS)",
+      "model": "MFH12-8BN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15427,
+      "name": "TAMA Drum Hoop 13\" 6 Hole - Black (IMPERIALSTAR)",
+      "model": "MFH13-6BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15520,
+      "name": "TAMA Die-Cast Drum Hoop 10 Hole - Smoked Black Nickel 14\" (Starclassic + Superst",
+      "model": "MDH14-10U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15525,
+      "name": "TAMA Die-Cast Drum Hoop Snare Side 10 Hole - Smoked Black Nickel 14\" (Starclassi",
+      "model": "MDH14S10U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15535,
+      "name": "TAMA Sound Arc Hoop 8 Hole - 13\"",
+      "model": "MSH138",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15536,
+      "name": "TAMA Star-Cast Drum Hoop 6 Hole - Smoked Black Nickel 13\" (Starclassic + Superst",
+      "model": "MDH13-6FU",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15553,
+      "name": "TAMA Drum Hoop - 24\" Piano White for Artstar",
+      "model": "1B-MBH24-PWH",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15554,
+      "name": "TAMA Drum Hoop - 24\" Red Mahogany for SC Performer",
+      "model": "1B-MBH24-RDM",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15555,
+      "name": "TAMA Drum Hoop - 24\" Silky Yellow for Artstar",
+      "model": "1B-MBH24-SLY",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15556,
+      "name": "TAMA Drum Hoop - 24\" Natural Cordia for Artstar Cordia",
+      "model": "1B-MBM24-NTC",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15643,
+      "name": "Meinl Sonic Energy Protective Case for kalimba with 21 keys, Black",
+      "model": "KLC21",
+      "manufacturer": "Meinl Sonic Energy",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15747,
+      "name": "TAMA Die-Cast Drum Hoop 6 Hole - Smoked Black Nickel 13\" (Starclassic + Supersta",
+      "model": "MDH13-6U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15771,
+      "name": "TAMA Die-Cast Drum Hoop 8 Hole - Smoked Black Nickel 13\" (Starclassic + Supersta",
+      "model": "MDH13-8U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15773,
+      "name": "TAMA Die-Cast Drum Hoop 8 Hole - Smoked Black Nickel 14\" (Starclassic + Supersta",
+      "model": "MDH14-8U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15901,
+      "name": "TAMA Star-Cast Drum Hoop 4 Hole - Smoked Black Nickel 8\" (Starclassic + Supersta",
+      "model": "MDH8-4FU",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15903,
+      "name": "TAMA Grooved Hoop for Starphonic - 14\" Smoked Black Nickel",
+      "model": "MGH14U",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 15910,
+      "name": "TAMA Mounting for Bass Drum Legs",
+      "model": "MSB10-BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16008,
+      "name": "ORTEGA Saddle for TourPlayer 80 mm x 3 mm x 9 mm - White ABS",
+      "model": "OER-30500",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16067,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 16\" - Dark side of Marine Shore",
+      "model": "MEH16D-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16068,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 16\" - Lighter side of Marine Sh",
+      "model": "MEH16L-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16069,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 18\" - Dark side of Marine Shore",
+      "model": "MEH18D-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16070,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 18\" - hellere Seite von Marine ",
+      "model": "MEH18L-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16071,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 20\" - Dark side of Marine Shore",
+      "model": "MEH20D-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16072,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 20\" - Lighter side of Marine Sh",
+      "model": "MEH20L-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16073,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 22\" - Dark side of Marine Shore",
+      "model": "MEH22D-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16074,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 22\" - Lighter side of Marine Sh",
+      "model": "MEH22L-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16075,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 24\" - Dark side of Marine Shore",
+      "model": "MEH24D-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16076,
+      "name": "TAMA Bass Drum Hoop for Starclassic Maple Exotic 24\" - Lighter side of Marine Sh",
+      "model": "MEH24L-VMMF",
+      "manufacturer": "Tama",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16249,
+      "name": "TAMA Square Nut M6 for TMR1000 - Chrome",
+      "model": "SNT6",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16250,
+      "name": "TAMA Square Head Bolt M5 x 8 mm",
+      "model": "S58",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16253,
+      "name": "MEINL Percussion Bracket für Diego Galé Congas",
+      "model": "BRACKET-34",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16314,
+      "name": "MEINL Percussion Frontplate for PWC100B 8rectangular cut out)",
+      "model": "FP-PWC100B",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16317,
+      "name": "MEINL Percussion Head for ADJ12",
+      "model": "HEAD-139",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16318,
+      "name": "MEINL Percussion Rim for HE-050 - 4 1/4\"",
+      "model": "HE-RIM-050",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16323,
+      "name": "MEINL Percussion Rim for HE-1030  - 4\"",
+      "model": "HE-RIM-1030",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16324,
+      "name": "MEINL Percussion Tension Bolts for HE-1018/HE-1030 - 6 pcs",
+      "model": "HE-LUG-1000",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16325,
+      "name": "MEINL Percussion Rim for HE-1018  - 4\"",
+      "model": "HE-RIM-1018",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16326,
+      "name": "MEINL Percussion Tension Bolts for HE-3200/HE-3218 - 8 pcs",
+      "model": "HE-LUG-3200",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16327,
+      "name": "MEINL Percussion Rim for HE-2018  - 6\"",
+      "model": "HE-RIM-2018",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16328,
+      "name": "MEINL  Percussion Tension Bolt for HE-2000/HE-2018 - 6 pcs",
+      "model": "HE-LUG-2000",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16339,
+      "name": "TAMA Bass Drum Hoop Lacquer Finish for Club-Jam Pancake - 18\"",
+      "model": "LJKPH18-LDB",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16363,
+      "name": "ORTEGA TourPlayer Nut",
+      "model": "OER-30501",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16416,
+      "name": "TAMA Bass Drum Hoop 22\" Sky Blue Aurora for Starclassic Performer",
+      "model": "MLH22-SKA",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16435,
+      "name": "TAMA Claw Hook for IP Imperialstar, Club-Jam Pancake - Chrome",
+      "model": "MCHLJP",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16459,
+      "name": "TAMA Beater Holder for HP600DG, HP600DTWG - Gold",
+      "model": "M1400G",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16460,
+      "name": "TAMA Beater Holder for HP600DG, HP600DTWG - Gold",
+      "model": "M1453G",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16461,
+      "name": "TAMA Footboard Assembly for 50th Anniversary Iron Cobra - Coral Swirl",
+      "model": "M1562ACS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16462,
+      "name": "TAMA Footboard Assembly for 50th Anniversary Iron Cobra - Psychedelic Rainbow",
+      "model": "M1562APR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16463,
+      "name": "TAMA Pedal Frame Right for 50th Anniversary Iron Cobra - Coral Swirl",
+      "model": "M1568CS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16464,
+      "name": "TAMA Pedal Frame Right for 50th Anniversary Iron Cobra - Psychedelic Rainbow",
+      "model": "M1568PR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16465,
+      "name": "TAMA Pedal Frame Left for 50th Anniversary Twin Iron Cobra - Coral Swirl",
+      "model": "M1569CS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16466,
+      "name": "TAMA Pedal Frame Left for 50th Anniversary Twin Iron Cobra - Psychedelic Rainbow",
+      "model": "M1569PR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16467,
+      "name": "TAMA Anchor Plate for 50th Anniversary Iron Cobra Coral Swirl",
+      "model": "M4130NCS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16468,
+      "name": "TAMA Anchor Plate for 50th Anniversary Iron Cobra - Psychedelic Rainbow",
+      "model": "M4130NPR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16469,
+      "name": "TAMA underplate for fastening the chain to the Lite sprocket for the 50th annive",
+      "model": "M4527CS",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16470,
+      "name": "ORTEGA Saddle for KTSM2-4 - black",
+      "model": "OER-30510",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16471,
+      "name": "ORTEGA Nut for KTSM2-4 - black",
+      "model": "OER-30511",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16472,
+      "name": "ORTEGA  Saddle for KTSM2-5 - black",
+      "model": "OER-30520",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16473,
+      "name": "ORTEGA Nut KTSM2-5 - black",
+      "model": "OER-30521",
+      "manufacturer": "Ortega",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16475,
+      "name": "TAMA Under Plate to Fast Chain to Lite Sprocket for 50th Anniversary",
+      "model": "M4527PR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16607,
+      "name": "TAMA Screw M5 x 12mm for HP910LWCB/HP910LCB",
+      "model": "B512NAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16608,
+      "name": "TAMA Drum Hammer for HP910LWCB/HP910LCB",
+      "model": "DH7AC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16616,
+      "name": "TAMA Bass Drum Hoop for Starclassic Exotic - Gloss Java Lacebark Pine - 22\"",
+      "model": "MLH22-PGJP",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16670,
+      "name": "MEINL Percussion tension Lug - Gold",
+      "model": "BRACKET-02",
+      "manufacturer": "Meinl Percussion",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16717,
+      "name": "TAMA Speedo Ring Assembly for HP910LWCB/HP910LCB",
+      "model": "HP9SNBK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16718,
+      "name": "TAMA Footboard Assembly for HP910LWCB/HP910LCB",
+      "model": "HP919BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16720,
+      "name": "TAMA Quick Hook Assembly for HP910LWCB/HP910LCB",
+      "model": "HP971BK",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16721,
+      "name": "TAMA Square Head Bolt M6 x 10mm for HP910LWCB/HP910LCB",
+      "model": "MS610SHAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16722,
+      "name": "TAMA Square Head Bolt M6 x 12mm for HP910LWCB/HP910LCB",
+      "model": "MS612SHAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16723,
+      "name": "TAMA Screw M8 x 12mm for HP910LWCB,/P910LCB",
+      "model": "S812SHAC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16724,
+      "name": "TAMA Wing Nut M8 x 20mm for HP910LWCB/HP910LCB",
+      "model": "WS820AC",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16766,
+      "name": "TAMA Drum Hammer for HP900/HP910 Black Edition - Black",
+      "model": "DH7BN",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16793,
+      "name": "TAMA Bass Drum Hoop for Starclassic Walnut/Birch 22\" - Lacquer Ocean Blue Ripple",
+      "model": "MWH22-LOR",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16833,
+      "name": "TAMA Claw Hook Assembly for Stagestar",
+      "model": "MCH03SG",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16834,
+      "name": "TAMA Plastic Spacer for MSL-SCB, MSL-SCBBN, MSL-SCBU",
+      "model": "MSL-SCB4N",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16835,
+      "name": "TAMA Plastic Spacer for MSL-SCB, MSL-SCBBN, MSL-SCBU",
+      "model": "MSL-SCT4N",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 16868,
+      "name": "TAMA Pressure Casting for MTA30/MTA45/CA30EN/CA45EN",
+      "model": "HC83B-33",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17051,
+      "name": "TAMA Hi-Hat Spike 38mm for HH805D, HH905D",
+      "model": "DSP38",
+      "manufacturer": "Tama",
+      "issues": [
+        "no_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17061,
+      "name": "LTD ARROW-1000 CANDY APPLE Red SATIN",
+      "model": "LARROW1000CARSF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17066,
+      "name": "LTD ARROW-400 CHARCOAL METALLIC",
+      "model": "LARROW400CHM",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17068,
+      "name": "LTD B-204DX BLACK BURST",
+      "model": "LB204DXBLKB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17070,
+      "name": "LTD B-205DX BLACK BURST",
+      "model": "LB205DXBLKB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17076,
+      "name": "LTD B-204SM FRETLESS Natural Satin NATURAL",
+      "model": "LB204SMFLNS",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17083,
+      "name": "LTD B BASS 6 STR FF CASE L/H",
+      "model": "10002867",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17084,
+      "name": "LTD B BASS FF CASE",
+      "model": "10002871",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17085,
+      "name": "LTD B BASS FORM FIT CASE LH",
+      "model": "CBBASSFFLH",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17086,
+      "name": "LTD CASE / ESP & RZK-1",
+      "model": "10024181",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17087,
+      "name": "LTD CASE/ M-BASS/FORM FIT",
+      "model": "10024179",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17088,
+      "name": "LTD CASE/EXL SERIES FORM FIT",
+      "model": "10024177",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17089,
+      "name": "LTD CASE/FL/BASS FORM FIT",
+      "model": "10024178",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17090,
+      "name": "LTD CASE/ROYAL SHIVA/FORM FIT",
+      "model": "10024180",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17091,
+      "name": "LTD CASE/SAMMYDUET/RS/FORM FIT",
+      "model": "10024183",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17092,
+      "name": "LTD CASE/ST 8-STRING FORM FIT/LH",
+      "model": "10024185",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17095,
+      "name": "LTD CSTREAMGFF",
+      "model": "10007242",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17096,
+      "name": "LTD XTONE XL GUITAR FORM FIT CASE",
+      "model": "CXTPXLFF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17101,
+      "name": "LTD EC GUITAR XL FORM FIT CASE",
+      "model": "CECXLFF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17107,
+      "name": "LTD FRX BASS FORM FIT CASE",
+      "model": "CFRXBASSFF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17110,
+      "name": "LTD GB BASS FF CASE",
+      "model": "10002882",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17113,
+      "name": "LTD HORIZON 3 GUITAR FF CASE L/H",
+      "model": "10002890",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17119,
+      "name": "LTD MH LH GUITAR FF CASE",
+      "model": "10002896",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17120,
+      "name": "LTD MH XL GUITAR FF CASE",
+      "model": "10002897",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17121,
+      "name": "LTD MH XL LH GUITAR FF CASE",
+      "model": "10002898",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17122,
+      "name": "LTD MYSTIQUE 8-STR FF CASE",
+      "model": "11000004",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17123,
+      "name": "LTD MYSTIQUE GUITAR FF CASE",
+      "model": "10002900",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17124,
+      "name": "LTD MYSTIQUE/X-LONG/ FORM FIT",
+      "model": "10002899",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17130,
+      "name": "LTD RPR FF CASE",
+      "model": "10002901",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17132,
+      "name": "LTD SNAKEBYTE FORM FIT CASE LH",
+      "model": "CSNAKEBYTEFFLH",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17134,
+      "name": "LTD ST-1 GUITAR FF CASE",
+      "model": "10002906",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17135,
+      "name": "LTD ST-1 GUITAR FF CASE L/H",
+      "model": "10002907",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17136,
+      "name": "LTD ST-1/XL/FORM FIT",
+      "model": "11000006",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17137,
+      "name": "LTD ST-1/XL/FORM FIT/LH",
+      "model": "10024184",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17140,
+      "name": "LTD ST-TE LH GUITAR FORM FIT CASE",
+      "model": "CSTFFLH",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17141,
+      "name": "LTD ST-TE XL GUITAR FF CASE",
+      "model": "11000007",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17150,
+      "name": "LTD VIPER GUITAR FF CASE L/H",
+      "model": "10002919",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17151,
+      "name": "LTD VIPER XTRA FF CASE",
+      "model": "10002920",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17152,
+      "name": "LTD VULTURE FORM FIT CASE",
+      "model": "CVULTUREFF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17153,
+      "name": "LTD XJ CASE EXTRA LONG FORM FIT",
+      "model": "10024105",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17161,
+      "name": "LTD EC-1000 BLACK FLUENCE",
+      "model": "LEC1000BLKF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17162,
+      "name": "LTD EC-1000 SEE THRU Black CHERRY FLUENCE",
+      "model": "LEC1000QMSTBC",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17163,
+      "name": "LTD EC-1000 See Thru Purple Sunburst SEE THRU PURPLE SB",
+      "model": "LEC1000QMSTPSB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17164,
+      "name": "LTD EC-1000 See Thru Purple Sunburst SEE THRU PURPLE SB LH",
+      "model": "LEC1000QMSTPSBLH",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17172,
+      "name": "LTD EC-200DX BLUE BURST",
+      "model": "LEC200DXBLB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17174,
+      "name": "LTD EC-256 CANDY APPLE Red SATIN",
+      "model": "LEC256CARS",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17175,
+      "name": "LTD EC-256 CANDY APPLE RED SATIN LH",
+      "model": "10023510",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17177,
+      "name": "LTD EC-256 SILVER SUNBURST TEARDROP",
+      "model": "LEC256SSB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17190,
+      "name": "LTD M-1007 BARITONE EVERTUNE GRANITE SPARKLE",
+      "model": "LM1007BETGNSP",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17192,
+      "name": "LTD M-200DX NT PURPLE BURST",
+      "model": "LM200DXNTPRB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17194,
+      "name": "LTD M-201 BARITONE HT BLACK",
+      "model": "LM201BHTBLK",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17196,
+      "name": "LTD M-400HT SCARLET METALLIC",
+      "model": "LM400HTSCM",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17201,
+      "name": "LTD MH-1000 EVERTUNE CHARCOAL BURST",
+      "model": "LMH1000ETFMCHB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17203,
+      "name": "LTD MH-1000NT BOLD BINDING BLACK SATIN",
+      "model": "LMH1000NTBBBLKS",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17209,
+      "name": "LTD MT-130 Black",
+      "model": "LXMT130BLK",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17213,
+      "name": "LTD MT-130 ORANGE",
+      "model": "LXMT130ORANGE",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17215,
+      "name": "LTD MT-130 SKY BLUE",
+      "model": "LXMT130SKBLU",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17221,
+      "name": "LTD PHOENIX-204DX Red BURST",
+      "model": "LPHX204DXREDB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17230,
+      "name": "LTD ARROW-1000 PEARL WHITE",
+      "model": "LARROW1000PW",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17231,
+      "name": "LTD EC-1000 GRANITE SPARKLE",
+      "model": "LEC1000GNSP",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17232,
+      "name": "LTD EC-1000 PEARL WHITE",
+      "model": "LEC1000PW",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17233,
+      "name": "LTD MH-1000NT GRANITE SPARKLE",
+      "model": "LMH1000NTGNSP",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17234,
+      "name": "LTD MT-I MICK THOMSON SIGNATURE BLACK SATIN",
+      "model": "LMTIBLKS",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17242,
+      "name": "LTD ANDY LAROCQUE ALR-II SEE THRU PURPLE",
+      "model": "LALRIIQMSTP",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17247,
+      "name": "LTD CALEB SHOMO CS-II VINTAGE NATURAL",
+      "model": "LCSIIQMVN",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17248,
+      "name": "LTD EC-1000 CANDY APPLE Red SATIN",
+      "model": "LEC1000CARS",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17263,
+      "name": "LTD VULTURE OW JAMES HETFIELD",
+      "model": "LVULTUREOW",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17264,
+      "name": "LTD JH-200 CTM BLACK JEFF HANNEMAN",
+      "model": "LJH200CTMBLK",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17270,
+      "name": "LTD JR-608 FBSBF JAVIER REYES SIGNATURE",
+      "model": "LJR608QMFBSBF",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17275,
+      "name": "LTD KH-602 PSP KIRK HAMMETT",
+      "model": "LKH602PSP",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17279,
+      "name": "LTD MIKE SCHLEIBAUM MSV-1 BLACK",
+      "model": "LMSV1BLK",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17280,
+      "name": "LTD STEPHEN CARPENTER SC-608 BARITONE YELLOW",
+      "model": "LSC608BYELF1",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17290,
+      "name": "LTD SD-2/RS/BLACK",
+      "model": "10008759",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17292,
+      "name": "LTD SN-1000HT QM DARK BROWN SUNBURST",
+      "model": "LSN1000HTQMDBSB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17305,
+      "name": "LTD WILL ADLER WA-WARBIRD BLACK W/GRAPHIC",
+      "model": "LWAWARBIRDBLKG",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17307,
+      "name": "LTD SN-1000HT SILVER BLAST",
+      "model": "LSN1000HTSBLAST",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17310,
+      "name": "LTD SN-1007 BARITONE HT FIREBLAST",
+      "model": "LSN1007BHTFIREBLAST",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17311,
+      "name": "LTD SN-1 HT BLACK BLAST",
+      "model": "LSN1HTBLKBLAST1",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17314,
+      "name": "LTD SURVEYOR-204DX Red BURST",
+      "model": "LSURV204DXREDB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17316,
+      "name": "LTD TH-400 SCARLET METALLIC",
+      "model": "LTH400SCM",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17320,
+      "name": "LTD TL-6 CHARCOAL BURST",
+      "model": "LTL6QMCHB",
+      "manufacturer": "LTD",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17335,
+      "name": "E-II BTL-4/BLK NAT BURST",
+      "model": "10000753",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17377,
+      "name": "E-II HORIZON NT HS/Amethyst Sparkle",
+      "model": "10008069",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17378,
+      "name": "E-II HORIZON NT HS/Granite Sparkle",
+      "model": "10008124",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17383,
+      "name": "E-II HORIZON-NT/II/TE AMBER FADE LH",
+      "model": "10005417",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17394,
+      "name": "E-II M-II HST P/METALLIC SEAFOAM GREEN",
+      "model": "10009870",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17395,
+      "name": "E-II M-II HST P/Voodoo Purple",
+      "model": "10009869",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17396,
+      "name": "E-II M-II HST QM",
+      "model": "EIIMIIHSTQMINPRFD",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17399,
+      "name": "E-II M-II NECK THRU BLACK LH",
+      "model": "10024215",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17408,
+      "name": "E-II RICHARD Z/RZK-1/BURNT/FLUENCE",
+      "model": "10000744",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17417,
+      "name": "E-II SV/SW W/ BLK STRIPE",
+      "model": "10012167",
+      "manufacturer": "E-II",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17425,
+      "name": "ESP ARROW FR ANDROMEDA II",
+      "model": "10000789",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17429,
+      "name": "ESP ARROW FR RUSTY IRON",
+      "model": "10013201",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17431,
+      "name": "ESP ARROW NT BLACK/AD",
+      "model": "10009993",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17437,
+      "name": "ESP ECLIPSE CTM DB Titan Metal",
+      "model": "10024256",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17444,
+      "name": "ESP EX BK w/ And II",
+      "model": "10024254",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17445,
+      "name": "ESP EX Everest(Maziora)",
+      "model": "10024255",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17446,
+      "name": "ESP ORIGINAL FRX ANDROMEDA II",
+      "model": "FRX ANDROMEDA II",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17450,
+      "name": "ESP FRX Glitterstorm Blue",
+      "model": "10010021",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17451,
+      "name": "ESP FRX Glitterstorm Ice Black",
+      "model": "10010024",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17452,
+      "name": "ESP FRX Glitterstorm Purple",
+      "model": "10010023",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17453,
+      "name": "ESP FRX Glitterstorm Red",
+      "model": "10010022",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17454,
+      "name": "ESP FRX LIQUID METAL BLUE",
+      "model": "10009039",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17455,
+      "name": "ESP FRX LIQUID METAL PINK",
+      "model": "10009963",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17456,
+      "name": "ESP FRX LIQUID METAL RED",
+      "model": "10009962",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17458,
+      "name": "ESP FRX-CTM /FM BLACK CHERRY SUNBURST",
+      "model": "10009965",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17461,
+      "name": "ESP FRX-CTM/Burl Maple CRANBERRY BURST",
+      "model": "10007406",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17463,
+      "name": "ESP FRX-CTM/Burl Maple PEACOCK BLUE BURST",
+      "model": "10013193",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17465,
+      "name": "ESP HORIZON-CTM FR/Burl Maple REPTILE BLACK BURST",
+      "model": "10009925",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17466,
+      "name": "ESP HORIZON-CTM FR/Burl Maple REPTILE BLUE BURST",
+      "model": "10009927",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17468,
+      "name": "ESP HORIZON-CTM FR/FM ANTIQUE BROWN SUNBURST",
+      "model": "10009924",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17481,
+      "name": "ESP HORIZON-CTM-PT-II FR Fireopal",
+      "model": "10024222",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17482,
+      "name": "ESP HORIZON-CTM-PT-II FR Snow White",
+      "model": "10024221",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17483,
+      "name": "ESP HORIZON-CTM-PT-II FR Sugilite",
+      "model": "10024223",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17484,
+      "name": "ESP HORIZON-CTM-PT-II FR Tanzanite",
+      "model": "10024224",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17485,
+      "name": "ESP HORIZON-CTM-PT-II NT Fireopal",
+      "model": "10024226",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17486,
+      "name": "ESP HORIZON-CTM-PT-II NT Snow White",
+      "model": "10024225",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17487,
+      "name": "ESP HORIZON-CTM-PT-II NT Sugilite",
+      "model": "10024227",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17488,
+      "name": "ESP HORIZON-CTM-PT-II NT Tanzanite",
+      "model": "10024228",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17494,
+      "name": "ESP HORIZON-III BLACK",
+      "model": "10009939",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17495,
+      "name": "ESP HORIZON-III DEEP CANDY APPLE RED",
+      "model": "10009940",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17497,
+      "name": "ESP HORIZON-III TITAN METAL",
+      "model": "10009941",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17498,
+      "name": "ESP M-II CTM 7 FR Black",
+      "model": "10024229",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17499,
+      "name": "ESP M-II CTM 7 FR Liquid Metal Black Lava",
+      "model": "10024231",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17500,
+      "name": "ESP M-II CTM 7 FR Liquid Metal Blue Lava",
+      "model": "10024230",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17501,
+      "name": "ESP M-II CTM 7 NT Black",
+      "model": "10024234",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17502,
+      "name": "ESP M-II CTM 7 NT Liquid Metal Black Lava",
+      "model": "10024232",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17503,
+      "name": "ESP M-II CTM 7 NT Liquid Metal Blue Lava",
+      "model": "10024233",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17504,
+      "name": "ESP M-II CTM 7 NT Volcano Red",
+      "model": "10024235",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17505,
+      "name": "ESP M-II CTM FM/FR Black Aqua Burst/C",
+      "model": "10013188",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17506,
+      "name": "ESP M-II CTM FM/FR Charcoal Bust",
+      "model": "10013187",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17507,
+      "name": "ESP M-II CTM FM/NT Black Aqua Burst/C",
+      "model": "10013185",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17508,
+      "name": "ESP M-II CTM FM/NT Charcoal Bust",
+      "model": "10013186",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    },
+    {
+      "id": 17509,
+      "name": "ESP M-II CTM FR Ebony FB BLACK",
+      "model": "10009955",
+      "manufacturer": "ESP",
+      "issues": [
+        "short_description",
+        "no_image"
+      ],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 80
+    }
+  ],
+  "complete_sample": [
+    {
+      "id": 1253,
+      "name": "IBANEZ Bass Workshop SR Semi-Hollow Body Bass 4-String Fretless, AERIUM - Natura",
+      "model": "SRH500F-NNF",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1254,
+      "name": "IBANEZ Bass Workshop SR Semi-Hollow Body Bass 5-String Fretless, AERIUM - Natura",
+      "model": "SRH505F-NNF",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1255,
+      "name": "IBANEZ Advanced Acoustic AAM Acoustic Guitar 6-String - Transparent Antique Whit",
+      "model": "AAM370M2E-APF",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1256,
+      "name": "IBANEZ Advanced Acoustic AAM Acoustic Guitar 6-String - Transparent Antique Whit",
+      "model": "AAM370M2E-AIB",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1257,
+      "name": "IBANEZ Prestige RG Electric Guitar 6-String - Cosmic Shadow + Case M20RG",
+      "model": "RG5320-CSW",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1258,
+      "name": "IBANEZ Prestige RG Electric Guitar 6-String - Deep Forest Green + Case",
+      "model": "RG5320C-DFM",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1259,
+      "name": "IBANEZ Bridge Pickup for RG550 and RG565 - Flat Black",
+      "model": "3PUV8B4-FBB",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1260,
+      "name": "IBANEZ Prestige RG Electric Guitar 7-String - Dark Tide Blue +Case",
+      "model": "RG2027XL-DTB",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1261,
+      "name": "IBANEZ Genesis RG Electric Guitar 6-String - Road Flare Red",
+      "model": "RG550-RF",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1262,
+      "name": "IBANEZ Adam Nitti Signature Electric Bass 5-String - Transparent Wine Red Burst ",
+      "model": "ANB205-TWB",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1263,
+      "name": "IBANEZ Fieldy Signature Electric Bass 5-String - Black Flat",
+      "model": "K5-BKF",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1264,
+      "name": "IBANEZ plastic pickguard - red turtle shell ,upper side for ORM1-WH",
+      "model": "4PG27A0008",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1266,
+      "name": "IBANEZ Pickguard RG350ZB (FRT30C / Edge-Zero II / H-S-H) - Black / white / black",
+      "model": "4PGG011R-BK",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1267,
+      "name": "IBANEZ pickguard - RG350ZB",
+      "model": "4PGG011R-BKF",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1268,
+      "name": "IBANEZ pickguard for RG350ZB - white pearloid",
+      "model": "4PGG011R-WHP",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_extra_images",
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1270,
+      "name": "IBANEZ Artstar AS Hollow Body Guitar 6-String - Tobacco Brown + Case",
+      "model": "ASH300-TBC",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1271,
+      "name": "IBANEZ Artstar AM Hollow Body Guitar 6-String - Antique Tobacco Burst + Case",
+      "model": "AM153FM-ATT",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1273,
+      "name": "IBANEZ Genesis RG Electric Guitar 6-String - Black",
+      "model": "RG550-BK",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1274,
+      "name": "IBANEZ Genesis RG Electric Guitar 6-String - Electric Blue",
+      "model": "RG550-EB",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    },
+    {
+      "id": 1275,
+      "name": "IBANEZ Genesis RG Electric Guitar 6-String Lefty - Desert Sun Yellow",
+      "model": "RG550L-DY",
+      "manufacturer": "Ibanez",
+      "issues": [],
+      "extras": [
+        "no_category"
+      ],
+      "score": 100
+    }
+  ]
+}

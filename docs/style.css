@@ -499,3 +499,33 @@ body {
   }
   .auth-bar input { width: 200px; }
 }
+
+/* Product Audit Tables */
+.audit-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin-top: 12px;
+}
+.audit-table th {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 2px solid #ddd;
+  font-weight: 600;
+  color: #666;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+.audit-table td {
+  padding: 6px 12px;
+  border-bottom: 1px solid #eee;
+}
+.audit-table tr:hover {
+  background: #f8f9fa;
+}
+.audit-table a {
+  text-decoration: none;
+}
+.audit-table a:hover {
+  text-decoration: underline;
+}

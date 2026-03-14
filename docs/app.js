@@ -767,9 +767,119 @@ function renderSeo(container) {
   });
 }
 
+// ============ Product Audit Dashboard ============
+
+let productAudit = null;
+
+async function loadProductAudit() {
+  try {
+    const data = await ghGet('reports/product_audit.json');
+    productAudit = JSON.parse(decodeURIComponent(escape(atob(data.content))));
+    return productAudit;
+  } catch (e) {
+    productAudit = null;
+    return null;
+  }
+}
+
+function renderProducts(container) {
+  container.innerHTML = '<div class="loading"><div class="spinner"></div><p>Loading product audit...</p></div>';
+
+  loadProductAudit().then(report => {
+    if (!report) {
+      container.innerHTML = `<div class="panel">
+        <h2>Product Completeness</h2>
+        <p>No product audit found yet. Run the product-audit script locally.</p>
+      </div>`;
+      return;
+    }
+
+    const total = report.total_products;
+    const done = report.complete_count;
+    const todo = report.incomplete_count;
+    const pct = report.completeness_pct;
+
+    let html = `
+      <div class="panel">
+        <h2>Product Completeness</h2>
+        <p class="seo-timestamp">Last audit: ${new Date(report.timestamp).toLocaleString()} | ${total.toLocaleString()} enabled products</p>
+
+        <div class="seo-summary">
+          <div class="seo-stat" style="border-color:#2abb67"><div class="num" style="color:#2abb67">${done.toLocaleString()}</div><div class="label">Done</div></div>
+          <div class="seo-stat" style="border-color:#e67e22"><div class="num" style="color:#e67e22">${todo.toLocaleString()}</div><div class="label">Needs Work</div></div>
+          <div class="seo-stat" style="border-color:#3498db"><div class="num" style="color:#3498db">${pct}%</div><div class="label">Complete</div></div>
+        </div>
+
+        <div style="background:#eee;border-radius:8px;height:24px;margin:16px 0;overflow:hidden">
+          <div style="background:linear-gradient(90deg,#2abb67,#27ae60);height:100%;width:${pct}%;transition:width .5s;border-radius:8px"></div>
+        </div>
+      </div>`;
+
+    // Issue breakdown
+    html += `<div class="panel"><h3>Issue Breakdown</h3><table class="audit-table"><thead><tr><th>Issue</th><th>Count</th><th>% of Products</th><th></th></tr></thead><tbody>`;
+    const issueOrder = ['no_description','short_description','no_image','no_seo_url','no_meta_title','no_meta_description','no_manufacturer','no_price','no_model','no_name','no_category','no_extra_images'];
+    for (const key of issueOrder) {
+      const issue = (report.issue_summary || {})[key];
+      if (!issue || issue.count === 0) continue;
+      const ipct = Math.round(issue.count / total * 100);
+      const isExtra = key === 'no_category' || key === 'no_extra_images';
+      html += `<tr${isExtra ? ' style="opacity:.5"' : ''}>
+        <td>${esc(issue.label)}</td>
+        <td style="text-align:right;font-weight:600">${issue.count.toLocaleString()}</td>
+        <td style="text-align:right">${ipct}%</td>
+        <td style="width:200px"><div style="background:#eee;border-radius:4px;height:12px;overflow:hidden"><div style="background:${isExtra ? '#bbb' : '#e74c3c'};height:100%;width:${ipct}%"></div></div></td>
+      </tr>`;
+    }
+    html += '</tbody></table></div>';
+
+    // By manufacturer
+    if (report.by_manufacturer && report.by_manufacturer.length > 0) {
+      html += `<div class="panel"><h3>By Manufacturer</h3><table class="audit-table"><thead><tr><th>Brand</th><th>Total</th><th>Done</th><th>Needs Work</th><th>%</th><th></th></tr></thead><tbody>`;
+      for (const m of report.by_manufacturer) {
+        const barColor = m.pct >= 80 ? '#2abb67' : m.pct >= 50 ? '#e67e22' : '#e74c3c';
+        html += `<tr>
+          <td style="font-weight:600">${esc(m.name)}</td>
+          <td style="text-align:right">${m.total}</td>
+          <td style="text-align:right;color:#2abb67">${m.complete}</td>
+          <td style="text-align:right;color:#e74c3c">${m.incomplete}</td>
+          <td style="text-align:right;font-weight:600">${m.pct}%</td>
+          <td style="width:150px"><div style="background:#eee;border-radius:4px;height:12px;overflow:hidden"><div style="background:${barColor};height:100%;width:${m.pct}%"></div></div></td>
+        </tr>`;
+      }
+      html += '</tbody></table></div>';
+    }
+
+    // Incomplete products list
+    if (report.incomplete_products && report.incomplete_products.length > 0) {
+      html += `<div class="panel"><h3>Products Needing Work <span style="font-weight:400;color:#888">(showing first ${report.incomplete_products.length})</span></h3>`;
+      html += `<table class="audit-table"><thead><tr><th>ID</th><th>Name</th><th>Brand</th><th>Score</th><th>Missing</th></tr></thead><tbody>`;
+      for (const p of report.incomplete_products) {
+        const scoreColor = p.score >= 80 ? '#2abb67' : p.score >= 50 ? '#e67e22' : '#e74c3c';
+        const missingLabels = {
+          no_name: 'Name', no_description: 'Desc', short_description: 'Short desc',
+          no_meta_title: 'Meta title', no_meta_description: 'Meta desc',
+          no_seo_url: 'SEO URL', no_image: 'Image', no_manufacturer: 'Brand',
+          no_price: 'Price', no_model: 'Model'
+        };
+        const missing = (p.issues || []).map(i => missingLabels[i] || i).join(', ');
+        html += `<tr>
+          <td><a href="https://all4.rentit.sk/admin/index.php?route=catalog/product/edit&product_id=${p.id}" target="_blank" style="color:#3498db">${p.id}</a></td>
+          <td>${esc(p.name)}</td>
+          <td>${esc(p.manufacturer)}</td>
+          <td style="font-weight:600;color:${scoreColor}">${p.score}%</td>
+          <td><span style="color:#e74c3c;font-size:12px">${esc(missing)}</span></td>
+        </tr>`;
+      }
+      html += '</tbody></table></div>';
+    }
+
+    container.innerHTML = html;
+  });
+}
+
 // ============ Init ============
 
-let activeTab = 'feeds'; // feeds | seo
+let activeTab = 'feeds'; // feeds | seo | products
 
 document.addEventListener('DOMContentLoaded', () => {
   initAuth();
@@ -783,6 +893,8 @@ document.addEventListener('DOMContentLoaded', () => {
       activeTab = btn.dataset.view;
       if (activeTab === 'seo') {
         renderSeo($('#app'));
+      } else if (activeTab === 'products') {
+        renderProducts($('#app'));
       } else {
         currentView = 'list';
         render();

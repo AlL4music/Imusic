@@ -46,7 +46,13 @@ jobs:
             echo "No changes in SEO report."
           else
             git commit -m "SEO report: $(date +'%Y-%m-%d %H:%M')"
-            git pull --rebase origin main
+            # Pull with rebase, auto-resolve report conflicts (ours = newest report)
+            git pull --rebase -X theirs origin main || {
+              echo "Rebase conflict detected, resolving with latest report..."
+              git checkout --theirs reports/ 2>/dev/null || true
+              git add reports/
+              git rebase --continue || git rebase --skip
+            }
             git push origin main
           fi
 

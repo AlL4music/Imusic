@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T09:04:24.922444Z",
+  "timestamp": "2026-03-14T09:50:42.559931Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -7,17 +7,30 @@
       "status": 200,
       "checks": {
         "meta_tags": {
-          "title": "All4music.sk",
-          "meta_description": "All4music.sk",
-          "canonical": null,
+          "title": "All4Music.sk | Guitars, Basses & Musical Instruments",
+          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "canonical": "https://new.all4music.sk/",
           "html_lang": "en",
           "has_viewport": true,
           "og_title": "All4music.sk",
-          "og_description": "All4music.sk",
+          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
           "og_image": "https://new.all4music.sk/image/cache/catalog/Kategórie/lil-1-600x315h.png"
         },
         "hreflang": {
-          "hreflang_tags": []
+          "hreflang_tags": [
+            {
+              "lang": "en",
+              "href": "https://new.all4music.sk/?language=en-gb"
+            },
+            {
+              "lang": "sk",
+              "href": "https://new.all4music.sk/?language=sk-sk"
+            },
+            {
+              "lang": "x-default",
+              "href": "https://new.all4music.sk/?language=en-gb"
+            }
+          ]
         },
         "headings": {
           "h1_count": 1,
@@ -40,23 +53,11 @@
         "page_speed": {
           "total_scripts": 13,
           "async_defer_scripts": 0,
-          "page_size_kb": 1653.3,
+          "page_size_kb": 1654.3,
           "is_https": true
         }
       },
       "issues": [
-        {
-          "severity": "warning",
-          "msg": "Meta description too short (12 chars)"
-        },
-        {
-          "severity": "warning",
-          "msg": "Missing canonical tag"
-        },
-        {
-          "severity": "error",
-          "msg": "No hreflang tags found. Google cannot distinguish SK/EN versions. Add <link rel=\"alternate\" hreflang=\"sk\" href=\"...\"> and hreflang=\"en\" for each page."
-        },
         {
           "severity": "warning",
           "msg": "2 of 66 images missing alt text"
@@ -67,7 +68,7 @@
         },
         {
           "severity": "warning",
-          "msg": "Page HTML is 1653.3KB (over 500KB). Consider reducing page size."
+          "msg": "Page HTML is 1654.3KB (over 500KB). Consider reducing page size."
         }
       ]
     },
@@ -76,17 +77,30 @@
       "status": 200,
       "checks": {
         "meta_tags": {
-          "title": "All4music.sk",
-          "meta_description": "All4music.sk",
+          "title": "All4Music.sk | Guitars, Basses & Musical Instruments",
+          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
           "canonical": "https://new.all4music.sk/",
           "html_lang": "en",
           "has_viewport": true,
           "og_title": "All4music.sk",
-          "og_description": "All4music.sk",
+          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
           "og_image": "https://new.all4music.sk/image/cache/catalog/Kategórie/lil-1-600x315h.png"
         },
         "hreflang": {
-          "hreflang_tags": []
+          "hreflang_tags": [
+            {
+              "lang": "en",
+              "href": "https://new.all4music.sk/?language=en-gb"
+            },
+            {
+              "lang": "sk",
+              "href": "https://new.all4music.sk/?language=sk-sk"
+            },
+            {
+              "lang": "x-default",
+              "href": "https://new.all4music.sk/?language=en-gb"
+            }
+          ]
         },
         "headings": {
           "h1_count": 1,
@@ -109,19 +123,11 @@
         "page_speed": {
           "total_scripts": 13,
           "async_defer_scripts": 0,
-          "page_size_kb": 1653.4,
+          "page_size_kb": 1654.3,
           "is_https": true
         }
       },
       "issues": [
-        {
-          "severity": "warning",
-          "msg": "Meta description too short (12 chars)"
-        },
-        {
-          "severity": "error",
-          "msg": "No hreflang tags found. Google cannot distinguish SK/EN versions. Add <link rel=\"alternate\" hreflang=\"sk\" href=\"...\"> and hreflang=\"en\" for each page."
-        },
         {
           "severity": "warning",
           "msg": "2 of 66 images missing alt text"
@@ -132,7 +138,7 @@
         },
         {
           "severity": "warning",
-          "msg": "Page HTML is 1653.4KB (over 500KB). Consider reducing page size."
+          "msg": "Page HTML is 1654.3KB (over 500KB). Consider reducing page size."
         }
       ]
     },
@@ -180,7 +186,7 @@
             "url": "https://new.all4music.sk/en/",
             "pattern": "path_prefix",
             "html_lang": "en",
-            "title": "All4music.sk"
+            "title": "All4Music.sk | Guitars, Basses & Musical Instruments"
           }
         }
       },
@@ -193,10 +199,10 @@
     }
   },
   "summary": {
-    "errors": 3,
-    "warnings": 11,
+    "errors": 1,
+    "warnings": 8,
     "info": 0,
     "passed": 0,
-    "total_checks": 14
+    "total_checks": 9
   }
 }

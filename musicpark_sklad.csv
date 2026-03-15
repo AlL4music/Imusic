@@ -688,7 +688,7 @@ KRMINILOGUEXDINV;KORG Minilogue XD Inverted;0;https://www.music-park.sk/produkt/
 VXVALVENERGYFI;VOX Fuel Injector;15;https://www.music-park.sk/produkt/kytarove-efekty/3041/fuel-injector
 VXVALVENERGYPB;VOX Power Burst;15;https://www.music-park.sk/produkt/kytarove-efekty/3042/power-burst
 VXVALVENERGYSI;VOX Smooth Impact;10;https://www.music-park.sk/produkt/kytarove-efekty/3043/smooth-impact
-VXVALVENERGYTS;VOX Tone Sculptor;4;https://www.music-park.sk/produkt/kytarove-efekty/3044/tone-sculptor
+VXVALVENERGYTS;VOX Tone Sculptor;3;https://www.music-park.sk/produkt/kytarove-efekty/3044/tone-sculptor
 AGTONENYC;Aguilar Tone Hammer New York Skyline;0;https://www.music-park.sk/produkt/baskytarove-efekty/3045/tone-hammer-new-york-skyline
 MBC105102;Markbass Mini CMD 121P V;0;https://www.music-park.sk/produkt/baskytarova-komba/3051/mini-cmd-121p-v
 QL30.01661;Quik Lok RKSI/207-1;20;https://www.music-park.sk/produkt/nastrojove-kabely/3053/rksi-207-1
@@ -831,7 +831,7 @@ MBA195133;Markbass Branded Strap 7.5 Black;0;https://www.music-park.sk/produkt/b
 MBA195134;Markbass Branded Strap 7.5 Yellow;0;https://www.music-park.sk/produkt/basove-prislusenstvi/3204/branded-strap-75-yellow
 GLTI-ACB-S71R20M36;G&L Tribute ASAT Classic Bluesboy Semi-Hollow 3-Tone Sunburst, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/3205/tribute-asat-classic-bluesboy-semi-hollow-3-tone-sunburst-mp
 GLTI-ACB-S71R23R36;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Red Burst, RW;3;https://www.music-park.sk/produkt/elektricke-kytary/3206/tribute-asat-classic-bluesboy-semi-hollow-red-burst-rw
-AGPREBCAM;Aguilar AG Preamp BCAM;0;https://www.music-park.sk/produkt/baskytarove-efekty/3207/ag-preamp-bcam
+AGPREBCAM;Aguilar AG Preamp Pedal BCAM;0;https://www.music-park.sk/produkt/baskytarove-efekty/3207/ag-preamp-pedal-bcam
 AGAMPLUGTH;Aguilar amPlug3 Tone Hammer;20;https://www.music-park.sk/produkt/baskytarove-efekty/3208/amplug3-tone-hammer
 GLTI-ASP-175R59R46;G&L Tribute ASAT Special Antique Sunburst, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/3209/tribute-asat-special-antique-sunburst-rw
 GLTI-LGY-171R20R36;G&L Tribute Legacy 3-Tone Sunburst, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/3210/tribute-legacy-3-tone-sunburst-rw
@@ -942,6 +942,7 @@ AGOCTDLX;Aguilar Octamizer DLX;5;https://www.music-park.sk/produkt/baskytarove-e
 AGTLCDLX;Aguilar TLC Compressor EQ DLX;4;https://www.music-park.sk/produkt/baskytarove-efekty/3322/tlc-compressor-eq-dlx
 VXVT20XCLBL;VOX VT20X Classic Blue;5;https://www.music-park.sk/produkt/kytarova-komba/3323/vt20x-classic-blue
 VXVT40XCLBL;VOX VT40X Classic Blue;5;https://www.music-park.sk/produkt/kytarova-komba/3324/vt40x-classic-blue
+VXPF10BRG;VOX Pathfinder 10 Green;0;https://www.music-park.sk/produkt/kytarova-komba/3325/pathfinder-10-green
 AGTH210C;Aguilar Tone Hammer 210;0;https://www.music-park.sk/produkt/baskytarova-komba/3327/tone-hammer-210
 VXVFZ1;VOX VFZ-1 Fuzz;0;https://www.music-park.sk/produkt/kytarove-efekty/3328/vfz-1-fuzz
 VXVTB1;VOX VTB-1 Treble Booster;0;https://www.music-park.sk/produkt/kytarove-efekty/3329/vtb-1-treble-booster
@@ -2180,7 +2181,7 @@ QL99.00024;Quik Lok QMG/800 BK;2;https://www.music-park.sk/produkt/mikrofony/225
 AGDCB4P;Aguilar DCB-4P;4;https://www.music-park.sk/produkt/baskytarove-snimace/2271/dcb-4p
 MBA195114;Markbass Bass Mute Strings - Brown;0;https://www.music-park.sk/produkt/basove-prislusenstvi/2272/bass-mute-strings-brown
 MBA195113;Markbass Bass Mute Strings - Black;0;https://www.music-park.sk/produkt/basove-prislusenstvi/2273/bass-mute-strings-black
-KRARP2600M2025;ARP 2600 M;0;https://www.music-park.sk/produkt/analogove-syntezatory/2274/2600-m
+KRARP2600M25;ARP ARP 2600 M;0;https://www.music-park.sk/produkt/analogove-syntezatory/2274/arp-2600-m
 QL10.00974;Quik Lok WS/422;5;https://www.music-park.sk/produkt/klavesove-stojany/2276/ws-422
 QL10.00777;Quik Lok WS/420;3;https://www.music-park.sk/produkt/klavesove-stojany/2277/ws-420
 QL10.01083;Quik Lok GS/438-BB;20;https://www.music-park.sk/produkt/kytarove-stojany/2278/gs-438-bb

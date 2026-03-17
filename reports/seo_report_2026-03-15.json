@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-17T07:51:53.987679Z",
+  "timestamp": "2026-03-15T07:41:15.201119Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -40,7 +40,7 @@
           "h2_count": 0
         },
         "images": {
-          "total_images": 56,
+          "total_images": 66,
           "missing_alt_count": 2
         },
         "structured_data": {
@@ -53,14 +53,14 @@
         "page_speed": {
           "total_scripts": 13,
           "async_defer_scripts": 0,
-          "page_size_kb": 1606.0,
+          "page_size_kb": 1654.6,
           "is_https": true
         }
       },
       "issues": [
         {
           "severity": "warning",
-          "msg": "2 of 56 images missing alt text"
+          "msg": "2 of 66 images missing alt text"
         },
         {
           "severity": "warning",
@@ -68,7 +68,7 @@
         },
         {
           "severity": "warning",
-          "msg": "Page HTML is 1606.0KB (over 500KB). Consider reducing page size."
+          "msg": "Page HTML is 1654.6KB (over 500KB). Consider reducing page size."
         }
       ]
     },
@@ -110,7 +110,7 @@
           "h2_count": 0
         },
         "images": {
-          "total_images": 56,
+          "total_images": 66,
           "missing_alt_count": 2
         },
         "structured_data": {
@@ -123,14 +123,14 @@
         "page_speed": {
           "total_scripts": 13,
           "async_defer_scripts": 0,
-          "page_size_kb": 1606.0,
+          "page_size_kb": 1654.6,
           "is_https": true
         }
       },
       "issues": [
         {
           "severity": "warning",
-          "msg": "2 of 56 images missing alt text"
+          "msg": "2 of 66 images missing alt text"
         },
         {
           "severity": "warning",
@@ -138,7 +138,7 @@
         },
         {
           "severity": "warning",
-          "msg": "Page HTML is 1606.0KB (over 500KB). Consider reducing page size."
+          "msg": "Page HTML is 1654.6KB (over 500KB). Consider reducing page size."
         }
       ]
     },

@@ -21,11 +21,19 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run All Scrapers
         run: |
+          echo "=== Music Meyer (SOAP API) ==="
+          node music_meyer.js || echo "music_meyer failed"
+
           echo "=== 3DMX ==="
           python -u 3dmx.py || echo "3dmx failed"
 

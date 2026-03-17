@@ -34,6 +34,9 @@ jobs:
           echo "=== Music Meyer (SOAP API) ==="
           node music_meyer.js || echo "music_meyer failed"
 
+          echo "=== Sound Service Labs (REST API) ==="
+          node sound_service.js || echo "sound_service failed"
+
           echo "=== 3DMX ==="
           python -u 3dmx.py || echo "3dmx failed"
 

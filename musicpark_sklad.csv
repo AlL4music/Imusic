@@ -101,7 +101,7 @@ VXSL2B;VOX StompLab 2B;0;https://www.music-park.sk/produkt/baskytarove-efekty/17
 AGAGRO;Aguilar AGRO;0;https://www.music-park.sk/produkt/baskytarove-efekty/177/agro
 AGCOMP;Aguilar TLC Compressor;0;https://www.music-park.sk/produkt/baskytarove-efekty/178/tlc-compressor
 AGFILT;Aguilar Filter Twin;0;https://www.music-park.sk/produkt/baskytarove-efekty/179/filter-twin
-AGFUZZ;Aguilar Fuzzistor;1;https://www.music-park.sk/produkt/baskytarove-efekty/180/fuzzistor
+AGFUZZ;Aguilar Fuzzistor;0;https://www.music-park.sk/produkt/baskytarove-efekty/180/fuzzistor
 AGCHOR;Aguilar Chorusaurus;0;https://www.music-park.sk/produkt/baskytarove-efekty/181/chorusaurus
 AGOCT;Aguilar Octamizer;0;https://www.music-park.sk/produkt/baskytarove-efekty/182/octamizer
 AGPHAS;Aguilar Grape Phaser;0;https://www.music-park.sk/produkt/baskytarove-efekty/183/grape-phaser
@@ -515,7 +515,7 @@ KRKEYSTAGE61;KORG Keystage 61;0;https://www.music-park.sk/produkt/midi-kontroler
 MBH110122;Markbass Little Marcus 58R;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/2843/little-marcus-58r
 MBA195129;Markbass MB58R Cover CMD - M;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/2844/mb58r-cover-cmd-m
 MBA195130;Markbass MB58R Cover CMD - L;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/2845/mb58r-cover-cmd-l
-QL10.01021;Quik Lok MKS/4;3;https://www.music-park.sk/produkt/klavesove-stojany/2846/mks-4
+QL10.01021;Quik Lok MKS/4;2;https://www.music-park.sk/produkt/klavesove-stojany/2846/mks-4
 KRSQMPLARGEMSG;Sequenz MP-Large MSG;20;https://www.music-park.sk/produkt/klavesove-obaly/2847/mp-large-msg
 VXMK5MINIBK;VOX Mark V mini BK;4;https://www.music-park.sk/produkt/elektricke-kytary/2848/mark-v-mini-bk
 VXMK5MINIWH;VOX Mark V mini WH;2;https://www.music-park.sk/produkt/elektricke-kytary/2849/mark-v-mini-wh
@@ -1247,7 +1247,7 @@ KRTUMINIPITCHWH;KORG MiniPitch WH;0;https://www.music-park.sk/produkt/kytarove-a
 DVG145002;DV Mark DV Little Guitar F1;0;https://www.music-park.sk/produkt/elektricke-kytary/1807/dv-little-guitar-f1
 DVG145001;DV Mark DV Little Guitar G1;1;https://www.music-park.sk/produkt/elektricke-kytary/1808/dv-little-guitar-g1
 DVA134073;DV Mark DV Little Guitar Bag;0;https://www.music-park.sk/produkt/obaly-pro-kytary/1809/dv-little-guitar-bag
-KRKROSS288MB;KORG Kross 2-88 MB;4;https://www.music-park.sk/produkt/pracovni-stanice/1810/kross-2-88-mb
+KRKROSS288MB;KORG Kross 2-88 MB;3;https://www.music-park.sk/produkt/pracovni-stanice/1810/kross-2-88-mb
 KRD1WH;KORG D1-WH;10;https://www.music-park.sk/produkt/digitalni-piana/1811/d1-wh
 VXMSB50BA;VOX Mini SuperBeetle Bass;0;https://www.music-park.sk/produkt/baskytarova-komba/1812/mini-superbeetle-bass
 KRTUPC2+;KORG Pitchclip 2+;20;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1813/pitchclip-2

@@ -1,0 +1,53 @@
+name: Product Audit
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 7 * * *'  # Daily at 7:30 UTC (after scrapers + SEO check)
+
+jobs:
+  product-audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install mysql2
+
+      - name: Run product audit
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+        run: node product_audit.js
+
+      - name: Commit product audit report
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add reports/product_audit.json
+
+          if git diff --staged --quiet; then
+            echo "No changes in product audit report."
+          else
+            git commit -m "Product audit: $(date +'%Y-%m-%d %H:%M')"
+            git pull --rebase -X theirs origin main || {
+              echo "Rebase conflict detected, resolving with latest report..."
+              git checkout --theirs reports/ 2>/dev/null || true
+              git add reports/
+              git rebase --continue || git rebase --skip
+            }
+            git push origin main
+          fi

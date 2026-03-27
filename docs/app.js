@@ -880,13 +880,15 @@ function renderProductsDashboard(container, report) {
     no_name: 'Missing name', no_description: 'Missing description', short_description: 'Short description',
     no_meta_title: 'Missing meta title', no_meta_description: 'Missing meta desc',
     no_seo_url: 'Missing SEO URL', no_image: 'Missing image', no_manufacturer: 'No brand',
-    no_price: 'No price', no_model: 'Missing model'
+    no_price: 'No price', no_model: 'Missing model',
+    brand_all_caps: 'Brand ALL CAPS in name', model_not_in_name: 'Model code missing from name'
   };
   const issueShort = {
     no_name: 'Name', no_description: 'Desc', short_description: 'Short desc',
     no_meta_title: 'Meta title', no_meta_description: 'Meta desc',
     no_seo_url: 'SEO URL', no_image: 'Image', no_manufacturer: 'Brand',
-    no_price: 'Price', no_model: 'Model'
+    no_price: 'Price', no_model: 'Model',
+    brand_all_caps: 'ALL CAPS', model_not_in_name: 'Model missing'
   };
 
   let html = `
@@ -907,12 +909,12 @@ function renderProductsDashboard(container, report) {
 
   // Issue breakdown (clickable)
   html += `<div class="panel"><h3>Issue Breakdown <span style="font-weight:400;font-size:13px;color:#888">— click to filter</span></h3><table class="audit-table"><thead><tr><th>Issue</th><th>Count</th><th>% of Products</th><th></th></tr></thead><tbody>`;
-  const issueOrder = ['no_description','short_description','no_image','no_seo_url','no_meta_title','no_meta_description','no_manufacturer','no_price','no_model','no_name','no_category','no_extra_images'];
+  const issueOrder = ['no_description','short_description','no_image','no_seo_url','no_meta_title','no_meta_description','no_manufacturer','no_price','no_model','no_name','brand_all_caps','model_not_in_name','no_category','no_extra_images'];
   for (const key of issueOrder) {
     const issue = (report.issue_summary || {})[key];
     if (!issue || issue.count === 0) continue;
     const ipct = Math.round(issue.count / total * 100);
-    const isExtra = key === 'no_category' || key === 'no_extra_images';
+    const isExtra = key === 'no_category' || key === 'no_extra_images' || key === 'brand_all_caps' || key === 'model_not_in_name';
     const isActive = auditFilters.issue === key;
     html += `<tr class="issue-row${isActive ? ' active-filter' : ''}${isExtra ? '' : ' clickable-issue'}" data-issue="${key}"${isExtra ? ' style="opacity:.5"' : ''}>
       <td>${esc(issue.label)}${isActive ? ' <span class="filter-badge">filtered</span>' : ''}</td>
@@ -1010,13 +1012,17 @@ function renderProductsDashboard(container, report) {
     const isDone = issues.length === 0;
     const scoreColor = p.s >= 100 ? '#2abb67' : p.s >= 80 ? '#2abb67' : p.s >= 50 ? '#e67e22' : '#e74c3c';
     const missing = issues.map(i => issueShort[i] || i);
+    const extras = p.x || [];
+    const nameCell = p.sug
+      ? `<div title="${esc(p.n)}">${esc(p.n)}</div><div class="suggested-name" title="Suggested: ${esc(p.sug)}">→ ${esc(p.sug)}</div>`
+      : `<div title="${esc(p.n)}">${esc(p.n)}</div>`;
     html += `<tr class="${isDone ? 'row-done' : 'row-todo'}">
       <td><a href="https://all4.rentit.sk/admin/index.php?route=catalog/product/edit&product_id=${p.id}" target="_blank" class="product-link">${p.id}</a></td>
-      <td class="cell-name" title="${esc(p.n)}">${esc(p.n)}</td>
+      <td class="cell-name">${nameCell}</td>
       <td class="cell-model" title="${esc(p.m)}">${esc(p.m)}</td>
       <td>${esc(p.b)}</td>
       <td style="font-weight:700;color:${scoreColor}">${p.s}%</td>
-      <td>${isDone ? '' : missing.map(m => `<span class="issue-tag">${esc(m)}</span>`).join(' ')}</td>
+      <td>${isDone ? '' : missing.map(m => `<span class="issue-tag">${esc(m)}</span>`).join(' ')}${extras.length ? extras.map(e => `<span class="issue-tag extra-tag">${esc(issueShort[e] || e)}</span>`).join(' ') : ''}</td>
       <td>${isDone ? '<span class="status-done">Done</span>' : '<span class="status-todo">Todo</span>'}</td>
     </tr>`;
   }

@@ -618,9 +618,25 @@ body {
 }
 .product-table .cell-name {
   max-width: 360px;
+}
+.product-table .cell-name > div:first-child {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+.suggested-name {
+  font-size: 11px;
+  color: #2980b9;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-top: 2px;
+  cursor: default;
+}
+.extra-tag {
+  background: #f0f4ff;
+  color: #2980b9;
+  border-color: #b8d0f0;
 }
 .product-table .cell-model {
   max-width: 100px;

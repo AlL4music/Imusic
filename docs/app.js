@@ -1017,7 +1017,7 @@ function renderProductsDashboard(container, report) {
       ? `<div title="${esc(p.n)}">${esc(p.n)}</div><div class="suggested-name" title="Suggested: ${esc(p.sug)}">→ ${esc(p.sug)}</div>`
       : `<div title="${esc(p.n)}">${esc(p.n)}</div>`;
     html += `<tr class="${isDone ? 'row-done' : 'row-todo'}">
-      <td><a href="https://all4.rentit.sk/admin/index.php?route=catalog/product/edit&product_id=${p.id}" target="_blank" class="product-link">${p.id}</a></td>
+      <td><a href="https://new.all4music.sk/admin/index.php?route=catalog/product/edit&product_id=${p.id}" target="_blank" class="product-link">${p.id}</a></td>
       <td class="cell-name">${nameCell}</td>
       <td class="cell-model" title="${esc(p.m)}">${esc(p.m)}</td>
       <td>${esc(p.b)}</td>

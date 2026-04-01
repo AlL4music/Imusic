@@ -634,7 +634,7 @@ DR3MD10;DR Strings Rare MD-10;10;https://www.music-park.sk/produkt/struny-na-aku
 DR3MD11;DR Strings Rare MD-11;5;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3010/rare-md-11
 DR3MD12;DR Strings Rare MD-12;0;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3011/rare-md-12
 DR3RNSPLUS;DR Strings RNS-PLUS;0;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3012/rns-plus
-DR3NSA;DR Strings Classical Nylon NSA;4;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3013/classical-nylon-nsa
+DR3NSA;DR Strings Classical Nylon NSA;0;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3013/classical-nylon-nsa
 AGTH500GD;Aguilar Tone Hammer 500 Gold;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3014/tone-hammer-500-gold
 AGAG700RD;Aguilar AG 700 Red;2;https://www.music-park.sk/produkt/baskytarove-zesilovace/3015/ag-700-red
 AGTH500V2;Aguilar Tone Hammer 500 V2;5;https://www.music-park.sk/produkt/baskytarove-zesilovace/3016/tone-hammer-500-v2
@@ -871,6 +871,7 @@ VXVSBAHL4BK;VOX Starstream HL4;0;https://www.music-park.sk/produkt/elektricke-ba
 DXVIVOS10L;Dexibell Vivo S10 L;0;https://www.music-park.sk/produkt/stage-piana/3272/vivo-s10-l
 DXVIVOS10;Dexibell Vivo S10;2;https://www.music-park.sk/produkt/stage-piana/3273/vivo-s10
 DXVIVOS2;Dexibell Vivo S2;1;https://www.music-park.sk/produkt/stage-piana/3274/vivo-s2
+DXCLASSICOL3;Dexibell Classico L3;0;https://www.music-park.sk/produkt/stage-piana/3275/classico-l3
 DXCLASSICOL4;Dexibell Classico L4;0;https://www.music-park.sk/produkt/stage-piana/3276/classico-l4
 GLFDJBMFD-VNAT-MP;G&L USA Fullerton Deluxe JB MFD - Vintage Natural;0;https://www.music-park.sk/produkt/elektricke-baskytary/3277/usa-fullerton-deluxe-jb-mfd-vintage-natural
 GLFDJBMFD-SIL-RW;G&L USA Fullerton Deluxe JB MFD - Silver Metallic;0;https://www.music-park.sk/produkt/elektricke-baskytary/3278/usa-fullerton-deluxe-jb-mfd-silver-metallic
@@ -1032,7 +1033,7 @@ QL30.01960;Quik Lok RKSA/130-1;15;https://www.music-park.sk/produkt/propojovaci-
 QL30.00285;Quik Lok RKSA/130-2;20;https://www.music-park.sk/produkt/propojovaci-kabely/1483/rksa-130-2
 QL30.00286;Quik Lok RKSA/130-5;20;https://www.music-park.sk/produkt/propojovaci-kabely/1484/rksa-130-5
 QL30.01975;Quik Lok RKSA/140-1;5;https://www.music-park.sk/produkt/propojovaci-kabely/1485/rksa-140-1
-QL30.00287;Quik Lok RKSA/140-2;10;https://www.music-park.sk/produkt/propojovaci-kabely/1486/rksa-140-2
+QL30.00287;Quik Lok RKSA/140-2;5;https://www.music-park.sk/produkt/propojovaci-kabely/1486/rksa-140-2
 QL30.00288;Quik Lok RKSA/140-5;20;https://www.music-park.sk/produkt/propojovaci-kabely/1487/rksa-140-5
 QL30.01976;Quik Lok RKSA/150-1;15;https://www.music-park.sk/produkt/propojovaci-kabely/1488/rksa-150-1
 QL30.00289;Quik Lok RKSA/150-2;20;https://www.music-park.sk/produkt/propojovaci-kabely/1489/rksa-150-2
@@ -1057,7 +1058,7 @@ PHSAF2DC;Phonic Safari 2000DC;2;https://www.music-park.sk/produkt/prislusenstvi-
 PHSAF3DC;Phonic Safari 3000DC;4;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1509/safari-3000dc
 PHUSBR1;Phonic USBR-1;5;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1510/usbr-1
 KRELECTR2B;KORG Electribe BL;0;https://www.music-park.sk/produkt/produkcni-nastroje/1514/electribe-bl
-KRELECTR2SR;KORG Electribe Sampler RD;1;https://www.music-park.sk/produkt/produkcni-nastroje/1516/electribe-sampler-rd
+KRELECTR2SR;KORG Electribe Sampler RD;0;https://www.music-park.sk/produkt/produkcni-nastroje/1516/electribe-sampler-rd
 KRKAOSSDJ;KORG Kaoss DJ;0;https://www.music-park.sk/produkt/produkcni-nastroje/1523/kaoss-dj
 KRKO2S;KORG Kaossilator 2S;0;https://www.music-park.sk/produkt/produkcni-nastroje/1529/kaossilator-2s
 KRKOPRO+;KORG Kaossilator Pro+;0;https://www.music-park.sk/produkt/produkcni-nastroje/1532/kaossilator-pro
@@ -1954,7 +1955,7 @@ VXVCC090SL;VOX VCC-90 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/1
 VXVCC090WH;VOX VCC-90 WH;5;https://www.music-park.sk/produkt/nastrojove-kabely/1327/vcc-90-wh
 VXVGC13;VOX VGC-13;20;https://www.music-park.sk/produkt/nastrojove-kabely/1328/vgc-13
 VXVGC19;VOX VGC-19;20;https://www.music-park.sk/produkt/nastrojove-kabely/1329/vgc-19
-VXVGS30;VOX VGS-30;10;https://www.music-park.sk/produkt/nastrojove-kabely/1330/vgs-30
+VXVGS30;VOX VGS-30;5;https://www.music-park.sk/produkt/nastrojove-kabely/1330/vgs-30
 VXVGS50;VOX VGS-50;20;https://www.music-park.sk/produkt/nastrojove-kabely/1331/vgs-50
 MBA195070;Markbass Super Signal 3,3m JJ;0;https://www.music-park.sk/produkt/nastrojove-kabely/1332/super-signal-33m-jj
 MBA195071;Markbass Super Signal 5,6m JJ;0;https://www.music-park.sk/produkt/nastrojove-kabely/1333/super-signal-56m-jj

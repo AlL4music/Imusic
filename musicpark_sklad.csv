@@ -318,7 +318,7 @@ KRTINYPK;KORG tinyPIANO PK;0;https://www.music-park.sk/produkt/digitalni-piana/4
 KRTINYRD;KORG tinyPIANO RD;0;https://www.music-park.sk/produkt/digitalni-piana/453/tinypiano-rd
 KRTINYWH;KORG tinyPIANO WH;0;https://www.music-park.sk/produkt/digitalni-piana/454/tinypiano-wh
 KRKINGKORGB;KORG KingKORG BK;0;https://www.music-park.sk/produkt/digitalni-syntezatory/472/kingkorg-bk
-KRMICRO;KORG microKORG;1;https://www.music-park.sk/produkt/digitalni-syntezatory/473/microkorg
+KRMICRO;KORG microKORG;0;https://www.music-park.sk/produkt/digitalni-syntezatory/473/microkorg
 KRMICROMK1S;KORG microKORG S;0;https://www.music-park.sk/produkt/digitalni-syntezatory/474/microkorg-s
 KRMICROPT;KORG MicroKORG PT;0;https://www.music-park.sk/produkt/digitalni-syntezatory/475/microkorg-pt
 KRMKRX;KORG microX;0;https://www.music-park.sk/produkt/digitalni-syntezatory/479/microx
@@ -455,6 +455,7 @@ VXAC15C1VRD;VOX AC15C1 British Garnet Red;0;https://www.music-park.sk/produkt/ky
 VXAC15C1WB;VOX AC15C1-WB;0;https://www.music-park.sk/produkt/kytarova-komba/701/ac15c1-wb
 VXAC15C1X;VOX AC15C1X;1;https://www.music-park.sk/produkt/kytarova-komba/702/ac15c1x
 VXAC15C2;VOX AC15C2;3;https://www.music-park.sk/produkt/kytarova-komba/703/ac15c2
+ASSTUDIO210;Ashdown Studio 210;0;https://www.music-park.sk/produkt/baskytarova-komba/3513/studio-210
 MBA195123;Markbass MB58R Cover CAB - M;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/2810/mb58r-cover-cab-m
 MBA195126;Markbass MB58R Cover CAB - L;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/2811/mb58r-cover-cab-l
 AGAGROV2;Aguilar AGRO-2;5;https://www.music-park.sk/produkt/baskytarove-efekty/2812/agro-2
@@ -929,6 +930,7 @@ DSDTV-DT-CHG;Duesenberg Starplayer TV Duo Tone Harbor Green;0;https://www.music-
 DSDTV-GPU;Duesenberg Starplayer TV Galaxy Purple Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3374/starplayer-tv-galaxy-purple-burst
 DSDTV-BKV;Duesenberg Starplayer TV Black Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3375/starplayer-tv-black-velvet
 DSDTV-WHV;Duesenberg Starplayer TV White Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3376/starplayer-tv-white-velvet
+ASSTUDIO4;Ashdown Studio 4;0;https://www.music-park.sk/produkt/baskytarova-komba/3473/studio-4
 ACA195010;Markbass Cover AC 101;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1405/cover-ac-101
 ACA195011;Markbass Cover AC 601;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1406/cover-ac-601
 DVA134025;Markbass Multiamp Bag;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1407/multiamp-bag

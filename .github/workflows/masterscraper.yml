@@ -87,4 +87,4 @@ jobs:
           echo "=== Waiting 60s for GitHub CDN cache ==="
           sleep 60
           echo "=== Triggering cron feed import ==="
-          curl -s "https://new.all4music.sk/cron_feed_import.php?key=a4m_feed_2026_x7kP9mQ"
+          curl -s "https://all4music.sk/cron_feed_import.php?key=a4m_feed_2026_x7kP9mQ"

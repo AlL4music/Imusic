@@ -6,7 +6,7 @@ compatible with the feed import system.
 Note: PMC XML is UTF-16 encoded.
 
 Output: pmc_sklad.csv (semicolon-delimited)
-Columns: ITEM_ID;PRODUCTNAME;EAN;Availability
+Columns: ITEM_ID;PRODUCTNAME;EAN;Availability;RetailPrice
 """
 
 import csv
@@ -79,11 +79,18 @@ def parse_xml_to_rows(xml_bytes):
         productname = (item.findtext("PRODUCTNAME") or "").strip()
         productname = productname.replace(";", ",")
 
+        retail_str = (item.findtext("RETAIL_PRICE") or "").strip()
+        try:
+            retail_price = round(float(retail_str), 2) if retail_str else ""
+        except ValueError:
+            retail_price = ""
+
         rows.append({
             "ITEM_ID": item_id,
             "PRODUCTNAME": productname,
             "EAN": ean,
-            "Availability": availability
+            "Availability": availability,
+            "RetailPrice": retail_price
         })
 
     print(f"Parsed: {total} items, {in_stock} in stock, {no_ean} without EAN")
@@ -95,7 +102,7 @@ def write_csv(rows, output_file):
     with open(output_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["ITEM_ID", "PRODUCTNAME", "EAN", "Availability"],
+            fieldnames=["ITEM_ID", "PRODUCTNAME", "EAN", "Availability", "RetailPrice"],
             delimiter=";",
             quoting=csv.QUOTE_MINIMAL
         )

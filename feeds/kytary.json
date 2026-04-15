@@ -6,8 +6,10 @@
   "columns": {
     "sku": "ProductCode",
     "quantity": "AvailableVolume",
-    "name": "ProductName"
+    "name": "ProductName",
+    "price": "RetailPriceWithVAT"
   },
   "match_by": "sku",
-  "warehouse_id": 2
+  "warehouse_id": 2,
+  "price_vat_rate": 1.23
 }

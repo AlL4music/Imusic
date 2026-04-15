@@ -4,7 +4,7 @@ Fetches the Kytary B2B XML price list and converts it to a simple CSV
 compatible with the feed import system.
 
 Output: kytary_sklad.csv (semicolon-delimited)
-Columns: ProductCode;ProductName;AvailableVolume
+Columns: ProductCode;ProductName;AvailableVolume;RetailPriceWithVAT
 """
 
 import csv
@@ -62,6 +62,7 @@ def parse_xml_to_rows(xml_bytes):
         code = (item.findtext(f"{ns}ProductCode") or "").strip()
         name = (item.findtext(f"{ns}ProductName") or "").strip()
         qty_str = (item.findtext(f"{ns}AvailableVolume") or "0").strip()
+        retail_str = (item.findtext(f"{ns}RetailPriceWithVAT") or "").strip()
         stock_flag = (item.findtext(f"{ns}InStock") or "false").strip().lower()
 
         # Convert quantity - some may be decimal
@@ -79,10 +80,17 @@ def parse_xml_to_rows(xml_bytes):
         # Clean name (remove semicolons for CSV compatibility)
         name = name.replace(";", ",")
 
+        # Parse retail price
+        try:
+            retail_price = round(float(retail_str), 2) if retail_str else ""
+        except ValueError:
+            retail_price = ""
+
         rows.append({
             "ProductCode": code,
             "ProductName": name,
-            "AvailableVolume": qty
+            "AvailableVolume": qty,
+            "RetailPriceWithVAT": retail_price
         })
 
     print(f"Parsed: {total} items, {in_stock} in stock")
@@ -94,7 +102,7 @@ def write_csv(rows, output_file):
     with open(output_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["ProductCode", "ProductName", "AvailableVolume"],
+            fieldnames=["ProductCode", "ProductName", "AvailableVolume", "RetailPriceWithVAT"],
             delimiter=";",
             quoting=csv.QUOTE_MINIMAL
         )

@@ -6,8 +6,10 @@
   "columns": {
     "sku": "ITEM_ID",
     "quantity": "Availability",
-    "name": "PRODUCTNAME"
+    "name": "PRODUCTNAME",
+    "price": "RetailPrice"
   },
   "match_by": "model",
-  "warehouse_id": 2
+  "warehouse_id": 2,
+  "price_vat_rate": 1.23
 }

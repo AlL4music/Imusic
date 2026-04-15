@@ -9,7 +9,7 @@
     "name": "PRODUCTNAME",
     "price": "RetailPrice"
   },
-  "match_by": "model",
+  "match_by": "sku",
   "warehouse_id": 2,
   "price_vat_rate": 1.23
 }

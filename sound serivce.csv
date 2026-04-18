@@ -2471,8 +2471,8 @@
 20010042,Zoom,[B-Stock] Zoom AMS-44 Audio Interface for Music & Streaming,1,101.15,4515260025978,,0
 10010043,Zoom,Zoom ZAD-1220E Locking AC Adaptor (DC12V) for R20,1,"31.00",4515260025770,,0
 20010043,Zoom,[B-Stock] Zoom ZAD-1220E Locking AC Adaptor (DC12V) for R20,0,31,4515260025770,,0
-10010167,Zoom,Zoom H6 Carry Case SP03776,1,"4.14",,,1
-20010167,Zoom,[B-Stock] Zoom H6 Carry Case SP03776,0,4.14,,,1
+10010167,Zoom,Zoom H6 Carry Case SP03776,0,"4.14",,,0
+20010167,Zoom,[B-Stock] Zoom H6 Carry Case SP03776,0,4.14,,,0
 10011085,Zoom,Zoom B2 FOUR (EU) Bass Multi-Effects Pedal,1,"139.00",4515260028092,,0
 20011085,Zoom,[B-Stock] Zoom B2 FOUR (EU) Bass Multi-Effects Pedal,0,139,4515260028092,,0
 10010297,Zoom,Zoom R12 MultiTrak Multi Track Recorder,1,"216.00",4515260027538,,0
@@ -3177,8 +3177,8 @@
 20012609,Markbass,[B-Stock] Markbass Little Mark Rocker 58R 500w Bass Amplifier Head,0,495,8059307424370,,0
 10012663,Markbass,Markbass Little AG 1000 58R Andrew Gouchè Signature Amp,1,"557.00",8059307424387,,0
 20012663,Markbass,[B-Stock] Markbass Little AG 1000 58R Andrew Gouchè Signature Amp,0,557,8059307424387,,0
-10011536,Markbass,Markbass Little Marcus 58R 500w Bass Amplifier,1,"433.00",8059307422673,,0
-20011536,Markbass,[B-Stock] Markbass Little Marcus 58R 500w Bass Amplifier,0,433,8059307422673,,0
+10011536,Markbass,Markbass Little Marcus 58R 500w Bass Amplifier,0,"433.00",8059307422673,"2026-07-16 00:00:00",0
+20011536,Markbass,[B-Stock] Markbass Little Marcus 58R 500w Bass Amplifier,0,433,8059307422673,"2026-07-16 00:00:00",0
 10011013,Markbass,Markbass LongEvo Acoustic Phosphor Bronze 12-53 012 016 024 032 042 053,1,"9.59",8059307420297,,0
 20011013,Markbass,[B-Stock] Markbass LongEvo Acoustic Phosphor Bronze 12-53 012 016 024 032 042 053,0,9.59,8059307420297,,0
 10011014,Markbass,Markbass LongEvo Acoustic Phosphor Bronze 12-56 012 016 026 035 045 056,1,"9.59",8059307421553,,0
@@ -5862,7 +5862,7 @@
 10009879,E-II,E-II M-II HT MBLUB Mercury Blue Burst,1,"2494.00",719710616769,,0
 20009879,E-II,[B-Stock] E-II M-II HT MBLUB Mercury Blue Burst,0,2494,719710616769,,0
 10009882,E-II,E-II VIPER STBCH See Thru Black Cherry,1,"1856.00",719710616790,,0
-20009882,E-II,[B-Stock] E-II VIPER STBCH See Thru Black Cherry,1,1670.4,719710616790,,0
+20009882,E-II,[B-Stock] E-II VIPER STBCH See Thru Black Cherry,0,1856,719710616790,,0
 10009865,E-II,E-II M-II NT BTB LH Black Turquoise Burst,1,"1865.00",,,0
 20009865,E-II,[B-Stock] E-II M-II NT BTB LH Black Turquoise Burst,0,1865,,,0
 10009875,E-II,E-II ECLIPSE FR Charcoal Burst Charcoal Burst,1,"2120.00",719710616738,,0
@@ -6221,8 +6221,8 @@
 20010924,Gator,[B-Stock] Gator GT-ELECTRIC-BLK Transit Series Bag Electric Guitars Charcoal Black,0,66,716408543307,,0
 10010980,Gator,Gator GRB-4U 4U Audio Rack Bag,1,"65.00",716408503479,,0
 20010980,Gator,[B-Stock] Gator GRB-4U 4U Audio Rack Bag,0,65,716408503479,,0
-10010983,Gator,Gator GR-RACKBAG-4UW 4U Lightweight rack bag w/ tow handle and wheels,1,"108.00",716408528861,,0
-20010983,Gator,[B-Stock] Gator GR-RACKBAG-4UW 4U Lightweight rack bag w/ tow handle and wheels,0,108,716408528861,,0
+10010983,Gator,Gator GR-RACKBAG-4UW 4U Lightweight rack bag w/ tow handle and wheels,0,"108.00",716408528861,"2026-06-04 00:00:00",0
+20010983,Gator,[B-Stock] Gator GR-RACKBAG-4UW 4U Lightweight rack bag w/ tow handle and wheels,0,108,716408528861,"2026-06-04 00:00:00",0
 10010986,Gator,Gator GBE-UKE-TEN Ukulele Tenor Gig Bag with fixed Backpack Straps,1,"18.00",716408531724,,0
 20010986,Gator,[B-Stock] Gator GBE-UKE-TEN Ukulele Tenor Gig Bag with fixed Backpack Straps,0,18,716408531724,,0
 10010987,Gator,Gator GBE-JMASTER Jazzmaster Gig Bag with fixed Backpack Straps,0,"22.00",716408545929,,1
@@ -8351,8 +8351,8 @@
 20000616,DiMarzio,[B-Stock] DiMarzio DP 809BK Ionizer 8 Neck black,0,83,663334041257,"2026-07-11 00:00:00",0
 10000621,DiMarzio,DiMarzio DP 256FBK Illuminator Neck black,0,"78.00",663334041875,"2026-07-15 00:00:00",0
 20000621,DiMarzio,[B-Stock] DiMarzio DP 256FBK Illuminator Neck black,0,78,663334041875,"2026-07-15 00:00:00",0
-10000627,DiMarzio,DiMarzio DP 259BK Titan Bridge black,0,"78.00",663334042391,"2026-07-15 00:00:00",0
-20000627,DiMarzio,[B-Stock] DiMarzio DP 259BK Titan Bridge black,0,78,663334042391,"2026-07-15 00:00:00",0
+10000627,DiMarzio,DiMarzio DP 259BK Titan Bridge black,0,"78.00",663334042391,"2026-07-16 00:00:00",0
+20000627,DiMarzio,[B-Stock] DiMarzio DP 259BK Titan Bridge black,0,78,663334042391,"2026-07-16 00:00:00",0
 10000630,DiMarzio,DiMarzio DP 757BK Illuminator 7 Bridge black,0,"83.00",663334041912,"2026-07-14 00:00:00",0
 20000630,DiMarzio,[B-Stock] DiMarzio DP 757BK Illuminator 7 Bridge black,0,83,663334041912,"2026-07-14 00:00:00",0
 10000648,DiMarzio,DiMarzio DP 255BC Transition Bridge black/creme,0,"78.00",663334041332,"2026-07-11 00:00:00",0
@@ -8499,8 +8499,8 @@
 20000628,DiMarzio,[B-Stock] DiMarzio DP 259FBK Titan Bridge black,0,78,663334042407,"2026-07-11 00:00:00",0
 10000635,DiMarzio,DiMarzio DP 163FCR Bluesbucker creme,0,"65.00",663334021440,"2026-07-11 00:00:00",0
 20000635,DiMarzio,[B-Stock] DiMarzio DP 163FCR Bluesbucker creme,0,65,663334021440,"2026-07-11 00:00:00",0
-10000636,DiMarzio,DiMarzio DP 425BK Satch Track neck black,0,"78.00",663334041783,"2026-07-15 00:00:00",0
-20000636,DiMarzio,[B-Stock] DiMarzio DP 425BK Satch Track neck black,0,78,663334041783,"2026-07-15 00:00:00",0
+10000636,DiMarzio,DiMarzio DP 425BK Satch Track neck black,0,"78.00",663334041783,"2026-07-16 00:00:00",0
+20000636,DiMarzio,[B-Stock] DiMarzio DP 425BK Satch Track neck black,0,78,663334041783,"2026-07-16 00:00:00",0
 10000637,DiMarzio,DiMarzio DP 260BK PAF Master Neck black,0,"65.00",663334044241,"2026-07-11 00:00:00",0
 20000637,DiMarzio,[B-Stock] DiMarzio DP 260BK PAF Master Neck black,0,65,663334044241,"2026-07-11 00:00:00",0
 10000638,DiMarzio,DiMarzio DP 261BK PAF Master Bridge black,0,"65.00",663334044265,"2026-07-11 00:00:00",0
@@ -8589,8 +8589,8 @@
 20000291,DiMarzio,[B-Stock] DiMarzio DP 126BK Model P&J-System,0,117,663334004863,,0
 10000813,DiMarzio,DiMarzio DP 151FPK PAF Pro,0,"70.70",663334005822,"2026-07-15 00:00:00",0
 20000813,DiMarzio,[B-Stock] DiMarzio DP 151FPK PAF Pro,0,70.7,663334005822,"2026-07-15 00:00:00",0
-10000821,DiMarzio,"DiMarzio EP 1105 Three-Way Switch for Tele®, B/W Knobs",0,"11.10",663334013629,"2026-07-15 00:00:00",0
-20000821,DiMarzio,"[B-Stock] DiMarzio EP 1105 Three-Way Switch for Tele®, B/W Knobs",0,11.1,663334013629,"2026-07-15 00:00:00",0
+10000821,DiMarzio,"DiMarzio EP 1105 Three-Way Switch for Tele®, B/W Knobs",0,"11.10",663334013629,"2026-07-16 00:00:00",0
+20000821,DiMarzio,"[B-Stock] DiMarzio EP 1105 Three-Way Switch for Tele®, B/W Knobs",0,11.1,663334013629,"2026-07-16 00:00:00",0
 10000826,DiMarzio,"DiMarzio DM 2108B Strat® Switch Knob, Black",0,"2.40",663334001183,"2026-07-11 00:00:00",0
 20000826,DiMarzio,"[B-Stock] DiMarzio DM 2108B Strat® Switch Knob, Black",0,2.4,663334001183,"2026-07-11 00:00:00",0
 10000829,DiMarzio,DiMarzio DP 116GN HS-2,0,"62.70",,"2026-07-13 00:00:00",0
@@ -8751,8 +8751,8 @@
 20001036,DiMarzio,[B-Stock] DiMarzio DD 3310CH Cheetah with Leather Ends,0,35.3,663334035102,"2026-07-28 00:00:00",0
 10001037,DiMarzio,DiMarzio DP 158FY/V Evolution Neck,0,"83.70",,"2026-07-11 00:00:00",0
 20001037,DiMarzio,[B-Stock] DiMarzio DP 158FY/V Evolution Neck,0,83.7,,"2026-07-11 00:00:00",0
-10001043,DiMarzio,DiMarzio DP 193FN Air Norton nickel cover,0,"77.60",,"2026-07-15 00:00:00",0
-20001043,DiMarzio,[B-Stock] DiMarzio DP 193FN Air Norton nickel cover,0,77.6,,"2026-07-15 00:00:00",0
+10001043,DiMarzio,DiMarzio DP 193FN Air Norton nickel cover,0,"77.60",663334023734,"2026-07-16 00:00:00",0
+20001043,DiMarzio,[B-Stock] DiMarzio DP 193FN Air Norton nickel cover,0,77.6,663334023734,"2026-07-16 00:00:00",0
 10001056,DiMarzio,DiMarzio EP 1710SSVT Overbraid Cable 10-ft Vintage Tweed,0,"18.60",663334014701,"2026-07-11 00:00:00",0
 20001056,DiMarzio,[B-Stock] DiMarzio EP 1710SSVT Overbraid Cable 10-ft Vintage Tweed,0,18.6,663334014701,"2026-07-11 00:00:00",0
 10001140,DiMarzio,DiMarzio DP 700W Blaze Neck,0,"76.70",663334013445,"2026-07-11 00:00:00",0
@@ -8929,8 +8929,8 @@
 20001263,DiMarzio,[B-Stock] DiMarzio DP 100CB Super Distortion,0,70.7,,"2026-07-11 00:00:00",0
 10001278,DiMarzio,DiMarzio DP 193FRDBK Air Norton,0,"70.70",,"2026-07-11 00:00:00",0
 20001278,DiMarzio,[B-Stock] DiMarzio DP 193FRDBK Air Norton,0,70.7,,"2026-07-11 00:00:00",0
-10001280,DiMarzio,DiMarzio DP 191FN Air Classic Bridge,0,"77.60",,"2026-07-11 00:00:00",0
-20001280,DiMarzio,[B-Stock] DiMarzio DP 191FN Air Classic Bridge,0,77.6,,"2026-07-11 00:00:00",0
+10001280,DiMarzio,DiMarzio DP 191FN Air Classic Bridge,0,"77.60",,"2026-07-16 00:00:00",0
+20001280,DiMarzio,[B-Stock] DiMarzio DP 191FN Air Classic Bridge,0,77.6,,"2026-07-16 00:00:00",0
 10001288,DiMarzio,"DiMarzio GG 1400C Jackplate edgemount, Ch",1,"8.00",663334016699,,0
 20001288,DiMarzio,"[B-Stock] DiMarzio GG 1400C Jackplate edgemount, Ch",0,8,663334016699,,0
 10001294,DiMarzio,DiMarzio DP 161FW Steve's Special,0,"70.70",663334009097,"2026-07-11 00:00:00",0
@@ -8991,8 +8991,8 @@
 20000485,DiMarzio,[B-Stock] DiMarzio DP 216BC Mo Joe,0,78,663334026766,"2026-07-11 00:00:00",0
 10000493,DiMarzio,DiMarzio DP 408BK Virtual Vintage 54 Pr,0,"65.00",663334017085,"2026-07-13 00:00:00",0
 20000493,DiMarzio,[B-Stock] DiMarzio DP 408BK Virtual Vintage 54 Pr,0,65,663334017085,"2026-07-13 00:00:00",0
-10000503,DiMarzio,DiMarzio DP 219BK D Activator Neck,0,"67.00",663334027589,"2026-07-15 00:00:00",0
-20000503,DiMarzio,[B-Stock] DiMarzio DP 219BK D Activator Neck,0,67,663334027589,"2026-07-15 00:00:00",0
+10000503,DiMarzio,DiMarzio DP 219BK D Activator Neck,0,"67.00",663334027589,"2026-07-16 00:00:00",0
+20000503,DiMarzio,[B-Stock] DiMarzio DP 219BK D Activator Neck,0,67,663334027589,"2026-07-16 00:00:00",0
 10000505,DiMarzio,DiMarzio DP 220FBK D Activator Bridge,0,"67.00",663334027572,"2026-05-28 00:00:00",0
 20000505,DiMarzio,[B-Stock] DiMarzio DP 220FBK D Activator Bridge,0,67,663334027572,"2026-05-28 00:00:00",0
 10000524,DiMarzio,DiMarzio DP 175SBK True Velvet Middle,1,"52.00",663334029705,,0
@@ -9437,8 +9437,8 @@
 20001747,DiMarzio,[B-Stock] DiMarzio DP 200FV Steve Morse Bridge,0,83.7,,"2026-07-11 00:00:00",0
 10001748,DiMarzio,DiMarzio DP 205V Steve Morse Neck,0,"83.70",,"2026-07-11 00:00:00",0
 20001748,DiMarzio,[B-Stock] DiMarzio DP 205V Steve Morse Neck,0,83.7,,"2026-07-11 00:00:00",0
-10001757,DiMarzio,DiMarzio DP 180Y Air Norton S,0,"70.70",,"2026-07-15 00:00:00",0
-20001757,DiMarzio,[B-Stock] DiMarzio DP 180Y Air Norton S,0,70.7,,"2026-07-15 00:00:00",0
+10001757,DiMarzio,DiMarzio DP 180Y Air Norton S,0,"70.70",663334032798,"2026-07-16 00:00:00",0
+20001757,DiMarzio,[B-Stock] DiMarzio DP 180Y Air Norton S,0,70.7,663334032798,"2026-07-16 00:00:00",0
 10001768,DiMarzio,DiMarzio DP 416CR Area 61,0,"65.00",663334026919,"2026-07-13 00:00:00",0
 20001768,DiMarzio,[B-Stock] DiMarzio DP 416CR Area 61,0,65,663334026919,"2026-07-13 00:00:00",0
 10001780,DiMarzio,DiMarzio DP 100BKRD Super Distortion,0,"70.70",,"2026-07-11 00:00:00",0
@@ -9611,8 +9611,8 @@
 20001101,DiMarzio,[B-Stock] DiMarzio DP 181V Fast Track 1,0,70.7,,"2026-07-11 00:00:00",0
 10001104,DiMarzio,DiMarzio DP 158FGNBK Evolution Neck,0,"83.70",,"2026-07-11 00:00:00",0
 20001104,DiMarzio,[B-Stock] DiMarzio DP 158FGNBK Evolution Neck,0,83.7,,"2026-07-11 00:00:00",0
-10001108,DiMarzio,DiMarzio DP 193BW Air Norton,0,"70.70",,"2026-07-15 00:00:00",0
-20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,70.7,,"2026-07-15 00:00:00",0
+10001108,DiMarzio,DiMarzio DP 193BW Air Norton,0,"70.70",663334012127,"2026-07-16 00:00:00",0
+20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,70.7,663334012127,"2026-07-16 00:00:00",0
 10001126,DiMarzio,DiMarzio DP 165BW The Breed Neck,0,"72.70",,"2026-07-11 00:00:00",0
 20001126,DiMarzio,[B-Stock] DiMarzio DP 165BW The Breed Neck,0,72.7,,"2026-07-11 00:00:00",0
 10001128,DiMarzio,DiMarzio DP 193FSP PK/V Air Norton,1,"70.70",663334012332,,0
@@ -10451,8 +10451,8 @@
 20001694,DiMarzio,[B-Stock] DiMarzio DP 215BKGN EVO 2 Bridge,0,83.7,663334025691,"2026-08-10 00:00:00",0
 10001701,DiMarzio,DiMarzio DP 155FPK The Tone Zone,0,"70.70",,"2026-07-11 00:00:00",0
 20001701,DiMarzio,[B-Stock] DiMarzio DP 155FPK The Tone Zone,0,70.7,,"2026-07-11 00:00:00",0
-10001705,DiMarzio,DiMarzio DP 158W Evolution Neck,0,"83.70",663334007994,"2026-07-15 00:00:00",0
-20001705,DiMarzio,[B-Stock] DiMarzio DP 158W Evolution Neck,0,83.7,663334007994,"2026-07-15 00:00:00",0
+10001705,DiMarzio,DiMarzio DP 158W Evolution Neck,0,"83.70",663334007994,"2026-07-16 00:00:00",0
+20001705,DiMarzio,[B-Stock] DiMarzio DP 158W Evolution Neck,0,83.7,663334007994,"2026-07-16 00:00:00",0
 10001712,DiMarzio,DiMarzio EP 17J06RRGN Jumper Cable,1,"11.40",663334034860,,1
 20001712,DiMarzio,[B-Stock] DiMarzio EP 17J06RRGN Jumper Cable,0,11.4,663334034860,,1
 10001713,DiMarzio,DiMarzio DP 188CR Pro Track,0,"65.00",663334010819,"2026-07-11 00:00:00",0
@@ -10465,8 +10465,8 @@
 20001753,DiMarzio,[B-Stock] DiMarzio DP 759GN PAF7,0,76.7,,"2026-07-11 00:00:00",0
 10001775,DiMarzio,DiMarzio DP 193FBKP Air Norton,0,"70.70",663334012240,"2026-07-11 00:00:00",0
 20001775,DiMarzio,[B-Stock] DiMarzio DP 193FBKP Air Norton,0,70.7,663334012240,"2026-07-11 00:00:00",0
-10001783,DiMarzio,DiMarzio DP 223FW PAF Bridge,1,"76.70",663334030015,,0
-20001783,DiMarzio,[B-Stock] DiMarzio DP 223FW PAF Bridge,0,76.7,663334030015,,0
+10001783,DiMarzio,DiMarzio DP 223FW PAF Bridge,0,"76.70",663334030015,"2026-07-16 00:00:00",0
+20001783,DiMarzio,[B-Stock] DiMarzio DP 223FW PAF Bridge,0,76.7,663334030015,"2026-07-16 00:00:00",0
 10001791,DiMarzio,DiMarzio DP 224W AT-1,0,"83.70",663334033405,"2026-07-14 00:00:00",0
 20001791,DiMarzio,[B-Stock] DiMarzio DP 224W AT-1,0,83.7,663334033405,"2026-07-14 00:00:00",0
 10001792,DiMarzio,DiMarzio ISCV2CR Evolution Middle,0,"56.00",663334034921,"2026-07-11 00:00:00",0
@@ -10637,8 +10637,8 @@
 20002247,DiMarzio,[B-Stock] DiMarzio DP 416AW Area 61 aged white,0,65,663334026896,"2026-07-13 00:00:00",0
 10002251,DiMarzio,DiMarzio DP 100N Super Distortion Nickel Cover,1,"77.60",663334037922,,0
 20002251,DiMarzio,[B-Stock] DiMarzio DP 100N Super Distortion Nickel Cover,0,77.6,663334037922,,0
-10002252,DiMarzio,DiMarzio DP 190FW Air Classic Neck white,0,"70.70",663334011182,"2026-07-11 00:00:00",0
-20002252,DiMarzio,[B-Stock] DiMarzio DP 190FW Air Classic Neck white,0,70.7,663334011182,"2026-07-11 00:00:00",0
+10002252,DiMarzio,DiMarzio DP 190FW Air Classic Neck white,0,"70.70",663334011182,"2026-07-16 00:00:00",0
+20002252,DiMarzio,[B-Stock] DiMarzio DP 190FW Air Classic Neck white,0,70.7,663334011182,"2026-07-16 00:00:00",0
 10002273,DiMarzio,DiMarzio DP 223UN14 PAF Bridge vint cabl/long leg,0,"98.00",,"2026-07-11 00:00:00",0
 20002273,DiMarzio,[B-Stock] DiMarzio DP 223UN14 PAF Bridge vint cabl/long leg,0,98,,"2026-07-11 00:00:00",0
 10002282,DiMarzio,DiMarzio DP 256FKK Illuminator Neck black cover,0,"90.60",,"2026-07-11 00:00:00",0
@@ -10803,8 +10803,8 @@
 20002401,DiMarzio,"[B-Stock] DiMarzio DM 2100CR Speed Knob numbered 1-10, Cream",0,2.9,663334001138,"2026-07-11 00:00:00",0
 10002409,DiMarzio,"DiMarzio FH 1000G Screws for Fender®-style, Gold, set of 24",0,"7.80",663334016330,"2026-07-11 00:00:00",0
 20002409,DiMarzio,"[B-Stock] DiMarzio FH 1000G Screws for Fender®-style, Gold, set of 24",0,7.8,663334016330,"2026-07-11 00:00:00",0
-10002419,DiMarzio,"DiMarzio EP1112T Five-Way Switch multipole, Bulk Bulk Set of 10",0,"191.40",663334040656,"2026-07-15 00:00:00",0
-20002419,DiMarzio,"[B-Stock] DiMarzio EP1112T Five-Way Switch multipole, Bulk Bulk Set of 10",0,191.4,663334040656,"2026-07-15 00:00:00",0
+10002419,DiMarzio,"DiMarzio EP1112T Five-Way Switch multipole, Bulk Bulk Set of 10",0,"191.40",663334040656,"2026-07-16 00:00:00",0
+20002419,DiMarzio,"[B-Stock] DiMarzio EP1112T Five-Way Switch multipole, Bulk Bulk Set of 10",0,191.4,663334040656,"2026-07-16 00:00:00",0
 10002425,DiMarzio,DiMarzio EP 1310 Switchcraft® Acoustic Guitar End Pin Jack,0,"13.80",663334042704,"2026-08-28 00:00:00",0
 20002425,DiMarzio,[B-Stock] DiMarzio EP 1310 Switchcraft® Acoustic Guitar End Pin Jack,0,13.8,663334042704,"2026-08-28 00:00:00",0
 10002431,DiMarzio,DiMarzio DP 254WN Transition Neck worn nickel,0,"96.30",,"2026-07-11 00:00:00",0
@@ -10999,8 +10999,8 @@
 20002326,DiMarzio,"[B-Stock] DiMarzio DM 2108BL Strat® Switch Knob, Blue",0,2.9,663334001190,,0
 10002328,DiMarzio,DiMarzio DD 2202 XL Fasteners for ClipLock Straps Black,0,"7.10",663334000162,"2026-07-11 00:00:00",0
 20002328,DiMarzio,[B-Stock] DiMarzio DD 2202 XL Fasteners for ClipLock Straps Black,0,7.1,663334000162,"2026-07-11 00:00:00",0
-10002337,DiMarzio,DiMarzio DP 159W Evolution Bridge,0,"83.70",663334008403,"2026-07-15 00:00:00",0
-20002337,DiMarzio,[B-Stock] DiMarzio DP 159W Evolution Bridge,0,83.7,663334008403,"2026-07-15 00:00:00",0
+10002337,DiMarzio,DiMarzio DP 159W Evolution Bridge,0,"83.70",663334008403,"2026-07-16 00:00:00",0
+20002337,DiMarzio,[B-Stock] DiMarzio DP 159W Evolution Bridge,0,83.7,663334008403,"2026-07-16 00:00:00",0
 10002339,DiMarzio,DiMarzio DM 2001CR Strat® Pickup Cover Cream - Set of 3,0,"6.00",663334000957,"2026-06-28 00:00:00",0
 20002339,DiMarzio,[B-Stock] DiMarzio DM 2001CR Strat® Pickup Cover Cream - Set of 3,0,6,663334000957,"2026-06-28 00:00:00",0
 10002344,DiMarzio,DiMarzio DP 216FW Mo Joe,0,"83.70",663334026759,"2026-07-11 00:00:00",0
@@ -12241,8 +12241,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20007376,DiMarzio,[B-Stock] DiMarzio DP 163G+BK Bluesbucker Gold Cover/Black Pole Pieces,0,92.6,,,0
 10007411,DiMarzio,DiMarzio DP 151CR+N PAF Pro Creme / Nickel Pole Pieces,1,"73.40",663334181991,,0
 20007411,DiMarzio,[B-Stock] DiMarzio DP 151CR+N PAF Pro Creme / Nickel Pole Pieces,0,73.4,663334181991,,0
-10007420,DiMarzio,DiMarzio DP 155FGN+BK The Tone Zone F-Spaced/Green/Black Pole Pieces,0,"79.10",663334183322,"2026-07-15 00:00:00",0
-20007420,DiMarzio,[B-Stock] DiMarzio DP 155FGN+BK The Tone Zone F-Spaced/Green/Black Pole Pieces,0,79.1,663334183322,"2026-07-15 00:00:00",0
+10007420,DiMarzio,DiMarzio DP 155FGN+BK The Tone Zone F-Spaced/Green/Black Pole Pieces,0,"79.10",663334183322,"2026-07-16 00:00:00",0
+20007420,DiMarzio,[B-Stock] DiMarzio DP 155FGN+BK The Tone Zone F-Spaced/Green/Black Pole Pieces,0,79.1,663334183322,"2026-07-16 00:00:00",0
 10007426,DiMarzio,DiMarzio DP 193BC+BK Air Norton Black/Creme / Black Pole Pieces,0,"73.40",,"2026-07-11 00:00:00",0
 20007426,DiMarzio,[B-Stock] DiMarzio DP 193BC+BK Air Norton Black/Creme / Black Pole Pieces,0,73.4,,"2026-07-11 00:00:00",0
 10007428,DiMarzio,DiMarzio DP 104V+BK Super 2 Purple/Black Pole Pieces,0,"79.10",,"2026-07-11 00:00:00",0
@@ -12943,8 +12943,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20011716,DiMarzio,[B-Stock] DiMarzio EP 1721SSV Overbraid Cable 21-ft Violet,0,24,,"2026-07-11 00:00:00",0
 10011731,DiMarzio,DiMarzio EP 1706SRBK Overbraid Cable 6-ft Black,0,"21.00",,"2026-07-11 00:00:00",0
 20011731,DiMarzio,[B-Stock] DiMarzio EP 1706SRBK Overbraid Cable 6-ft Black,0,21,,"2026-07-11 00:00:00",0
-10012052,DiMarzio,"DiMarzio EP 1105T Three-Way Switch for Tele®, Bulk Bulk Pack of 10 excl. Screws/ Knobs",0,"83.40",,"2026-07-15 00:00:00",0
-20012052,DiMarzio,"[B-Stock] DiMarzio EP 1105T Three-Way Switch for Tele®, Bulk Bulk Pack of 10 excl. Screws/ Knobs",0,83.4,,"2026-07-15 00:00:00",0
+10012052,DiMarzio,"DiMarzio EP 1105T Three-Way Switch for Tele®, Bulk Bulk Pack of 10 excl. Screws/ Knobs",0,"83.40",663334031302,"2026-07-16 00:00:00",0
+20012052,DiMarzio,"[B-Stock] DiMarzio EP 1105T Three-Way Switch for Tele®, Bulk Bulk Pack of 10 excl. Screws/ Knobs",0,83.4,663334031302,"2026-07-16 00:00:00",0
 10012085,DiMarzio,"DiMarzio DP 292FNCR New’Tron™ Bridge Nickel Cover, Cream Insert",1,"105.00",663334196094,,0
 20012085,DiMarzio,"[B-Stock] DiMarzio DP 292FNCR New’Tron™ Bridge Nickel Cover, Cream Insert",0,105,663334196094,,0
 10012102,DiMarzio,DiMarzio DP 155BB The Tone Zone,0,"70.70",663334006805,"2026-07-11 00:00:00",0
@@ -16299,8 +16299,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20014943,DiMarzio,"[B-Stock] DiMarzio DP 161FGG+BK Steve's Special F-spaced, Gold Tops, Black Pole Pieces",0,117.8,,"2026-07-11 00:00:00",0
 10014948,DiMarzio,"DiMarzio DP 161FKK+N Steve's Special F-spaced, Black Metal Cover, Nickel Pole Pieces",0,"86.00",,"2026-07-11 00:00:00",0
 20014948,DiMarzio,"[B-Stock] DiMarzio DP 161FKK+N Steve's Special F-spaced, Black Metal Cover, Nickel Pole Pieces",0,86,,"2026-07-11 00:00:00",0
-10014949,DiMarzio,"DiMarzio DP 161FN Steve's Special F-spaced, Nickel Cover",0,"77.60",663334038462,"2026-07-15 00:00:00",0
-20014949,DiMarzio,"[B-Stock] DiMarzio DP 161FN Steve's Special F-spaced, Nickel Cover",0,77.6,663334038462,"2026-07-15 00:00:00",0
+10014949,DiMarzio,"DiMarzio DP 161FN Steve's Special F-spaced, Nickel Cover",0,"77.60",663334038462,"2026-07-16 00:00:00",0
+20014949,DiMarzio,"[B-Stock] DiMarzio DP 161FN Steve's Special F-spaced, Nickel Cover",0,77.6,663334038462,"2026-07-16 00:00:00",0
 10014954,DiMarzio,"DiMarzio DP 161FRD Steve's Special F-spaced, Red",0,"70.70",663334009059,"2026-07-11 00:00:00",0
 20014954,DiMarzio,"[B-Stock] DiMarzio DP 161FRD Steve's Special F-spaced, Red",0,70.7,663334009059,"2026-07-11 00:00:00",0
 10014955,DiMarzio,"DiMarzio DP 161FRD+BK Steve's Special F-spaced, Red, Black Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
@@ -17009,8 +17009,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20015228,DiMarzio,"[B-Stock] DiMarzio DP 180AW+N Air Norton S Aged White, Nickel Pole Pieces",0,73.4,,"2026-07-11 00:00:00",0
 10015229,DiMarzio,"DiMarzio DP 180BK+G Air Norton S Black, Gold Pole Pieces",1,"73.40",663334182042,,0
 20015229,DiMarzio,"[B-Stock] DiMarzio DP 180BK+G Air Norton S Black, Gold Pole Pieces",0,73.4,663334182042,,0
-10015231,DiMarzio,DiMarzio DP 180BL Air Norton S Blue,0,"70.70",663334028104,"2026-07-15 00:00:00",0
-20015231,DiMarzio,[B-Stock] DiMarzio DP 180BL Air Norton S Blue,0,70.7,663334028104,"2026-07-15 00:00:00",0
+10015231,DiMarzio,DiMarzio DP 180BL Air Norton S Blue,0,"70.70",663334028104,"2026-07-16 00:00:00",0
+20015231,DiMarzio,[B-Stock] DiMarzio DP 180BL Air Norton S Blue,0,70.7,663334028104,"2026-07-16 00:00:00",0
 10015236,DiMarzio,"DiMarzio DP 180C+N Air Norton S Chrome, Nickel Pole Pieces",0,"82.10",,"2026-07-11 00:00:00",0
 20015236,DiMarzio,"[B-Stock] DiMarzio DP 180C+N Air Norton S Chrome, Nickel Pole Pieces",0,82.1,,"2026-07-11 00:00:00",0
 10015239,DiMarzio,"DiMarzio DP 180G+G Air Norton S Gold Cover, Gold Pole Pieces",0,"84.80",,"2026-07-11 00:00:00",0
@@ -17073,8 +17073,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20015366,DiMarzio,"[B-Stock] DiMarzio DP 187CR+G The Cruiser Bridge Cream, Gold Pole Pieces",0,73.4,,"2026-07-11 00:00:00",0
 10015303,DiMarzio,"DiMarzio DP 182V+G Fast Track 2 Purple, Gold Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
 20015303,DiMarzio,"[B-Stock] DiMarzio DP 182V+G Fast Track 2 Purple, Gold Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
-10015305,DiMarzio,"DiMarzio DP 182W+G Fast Track 2 White, Gold Pole Pieces",0,"73.40",663334194304,"2026-07-15 00:00:00",0
-20015305,DiMarzio,"[B-Stock] DiMarzio DP 182W+G Fast Track 2 White, Gold Pole Pieces",0,73.4,663334194304,"2026-07-15 00:00:00",0
+10015305,DiMarzio,"DiMarzio DP 182W+G Fast Track 2 White, Gold Pole Pieces",0,"73.40",663334194304,"2026-07-16 00:00:00",0
+20015305,DiMarzio,"[B-Stock] DiMarzio DP 182W+G Fast Track 2 White, Gold Pole Pieces",0,73.4,663334194304,"2026-07-16 00:00:00",0
 10015306,DiMarzio,"DiMarzio DP 182W+N Fast Track 2 White, Nickel Pole Pieces",0,"73.40",663334174481,"2026-07-11 00:00:00",0
 20015306,DiMarzio,"[B-Stock] DiMarzio DP 182W+N Fast Track 2 White, Nickel Pole Pieces",0,73.4,663334174481,"2026-07-11 00:00:00",0
 10015311,DiMarzio,"DiMarzio DP 184BK+G The Chopper Black, Gold Pole Pieces",0,"73.40",663334172975,"2026-07-13 00:00:00",0
@@ -17239,8 +17239,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20014757,DiMarzio,"[B-Stock] DiMarzio DP 160BV+G Norton Black/Purple, Gold Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
 10014758,DiMarzio,"DiMarzio DP 160BW+BK Norton Black/White, Black Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
 20014758,DiMarzio,"[B-Stock] DiMarzio DP 160BW+BK Norton Black/White, Black Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
-10015289,DiMarzio,"DiMarzio DP 182CR+N Fast Track 2 Cream, Nickel Pole Pieces",0,"73.40",,"2026-07-15 00:00:00",0
-20015289,DiMarzio,"[B-Stock] DiMarzio DP 182CR+N Fast Track 2 Cream, Nickel Pole Pieces",0,73.4,,"2026-07-15 00:00:00",0
+10015289,DiMarzio,"DiMarzio DP 182CR+N Fast Track 2 Cream, Nickel Pole Pieces",0,"73.40",663334010413,"2026-07-16 00:00:00",0
+20015289,DiMarzio,"[B-Stock] DiMarzio DP 182CR+N Fast Track 2 Cream, Nickel Pole Pieces",0,73.4,663334010413,"2026-07-16 00:00:00",0
 10015292,DiMarzio,"DiMarzio DP 182G+N Fast Track 2 Gold Cover, Nickel Pole Pieces",0,"84.80",,"2026-07-11 00:00:00",0
 20015292,DiMarzio,"[B-Stock] DiMarzio DP 182G+N Fast Track 2 Gold Cover, Nickel Pole Pieces",0,84.8,,"2026-07-11 00:00:00",0
 10015308,DiMarzio,"DiMarzio DP 182Y+G Fast Track 2 Yellow, Gold Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
@@ -17249,8 +17249,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20015332,DiMarzio,"[B-Stock] DiMarzio DP 184Y+G The Chopper Yellow, Gold Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
 10015337,DiMarzio,"DiMarzio DP 186BL+N The Cruiser Neck Blue, Nickel Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
 20015337,DiMarzio,"[B-Stock] DiMarzio DP 186BL+N The Cruiser Neck Blue, Nickel Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
-10015342,DiMarzio,"DiMarzio DP 186G+G The Cruiser Neck Gold Cover, Gold Pole Pieces",0,"84.80",,"2026-07-15 00:00:00",0
-20015342,DiMarzio,"[B-Stock] DiMarzio DP 186G+G The Cruiser Neck Gold Cover, Gold Pole Pieces",0,84.8,,"2026-07-15 00:00:00",0
+10015342,DiMarzio,"DiMarzio DP 186G+G The Cruiser Neck Gold Cover, Gold Pole Pieces",0,"84.80",663334010659,"2026-07-16 00:00:00",0
+20015342,DiMarzio,"[B-Stock] DiMarzio DP 186G+G The Cruiser Neck Gold Cover, Gold Pole Pieces",0,84.8,663334010659,"2026-07-16 00:00:00",0
 10015343,DiMarzio,"DiMarzio DP 186G+N The Cruiser Neck Gold Cover, Nickel Pole Pieces",0,"84.80",,"2026-07-11 00:00:00",0
 20015343,DiMarzio,"[B-Stock] DiMarzio DP 186G+N The Cruiser Neck Gold Cover, Nickel Pole Pieces",0,84.8,,"2026-07-11 00:00:00",0
 10015349,DiMarzio,"DiMarzio DP 186PK+G The Cruiser Neck Pink, Gold Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
@@ -17481,8 +17481,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20015246,DiMarzio,"[B-Stock] DiMarzio DP 180PK+G Air Norton S Pink, Gold Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
 10015255,DiMarzio,"DiMarzio DP 181AW+N Fast Track 1 Aged White, Nickel Pole Pieces",0,"73.40",663334183384,"2026-07-11 00:00:00",0
 20015255,DiMarzio,"[B-Stock] DiMarzio DP 181AW+N Fast Track 1 Aged White, Nickel Pole Pieces",0,73.4,663334183384,"2026-07-11 00:00:00",0
-10015261,DiMarzio,"DiMarzio DP 181C+N Fast Track 1 Chrome, Nickel Pole Pieces",0,"82.10",663334203778,"2026-07-15 00:00:00",0
-20015261,DiMarzio,"[B-Stock] DiMarzio DP 181C+N Fast Track 1 Chrome, Nickel Pole Pieces",0,82.1,663334203778,"2026-07-15 00:00:00",0
+10015261,DiMarzio,"DiMarzio DP 181C+N Fast Track 1 Chrome, Nickel Pole Pieces",0,"82.10",663334203778,"2026-07-16 00:00:00",0
+20015261,DiMarzio,"[B-Stock] DiMarzio DP 181C+N Fast Track 1 Chrome, Nickel Pole Pieces",0,82.1,663334203778,"2026-07-16 00:00:00",0
 10015262,DiMarzio,"DiMarzio DP 181CR+G Fast Track 1 Cream, Gold Pole Pieces",0,"73.40",,"2026-07-11 00:00:00",0
 20015262,DiMarzio,"[B-Stock] DiMarzio DP 181CR+G Fast Track 1 Cream, Gold Pole Pieces",0,73.4,,"2026-07-11 00:00:00",0
 10015265,DiMarzio,DiMarzio DP 181GN Fast Track 1 Green,0,"70.70",663334010284,"2026-07-11 00:00:00",0
@@ -17621,8 +17621,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20015505,DiMarzio,"[B-Stock] DiMarzio DP 190FBG+RG Air Classic Neck F-spaced, Black/Green, Rose Gold Pole Pieces",0,83.3,,"2026-07-11 00:00:00",0
 10015510,DiMarzio,"DiMarzio DP 190FBL+BK Air Classic Neck F-spaced, Blue, Black Pole Pieces",0,"79.10",,"2026-07-11 00:00:00",0
 20015510,DiMarzio,"[B-Stock] DiMarzio DP 190FBL+BK Air Classic Neck F-spaced, Blue, Black Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
-10015370,DiMarzio,"DiMarzio DP 187G+N The Cruiser Bridge Gold Cover, Nickel Pole Pieces",0,"84.80",,"2026-07-15 00:00:00",0
-20015370,DiMarzio,"[B-Stock] DiMarzio DP 187G+N The Cruiser Bridge Gold Cover, Nickel Pole Pieces",0,84.8,,"2026-07-15 00:00:00",0
+10015370,DiMarzio,"DiMarzio DP 187G+N The Cruiser Bridge Gold Cover, Nickel Pole Pieces",0,"84.80",663334010741,"2026-07-16 00:00:00",0
+20015370,DiMarzio,"[B-Stock] DiMarzio DP 187G+N The Cruiser Bridge Gold Cover, Nickel Pole Pieces",0,84.8,663334010741,"2026-07-16 00:00:00",0
 10015371,DiMarzio,DiMarzio DP 187GN The Cruiser Bridge Green,0,"70.70",663334010710,"2026-07-11 00:00:00",0
 20015371,DiMarzio,[B-Stock] DiMarzio DP 187GN The Cruiser Bridge Green,0,70.7,663334010710,"2026-07-11 00:00:00",0
 10015396,DiMarzio,DiMarzio DP 188C Pro Track Chrome,0,"73.70",663334045194,"2026-07-11 00:00:00",0
@@ -21275,8 +21275,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20017365,DiMarzio,"[B-Stock] DiMarzio DP 219BP+BK D Activator Neck Black/Pink, Black Pole Pieces",0,81.1,,"2026-07-11 00:00:00",0
 10017382,DiMarzio,"DiMarzio DP 219FBB+BK D Activator Neck F-spaced, Black/Blue, Black Pole Pieces",0,"81.10",,"2026-07-11 00:00:00",0
 20017382,DiMarzio,"[B-Stock] DiMarzio DP 219FBB+BK D Activator Neck F-spaced, Black/Blue, Black Pole Pieces",0,81.1,,"2026-07-11 00:00:00",0
-10017401,DiMarzio,"DiMarzio DP 219FBV+G D Activator Neck F-spaced, Black/Purple, Gold Pole Pieces",0,"81.10",,"2026-07-15 00:00:00",0
-20017401,DiMarzio,"[B-Stock] DiMarzio DP 219FBV+G D Activator Neck F-spaced, Black/Purple, Gold Pole Pieces",0,81.1,,"2026-07-15 00:00:00",0
+10017401,DiMarzio,"DiMarzio DP 219FBV+G D Activator Neck F-spaced, Black/Purple, Gold Pole Pieces",0,"81.10",663334027947,"2026-07-16 00:00:00",0
+20017401,DiMarzio,"[B-Stock] DiMarzio DP 219FBV+G D Activator Neck F-spaced, Black/Purple, Gold Pole Pieces",0,81.1,663334027947,"2026-07-16 00:00:00",0
 10016753,DiMarzio,"DiMarzio DP 212CR+BK EJ Custom Bridge Cream, Black Pole Pieces",0,"86.40",,"2026-07-11 00:00:00",0
 20016753,DiMarzio,"[B-Stock] DiMarzio DP 212CR+BK EJ Custom Bridge Cream, Black Pole Pieces",0,86.4,,"2026-07-11 00:00:00",0
 10016763,DiMarzio,"DiMarzio DP 212FBG EJ Custom Bridge F-spaced, Black/Green",0,"83.70",,"2026-07-11 00:00:00",0
@@ -22057,8 +22057,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20017891,DiMarzio,"[B-Stock] DiMarzio DP 224BG+BK DiMarzio AT-1 Black/Green, Black Pole Pieces",0,92.1,,"2026-07-11 00:00:00",0
 10017898,DiMarzio,DiMarzio DP 224BP DiMarzio AT-1 Black/Pink,0,"83.70",,"2026-07-11 00:00:00",0
 20017898,DiMarzio,[B-Stock] DiMarzio DP 224BP DiMarzio AT-1 Black/Pink,0,83.7,,"2026-07-11 00:00:00",0
-10017906,DiMarzio,"DiMarzio DP 224BV+G DiMarzio AT-1 Black/Purple, Gold Pole Pieces",0,"92.10",,"2026-07-15 00:00:00",0
-20017906,DiMarzio,"[B-Stock] DiMarzio DP 224BV+G DiMarzio AT-1 Black/Purple, Gold Pole Pieces",0,92.1,,"2026-07-15 00:00:00",0
+10017906,DiMarzio,"DiMarzio DP 224BV+G DiMarzio AT-1 Black/Purple, Gold Pole Pieces",0,"92.10",663334033467,"2026-07-16 00:00:00",0
+20017906,DiMarzio,"[B-Stock] DiMarzio DP 224BV+G DiMarzio AT-1 Black/Purple, Gold Pole Pieces",0,92.1,663334033467,"2026-07-16 00:00:00",0
 10017907,DiMarzio,"DiMarzio DP 224BW+BK DiMarzio AT-1 Black/White, Black Pole Pieces",0,"92.10",,"2026-07-11 00:00:00",0
 20017907,DiMarzio,"[B-Stock] DiMarzio DP 224BW+BK DiMarzio AT-1 Black/White, Black Pole Pieces",0,92.1,,"2026-07-11 00:00:00",0
 10017912,DiMarzio,"DiMarzio DP 224CC+BK DiMarzio AT-1 Chrome Tops, Black Pole Pieces",0,"130.80",,"2026-07-11 00:00:00",0
@@ -26389,8 +26389,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20019938,DiMarzio,"[B-Stock] DiMarzio DP 261BW+G PAF Master Bridge Black/White, Gold Pole Pieces",0,79.1,,"2026-07-11 00:00:00",0
 10019940,DiMarzio,DiMarzio DP 261BY PAF Master Bridge Black/Yellow,0,"70.70",,"2026-07-11 00:00:00",0
 20019940,DiMarzio,[B-Stock] DiMarzio DP 261BY PAF Master Bridge Black/Yellow,0,70.7,,"2026-07-11 00:00:00",0
-10019948,DiMarzio,"DiMarzio DP 261CR+BK PAF Master Bridge Cream, Black Pole Pieces",0,"73.40",,"2026-07-15 00:00:00",0
-20019948,DiMarzio,"[B-Stock] DiMarzio DP 261CR+BK PAF Master Bridge Cream, Black Pole Pieces",0,73.4,,"2026-07-15 00:00:00",0
+10019948,DiMarzio,"DiMarzio DP 261CR+BK PAF Master Bridge Cream, Black Pole Pieces",0,"73.40",663334044678,"2026-07-16 00:00:00",0
+20019948,DiMarzio,"[B-Stock] DiMarzio DP 261CR+BK PAF Master Bridge Cream, Black Pole Pieces",0,73.4,663334044678,"2026-07-16 00:00:00",0
 10019964,DiMarzio,"DiMarzio DP 261FBL PAF Master Bridge F-spaced, Blue",0,"70.70",,"2026-07-11 00:00:00",0
 20019964,DiMarzio,"[B-Stock] DiMarzio DP 261FBL PAF Master Bridge F-spaced, Blue",0,70.7,,"2026-07-11 00:00:00",0
 10019975,DiMarzio,"DiMarzio DP 261FBR+RG PAF Master Bridge F-spaced, Black/Red, Rose Gold Pole Pieces",0,"83.30",,"2026-07-11 00:00:00",0
@@ -29419,8 +29419,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20021261,DiMarzio,"[B-Stock] DiMarzio DP 289FY+G UtoPIA Bridge F-spaced, Yellow, Gold Pole Pieces",0,100.1,,"2026-07-11 00:00:00",0
 10021264,DiMarzio,"DiMarzio DP 290BB+G Fortitude Bridge Black/Blue, Gold Pole Pieces",0,"92.10",,"2026-07-11 00:00:00",0
 20021264,DiMarzio,"[B-Stock] DiMarzio DP 290BB+G Fortitude Bridge Black/Blue, Gold Pole Pieces",0,92.1,,"2026-07-11 00:00:00",0
-10021267,DiMarzio,"DiMarzio DP 290BC+G Fortitude Bridge Black/Cream, Gold Pole Pieces",0,"86.40",,"2026-07-15 00:00:00",0
-20021267,DiMarzio,"[B-Stock] DiMarzio DP 290BC+G Fortitude Bridge Black/Cream, Gold Pole Pieces",0,86.4,,"2026-07-15 00:00:00",0
+10021267,DiMarzio,"DiMarzio DP 290BC+G Fortitude Bridge Black/Cream, Gold Pole Pieces",0,"86.40",663334171961,"2026-07-16 00:00:00",0
+20021267,DiMarzio,"[B-Stock] DiMarzio DP 290BC+G Fortitude Bridge Black/Cream, Gold Pole Pieces",0,86.4,663334171961,"2026-07-16 00:00:00",0
 10021269,DiMarzio,"DiMarzio DP 290BG+BK Fortitude Bridge Black/Green, Black Pole Pieces",0,"92.10",,"2026-07-11 00:00:00",0
 20021269,DiMarzio,"[B-Stock] DiMarzio DP 290BG+BK Fortitude Bridge Black/Green, Black Pole Pieces",0,92.1,,"2026-07-11 00:00:00",0
 10021270,DiMarzio,"DiMarzio DP 290BG+G Fortitude Bridge Black/Green, Gold Pole Pieces",0,"92.10",,"2026-07-11 00:00:00",0
@@ -30549,8 +30549,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20021805,DiMarzio,"[B-Stock] DiMarzio DP 700BG+G Blaze Neck Model Black/Green, Gold Pole Pieces",0,85.1,,"2026-07-11 00:00:00",0
 10021812,DiMarzio,"DiMarzio DP 700BW+G Blaze Neck Model Black/White, Gold Pole Pieces",0,"85.10",,"2026-07-11 00:00:00",0
 20021812,DiMarzio,"[B-Stock] DiMarzio DP 700BW+G Blaze Neck Model Black/White, Gold Pole Pieces",0,85.1,,"2026-07-11 00:00:00",0
-10021818,DiMarzio,"DiMarzio DP 700GN+BK Blaze Neck Model Green, Black Pole Pieces",0,"85.10",663334174368,"2026-07-15 00:00:00",0
-20021818,DiMarzio,"[B-Stock] DiMarzio DP 700GN+BK Blaze Neck Model Green, Black Pole Pieces",0,85.1,663334174368,"2026-07-15 00:00:00",0
+10021818,DiMarzio,"DiMarzio DP 700GN+BK Blaze Neck Model Green, Black Pole Pieces",0,"85.10",663334174368,"2026-07-16 00:00:00",0
+20021818,DiMarzio,"[B-Stock] DiMarzio DP 700GN+BK Blaze Neck Model Green, Black Pole Pieces",0,85.1,663334174368,"2026-07-16 00:00:00",0
 10021835,DiMarzio,DiMarzio DP 700UN Blaze Neck Model Unplated Cover,0,"91.40",663334129719,"2026-07-11 00:00:00",0
 20021835,DiMarzio,[B-Stock] DiMarzio DP 700UN Blaze Neck Model Unplated Cover,0,91.4,663334129719,"2026-07-11 00:00:00",0
 10021841,DiMarzio,"DiMarzio DP 701CR+BK Blaze Middle Cream, Black Pole Pieces",0,"65.40",,"2026-07-11 00:00:00",0
@@ -32495,12 +32495,12 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20022865,DiMarzio,[B-Stock] DiMarzio FB2100BA1BK Model P P Bass Replacement Pickguard Black,0,123,663334040229,"2026-07-11 00:00:00",0
 10022866,DiMarzio,DiMarzio FB2100BA2BK Split P P Bass Replacement Pickguard Black,0,"129.00",663334040236,"2026-07-11 00:00:00",0
 20022866,DiMarzio,[B-Stock] DiMarzio FB2100BA2BK Split P P Bass Replacement Pickguard Black,0,129,663334040236,"2026-07-11 00:00:00",0
-11000014,DiMarzio,DiMarzio DP 287FSNLB UtoPIA Neck Blue Powder,0,"91.70",663334192225,"2026-07-15 00:00:00",0
-21000014,DiMarzio,[B-Stock] DiMarzio DP 287FSNLB UtoPIA Neck Blue Powder,0,91.7,663334192225,"2026-07-15 00:00:00",0
+11000014,DiMarzio,DiMarzio DP 287FSNLB UtoPIA Neck Blue Powder,0,"91.70",663334192225,"2026-07-16 00:00:00",0
+21000014,DiMarzio,[B-Stock] DiMarzio DP 287FSNLB UtoPIA Neck Blue Powder,0,91.7,663334192225,"2026-07-16 00:00:00",0
 11000016,DiMarzio,"DiMarzio DP 302N Relentless J Set, Nickel Cover",1,"155.60",663334192812,,0
 21000016,DiMarzio,"[B-Stock] DiMarzio DP 302N Relentless J Set, Nickel Cover",0,155.6,663334192812,,0
-11000017,DiMarzio,"DiMarzio DP 302GB Relentless J Set, Gloss Black",0,"143.00",663334192034,"2026-07-15 00:00:00",0
-21000017,DiMarzio,"[B-Stock] DiMarzio DP 302GB Relentless J Set, Gloss Black",0,143,663334192034,"2026-07-15 00:00:00",0
+11000017,DiMarzio,"DiMarzio DP 302GB Relentless J Set, Gloss Black",0,"143.00",663334192034,"2026-07-16 00:00:00",0
+21000017,DiMarzio,"[B-Stock] DiMarzio DP 302GB Relentless J Set, Gloss Black",0,143,663334192034,"2026-07-16 00:00:00",0
 10022904,DiMarzio,DiMarzio DP 281BK+BK Rainmaker™ Neck Quick Connect John Petrucci Signature Model,0,"86.40",663334173170,"2026-07-13 00:00:00",0
 20022904,DiMarzio,[B-Stock] DiMarzio DP 281BK+BK Rainmaker™ Neck Quick Connect John Petrucci Signature Model,0,86.4,663334173170,"2026-07-13 00:00:00",0
 10022981,DiMarzio,DiMarzio DP 110BK FS-1 No Flange,0,"62.80",663334004047,"2026-07-11 00:00:00",0
@@ -33239,8 +33239,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-11 00:00:00",0
 20023809,Samson,[B-Stock] Samson SR450 Closed Back On-Ear Headphones,0,22,809164017660,,0
 10023810,Samson,Samson SR350 Closed Back Studio Headphones,1,"15.00",809164019190,,0
 20023810,Samson,[B-Stock] Samson SR350 Closed Back Studio Headphones,0,15,809164019190,,0
-10023811,Samson,Samson MD2 Adjustable Desktop Mic Stand,0,"14.00",809164021391,"2026-08-14 00:00:00",0
-20023811,Samson,[B-Stock] Samson MD2 Adjustable Desktop Mic Stand,0,14,809164021391,"2026-08-14 00:00:00",0
+10023811,Samson,Samson MD2 Adjustable Desktop Mic Stand,0,"14.00",809164021391,"2026-08-15 00:00:00",0
+20023811,Samson,[B-Stock] Samson MD2 Adjustable Desktop Mic Stand,0,14,809164021391,"2026-08-15 00:00:00",0
 10023812,Samson,Samson MD5 Desktop Mic Stand,1,"14.00",809164006664,,0
 20023812,Samson,[B-Stock] Samson MD5 Desktop Mic Stand,0,14,809164006664,,0
 10023813,Samson,Samson MB1 Mini Boom Stand,1,"19.00",809164003335,,0

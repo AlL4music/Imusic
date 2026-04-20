@@ -1641,7 +1641,7 @@
 20007852,LTD,[B-Stock] LTD ARROW-1000 CARS CANDY APPLE RED SATIN Arrow Series Guitars,0,879,799493273250,,1
 10007865,LTD,LTD F BLACK METAL BLKS BLACK SATIN F Series Guitars,0,"869.00",799493273236,,1
 20007865,LTD,[B-Stock] LTD F BLACK METAL BLKS BLACK SATIN F Series Guitars,0,869,799493273236,,1
-10007867,LTD,LTD H-1008 BARITONE EVERTUNE BLKS BLACK SATIN H Series Guitars,1,"1179.00",799493274134,,1
+10007867,LTD,LTD H-1008 BARITONE EVERTUNE BLKS BLACK SATIN H Series Guitars,0,"1179.00",799493274134,,1
 20007867,LTD,[B-Stock] LTD H-1008 BARITONE EVERTUNE BLKS BLACK SATIN H Series Guitars,0,1179,799493274134,,1
 10007875,LTD,LTD M-HT ARCTIC METAL SWS  SNOW WHITE SATIN M Series Guitars,0,"849.00",799493273861,,1
 20007875,LTD,[B-Stock] LTD M-HT ARCTIC METAL SWS  SNOW WHITE SATIN M Series Guitars,0,849,799493273861,,1
@@ -2473,8 +2473,8 @@
 20010043,Zoom,[B-Stock] Zoom ZAD-1220E Locking AC Adaptor (DC12V) for R20,0,31,4515260025770,,0
 10010167,Zoom,Zoom H6 Carry Case SP03776,0,"4.14",,,0
 20010167,Zoom,[B-Stock] Zoom H6 Carry Case SP03776,0,4.14,,,0
-10011085,Zoom,Zoom B2 FOUR (EU) Bass Multi-Effects Pedal,1,"139.00",4515260028092,,0
-20011085,Zoom,[B-Stock] Zoom B2 FOUR (EU) Bass Multi-Effects Pedal,0,139,4515260028092,,0
+10011085,Zoom,Zoom B2 FOUR (EU) Bass Multi-Effects Pedal,0,"139.00",4515260028092,"2026-04-25 00:00:00",0
+20011085,Zoom,[B-Stock] Zoom B2 FOUR (EU) Bass Multi-Effects Pedal,0,139,4515260028092,"2026-04-25 00:00:00",0
 10010297,Zoom,Zoom R12 MultiTrak Multi Track Recorder,1,"216.00",4515260027538,,0
 20010297,Zoom,[B-Stock] Zoom R12 MultiTrak Multi Track Recorder,0,216,4515260027538,,0
 10010929,Zoom,Zoom R20 MultiTrak (UK) Multi Track Recorder,1,"305.00",4515260027897,,0
@@ -2573,8 +2573,8 @@
 20023495,Zoom,[B-Stock] Zoom PodTrak P4next 4-Track Podcast Recorder,0,129,4515260030392,"2026-04-20 00:00:00",0
 10023562,Zoom,Zoom APH-6st (EU) Accessory Pack for H6studio,0,"39.00",4515260030538,"2026-05-30 00:00:00",0
 20023562,Zoom,[B-Stock] Zoom APH-6st (EU) Accessory Pack for H6studio,0,39,4515260030538,"2026-05-30 00:00:00",0
-10023496,Zoom,Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,0,"509.00",4515260030514,"2026-04-20 00:00:00",0
-20023496,Zoom,[B-Stock] Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,0,509,4515260030514,"2026-04-20 00:00:00",0
+10023496,Zoom,Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,0,"509.00",4515260030514,"2026-06-04 00:00:00",0
+20023496,Zoom,[B-Stock] Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,0,509,4515260030514,"2026-06-04 00:00:00",0
 10023616,Zoom,Zoom LiveTrak L12next (UK) Digital Mixer and Recorder,0,"509.00",4515260030507,"2026-07-18 00:00:00",0
 20023616,Zoom,[B-Stock] Zoom LiveTrak L12next (UK) Digital Mixer and Recorder,0,509,4515260030507,"2026-07-18 00:00:00",0
 10023601,Zoom,Zoom LiveTrak L6max (UK) 12-Channel Mixer & Recorder,0,"294.00",4515260030064,"2026-07-18 00:00:00",0
@@ -3621,8 +3621,8 @@
 20009481,ESP USA,[B-Stock] ESP USA M-II FR DLX SC EMG BLDSPLTRBK EMG 81-X / 85-X,0,3629,,"2027-03-15 00:00:00",0
 10009488,ESP USA,ESP USA ECLIPSE FM SD LMBRST Pegasus / Sentient,0,"3461.00",,"2027-03-15 00:00:00",0
 20009488,ESP USA,[B-Stock] ESP USA ECLIPSE FM SD LMBRST Pegasus / Sentient,0,3461,,"2027-03-15 00:00:00",0
-10009489,ESP USA,ESP USA ECLIPSE OGM EMG BLKCH EMG 81-X / 85-X,0,"3347.00",,"2027-03-15 00:00:00",0
-20009489,ESP USA,[B-Stock] ESP USA ECLIPSE OGM EMG BLKCH EMG 81-X / 85-X,0,3347,,"2027-03-15 00:00:00",0
+10009489,ESP USA,ESP USA ECLIPSE OGM EMG BLKCH EMG 81-X / 85-X,0,"3347.00",,"2027-03-16 00:00:00",0
+20009489,ESP USA,[B-Stock] ESP USA ECLIPSE OGM EMG BLKCH EMG 81-X / 85-X,0,3347,,"2027-03-16 00:00:00",0
 10009493,ESP USA,ESP USA HORIZON-II SC BH EMG PW EMG 81-X / 85-X,0,"3503.00",,"2027-03-15 00:00:00",0
 20009493,ESP USA,[B-Stock] ESP USA HORIZON-II SC BH EMG PW EMG 81-X / 85-X,0,3503,,"2027-03-15 00:00:00",0
 10009497,ESP USA,ESP USA M-II FR DLX FM EMG VSHF EMG 81-X / 85-X,0,"3419.00",,"2027-03-15 00:00:00",0
@@ -8653,8 +8653,8 @@
 20000339,DiMarzio,[B-Stock] DiMarzio DP 173BK Twang King Bridge,0,57,663334010154,"2026-07-18 00:00:00",0
 10000342,DiMarzio,DiMarzio DP 191BK Air Classic Bridge,0,"65.00",663334011304,"2026-07-18 00:00:00",0
 20000342,DiMarzio,[B-Stock] DiMarzio DP 191BK Air Classic Bridge,0,65,663334011304,"2026-07-18 00:00:00",0
-10000356,DiMarzio,DiMarzio DP 155BC The Tone Zone,1,"65.00",663334006812,,0
-20000356,DiMarzio,[B-Stock] DiMarzio DP 155BC The Tone Zone,0,65,663334006812,,0
+10000356,DiMarzio,DiMarzio DP 155BC The Tone Zone,0,"65.00",663334006812,"2026-07-19 00:00:00",0
+20000356,DiMarzio,[B-Stock] DiMarzio DP 155BC The Tone Zone,0,65,663334006812,"2026-07-19 00:00:00",0
 10000372,DiMarzio,DiMarzio DP 149BK Ultra Jazz Neck & Bridge Set,0,"111.00",663334005174,"2026-07-28 00:00:00",0
 20000372,DiMarzio,[B-Stock] DiMarzio DP 149BK Ultra Jazz Neck & Bridge Set,0,111,663334005174,"2026-07-28 00:00:00",0
 10000380,DiMarzio,DiMarzio DP 162BK DLX Plus Neck,0,"78.00",663334009202,"2026-07-18 00:00:00",0
@@ -9611,8 +9611,8 @@
 20001101,DiMarzio,[B-Stock] DiMarzio DP 181V Fast Track 1,0,70.7,,"2026-07-18 00:00:00",0
 10001104,DiMarzio,DiMarzio DP 158FGNBK Evolution Neck,0,"83.70",,"2026-07-18 00:00:00",0
 20001104,DiMarzio,[B-Stock] DiMarzio DP 158FGNBK Evolution Neck,0,83.7,,"2026-07-18 00:00:00",0
-10001108,DiMarzio,DiMarzio DP 193BW Air Norton,0,"70.70",663334012127,"2026-07-18 00:00:00",0
-20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,70.7,663334012127,"2026-07-18 00:00:00",0
+10001108,DiMarzio,DiMarzio DP 193BW Air Norton,0,"70.70",663334012127,"2026-07-19 00:00:00",0
+20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,70.7,663334012127,"2026-07-19 00:00:00",0
 10001126,DiMarzio,DiMarzio DP 165BW The Breed Neck,0,"72.70",,"2026-07-18 00:00:00",0
 20001126,DiMarzio,[B-Stock] DiMarzio DP 165BW The Breed Neck,0,72.7,,"2026-07-18 00:00:00",0
 10001128,DiMarzio,DiMarzio DP 193FSP PK/V Air Norton,1,"70.70",663334012332,,0
@@ -10633,8 +10633,8 @@
 20002317,DiMarzio,"[B-Stock] DiMarzio DM 2000MG Vintage Strat® Pickup Cover, Mint Green",0,6,663334017146,"2026-07-18 00:00:00",0
 10002324,DiMarzio,DiMarzio DP 103G8 PAF worn gold cover,0,"95.90",,"2026-07-18 00:00:00",0
 20002324,DiMarzio,[B-Stock] DiMarzio DP 103G8 PAF worn gold cover,0,95.9,,"2026-07-18 00:00:00",0
-10002247,DiMarzio,DiMarzio DP 416AW Area 61 aged white,0,"65.00",663334026896,"2026-07-18 00:00:00",0
-20002247,DiMarzio,[B-Stock] DiMarzio DP 416AW Area 61 aged white,0,65,663334026896,"2026-07-18 00:00:00",0
+10002247,DiMarzio,DiMarzio DP 416AW Area 61 aged white,0,"65.00",663334026896,"2026-07-19 00:00:00",0
+20002247,DiMarzio,[B-Stock] DiMarzio DP 416AW Area 61 aged white,0,65,663334026896,"2026-07-19 00:00:00",0
 10002251,DiMarzio,DiMarzio DP 100N Super Distortion Nickel Cover,1,"77.60",663334037922,,0
 20002251,DiMarzio,[B-Stock] DiMarzio DP 100N Super Distortion Nickel Cover,0,77.6,663334037922,,0
 10002252,DiMarzio,DiMarzio DP 190FW Air Classic Neck white,0,"70.70",663334011182,"2026-07-18 00:00:00",0
@@ -11795,8 +11795,8 @@
 20005535,DiMarzio,[B-Stock] DiMarzio DP 216V+BK Mo Joe,0,92.1,,"2026-07-18 00:00:00",0
 10005567,DiMarzio,DiMarzio DP 180W+N Air Norton S,0,"73.40",,"2026-07-18 00:00:00",0
 20005567,DiMarzio,[B-Stock] DiMarzio DP 180W+N Air Norton S,0,73.4,,"2026-07-18 00:00:00",0
-10005572,DiMarzio,DiMarzio DP 281BK Rainmaker™ Neck Black John Petrucci Signature Model,1,"78.00",663334164932,,0
-20005572,DiMarzio,[B-Stock] DiMarzio DP 281BK Rainmaker™ Neck Black John Petrucci Signature Model,0,78,663334164932,,0
+10005572,DiMarzio,DiMarzio DP 281BK Rainmaker™ Neck Black John Petrucci Signature Model,0,"78.00",663334164932,"2026-07-19 00:00:00",0
+20005572,DiMarzio,[B-Stock] DiMarzio DP 281BK Rainmaker™ Neck Black John Petrucci Signature Model,0,78,663334164932,"2026-07-19 00:00:00",0
 10005649,DiMarzio,DiMarzio DP 427BK Sugar Chakra,0,"78.00",663334163676,"2026-07-18 00:00:00",0
 20005649,DiMarzio,[B-Stock] DiMarzio DP 427BK Sugar Chakra,0,78,663334163676,"2026-07-18 00:00:00",0
 10005780,DiMarzio,DiMarzio DD 2249 Jim Root #4 White Cliplock,1,"22.10",663334170810,,0
@@ -14559,8 +14559,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-18 00:00:00",0
 20014075,DiMarzio,"[B-Stock] DiMarzio DP 152FBK+N Super 3 F-spaced, Black, Nickel Pole Pieces",0,73.4,663334182127,"2026-07-18 00:00:00",0
 10014083,DiMarzio,"DiMarzio DP 152FBR+N Super 3 F-spaced, Black/Red, Nickel Pole Pieces",0,"79.10",,"2026-07-18 00:00:00",0
 20014083,DiMarzio,"[B-Stock] DiMarzio DP 152FBR+N Super 3 F-spaced, Black/Red, Nickel Pole Pieces",0,79.1,,"2026-07-18 00:00:00",0
-10014089,DiMarzio,"DiMarzio DP 152FBW+N Super 3 F-spaced, Black/White, Nickel Pole Pieces",0,"79.10",,"2026-07-18 00:00:00",0
-20014089,DiMarzio,"[B-Stock] DiMarzio DP 152FBW+N Super 3 F-spaced, Black/White, Nickel Pole Pieces",0,79.1,,"2026-07-18 00:00:00",0
+10014089,DiMarzio,"DiMarzio DP 152FBW+N Super 3 F-spaced, Black/White, Nickel Pole Pieces",0,"79.10",,"2026-06-28 00:00:00",0
+20014089,DiMarzio,"[B-Stock] DiMarzio DP 152FBW+N Super 3 F-spaced, Black/White, Nickel Pole Pieces",0,79.1,,"2026-06-28 00:00:00",0
 10014091,DiMarzio,"DiMarzio DP 152FBY+N Super 3 F-spaced, Black/Yellow, Nickel Pole Pieces",0,"79.10",,"2026-07-18 00:00:00",0
 20014091,DiMarzio,"[B-Stock] DiMarzio DP 152FBY+N Super 3 F-spaced, Black/Yellow, Nickel Pole Pieces",0,79.1,,"2026-07-18 00:00:00",0
 10014092,DiMarzio,"DiMarzio DP 152FCC Super 3 F-spaced, Chrome Tops",0,"109.40",663334026698,"2026-07-18 00:00:00",0

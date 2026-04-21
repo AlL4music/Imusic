@@ -29,7 +29,7 @@ KRMONOLOGGD;KORG Monologue Gold;0;https://www.music-park.sk/produkt/analogove-sy
 KRMONOLOGRD;KORG Monologue Red;0;https://www.music-park.sk/produkt/analogove-syntezatory/87/monologue-red
 KRMONOLOGSV;KORG Monologue Silver;5;https://www.music-park.sk/produkt/analogove-syntezatory/88/monologue-silver
 KRMS20KIT;KORG MS-20 Kit;0;https://www.music-park.sk/produkt/analogove-syntezatory/89/ms-20-kit
-KRMS20MINI;KORG MS-20 mini;2;https://www.music-park.sk/produkt/analogove-syntezatory/90/ms-20-mini
+KRMS20MINI;KORG MS-20 mini;0;https://www.music-park.sk/produkt/analogove-syntezatory/90/ms-20-mini
 KRMS20MKSQ1;KORG MS-20M Kit;0;https://www.music-park.sk/produkt/analogove-syntezatory/92/ms-20m-kit
 KRPROLOGUE16;KORG Prologue-16;0;https://www.music-park.sk/produkt/analogove-syntezatory/93/prologue-16
 KRPROLOGUE8;KORG Prologue-8;0;https://www.music-park.sk/produkt/analogove-syntezatory/94/prologue-8
@@ -47,7 +47,7 @@ KRARPODYSREV1;KORG ARP Odyssey Rev1;0;https://www.music-park.sk/produkt/analogov
 KREK50;KORG EK-50;20;https://www.music-park.sk/produkt/aranzery/106/ek-50
 KRMP10;KORG MP-10 Pro;0;https://www.music-park.sk/produkt/aranzery/107/mp-10-pro
 KRPA1000;KORG Pa1000;15;https://www.music-park.sk/produkt/aranzery/108/pa1000
-KRPA300;KORG Pa300;4;https://www.music-park.sk/produkt/aranzery/112/pa300
+KRPA300;KORG Pa300;5;https://www.music-park.sk/produkt/aranzery/112/pa300
 KRPA3X61;KORG Pa3X-61;0;https://www.music-park.sk/produkt/aranzery/113/pa3x-61
 KRPA3X76;KORG Pa3X-76;0;https://www.music-park.sk/produkt/aranzery/114/pa3x-76
 KRPA3XLE76;KORG Pa3X-Le;0;https://www.music-park.sk/produkt/aranzery/115/pa3x-le
@@ -1768,7 +1768,7 @@ KRTUIE1M;KORG In-EarMetronome;0;https://www.music-park.sk/produkt/metronomy/1126
 KRTUKDM2;KORG KDM-2;0;https://www.music-park.sk/produkt/metronomy/1127/kdm-2
 KRTUKDM3BK;KORG KDM-3 BK;20;https://www.music-park.sk/produkt/metronomy/1128/kdm-3-bk
 KRTUKDM3WBK;KORG KDM-3 WDBK;20;https://www.music-park.sk/produkt/metronomy/1129/kdm-3-wdbk
-KRTUKDM3WH;KORG KDM-3 WH;5;https://www.music-park.sk/produkt/metronomy/1130/kdm-3-wh
+KRTUKDM3WH;KORG KDM-3 WH;4;https://www.music-park.sk/produkt/metronomy/1130/kdm-3-wh
 KRTULMA120;KORG LMA-120;0;https://www.music-park.sk/produkt/metronomy/1131/lma-120
 KRTUMA2BK;KORG MA-2 BKRD;20;https://www.music-park.sk/produkt/metronomy/1134/ma-2-bkrd
 KRTUMA2BL;KORG MA-2 BLBK;20;https://www.music-park.sk/produkt/metronomy/1135/ma-2-blbk
@@ -1776,7 +1776,7 @@ KRTUSR1G;KORG StrokeRhythm;0;https://www.music-park.sk/produkt/metronomy/1136/st
 KRTUSY1D;KORG SyncDancing;0;https://www.music-park.sk/produkt/metronomy/1137/syncdancing
 KRTUSY1M;KORG SyncMetronome;0;https://www.music-park.sk/produkt/metronomy/1138/syncmetronome
 KRMICRK225A;KORG microKEY Air-25;4;https://www.music-park.sk/produkt/midi-kontrolery/1141/microkey-air-25
-KRMICRK237;KORG microKEY2-37;1;https://www.music-park.sk/produkt/midi-kontrolery/1142/microkey2-37
+KRMICRK237;KORG microKEY2-37;0;https://www.music-park.sk/produkt/midi-kontrolery/1142/microkey2-37
 KRMICRK237A;KORG microKEY Air-37;15;https://www.music-park.sk/produkt/midi-kontrolery/1143/microkey-air-37
 KRMICRK249;KORG microKEY2-49;4;https://www.music-park.sk/produkt/midi-kontrolery/1144/microkey2-49
 KRMICRK249A;KORG microKEY Air-49;5;https://www.music-park.sk/produkt/midi-kontrolery/1145/microkey-air-49
@@ -2070,7 +2070,7 @@ MB4BANS40100LS;Markbass Balanced NS 4 040-100;0;https://www.music-park.sk/produk
 KRSQ64;KORG SQ-64;5;https://www.music-park.sk/produkt/produkcni-nastroje/2175/sq-64
 QL10.00136;Quik Lok QLX/5;5;https://www.music-park.sk/produkt/klavesove-stojany/2176/qlx-5
 QL10.00126;Quik Lok QL/746;5;https://www.music-park.sk/produkt/klavesove-stojany/2177/ql-746
-QL10.01000;Quik Lok QL/723;0;https://www.music-park.sk/produkt/klavesove-stojany/2178/ql-723
+QL10.01000;Quik Lok QL/723;1;https://www.music-park.sk/produkt/klavesove-stojany/2178/ql-723
 QL10.00362;Quik Lok Z/716L;5;https://www.music-park.sk/produkt/klavesove-stojany/2179/z-716l
 TBHTOGB10F;Tobago HTO GB10F;0;https://www.music-park.sk/produkt/obaly-pro-kytary/2181/hto-gb10f
 TBHTOGB20E;Tobago HTO GB20E;1;https://www.music-park.sk/produkt/obaly-pro-kytary/2182/hto-gb20e
@@ -2218,7 +2218,7 @@ KRHC61KEY;KORG HC-61KEY;0;https://www.music-park.sk/produkt/kufry-pro-klavesy/23
 KRHC76KEY;KORG HC-76KEY;3;https://www.music-park.sk/produkt/kufry-pro-klavesy/2363/hc-76key
 KRHC88KEY;KORG HC-88KEY;0;https://www.music-park.sk/produkt/kufry-pro-klavesy/2364/hc-88key
 KRNTS2BUNDLE;KORG NTS-2 Oscilloscope Kit;0;https://www.music-park.sk/produkt/produkcni-nastroje/2365/nts-2-oscilloscope-kit
-KRLIANOBK;KORG Liano;15;https://www.music-park.sk/produkt/digitalni-piana/2366/liano
+KRLIANOBK;KORG Liano;10;https://www.music-park.sk/produkt/digitalni-piana/2366/liano
 KRLIANOBL;KORG Liano Metallic Blue;0;https://www.music-park.sk/produkt/digitalni-piana/2367/liano-metallic-blue
 KRLIANOGR;KORG Liano Metallic Gray;0;https://www.music-park.sk/produkt/digitalni-piana/2368/liano-metallic-gray
 KRLIANORD;KORG Liano Red;4;https://www.music-park.sk/produkt/digitalni-piana/2369/liano-red
@@ -2232,7 +2232,7 @@ GLTI-ACL-120R39M56;G&L Tribute ASAT Classic Butterscotch Blonde, MP;0;https://ww
 GLTI-ACB-115R03R46;G&L Tribute ASAT Classic Bluesboy Candy Apple Red, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/2378/tribute-asat-classic-bluesboy-candy-apple-red-rw
 GLTI-ACB-S71R46M76;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Clear Orange, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2379/tribute-asat-classic-bluesboy-semi-hollow-clear-orange-mp
 GLTI-ACL-115R63R46;G&L Tribute ASAT Classic Emerald Blue, RW;2;https://www.music-park.sk/produkt/elektricke-kytary/2380/tribute-asat-classic-emerald-blue-rw
-GLTI-ACL-175R24M86;G&L Tribute ASAT Classic Tobacco Sunburst, MP;3;https://www.music-park.sk/produkt/elektricke-kytary/2381/tribute-asat-classic-tobacco-sunburst-mp
+GLTI-ACL-175R24M86;G&L Tribute ASAT Classic Tobacco Sunburst, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/2381/tribute-asat-classic-tobacco-sunburst-mp
 GLTI-ACL-175L20M46;G&L Tribute ASAT Classic Lefty 3-Tone Sunburst, MP;3;https://www.music-park.sk/produkt/elektricke-kytary/2382/tribute-asat-classic-lefty-3-tone-sunburst-mp
 GLTI-ACB-S71L20M46;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Lefty 3-Tone Sunburst, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/2383/tribute-asat-classic-bluesboy-semi-hollow-lefty-3-tone-sunburst-mp
 GLTI-ACB-140R04R46;G&L Tribute ASAT Classic Bluesboy Lake Placid Blue, RW;5;https://www.music-park.sk/produkt/elektricke-kytary/2384/tribute-asat-classic-bluesboy-lake-placid-blue-rw

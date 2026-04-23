@@ -538,6 +538,7 @@ KRKINGKORGNEO;KORG KingKORG Neo;2;https://www.music-park.sk/produkt/digitalni-sy
 DR2DDT710;DR Strings Drop-Down Tuning DDT7-10;5;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2922/drop-down-tuning-ddt7-10
 DR2DDT711;DR Strings Drop-Down Tuning DDT7-11;15;https://www.music-park.sk/produkt/struny-na-elektricke-kytary/2923/drop-down-tuning-ddt7-11
 QL10.01149;Quik Lok MUS/001;5;https://www.music-park.sk/produkt/notove-stojany/2924/mus-001
+AG240-055S;Aguilar DB Chrome Corner Set;0;https://www.music-park.sk/produkt/baskytarove-reproduktory/2926/db-chrome-corner-set
 KRMW2408XX;KORG MW-2408 (Demo);0;https://www.music-park.sk/produkt/mixazni-pulty/2930/mw-2408-demo
 KRMW1608XX;KORG MW-1608 (Demo);1;https://www.music-park.sk/produkt/mixazni-pulty/2931/mw-1608-demo
 MBH110101XX;Markbass Nano Mark II (Demo);0;https://www.music-park.sk/produkt/baskytarove-zesilovace/2932/nano-mark-ii-demo
@@ -643,6 +644,7 @@ VXVALVENERGYPB;VOX Power Burst;15;https://www.music-park.sk/produkt/kytarove-efe
 VXVALVENERGYSI;VOX Smooth Impact;10;https://www.music-park.sk/produkt/kytarove-efekty/3043/smooth-impact
 VXVALVENERGYTS;VOX Tone Sculptor;3;https://www.music-park.sk/produkt/kytarove-efekty/3044/tone-sculptor
 AGTONENYC;Aguilar Tone Hammer New York Skyline;0;https://www.music-park.sk/produkt/baskytarove-efekty/3045/tone-hammer-new-york-skyline
+AG240-012;Aguilar Caster set;0;https://www.music-park.sk/produkt/baskytarove-reproduktory/3046/caster-set
 MBC105102;Markbass Mini CMD 121P V;0;https://www.music-park.sk/produkt/baskytarova-komba/3051/mini-cmd-121p-v
 QL30.01661;Quik Lok RKSI/207-1;20;https://www.music-park.sk/produkt/nastrojove-kabely/3053/rksi-207-1
 QL30.01662;Quik Lok RKSI/207-3;5;https://www.music-park.sk/produkt/nastrojove-kabely/3054/rksi-207-3
@@ -722,7 +724,7 @@ EK06217265;EKO MIA A400E;2;https://www.music-park.sk/produkt/akusticke-kytary/31
 EK06217266;EKO MIA A400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3135/mia-a400ce
 EK06217263;EKO MIA D400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3136/mia-d400ce
 GLFDCOM-HNB-MP;G&L USA Fullerton Deluxe Comanche - Honeyburst MP;0;https://www.music-park.sk/produkt/elektricke-kytary/3137/usa-fullerton-deluxe-comanche-honeyburst-mp
-KRMULTIPOLY;KORG Multi/Poly;15;https://www.music-park.sk/produkt/digitalni-syntezatory/3138/multi-poly
+KRMULTIPOLY;KORG Multi/Poly;10;https://www.music-park.sk/produkt/digitalni-syntezatory/3138/multi-poly
 KRPC400PB;KORG PC-400-PB;0;https://www.music-park.sk/produkt/stolicky-a-lavice/3139/pc-400-pb
 VXAC10C1TTBC;VOX AC10C1 TTBC;0;https://www.music-park.sk/produkt/kytarova-komba/3140/ac10c1-ttbc
 VXAC15C1TTBC;VOX AC15C1 TTBC;0;https://www.music-park.sk/produkt/kytarova-komba/3141/ac15c1-ttbc
@@ -1397,10 +1399,11 @@ SASD1465MAMTC;Sakae SD1465MA/M-TC;1;https://www.music-park.sk/produkt/snare-bubi
 SASD1465MAMRB;Sakae SD1465MA/M-RB;1;https://www.music-park.sk/produkt/snare-bubinky/2032/sd1465ma-m-rb
 SASD1465MAMDY;Sakae SD1465MA/M-DRY;1;https://www.music-park.sk/produkt/snare-bubinky/2033/sd1465ma-m-dry
 SASD1455MAMLG;Sakae SD1455MA/M-LG;1;https://www.music-park.sk/produkt/snare-bubinky/2034/sd1455ma-m-lg
+AG240-053S;Aguilar SL Corner Set;0;https://www.music-park.sk/produkt/baskytarove-reproduktory/2035/sl-corner-set
 SASDM1465PBJ;Sakae SDM1465/PBJ;0;https://www.music-park.sk/produkt/snare-bubinky/2037/sdm1465-pbj
 SASD1455WNJ;Sakae SD1455/WNJ;0;https://www.music-park.sk/produkt/snare-bubinky/2038/sd1455-wnj
 SASD1465WNJ;Sakae SD1465/WNJ;0;https://www.music-park.sk/produkt/snare-bubinky/2039/sd1465-wnj
-AG4P51;Aguilar AG 4P-51;1;https://www.music-park.sk/produkt/baskytarove-snimace/2040/ag-4p-51
+AG4P51;Aguilar AG 4P-51;0;https://www.music-park.sk/produkt/baskytarove-snimace/2040/ag-4p-51
 KRSV288S;KORG SV2-88S;1;https://www.music-park.sk/produkt/stage-piana/2041/sv2-88s
 KRSV273S;KORG SV2-73S;0;https://www.music-park.sk/produkt/stage-piana/2042/sv2-73s
 KRSV288;KORG SV2-88;5;https://www.music-park.sk/produkt/stage-piana/2043/sv2-88
@@ -1501,7 +1504,7 @@ VXAGA70;VOX AGA70;0;https://www.music-park.sk/produkt/kytarova-komba/756/aga70
 VXAV15;VOX AV15;0;https://www.music-park.sk/produkt/kytarova-komba/757/av15
 VXAV30;VOX AV30;0;https://www.music-park.sk/produkt/kytarova-komba/758/av30
 VXAV60;VOX AV60;0;https://www.music-park.sk/produkt/kytarova-komba/759/av60
-VXBC108;VOX BC108;0;https://www.music-park.sk/produkt/kytarove-reproboxy/760/bc108
+VXBC108;VOX BC108;1;https://www.music-park.sk/produkt/kytarove-reproboxy/760/bc108
 VXBC112;VOX BC112;0;https://www.music-park.sk/produkt/kytarove-reproboxy/761/bc112
 VXBC112150;VOX BC-112-150;0;https://www.music-park.sk/produkt/kytarove-reproboxy/762/bc-112-150
 VXMINI3G2BK;VOX MINI3 G2-BK;0;https://www.music-park.sk/produkt/kytarova-komba/772/mini3-g2-bk

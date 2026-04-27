@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BrandCard from '../../components/BrandCard.astro';
+import OwnershipBadge from '../../components/OwnershipBadge.astro';
+import { categories } from '../../data/categories';
+
+export async function getStaticPaths() {
+  const allBrands = await getCollection('brands');
+  return categories.map((category) => {
+    const brandsInCat = allBrands
+      .filter((b) => b.data.category === category.slug)
+      .sort((a, b) => a.data.name.localeCompare(b.data.name, 'sk'));
+    return {
+      params: { slug: category.slug },
+      props: { category, brands: brandsInCat },
+    };
+  });
+}
+
+const { category, brands } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+<BaseLayout
+  title={category.name}
+  description={`${category.name}: ${category.description} Prehľad slovenských značiek a ich pôvodu.`}
+>
+  <section class="page-head">
+    <div class="container">
+      <a class="page-head__back" href={base}>← Všetky kategórie</a>
+      <h1>
+        <span aria-hidden="true">{category.emoji}</span> {category.name}
+      </h1>
+      <p class="page-head__lead">{category.description}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      {brands.length === 0 ? (
+        <div class="empty">
+          <p style="margin:0 0 0.75rem;font-weight:500;color:var(--color-text);">
+            V tejto kategórii ešte nie sú zaradené žiadne značky.
+          </p>
+          <p style="margin:0;">
+            Poznáš slovenskú značku, ktorá by tu nemala chýbať?{' '}
+            <a href="mailto:navrh@slovenskevregali.sk?subject=Navrhujem%20zna%C4%8Dku">
+              Daj nám vedieť
+            </a>.
+          </p>
+        </div>
+      ) : (
+        <>
+          <div style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:1.5rem;">
+            <OwnershipBadge ownership="slovak" showFull={true} />
+            <OwnershipBadge ownership="made-in-sk-foreign-owned" showFull={true} />
+            <OwnershipBadge ownership="slovak-brand-made-abroad" showFull={true} />
+          </div>
+          <div class="brand-grid">
+            {brands.map((brand) => <BrandCard brand={brand} />)}
+          </div>
+        </>
+      )}
+    </div>
+  </section>
+</BaseLayout>

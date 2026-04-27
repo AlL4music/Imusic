@@ -1,0 +1,57 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import OwnershipBadge from './OwnershipBadge.astro';
+
+export interface Props {
+  brand: CollectionEntry<'brands'>;
+}
+
+const { brand } = Astro.props;
+const { data, body } = brand;
+const base = import.meta.env.BASE_URL;
+
+const logoSrc = data.logo
+  ? data.logo.startsWith('http')
+    ? data.logo
+    : `${base}${data.logo.replace(/^\//, '')}`
+  : null;
+
+const initials = data.name
+  .split(/\s+/)
+  .map((w) => w[0])
+  .join('')
+  .slice(0, 2)
+  .toUpperCase();
+
+const blurb = body?.trim() ?? '';
+
+const metaParts: string[] = [];
+if (data.region) metaParts.push(data.region);
+if (data.founded) metaParts.push(`od ${data.founded}`);
+const meta = metaParts.join(' · ');
+---
+<article class="brand-card">
+  <div class="brand-card__head">
+    <div class="brand-card__logo" aria-hidden="true">
+      {logoSrc ? <img src={logoSrc} alt="" loading="lazy" /> : <span>{initials}</span>}
+    </div>
+    <div>
+      <h3 class="brand-card__name">{data.name}</h3>
+      {meta && <div class="brand-card__meta">{meta}</div>}
+    </div>
+  </div>
+  {blurb && <p class="brand-card__blurb">{blurb}</p>}
+  <div class="brand-card__foot">
+    <OwnershipBadge ownership={data.ownership} />
+    {data.website && (
+      <a
+        class="brand-card__website"
+        href={data.website}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Web ↗
+      </a>
+    )}
+  </div>
+</article>

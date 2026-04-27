@@ -1,0 +1,153 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import OwnershipBadge from '../components/OwnershipBadge.astro';
+---
+<BaseLayout
+  title="Ako čítať etiketu"
+  description="Sprievodca: ako rozlíšiť slovenskú značku, slovenského vlastníka a výrobu na Slovensku. Krajina pôvodu, EAN 858 a značka kvality SK."
+>
+  <section class="page-head">
+    <div class="container">
+      <h1>Ako čítať etiketu</h1>
+      <p class="page-head__lead">
+        Krátky sprievodca, ktorý ti pomôže rozlíšiť slovenskú značku, slovenského vlastníka a
+        výrobu na Slovensku. Tri veci, ktoré sa často zamieňajú.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container prose">
+      <h2>Slovenská značka, slovenský vlastník a vyrobené na Slovensku — čo je čo?</h2>
+      <p>
+        V bežnej reči sa „slovenský výrobok" používa pre čokoľvek, čo nejako súvisí so
+        Slovenskom. V skutočnosti tu treba rozlíšiť tri samostatné veci:
+      </p>
+
+      <div class="legend">
+        <div class="legend__item">
+          <OwnershipBadge ownership="slovak" showFull={true} size="lg" />
+          <p>
+            Značka vznikla na Slovensku, vlastní ju slovenská firma a výroba prebieha na
+            Slovensku. Najsilnejšia kombinácia z hľadiska podpory domácej ekonomiky.
+          </p>
+        </div>
+        <div class="legend__item">
+          <OwnershipBadge ownership="made-in-sk-foreign-owned" showFull={true} size="lg" />
+          <p>
+            Výrobok je z fabriky na Slovensku, no značka aj zisk patria zahraničnému
+            vlastníkovi. Ide často o veľké tradičné značky, ktoré boli predané po roku 1989.
+          </p>
+        </div>
+        <div class="legend__item">
+          <OwnershipBadge ownership="slovak-brand-made-abroad" showFull={true} size="lg" />
+          <p>
+            Slovenský majiteľ aj značka, no výroba prebieha v zahraničí. Bežné napríklad pri
+            cestovinách, koreniach alebo cukrovinkách objednaných u zahraničného výrobcu.
+          </p>
+        </div>
+      </div>
+
+      <h2>Čo si všímať na obale</h2>
+
+      <h3>1. Krajina pôvodu vs. „Vyrobené v SR"</h3>
+      <p>
+        Najjednoznačnejšia je formulácia <strong>„Vyrobené v SR"</strong> alebo
+        <strong>„Vyrobené na Slovensku"</strong>. Naopak <strong>„Krajina pôvodu"</strong>
+        sa pri spracovaných potravinách niekedy vzťahuje len na hlavnú surovinu, nie na celý
+        výrobok.
+      </p>
+      <p>
+        Pozor na slovné formulácie ako <em>„Vyrobené pre …"</em>,
+        <em>„Distribútor: …"</em> alebo <em>„Plnené v SR"</em>. Tie samy o sebe
+        nehovoria, kde produkt naozaj vznikol — distribútor v Bratislave môže
+        rozvážať tovar vyrobený v Poľsku alebo v Nemecku.
+      </p>
+
+      <div class="example">
+        <div class="example__label">Príklad porovnania</div>
+        <div class="example__row">
+          <div class="example__col">
+            <strong>Vyrobené v SR</strong>
+            <small>Výroba prebehla na Slovensku.</small>
+          </div>
+          <div class="example__col">
+            <strong>Krajina pôvodu: SK</strong>
+            <small>Môže označovať len hlavnú surovinu (napr. mlieko).</small>
+          </div>
+          <div class="example__col">
+            <strong>Distribútor: SK</strong>
+            <small>O výrobe to nehovorí nič — tovar mohol prísť odkiaľkoľvek.</small>
+          </div>
+        </div>
+      </div>
+
+      <h3>2. Čiarový kód s prefixom 858</h3>
+      <p>
+        Prvé tri číslice EAN kódu označujú krajinu, v ktorej si firma kód
+        zaregistrovala. Slovensku je pridelený prefix <code>858</code>. To však
+        <strong>neznamená</strong>, že produkt bol vyrobený alebo vyvinutý na Slovensku — len
+        že firma, ktorá kód spravuje, má sídlo v SR. Veľká slovenská distribučná firma môže
+        pod kódom 858 predávať tovar dovezený z celého sveta a naopak slovenský výrobca
+        predávajúci do zahraničia môže používať iný prefix.
+      </p>
+      <blockquote>
+        EAN 858 = registrované v SR. Nie automaticky = vyrobené v SR.
+      </blockquote>
+
+      <h3>3. Značka kvality SK</h3>
+      <p>
+        Logo <strong>„Značka kvality SK"</strong> udeľuje Ministerstvo
+        pôdohospodárstva. Aby ho výrobok získal, musí spĺňať podmienky napríklad ohľadom
+        pôvodu hlavných surovín a miesta spracovania na Slovensku. Je to silnejší signál
+        než sám nápis „slovenský výrobok", lebo je nezávisle preverený. Existuje aj prísnejší
+        variant <strong>„Značka kvality SK GOLD"</strong> pre prémiové výrobky a verzia
+        s logom <strong>„TOP"</strong> pre pravidelne ocenené značky.
+      </p>
+
+      <h3>4. Pasca privátnych značiek</h3>
+      <p>
+        Privátne značky reťazcov (Pilos v Lidli, K-Classic v Kauflande, Tesco Value, Billa
+        Clever a iné) sú obľúbené, lebo bývajú lacnejšie. Zákazník si často myslí, že keď je
+        značka „od Lidla", musí byť zo Slovenska. V skutočnosti reťazec u privátnej značky
+        objednáva výrobu u rôznych výrobcov a tí sa môžu pri tom istom rade meniť aj v rámci
+        jednej police.
+      </p>
+      <div class="example">
+        <div class="example__label">Príklad: Pilos (Lidl)</div>
+        <div class="example__row">
+          <div class="example__col">
+            <strong>Acidofilné mlieko Pilos</strong>
+            <small>Drobným textom: „Vyrobené v SR" (slovenská mliekareň).</small>
+          </div>
+          <div class="example__col">
+            <strong>Tavený syr Pilos</strong>
+            <small>Drobným textom: „Vyrobené v ČR" (český výrobca).</small>
+          </div>
+          <div class="example__col">
+            <strong>Záver</strong>
+            <small>
+              Rovnaký názov a logo, no pôvod sa líši. Vždy si všímaj malý text na zadnej strane
+              obalu — typicky pri údaji o výrobcovi alebo distribútorovi.
+            </small>
+          </div>
+        </div>
+      </div>
+
+      <h2>Stručná pomôcka pri nákupe</h2>
+      <ul>
+        <li>Hľadaj nápis <strong>„Vyrobené v SR / na Slovensku"</strong> — najjasnejší.</strong></li>
+        <li>Skontroluj výrobcu (nielen distribútora) na zadnej strane obalu.</li>
+        <li><strong>Značka kvality SK</strong> je silnejší signál ako vlastné tvrdenie značky.</li>
+        <li>EAN 858 ber len ako orientačný — neznamená automaticky slovenský pôvod.</li>
+        <li>Pri privátnych značkách reťazcov over <em>každý</em> produkt zvlášť.</li>
+      </ul>
+
+      <p>
+        Ak nájdeš na obale niečo, čo do tohto sprievodcu nezapadá, alebo si nie si istý,
+        ozvi sa nám —
+        <a href="mailto:navrh@slovenskevregali.sk?subject=Pripomienka">napíš email</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL;
+---
+<BaseLayout title="Stránka sa nenašla" description="Hľadaná stránka neexistuje.">
+  <section class="page-head">
+    <div class="container">
+      <h1>Tu nič nie je</h1>
+      <p class="page-head__lead">
+        Stránka, ktorú hľadáš, neexistuje alebo sme ju presunuli. Skús sa vrátiť na
+        <a href={base}>úvodnú stránku</a> a začať znova.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

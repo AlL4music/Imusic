@@ -1,0 +1,28 @@
+---
+import type { Category } from '../data/categories';
+
+export interface Props {
+  category: Category;
+  count?: number;
+}
+
+const { category, count } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const href = `${base}kategoria/${category.slug}`;
+
+const pluralBrand = (n: number): string => {
+  if (n === 1) return 'značka';
+  if (n >= 2 && n <= 4) return 'značky';
+  return 'značiek';
+};
+---
+<a class="cat-card" href={href}>
+  <div class="cat-card__emoji" aria-hidden="true">{category.emoji}</div>
+  <div class="cat-card__name">{category.name}</div>
+  <div class="cat-card__desc">{category.description}</div>
+  {count !== undefined && (
+    <div class="cat-card__count">
+      {count} {pluralBrand(count)}
+    </div>
+  )}
+</a>

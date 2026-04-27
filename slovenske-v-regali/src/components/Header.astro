@@ -1,0 +1,25 @@
+---
+const base = import.meta.env.BASE_URL;
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const link = (p: string) => (p === '/' ? base : `${base}${p.replace(/^\//, '')}`);
+const isActive = (p: string) => {
+  const href = link(p).replace(/\/$/, '') || '/';
+  return path === href || (p !== '/' && path.startsWith(href));
+};
+---
+<header class="site-header">
+  <div class="tricolor" aria-hidden="true">
+    <span></span><span></span><span></span>
+  </div>
+  <div class="container site-header__inner">
+    <a class="brand" href={link('/')} aria-label="Slovenské v regáli – domov">
+      <span class="brand__mark" aria-hidden="true"></span>
+      <span>Slovenské v regáli</span>
+    </a>
+    <nav class="nav" aria-label="Hlavné menu">
+      <a href={link('/')} aria-current={isActive('/') && path === (base.replace(/\/$/, '') || '/') ? 'page' : undefined}>Kategórie</a>
+      <a href={link('/ako-citat-etiketu')} aria-current={isActive('/ako-citat-etiketu') ? 'page' : undefined}>Ako čítať etiketu</a>
+      <a href={link('/o-projekte')} aria-current={isActive('/o-projekte') ? 'page' : undefined}>O projekte</a>
+    </nav>
+  </div>
+</header>

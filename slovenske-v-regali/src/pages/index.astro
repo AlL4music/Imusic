@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import { categories } from '../data/categories';
+
+const brands = await getCollection('brands');
+const countByCategory = new Map<string, number>();
+for (const b of brands) {
+  countByCategory.set(b.data.category, (countByCategory.get(b.data.category) ?? 0) + 1);
+}
+
+const base = import.meta.env.BASE_URL;
+---
+<BaseLayout
+  title="Slovenské v regáli"
+  description="Spoznaj slovenské značky vo svojom obchode. Prehľad slovenských potravinárskych a drogistických značiek podľa kategórií."
+>
+  <section class="hero">
+    <div class="container">
+      <span class="hero__eyebrow">Sprievodca slovenskými značkami</span>
+      <h1>Spoznaj slovenské značky vo svojom obchode</h1>
+      <p class="lead">
+        Keď stojíš v regáli, nie vždy je jasné, čo je naozaj slovenské. Zostavili sme prehľad
+        značiek po kategóriách – mliečne výrobky, pekáreň, nápoje, sladkosti aj drogéria – aby si
+        vedel, kto je domáci výrobca, kto má slovenskú značku v zahraničných rukách a kto sa
+        len tvári domácky.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section__head">
+        <h2>Kategórie</h2>
+        <p>Vyber si oblasť obchodu, ktorá ťa zaujíma.</p>
+      </div>
+      <div class="cat-grid">
+        {categories.map((c) => (
+          <CategoryCard category={c} count={countByCategory.get(c.slug) ?? 0} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="teaser">
+        <div>
+          <h2 class="teaser__title">Ako sa vyznať v etikete?</h2>
+          <p class="teaser__text">
+            „Slovenská značka", „slovenský vlastník" a „vyrobené na Slovensku" nie sú to isté.
+            Pozri si krátky sprievodca, ktorý ti ukáže, čo si všímať na obale.
+          </p>
+        </div>
+        <a class="btn" href={`${base}ako-citat-etiketu`}>Prečítať sprievodcu →</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

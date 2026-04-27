@@ -1,0 +1,78 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL;
+---
+<BaseLayout
+  title="O projekte"
+  description="Slovenské v regáli je otvorený projekt, ktorý mapuje slovenské značky a ich pôvod. Komu patria, kde sa vyrábajú a čo skutočne znamená nápis „slovenský výrobok“."
+>
+  <section class="page-head">
+    <div class="container">
+      <h1>O projekte</h1>
+      <p class="page-head__lead">
+        Slovenské v regáli je nezávislá databáza značiek, ktoré stretneš v slovenských
+        obchodoch. Pomáha rozlíšiť, čo je naozaj slovenské a čo iba vyzerá.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container prose">
+      <h2>Prečo to robíme</h2>
+      <p>
+        Mnohí ľudia chcú podporiť domácich výrobcov, no nákupný regál nie je
+        jednoduchý: niektoré tradičné slovenské značky sú dnes v zahraničných rukách,
+        iné sa síce vyrábajú v Bratislave, ale zisk smeruje do nadnárodnej skupiny.
+        A naopak, niektoré ozajstne slovenské firmy si nechávajú časť produkcie šiť
+        v Česku alebo v Poľsku.
+      </p>
+      <p>
+        Cieľom projektu je dať nákupnému rozhodovaniu jasnejšie kontúry — bez
+        ideológie, bez krikľavého patriotizmu, len triezve fakty: kto vlastní značku,
+        kde sa vyrába a aký je jej pôvod.
+      </p>
+
+      <h2>Ako to čítať</h2>
+      <p>
+        Každú značku radíme do jednej z troch kategórií podľa pôvodu a výroby.
+        Detailný rozdiel medzi nimi vysvetľujeme v sekcii
+        <a href={`${base}ako-citat-etiketu`}>Ako čítať etiketu</a>.
+      </p>
+
+      <h2>Ako prispieť</h2>
+      <p>Sú dva spôsoby:</p>
+      <ul>
+        <li>
+          <strong>Navrhni značku.</strong> Ak ti tu niečo chýba, pošli nám tip na
+          <a href="mailto:navrh@slovenskevregali.sk?subject=Navrhujem%20zna%C4%8Dku">
+            navrh@slovenskevregali.sk
+          </a>. Ideálne s odkazom na výrobcu a stručným popisom.
+        </li>
+        <li>
+          <strong>Nahlás opravu.</strong> Vlastníctvo firiem sa mení, výroba sa
+          presúva. Ak narazíš na nepresnosť, daj vedieť na
+          <a href="mailto:oprava@slovenskevregali.sk?subject=Oprava%20%C3%BAdaja">
+            oprava@slovenskevregali.sk
+          </a>.
+        </li>
+      </ul>
+
+      <h2>Zdroje</h2>
+      <p>
+        Údaje overujeme v obchodnom registri SR, na webových stránkach výrobcov,
+        v tlačových správach a — keď to nejde inak — priamo na obale výrobku v predajni.
+        Snažíme sa o presnosť, no ide o dobrovoľnú prácu, takže chyba sa môže prikradnúť.
+        Vždy si over informáciu priamo na obale, najmä ak je rozhodujúca pre tvoje
+        rozhodnutie.
+      </p>
+
+      <h2>Kontakt</h2>
+      <p>
+        Akékoľvek otázky:
+        <a href="mailto:ahoj@slovenskevregali.sk?subject=Slovensk%C3%A9%20v%20reg%C3%A1li">
+          ahoj@slovenskevregali.sk
+        </a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

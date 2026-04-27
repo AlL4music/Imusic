@@ -1,0 +1,20 @@
+---
+import { OWNERSHIP, type OwnershipKey } from '../data/ownership';
+
+export interface Props {
+  ownership: OwnershipKey;
+  size?: 'sm' | 'lg';
+  showFull?: boolean;
+}
+
+const { ownership, size = 'sm', showFull = false } = Astro.props;
+const info = OWNERSHIP[ownership];
+const label = showFull ? info.label : info.short;
+---
+<span
+  class={`badge ${info.className}${size === 'lg' ? ' badge--lg' : ''}`}
+  title={info.label}
+>
+  <span aria-hidden="true">{info.emoji}</span>
+  <span>{label}</span>
+</span>

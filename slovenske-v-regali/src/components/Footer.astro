@@ -1,0 +1,42 @@
+---
+const base = import.meta.env.BASE_URL;
+const link = (p: string) => (p === '/' ? base : `${base}${p.replace(/^\//, '')}`);
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div>
+      <h4>Slovenské v regáli</h4>
+      <p>
+        Otvorený projekt, ktorý mapuje slovenské značky v obchodoch.
+        Pomáha rozlíšiť pôvod, vlastníctvo a miesto výroby.
+      </p>
+    </div>
+    <div>
+      <h4>Stránky</h4>
+      <ul>
+        <li><a href={link('/')}>Kategórie</a></li>
+        <li><a href={link('/ako-citat-etiketu')}>Ako čítať etiketu</a></li>
+        <li><a href={link('/o-projekte')}>O projekte</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Prispej</h4>
+      <ul>
+        <li>
+          <a href="mailto:navrh@slovenskevregali.sk?subject=Navrhujem%20zna%C4%8Dku">
+            Navrhni značku
+          </a>
+        </li>
+        <li>
+          <a href="mailto:oprava@slovenskevregali.sk?subject=Oprava%20%C3%BAdaja">
+            Nahlás opravu
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="container" style="margin-top:1.5rem;font-size:0.8rem;">
+    © {year} Slovenské v regáli. Údaje sú orientačné, vždy si over informácie priamo na obale výrobku.
+  </div>
+</footer>

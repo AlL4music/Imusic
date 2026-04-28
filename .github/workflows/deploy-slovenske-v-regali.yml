@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/slovak-brands-website-M8Qjm
     paths:
       - 'slovenske-v-regali/**'
       - '.github/workflows/deploy-slovenske-v-regali.yml'

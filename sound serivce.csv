@@ -2129,12 +2129,12 @@
 20024090,LTD,[B-Stock] LTD EC-400 QM SEE THRU BLACK SUNBURST EC Series Guitars,0,599,719710629066,"2026-05-28 00:00:00",0
 10024091,LTD,LTD EC-400 QM VINTAGE BURST EC Series Guitars,0,"599.00",719710629073,"2026-06-28 00:00:00",0
 20024091,LTD,[B-Stock] LTD EC-400 QM VINTAGE BURST EC Series Guitars,0,599,719710629073,"2026-06-28 00:00:00",0
-10024092,LTD,LTD M-400HT CHARCOAL METALLIC M Series Guitars,0,"599.00",,"2026-06-28 00:00:00",0
-20024092,LTD,[B-Stock] LTD M-400HT CHARCOAL METALLIC M Series Guitars,0,599,,"2026-06-28 00:00:00",0
-10024093,LTD,LTD M-400HT SCARLET METALLIC M Series Guitars,1,"599.00",719710629158,,0
-20024093,LTD,[B-Stock] LTD M-400HT SCARLET METALLIC M Series Guitars,0,599,719710629158,,0
-10024094,LTD,LTD MH-400HT QM SEE THRU BLACK SUNBURST MH Series Guitars,1,"599.00",,,0
-20024094,LTD,[B-Stock] LTD MH-400HT QM SEE THRU BLACK SUNBURST MH Series Guitars,0,599,,,0
+10024092,LTD,LTD M-400HT CHARCOAL METALLIC M Series Guitars,0,"599.00",719710629141,"2026-06-28 00:00:00",0
+20024092,LTD,[B-Stock] LTD M-400HT CHARCOAL METALLIC M Series Guitars,0,599,719710629141,"2026-06-28 00:00:00",0
+10024093,LTD,LTD M-400HT SCARLET METALLIC M Series Guitars,0,"599.00",719710629158,"2026-05-28 00:00:00",0
+20024093,LTD,[B-Stock] LTD M-400HT SCARLET METALLIC M Series Guitars,0,599,719710629158,"2026-05-28 00:00:00",0
+10024094,LTD,LTD MH-400HT QM SEE THRU BLACK SUNBURST MH Series Guitars,1,"599.00",719710629196,,0
+20024094,LTD,[B-Stock] LTD MH-400HT QM SEE THRU BLACK SUNBURST MH Series Guitars,0,599,719710629196,,0
 10024095,LTD,LTD MH-400 SNOW WHITE EMG MH Series Guitars,0,"599.00",719710629202,"2026-06-28 00:00:00",0
 20024095,LTD,[B-Stock] LTD MH-400 SNOW WHITE EMG MH Series Guitars,0,599,719710629202,"2026-06-28 00:00:00",0
 10024096,LTD,LTD TH-400 CHARCOAL METALLIC TH Series Guitars,1,"599.00",719710629288,,0
@@ -2207,16 +2207,16 @@
 20007093,Zoom,[B-Stock] Zoom H8 Handy Recorder,0,269,4515260023073,,0
 10007197,Zoom,Zoom TPS-4 Tripod Stand for Microphones,1,"10.00",4515260023820,,0
 20007197,Zoom,[B-Stock] Zoom TPS-4 Tripod Stand for Microphones,0,10,4515260023820,,0
-10007202,Zoom,Zoom ZDM-1PMP Podcast Mic Pack,0,"76.00",4515260023783,"2026-04-30 00:00:00",0
-20007202,Zoom,[B-Stock] Zoom ZDM-1PMP Podcast Mic Pack,0,76,4515260023783,"2026-04-30 00:00:00",0
-10002248,Zoom,Zoom AD-17E (EU) AC Adapter USB - DC5V,0,"9.00",4515260016624,"2026-04-30 00:00:00",0
-20002248,Zoom,[B-Stock] Zoom AD-17E (EU) AC Adapter USB - DC5V,0,9,4515260016624,"2026-04-30 00:00:00",0
+10007202,Zoom,Zoom ZDM-1PMP Podcast Mic Pack,1,"76.00",4515260023783,,0
+20007202,Zoom,[B-Stock] Zoom ZDM-1PMP Podcast Mic Pack,0,76,4515260023783,,0
+10002248,Zoom,Zoom AD-17E (EU) AC Adapter USB - DC5V,0,"9.00",4515260016624,"2026-05-30 00:00:00",0
+20002248,Zoom,[B-Stock] Zoom AD-17E (EU) AC Adapter USB - DC5V,0,9,4515260016624,"2026-05-30 00:00:00",0
 10002059,Zoom,Zoom AD-16F (UK) AC Adapter DC 9 V / 500 mA,1,"14.00",4515260008759,,0
 20002059,Zoom,[B-Stock] Zoom AD-16F (UK) AC Adapter DC 9 V / 500 mA,0,14,4515260008759,,0
 10004714,Zoom,Zoom B1 FOUR (EU/UK) Bass Multi-Effects Pedal,1,"69.00",4515260020621,,0
 20004714,Zoom,[B-Stock] Zoom B1 FOUR (EU/UK) Bass Multi-Effects Pedal,0,69,4515260020621,,0
-10004762,Zoom,Zoom F6 MultiTrack Field Recorder,0,"446.00",4515260020829,"2026-04-30 00:00:00",0
-20004762,Zoom,[B-Stock] Zoom F6 MultiTrack Field Recorder,0,446,4515260020829,"2026-04-30 00:00:00",0
+10004762,Zoom,Zoom F6 MultiTrack Field Recorder,1,"446.00",4515260020829,,0
+20004762,Zoom,[B-Stock] Zoom F6 MultiTrack Field Recorder,0,446,4515260020829,,0
 10004716,Zoom,Zoom B1X FOUR Bass Multi-Effects Pedal,1,"82.00",4515260020720,,0
 20004716,Zoom,[B-Stock] Zoom B1X FOUR Bass Multi-Effects Pedal,1,73.8,4515260020720,,0
 10004725,Zoom,Zoom BCF-1 Belt Clip for F1,1,"5.50",4515260019120,,1
@@ -2249,8 +2249,8 @@
 20004769,Zoom,[B-Stock] Zoom FP02M Expression Pedal,0,41,4515260011445,,0
 10004805,Zoom,Zoom H1 Battery Cover,1,"5.04",,,1
 20004805,Zoom,[B-Stock] Zoom H1 Battery Cover,0,5.04,,,1
-10005658,Zoom,Zoom H5 Handy Recorder,0,"159.00",4515260013210,"2026-04-30 00:00:00",0
-20005658,Zoom,[B-Stock] Zoom H5 Handy Recorder,0,159,4515260013210,"2026-04-30 00:00:00",0
+10005658,Zoom,Zoom H5 Handy Recorder,0,"159.00",4515260013210,"2026-07-30 00:00:00",0
+20005658,Zoom,[B-Stock] Zoom H5 Handy Recorder,0,159,4515260013210,"2026-07-30 00:00:00",0
 10005661,Zoom,Zoom H5 Packing Case SP03790,1,"4.14",,,0
 20005661,Zoom,[B-Stock] Zoom H5 Packing Case SP03790,0,4.14,,,0
 10005663,Zoom,Zoom H6 Battery Cover blk,1,"4.14",,,1
@@ -2287,8 +2287,8 @@
 20006832,Zoom,[B-Stock] Zoom TXF-8 TA3 to XLR Cable for F8/F8n,0,41,4515260019397,,0
 10006846,Zoom,Zoom WSS-6 Foam Windscreen for SGH-6 and SSH-6,1,"7.90",4515260019267,,0
 20006846,Zoom,[B-Stock] Zoom WSS-6 Foam Windscreen for SGH-6 and SSH-6,0,7.9,4515260019267,,0
-10007198,Zoom,"Zoom TPS-5 Tripod Stand with a ¼"" thread",0,"13.00",4515260023950,"2026-04-30 00:00:00",0
-20007198,Zoom,"[B-Stock] Zoom TPS-5 Tripod Stand with a ¼"" thread",0,13,4515260023950,"2026-04-30 00:00:00",0
+10007198,Zoom,"Zoom TPS-5 Tripod Stand with a ¼"" thread",0,"13.00",4515260023950,"2026-05-30 00:00:00",0
+20007198,Zoom,"[B-Stock] Zoom TPS-5 Tripod Stand with a ¼"" thread",0,13,4515260023950,"2026-05-30 00:00:00",0
 10007199,Zoom,Zoom V3 Vocal Processor,1,"159.00",4515260023356,,0
 20007199,Zoom,[B-Stock] Zoom V3 Vocal Processor,0,159,4515260023356,,0
 10007262,Zoom,Zoom APQ-2n Soft Case,1,"25.00",4515260017577,,1
@@ -2465,8 +2465,8 @@
 20009746,Zoom,[B-Stock] Zoom F8nPro MultiTrack Field Recorder,0,699,4515260026128,,0
 10009891,Zoom,Zoom ZMA-1 Broadcast Mic Arm,1,"48.00",4515260026166,,0
 20009891,Zoom,[B-Stock] Zoom ZMA-1 Broadcast Mic Arm,0,48,4515260026166,,0
-10010040,Zoom,Zoom AMS-22 Audio Interface for Music & Streaming,0,"59.00",4515260025916,"2026-04-30 00:00:00",0
-20010040,Zoom,[B-Stock] Zoom AMS-22 Audio Interface for Music & Streaming,1,53.1,4515260025916,"2026-04-30 00:00:00",0
+10010040,Zoom,Zoom AMS-22 Audio Interface for Music & Streaming,0,"59.00",4515260025916,"2026-06-30 00:00:00",0
+20010040,Zoom,[B-Stock] Zoom AMS-22 Audio Interface for Music & Streaming,1,53.1,4515260025916,"2026-06-30 00:00:00",0
 10010041,Zoom,Zoom AMS-24 Audio Interface for Music & Streaming,1,"89.00",4515260025947,,0
 20010041,Zoom,[B-Stock] Zoom AMS-24 Audio Interface for Music & Streaming,0,89,4515260025947,,0
 10009888,Zoom,Zoom F3 MultiTrack Field Recorder,1,"235.00",4515260026005,,0
@@ -2495,8 +2495,8 @@
 20011453,Zoom,[B-Stock] Zoom ZSG-1 Camera Shotgun Microphone,0,57,4515260029419,,0
 10012070,Zoom,Zoom MS-200D+ Multistomp Drive Guitar Pedal,1,"82.00",4515260029570,,0
 20012070,Zoom,[B-Stock] Zoom MS-200D+ Multistomp Drive Guitar Pedal,0,82,4515260029570,,0
-10011602,Zoom,Zoom G1X FOUR Guitar Multi-Effects Pedal,0,"82.00",4515260020287,"2026-04-30 00:00:00",0
-20011602,Zoom,[B-Stock] Zoom G1X FOUR Guitar Multi-Effects Pedal,0,82,4515260020287,"2026-04-30 00:00:00",0
+10011602,Zoom,Zoom G1X FOUR Guitar Multi-Effects Pedal,0,"82.00",4515260020287,"2026-05-30 00:00:00",0
+20011602,Zoom,[B-Stock] Zoom G1X FOUR Guitar Multi-Effects Pedal,0,82,4515260020287,"2026-05-30 00:00:00",0
 10010895,Zoom,Zoom G2X FOUR (UK) Guitar Multi-Effects Pedal,1,"116.00",4515260027941,,0
 20010895,Zoom,[B-Stock] Zoom G2X FOUR (UK) Guitar Multi-Effects Pedal,0,116,4515260027941,,0
 10010928,Zoom,Zoom R12 MultiTrak (UK) Multi Track Recorder,0,"216.00",4515260027965,"2026-07-25 00:00:00",0
@@ -2521,12 +2521,12 @@
 20012262,Zoom,[B-Stock] Zoom APH-1e (EU) Accessory Pack for H1essential,0,28,4515260029709,"2026-05-30 00:00:00",0
 10012335,Zoom,Zoom APH-6e (UK) Accessory Pack for H6essential,0,"39.00",4515260029839,"2026-07-25 00:00:00",0
 20012335,Zoom,[B-Stock] Zoom APH-6e (UK) Accessory Pack for H6essential,0,39,4515260029839,"2026-07-25 00:00:00",0
-10012617,Zoom,Zoom H2essential Multi-Mic Handy Recorder,1,"129.00",4515260029884,,0
-20012617,Zoom,[B-Stock] Zoom H2essential Multi-Mic Handy Recorder,0,129,4515260029884,,0
+10012617,Zoom,Zoom H2essential Multi-Mic Handy Recorder,0,"129.00",4515260029884,"2026-05-30 00:00:00",0
+20012617,Zoom,[B-Stock] Zoom H2essential Multi-Mic Handy Recorder,0,129,4515260029884,"2026-05-30 00:00:00",0
 10011601,Zoom,Zoom G1 FOUR Guitar Multi-Effects Pedal,1,"69.00",4515260020188,,0
 20011601,Zoom,[B-Stock] Zoom G1 FOUR Guitar Multi-Effects Pedal,0,69,4515260020188,,0
-10011846,Zoom,Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,"109.00",4515260029273,"2026-04-30 00:00:00",0
-20011846,Zoom,[B-Stock] Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,109,4515260029273,"2026-04-30 00:00:00",0
+10011846,Zoom,Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,"109.00",4515260029273,"2026-05-30 00:00:00",0
+20011846,Zoom,[B-Stock] Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,109,4515260029273,"2026-05-30 00:00:00",0
 10012929,Zoom,"Zoom ZDM-1, ZUM-2 Mikrofonhalterung",1,"6.00",,,0
 20012929,Zoom,"[B-Stock] Zoom ZDM-1, ZUM-2 Mikrofonhalterung",0,6,,,0
 10013047,Zoom,Zoom H5studio Handy Recorder,1,"254.00",4515260030170,,0
@@ -2545,8 +2545,8 @@
 20013048,Zoom,[B-Stock] Zoom PodTrak P2 Podcast Recorder,0,76,4515260029945,,0
 10012069,Zoom,Zoom H6essential Handy Recorder,1,"229.00",4515260029204,,0
 20012069,Zoom,[B-Stock] Zoom H6essential Handy Recorder,0,229,4515260029204,,0
-10012264,Zoom,Zoom APH-4e (EU) Accessory Pack for H4essential,0,"42.00",4515260029754,"2026-04-30 00:00:00",0
-20012264,Zoom,[B-Stock] Zoom APH-4e (EU) Accessory Pack for H4essential,0,42,4515260029754,"2026-04-30 00:00:00",0
+10012264,Zoom,Zoom APH-4e (EU) Accessory Pack for H4essential,0,"42.00",4515260029754,"2026-05-30 00:00:00",0
+20012264,Zoom,[B-Stock] Zoom APH-4e (EU) Accessory Pack for H4essential,0,42,4515260029754,"2026-05-30 00:00:00",0
 10012334,Zoom,Zoom APH-4e (UK) Accessory Pack for H4essential,0,"42.00",4515260029785,"2026-07-25 00:00:00",0
 20012334,Zoom,[B-Stock] Zoom APH-4e (UK) Accessory Pack for H4essential,0,42,4515260029785,"2026-07-25 00:00:00",0
 10012622,Zoom,Zoom APH-2e (EU) Accessory Pack for H2essential,1,"32.00",4515260030125,,0
@@ -2563,12 +2563,12 @@
 20012263,Zoom,[B-Stock] Zoom APH-1e (UK) Accessory Pack for H1essential,0,28,4515260029730,"2026-07-25 00:00:00",0
 10012265,Zoom,Zoom APH-6e (EU) Accessory Pack for H6essential,1,"39.00",4515260029808,,0
 20012265,Zoom,[B-Stock] Zoom APH-6e (EU) Accessory Pack for H6essential,0,39,4515260029808,,0
-10012284,Zoom,Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,"95.00",4515260029358,"2026-04-30 00:00:00",0
-20012284,Zoom,[B-Stock] Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,95,4515260029358,"2026-04-30 00:00:00",0
+10012284,Zoom,Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,"95.00",4515260029358,"2026-05-30 00:00:00",0
+20012284,Zoom,[B-Stock] Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,95,4515260029358,"2026-05-30 00:00:00",0
 10012618,Zoom,Zoom LiveTrak L6 (EU) 10-Channel Mixer & Recorder,1,"239.00",4515260030163,,0
 20012618,Zoom,[B-Stock] Zoom LiveTrak L6 (EU) 10-Channel Mixer & Recorder,0,239,4515260030163,,0
-10023493,Zoom,Zoom H6studio Handy Recorder,0,"284.00",4515260030385,"2026-04-30 00:00:00",0
-20023493,Zoom,[B-Stock] Zoom H6studio Handy Recorder,0,284,4515260030385,"2026-04-30 00:00:00",0
+10023493,Zoom,Zoom H6studio Handy Recorder,0,"284.00",4515260030385,"2026-05-30 00:00:00",0
+20023493,Zoom,[B-Stock] Zoom H6studio Handy Recorder,0,284,4515260030385,"2026-05-30 00:00:00",0
 10023494,Zoom,Zoom LiveTrak L6max (EU) 12-Channel Mixer & Recorder,1,"294.00",4515260030071,,0
 20023494,Zoom,[B-Stock] Zoom LiveTrak L6max (EU) 12-Channel Mixer & Recorder,0,294,4515260030071,,0
 10022877,Zoom,Zoom APH-5s (EU) Accessory Pack for H5studio,1,"39.00",4515260030255,,0
@@ -2579,8 +2579,8 @@
 20023617,Zoom,[B-Stock] Zoom APH-6st (UK) Accessory Pack for H6studio,0,39,4515260030569,"2026-07-18 00:00:00",0
 10023495,Zoom,Zoom PodTrak P4next 4-Track Podcast Recorder,1,"129.00",4515260030392,,0
 20023495,Zoom,[B-Stock] Zoom PodTrak P4next 4-Track Podcast Recorder,0,129,4515260030392,,0
-10023562,Zoom,Zoom APH-6st (EU) Accessory Pack for H6studio,0,"39.00",4515260030538,"2026-04-30 00:00:00",0
-20023562,Zoom,[B-Stock] Zoom APH-6st (EU) Accessory Pack for H6studio,0,39,4515260030538,"2026-04-30 00:00:00",0
+10023562,Zoom,Zoom APH-6st (EU) Accessory Pack for H6studio,0,"39.00",4515260030538,"2026-05-30 00:00:00",0
+20023562,Zoom,[B-Stock] Zoom APH-6st (EU) Accessory Pack for H6studio,0,39,4515260030538,"2026-05-30 00:00:00",0
 10023496,Zoom,Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,0,"509.00",4515260030514,"2026-04-30 00:00:00",0
 20023496,Zoom,[B-Stock] Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,0,509,4515260030514,"2026-04-30 00:00:00",0
 10023616,Zoom,Zoom LiveTrak L12next (UK) Digital Mixer and Recorder,0,"509.00",4515260030507,"2026-07-18 00:00:00",0
@@ -4063,6 +4063,26 @@
 20024394,ESP USA,"[B-Stock] ESP USA ECLIPSE QM TESB FL BH Tiger Eye Sunburst, Fluence Modern Gold Set",0,5339,,"2026-09-28 00:00:00",0
 10024395,ESP USA,ESP USA M-II DX QM STBLKSB FL BH Fisman Modern Set,0,"5199.00",,"2026-09-28 00:00:00",0
 20024395,ESP USA,[B-Stock] ESP USA M-II DX QM STBLKSB FL BH Fisman Modern Set,0,5199,,"2026-09-28 00:00:00",0
+10024503,ESP USA,ESP USA HORIZON II QM BH AQSB SD Custom 14/ Alnico II Pro,0,"5199.00",,"2026-11-28 00:00:00",0
+20024503,ESP USA,[B-Stock] ESP USA HORIZON II QM BH AQSB SD Custom 14/ Alnico II Pro,0,5199,,"2026-11-28 00:00:00",0
+10024504,ESP USA,ESP USA V-II FR SAPPHIRE BLACK METALLIC BH EMG 81-X/ 85-X,0,"4799.00",,"2026-11-28 00:00:00",0
+20024504,ESP USA,[B-Stock] ESP USA V-II FR SAPPHIRE BLACK METALLIC BH EMG 81-X/ 85-X,0,4799,,"2026-11-28 00:00:00",0
+10024505,ESP USA,ESP USA M-II DX QM DLMB SD BH Custom 14 / Alnico II Pro - Open Black,0,"5069.00",,"2026-11-28 00:00:00",0
+20024505,ESP USA,[B-Stock] ESP USA M-II DX QM DLMB SD BH Custom 14 / Alnico II Pro - Open Black,0,5069,,"2026-11-28 00:00:00",0
+10024506,ESP USA,ESP USA M-II DX NT Cosmic Gumball EMG BH 81-X/ 85-X,0,"4654.00",,"2026-11-28 00:00:00",0
+20024506,ESP USA,[B-Stock] ESP USA M-II DX NT Cosmic Gumball EMG BH 81-X/ 85-X,0,4654,,"2026-11-28 00:00:00",0
+10024507,ESP USA,ESP USA ECLIPSE QM DLSB GH FL Fluence Modern 3-Voice Set - Gold,0,"5491.00",,"2026-11-28 00:00:00",0
+20024507,ESP USA,[B-Stock] ESP USA ECLIPSE QM DLSB GH FL Fluence Modern 3-Voice Set - Gold,0,5491,,"2026-11-28 00:00:00",0
+10024508,ESP USA,"ESP USA ECLIPSE QM STBLKCH SD BH Custom 14 / Alnico II Pro - Gold, Black Cherry",0,"5351.00",,"2026-11-28 00:00:00",0
+20024508,ESP USA,"[B-Stock] ESP USA ECLIPSE QM STBLKCH SD BH Custom 14 / Alnico II Pro - Gold, Black Cherry",0,5351,,"2026-11-28 00:00:00",0
+10024509,ESP USA,ESP USA HORIZON II FM STBLKCH FL BH Fluence Modern 3-Voice Set - Black Nickel,0,"4929.00",,"2026-11-28 00:00:00",0
+20024509,ESP USA,[B-Stock] ESP USA HORIZON II FM STBLKCH FL BH Fluence Modern 3-Voice Set - Black Nickel,0,4929,,"2026-11-28 00:00:00",0
+10024510,ESP USA,ESP USA M-II DX FR SBM FL BH Fluence Modern 3-Voice Set - Nickel,0,"4519.00",,"2026-11-28 00:00:00",0
+20024510,ESP USA,[B-Stock] ESP USA M-II DX FR SBM FL BH Fluence Modern 3-Voice Set - Nickel,0,4519,,"2026-11-28 00:00:00",0
+10024511,ESP USA,ESP USA ECLIPSE FM AQMSB SD BH Custom 14 / Alnico II Pro - Nickel,0,"4799.00",,"2026-11-28 00:00:00",0
+20024511,ESP USA,[B-Stock] ESP USA ECLIPSE FM AQMSB SD BH Custom 14 / Alnico II Pro - Nickel,0,4799,,"2026-11-28 00:00:00",0
+10024512,ESP USA,ESP USA HORIZON II BLACK HOLO EMG BH 81-X / 85-X - Black Chrome,0,"4799.00",,"2026-11-28 00:00:00",0
+20024512,ESP USA,[B-Stock] ESP USA HORIZON II BLACK HOLO EMG BH 81-X / 85-X - Black Chrome,0,4799,,"2026-11-28 00:00:00",0
 10010576,JBL Bags,JBL Bags EON718S-CVR Slip On Cover for EON718S Speaker,1,"41.40",716408559780,,0
 20010576,JBL Bags,[B-Stock] JBL Bags EON718S-CVR Slip On Cover for EON718S Speaker,0,41.4,716408559780,,0
 10010580,JBL Bags,JBL Bags EONONECOMPACT-CVR EON ONE COMPACT,1,"16.80",716408553443,,0
@@ -4317,8 +4337,8 @@
 20003836,Dixon,[B-Stock] Dixon PAWN-CT8-HP Plastic Cym. Topper 8mm 4Pcs,0,1.99,4718981452102,,0
 10003852,Dixon,Dixon PPB-2-HP Felt Bass Drum Beater,1,"4.54",4718981412755,,0
 20003852,Dixon,[B-Stock] Dixon PPB-2-HP Felt Bass Drum Beater,0,4.54,4718981412755,,0
-10003854,Dixon,Dixon PPB-6-HP Felt Bass Drum Beater,1,"8.10",4718981412342,,0
-20003854,Dixon,[B-Stock] Dixon PPB-6-HP Felt Bass Drum Beater,0,8.1,4718981412342,,0
+10003854,Dixon,Dixon PPB-6-HP Felt Bass Drum Beater,0,"8.10",4718981412342,"2026-08-14 00:00:00",0
+20003854,Dixon,[B-Stock] Dixon PPB-6-HP Felt Bass Drum Beater,0,8.1,4718981412342,"2026-08-14 00:00:00",0
 10003863,Dixon,Dixon PA-CCM-HP Percussion Mount,1,"15.30",4718981406150,,0
 20003863,Dixon,[B-Stock] Dixon PA-CCM-HP Percussion Mount,0,15.3,4718981406150,,0
 10003866,Dixon,Dixon PA-HMM-SP Hoop Microphone Mount,1,"14.50",4718981402473,,0
@@ -6351,18 +6371,18 @@
 20010611,Gator,[B-Stock] Gator GC-CLARINET Clarinet Case,0,35.9,716408502328,,0
 10010615,Gator,Gator GC-TROMBONE Trombone Case,1,"78.00",716408503790,,0
 20010615,Gator,[B-Stock] Gator GC-TROMBONE Trombone Case,0,78,716408503790,,0
-10010622,Gator,Gator GL-FRENCHHORN-A French Horn Lightweight Case Design,1,"73.00",716408526768,,0
-20010622,Gator,[B-Stock] Gator GL-FRENCHHORN-A French Horn Lightweight Case Design,0,73,716408526768,,0
+10010622,Gator,Gator GL-FRENCHHORN-A French Horn Lightweight Case Design,0,"73.00",716408526768,"2026-11-06 00:00:00",0
+20010622,Gator,[B-Stock] Gator GL-FRENCHHORN-A French Horn Lightweight Case Design,0,73,716408526768,"2026-11-06 00:00:00",0
 10010625,Gator,Gator GL-TROMBONE-F Lightweight Trombone Case,1,"116.00",716408529615,,0
 20010625,Gator,[B-Stock] Gator GL-TROMBONE-F Lightweight Trombone Case,0,116,716408529615,,0
 10010634,Gator,Gator GU-EVA-2816-4 Large EVA Storage Case,1,"69.00",716408539928,,0
 20010634,Gator,[B-Stock] Gator GU-EVA-2816-4 Large EVA Storage Case,0,69,716408539928,,0
 10010637,Gator,"Gator GP-1405.5SD Snare Bag 14"" x 5.5""",1,"15.20",716408505978,,0
 20010637,Gator,"[B-Stock] Gator GP-1405.5SD Snare Bag 14"" x 5.5""",0,15.2,716408505978,,0
-10010643,Gator,"Gator GP-CYMBAK-22 22"" Cymbal Backpack",0,"65.50",716408529691,"2026-06-11 00:00:00",0
-20010643,Gator,"[B-Stock] Gator GP-CYMBAK-22 22"" Cymbal Backpack",0,65.5,716408529691,"2026-06-11 00:00:00",0
-10010645,Gator,"Gator GP-FUSION-100 5-Piece Fusion Set Bags 22''x18''/10''x9''/12''x10''/14''x12''/14''x5,5''",1,"82.00",716408502007,,0
-20010645,Gator,"[B-Stock] Gator GP-FUSION-100 5-Piece Fusion Set Bags 22''x18''/10''x9''/12''x10''/14''x12''/14''x5,5''",0,82,716408502007,,0
+10010643,Gator,"Gator GP-CYMBAK-22 22"" Cymbal Backpack",0,"65.50",716408529691,"2026-06-17 00:00:00",0
+20010643,Gator,"[B-Stock] Gator GP-CYMBAK-22 22"" Cymbal Backpack",0,65.5,716408529691,"2026-06-17 00:00:00",0
+10010645,Gator,"Gator GP-FUSION-100 5-Piece Fusion Set Bags 22''x18''/10''x9''/12''x10''/14''x12''/14''x5,5''",0,"82.00",716408502007,"2026-11-06 00:00:00",0
+20010645,Gator,"[B-Stock] Gator GP-FUSION-100 5-Piece Fusion Set Bags 22''x18''/10''x9''/12''x10''/14''x12''/14''x5,5''",0,82,716408502007,"2026-11-06 00:00:00",0
 10010649,Gator,Gator GP-STANDARD-100 5-Piece Standard Set Bags 22/12/13/16/14SN,1,"82.00",716408502014,,0
 20010649,Gator,[B-Stock] Gator GP-STANDARD-100 5-Piece Standard Set Bags 22/12/13/16/14SN,0,82,716408502014,,0
 10010650,Gator,Gator GC-PARLOR ABS Hard Shell Case for Most Parlor Sized Guitars,0,"87.00",716408560335,"2026-06-15 00:00:00",0
@@ -6463,8 +6483,8 @@
 20010794,Gator,[B-Stock] Gator GPT-BLACK Pedal Board w/ Carry Bag,0,40.5,716408506449,,0
 10010799,Gator,Gator GTSA-KEY49 49 Keys Polethylen TSA Lock Case,1,"124.00",716408539492,,0
 20010799,Gator,[B-Stock] Gator GTSA-KEY49 49 Keys Polethylen TSA Lock Case,0,124,716408539492,,0
-10010818,Gator,Gator GK-88 SLIM 88 Keys Lightweight Keyboard Case SLIM,1,"130.00",716408505350,,0
-20010818,Gator,[B-Stock] Gator GK-88 SLIM 88 Keys Lightweight Keyboard Case SLIM,0,130,716408505350,,0
+10010818,Gator,Gator GK-88 SLIM 88 Keys Lightweight Keyboard Case SLIM,0,"130.00",716408505350,"2026-06-15 00:00:00",0
+20010818,Gator,[B-Stock] Gator GK-88 SLIM 88 Keys Lightweight Keyboard Case SLIM,0,130,716408505350,"2026-06-15 00:00:00",0
 10010825,Gator,Gator GK-49 49 Keys Lightweight Keyboard Case,1,"107.00",716408501420,,0
 20010825,Gator,[B-Stock] Gator GK-49 49 Keys Lightweight Keyboard Case,0,107,716408501420,,0
 10010827,Gator,Gator GTSA-GTRELEC TSA Polyethylen Case Stand. E-Guitar,1,"100.00",716408539744,,0
@@ -6481,8 +6501,8 @@
 20010894,Gator,"[B-Stock] Gator G-TOUR 20U CAST ATA Wood Flight Rack Case 12U 17"" Deep Casters",0,470,716408561240,,0
 10010900,Gator,Gator G-ICON335 ICON Series Bag for 335 Style Guitars,1,"122.00",716408558462,,0
 20010900,Gator,[B-Stock] Gator G-ICON335 ICON Series Bag for 335 Style Guitars,0,122,716408558462,,0
-10010758,Gator,Gator GPA-715 Rolling Speaker Bag for most 15'' Speakers,1,"105.50",716408528960,,0
-20010758,Gator,[B-Stock] Gator GPA-715 Rolling Speaker Bag for most 15'' Speakers,0,105.5,716408528960,,0
+10010758,Gator,Gator GPA-715 Rolling Speaker Bag for most 15'' Speakers,0,"105.50",716408528960,"2026-06-15 00:00:00",0
+20010758,Gator,[B-Stock] Gator GPA-715 Rolling Speaker Bag for most 15'' Speakers,0,105.5,716408528960,"2026-06-15 00:00:00",0
 10010761,Gator,"Gator G-PA TRANSPORT-LG Case for Larger ""Passport"" Type PA Systems",1,"122.00",716408530314,,0
 20010761,Gator,"[B-Stock] Gator G-PA TRANSPORT-LG Case for Larger ""Passport"" Type PA Systems",0,122,716408530314,,0
 10010762,Gator,Gator G-MIX-L 1622 16'' x 22'' Lightweight Mixer Case,1,"57.00",716408504896,,0
@@ -6491,16 +6511,16 @@
 20010763,Gator,"[B-Stock] Gator G-MIX-L 1618A 16"" x 19"" Lightweight Mixer Case",0,51.5,716408502106,,0
 10010773,Gator,Gator G-MIX-12 PU 12U Pop-Up Rack Case,1,"167.00",716408504889,,0
 20010773,Gator,[B-Stock] Gator G-MIX-12 PU 12U Pop-Up Rack Case,0,167,716408504889,,0
-10010774,Gator,"Gator G-MIX 20X30 20"" x 30"" ATA Mixer Case",1,"132.90",716408501710,,0
-20010774,Gator,"[B-Stock] Gator G-MIX 20X30 20"" x 30"" ATA Mixer Case",0,132.9,716408501710,,0
+10010774,Gator,"Gator G-MIX 20X30 20"" x 30"" ATA Mixer Case",0,"132.90",716408501710,"2026-11-06 00:00:00",0
+20010774,Gator,"[B-Stock] Gator G-MIX 20X30 20"" x 30"" ATA Mixer Case",0,132.9,716408501710,"2026-11-06 00:00:00",0
 10010775,Gator,"Gator G-MIX 20X25 20"" x 25"" ATA Mixer Case",1,"126.00",716408508573,,0
 20010775,Gator,"[B-Stock] Gator G-MIX 20X25 20"" x 25"" ATA Mixer Case",0,126,716408508573,,0
 10010776,Gator,"Gator G-MIX 17X18 17"" x 18"" ATA Mixer Case",1,"96.00",716408505909,,0
 20010776,Gator,"[B-Stock] Gator G-MIX 17X18 17"" x 18"" ATA Mixer Case",0,96,716408505909,,0
 10010783,Gator,Gator GM-1WEVAA Wireless System Lightweight Case,1,"37.50",716408520926,,0
 20010783,Gator,[B-Stock] Gator GM-1WEVAA Wireless System Lightweight Case,0,37.5,716408520926,,0
-10010790,Gator,Gator GTSA-KEY88SLXL 88 Keys Polethylen TSA Lock Case XL,1,"243.00",716408539560,,0
-20010790,Gator,[B-Stock] Gator GTSA-KEY88SLXL 88 Keys Polethylen TSA Lock Case XL,0,243,716408539560,,0
+10010790,Gator,Gator GTSA-KEY88SLXL 88 Keys Polethylen TSA Lock Case XL,0,"243.00",716408539560,"2026-06-17 00:00:00",0
+20010790,Gator,[B-Stock] Gator GTSA-KEY88SLXL 88 Keys Polethylen TSA Lock Case XL,0,243,716408539560,"2026-06-17 00:00:00",0
 10010801,Gator,Gator GKC-1540 76 Keys Keyboard Cover,1,"11.30",716408502960,,0
 20010801,Gator,[B-Stock] Gator GKC-1540 76 Keys Keyboard Cover,0,11.3,716408502960,,0
 10010816,Gator,Gator GK-88 SLXL Slim Extra Long 88 Keys Lightweight Keyboard Case,1,"160.00",716408529653,,0
@@ -6787,8 +6807,8 @@
 20010830,Gator,[B-Stock] Gator GW-LP-BROWN Gibson Les Paul Guitar Deluxe Wood Case Brown,0,75,716408504001,,0
 10010831,Gator,Gator GTSA-GTRLPS TSA Polyethylene Case for LP- and CA-Style,0,"115.00",716408539751,"2026-06-11 00:00:00",0
 20010831,Gator,[B-Stock] Gator GTSA-GTRLPS TSA Polyethylene Case for LP- and CA-Style,0,115,716408539751,"2026-06-11 00:00:00",0
-10010832,Gator,Gator GW-JUMBO Jumbo Acoustic Guitar Deluxe Wood Case Black,1,"78.00",716408501598,,0
-20010832,Gator,[B-Stock] Gator GW-JUMBO Jumbo Acoustic Guitar Deluxe Wood Case Black,0,78,716408501598,,0
+10010832,Gator,Gator GW-JUMBO Jumbo Acoustic Guitar Deluxe Wood Case Black,0,"78.00",716408501598,"2026-06-15 00:00:00",0
+20010832,Gator,[B-Stock] Gator GW-JUMBO Jumbo Acoustic Guitar Deluxe Wood Case Black,0,78,716408501598,"2026-06-15 00:00:00",0
 10010833,Gator,Gator GW-JM LPS Journeyman Les Paul Deluxe Wood Case Beige,1,"75.00",716408534367,,0
 20010833,Gator,[B-Stock] Gator GW-JM LPS Journeyman Les Paul Deluxe Wood Case Beige,0,75,716408534367,,0
 10010838,Gator,Gator GW-JM 335 Journeyman Semi-Hollow Electrics Deluxe Wood Case,1,"82.90",716408534374,,0
@@ -7121,26 +7141,26 @@
 20023613,Gator,"[B-Stock] Gator GP-2414BD Bass Drum Bag 24"" x 14""",0,32.5,716408564654,,0
 10024261,Gator,Gator G-ICON-BP Backpack - Black,0,"129.00",716408571256,"2026-06-11 00:00:00",0
 20024261,Gator,[B-Stock] Gator G-ICON-BP Backpack - Black,0,129,716408571256,"2026-06-11 00:00:00",0
-10024262,Gator,"Gator GV-TC2313-GB Travel Compact Pedal Board 23"" x 13"" Surface with Gig Bag",0,"114.00",716408570198,"2026-06-10 00:00:00",0
-20024262,Gator,"[B-Stock] Gator GV-TC2313-GB Travel Compact Pedal Board 23"" x 13"" Surface with Gig Bag",0,114,716408570198,"2026-06-10 00:00:00",0
-10024263,Gator,"Gator GV-TC2313R2-GB Travel Compact Pedal Board 23"" x 13"" Surface and Riser 2 with Gig Bag",0,"155.00",716408570204,"2026-06-10 00:00:00",0
-20024263,Gator,"[B-Stock] Gator GV-TC2313R2-GB Travel Compact Pedal Board 23"" x 13"" Surface and Riser 2 with Gig Bag",0,155,716408570204,"2026-06-10 00:00:00",0
-10024264,Gator,"Gator GV-TC2713-GB Travel Compact Pedal Board 27"" x 13"" Surface with Gig Bag",0,"120.00",716408570143,"2026-06-10 00:00:00",0
-20024264,Gator,"[B-Stock] Gator GV-TC2713-GB Travel Compact Pedal Board 27"" x 13"" Surface with Gig Bag",0,120,716408570143,"2026-06-10 00:00:00",0
-10024265,Gator,"Gator GV-TC2713R2-GB Travel Compact Pedal Board 27"" x 13"" Surface and Riser 2 with Gig Bag",0,"169.00",716408570136,"2026-06-10 00:00:00",0
-20024265,Gator,"[B-Stock] Gator GV-TC2713R2-GB Travel Compact Pedal Board 27"" x 13"" Surface and Riser 2 with Gig Bag",0,169,716408570136,"2026-06-10 00:00:00",0
-10024266,Gator,"Gator GV-TE3113-GB Travel Elite Pedal Board 31"" x 13"" Surface with Gig Bag",0,"129.00",716408570150,"2026-06-10 00:00:00",0
-20024266,Gator,"[B-Stock] Gator GV-TE3113-GB Travel Elite Pedal Board 31"" x 13"" Surface with Gig Bag",0,129,716408570150,"2026-06-10 00:00:00",0
-10024267,Gator,"Gator GV-TE3113R2-GB Travel Elite Pedal Board 31"" x 13"" Surface and Riser 2 with Gig Bag",0,"178.00",716408570174,"2026-06-10 00:00:00",0
-20024267,Gator,"[B-Stock] Gator GV-TE3113R2-GB Travel Elite Pedal Board 31"" x 13"" Surface and Riser 2 with Gig Bag",0,178,716408570174,"2026-06-10 00:00:00",0
-10024268,Gator,"Gator GV-TL1710-GB Travel Lite Pedal Board 17"" x 10"" Surface with Gig Bag",0,"101.50",716408570181,"2026-06-10 00:00:00",0
-20024268,Gator,"[B-Stock] Gator GV-TL1710-GB Travel Lite Pedal Board 17"" x 10"" Surface with Gig Bag",0,101.5,716408570181,"2026-06-10 00:00:00",0
+10024262,Gator,"Gator GV-TC2313-GB Travel Compact Pedal Board 23"" x 13"" Surface with Gig Bag",0,"114.00",716408570198,"2026-06-26 00:00:00",0
+20024262,Gator,"[B-Stock] Gator GV-TC2313-GB Travel Compact Pedal Board 23"" x 13"" Surface with Gig Bag",0,114,716408570198,"2026-06-26 00:00:00",0
+10024263,Gator,"Gator GV-TC2313R2-GB Travel Compact Pedal Board 23"" x 13"" Surface and Riser 2 with Gig Bag",0,"155.00",716408570204,"2026-06-26 00:00:00",0
+20024263,Gator,"[B-Stock] Gator GV-TC2313R2-GB Travel Compact Pedal Board 23"" x 13"" Surface and Riser 2 with Gig Bag",0,155,716408570204,"2026-06-26 00:00:00",0
+10024264,Gator,"Gator GV-TC2713-GB Travel Compact Pedal Board 27"" x 13"" Surface with Gig Bag",0,"120.00",716408570143,"2026-06-26 00:00:00",0
+20024264,Gator,"[B-Stock] Gator GV-TC2713-GB Travel Compact Pedal Board 27"" x 13"" Surface with Gig Bag",0,120,716408570143,"2026-06-26 00:00:00",0
+10024265,Gator,"Gator GV-TC2713R2-GB Travel Compact Pedal Board 27"" x 13"" Surface and Riser 2 with Gig Bag",0,"169.00",716408570136,"2026-06-26 00:00:00",0
+20024265,Gator,"[B-Stock] Gator GV-TC2713R2-GB Travel Compact Pedal Board 27"" x 13"" Surface and Riser 2 with Gig Bag",0,169,716408570136,"2026-06-26 00:00:00",0
+10024266,Gator,"Gator GV-TE3113-GB Travel Elite Pedal Board 31"" x 13"" Surface with Gig Bag",0,"129.00",716408570150,"2026-06-26 00:00:00",0
+20024266,Gator,"[B-Stock] Gator GV-TE3113-GB Travel Elite Pedal Board 31"" x 13"" Surface with Gig Bag",0,129,716408570150,"2026-06-26 00:00:00",0
+10024267,Gator,"Gator GV-TE3113R2-GB Travel Elite Pedal Board 31"" x 13"" Surface and Riser 2 with Gig Bag",0,"178.00",716408570174,"2026-06-26 00:00:00",0
+20024267,Gator,"[B-Stock] Gator GV-TE3113R2-GB Travel Elite Pedal Board 31"" x 13"" Surface and Riser 2 with Gig Bag",0,178,716408570174,"2026-06-26 00:00:00",0
+10024268,Gator,"Gator GV-TL1710-GB Travel Lite Pedal Board 17"" x 10"" Surface with Gig Bag",0,"101.50",716408570181,"2026-06-26 00:00:00",0
+20024268,Gator,"[B-Stock] Gator GV-TL1710-GB Travel Lite Pedal Board 17"" x 10"" Surface with Gig Bag",0,101.5,716408570181,"2026-06-26 00:00:00",0
 10024269,Gator,"Gator GV-TL1710R1-GB Travel Lite Pedal Board 17"" x 10"" Surface and Riser TLR1 with Gig Bag",0,"143.50",716408570167,"2026-06-26 00:00:00",0
 20024269,Gator,"[B-Stock] Gator GV-TL1710R1-GB Travel Lite Pedal Board 17"" x 10"" Surface and Riser TLR1 with Gig Bag",0,143.5,716408570167,"2026-06-26 00:00:00",0
-10024270,Gator,Gator GV-RDPBMK-4824 Pedalboard Mounting Kit,0,"26.00",716408570969,"2026-06-10 00:00:00",0
-20024270,Gator,[B-Stock] Gator GV-RDPBMK-4824 Pedalboard Mounting Kit,0,26,716408570969,"2026-06-10 00:00:00",0
-10024271,Gator,Gator GV-RDCTP-48 Pedalboard Mounting Kit,0,"3.35",716408570976,"2026-06-10 00:00:00",0
-20024271,Gator,[B-Stock] Gator GV-RDCTP-48 Pedalboard Mounting Kit,0,3.35,716408570976,"2026-06-10 00:00:00",0
+10024270,Gator,Gator GV-RDPBMK-4824 Pedalboard Mounting Kit,0,"26.00",716408570969,"2026-06-26 00:00:00",0
+20024270,Gator,[B-Stock] Gator GV-RDPBMK-4824 Pedalboard Mounting Kit,0,26,716408570969,"2026-06-26 00:00:00",0
+10024271,Gator,Gator GV-RDCTP-48 Pedalboard Mounting Kit,0,"3.35",716408570976,"2026-06-26 00:00:00",0
+20024271,Gator,[B-Stock] Gator GV-RDCTP-48 Pedalboard Mounting Kit,0,3.35,716408570976,"2026-06-26 00:00:00",0
 10024304,Gator,Gator GR-RACKBAG-2UW 2U Lightweight rack bag w/ tow handle and wheels,0,"105.00",716408528823,"2026-06-11 00:00:00",0
 20024304,Gator,[B-Stock] Gator GR-RACKBAG-2UW 2U Lightweight rack bag w/ tow handle and wheels,0,105,716408528823,"2026-06-11 00:00:00",0
 10024314,Gator,"Gator G-ICONDJ-MD-BP Bag for Medium DJ Controllers up to 26""",0,"122.00",716408571232,"2026-06-11 00:00:00",0
@@ -7815,8 +7835,8 @@
 20023143,Gator Frameworks,[B-Stock] Gator Frameworks GFWMICBCBMEXT Extension Adapter f. Broadcast Boom Arms,0,3.8,716408566764,"2026-10-26 00:00:00",0
 10024041,Gator Frameworks,"Gator Frameworks GFW-GTRCLOSETHNGR-DLX Deluxe Closet Hanger Yoke for Acoustic, Electric",1,"14.40",716408556284,,0
 20024041,Gator Frameworks,"[B-Stock] Gator Frameworks GFW-GTRCLOSETHNGR-DLX Deluxe Closet Hanger Yoke for Acoustic, Electric",0,14.4,716408556284,,0
-10024272,Gator Frameworks,Gator Frameworks GFW-KEY-8500 3 Tier Keyboard Stand,0,"149.00",716408566528,"2026-06-10 00:00:00",0
-20024272,Gator Frameworks,[B-Stock] Gator Frameworks GFW-KEY-8500 3 Tier Keyboard Stand,0,149,716408566528,"2026-06-10 00:00:00",0
+10024272,Gator Frameworks,Gator Frameworks GFW-KEY-8500 3 Tier Keyboard Stand,0,"149.00",716408566528,"2026-08-14 00:00:00",0
+20024272,Gator Frameworks,[B-Stock] Gator Frameworks GFW-KEY-8500 3 Tier Keyboard Stand,0,149,716408566528,"2026-08-14 00:00:00",0
 10024366,Gator Frameworks,Gator Frameworks GRW-SCRW100 Rack Screws - 100 Pack,1,"19.00",716408537474,,0
 20024366,Gator Frameworks,[B-Stock] Gator Frameworks GRW-SCRW100 Rack Screws - 100 Pack,0,19,716408537474,,0
 10024364,Gator Frameworks,Gator Frameworks GRW-SCRW050 Rack Screws - 50 Pack,0,"7.90",716408546377,"2026-10-26 00:00:00",0
@@ -8221,8 +8241,8 @@
 20012397,Shure,"[B-Stock] Shure SH-BODYPACK-PBN-L Wireless Bodypack Transmitter Pouch, Brown",0,24.3,716408562841,,0
 10011606,Shure,Shure SH-TRIPODSTANDLP Tripod Style Bass Drum and Amp Mic Stand,1,"35.00",716408562803,,0
 20011606,Shure,[B-Stock] Shure SH-TRIPODSTANDLP Tripod Style Bass Drum and Amp Mic Stand,0,35,716408562803,,0
-10011608,Shure,Shure SH-TRIPODSTANDTBMDX Deluxe Tripod Mic Stand with Telescoping Boom,0,"47.00",716408562797,"2026-11-05 00:00:00",0
-20011608,Shure,[B-Stock] Shure SH-TRIPODSTANDTBMDX Deluxe Tripod Mic Stand with Telescoping Boom,0,47,716408562797,"2026-11-05 00:00:00",0
+10011608,Shure,Shure SH-TRIPODSTANDTBMDX Deluxe Tripod Mic Stand with Telescoping Boom,0,"47.00",716408562797,"2026-11-06 00:00:00",0
+20011608,Shure,[B-Stock] Shure SH-TRIPODSTANDTBMDX Deluxe Tripod Mic Stand with Telescoping Boom,0,47,716408562797,"2026-11-06 00:00:00",0
 10011609,Shure,Shure SH-SM7-WP Waterproof Case for Shure SM7 Microphone,1,"135.00",716408564555,,0
 20011609,Shure,[B-Stock] Shure SH-SM7-WP Waterproof Case for Shure SM7 Microphone,0,135,716408564555,,0
 10012961,Shure,Shure SH-MV7LWCASE Pro Lite Series Microphone Case for MV7 Series Mic,0,"31.50",716408567204,"2026-06-17 00:00:00",0
@@ -8231,8 +8251,8 @@
 20012962,Shure,[B-Stock] Shure SH-SM7LWCASE Pro Lite Series Microphone Case for SM7 Series Mic,0,31.5,716408567198,"2026-06-17 00:00:00",0
 10012152,Shure,Shure SH-MICBAG04 Microphone Bag that Holds Up to 4 Mics,0,"32.50",716408565170,"2026-06-17 00:00:00",0
 20012152,Shure,[B-Stock] Shure SH-MICBAG04 Microphone Bag that Holds Up to 4 Mics,0,32.5,716408565170,"2026-06-17 00:00:00",0
-10012157,Shure,Shure SH-DESKTOP2 Low Profile Mic Stand w Single-Section Boom,0,"37.00",716408562742,"2026-06-10 00:00:00",0
-20012157,Shure,[B-Stock] Shure SH-DESKTOP2 Low Profile Mic Stand w Single-Section Boom,0,37,716408562742,"2026-06-10 00:00:00",0
+10012157,Shure,Shure SH-DESKTOP2 Low Profile Mic Stand w Single-Section Boom,0,"37.00",716408562742,"2026-06-26 00:00:00",0
+20012157,Shure,[B-Stock] Shure SH-DESKTOP2 Low Profile Mic Stand w Single-Section Boom,0,37,716408562742,"2026-06-26 00:00:00",0
 11000129,Shure,Shure SH-MICCASE15 Plastic Case with Latches for (15) Wired Mics,1,"87.50",716408562926,,0
 21000129,Shure,[B-Stock] Shure SH-MICCASE15 Plastic Case with Latches for (15) Wired Mics,0,87.5,716408562926,,0
 10011605,Shure,Shure SH-TRIPODSTANDDX Deluxe Tripod Mic Stand,1,"30.00",716408562780,,0
@@ -8249,24 +8269,24 @@
 21000130,Shure,[B-Stock] Shure SH-MICCASE30 Plastic Case with Latches for (30) Wired Mics,0,106.5,716408562889,,0
 10011604,Shure,"Shure SH-RBMICSTAND12 12"" Round Base Mic Stand",1,"41.50",716408562766,,0
 20011604,Shure,"[B-Stock] Shure SH-RBMICSTAND12 12"" Round Base Mic Stand",0,41.5,716408562766,,0
-10012156,Shure,Shure SH-DESKTOP1 Desktop Mic Stand with 6'' Round Base,0,"20.50",716408562735,"2026-06-10 00:00:00",0
-20012156,Shure,[B-Stock] Shure SH-DESKTOP1 Desktop Mic Stand with 6'' Round Base,0,20.5,716408562735,"2026-06-10 00:00:00",0
-11000128,Shure,Shure SH-BROADCAST1 Podcast Boom Articulating Microphone Stand,0,"68.00",716408562810,"2026-06-10 00:00:00",0
-21000128,Shure,[B-Stock] Shure SH-BROADCAST1 Podcast Boom Articulating Microphone Stand,0,68,716408562810,"2026-06-10 00:00:00",0
+10012156,Shure,Shure SH-DESKTOP1 Desktop Mic Stand with 6'' Round Base,0,"20.50",716408562735,"2026-06-26 00:00:00",0
+20012156,Shure,[B-Stock] Shure SH-DESKTOP1 Desktop Mic Stand with 6'' Round Base,0,20.5,716408562735,"2026-06-26 00:00:00",0
+11000128,Shure,Shure SH-BROADCAST1 Podcast Boom Articulating Microphone Stand,0,"68.00",716408562810,"2026-06-17 00:00:00",0
+21000128,Shure,[B-Stock] Shure SH-BROADCAST1 Podcast Boom Articulating Microphone Stand,0,68,716408562810,"2026-06-17 00:00:00",0
 11000131,Shure,Shure SH-MICCASEW06 Plastic Case with Latches to Hold 6 Wireless Mics,1,"89.50",716408562896,,0
 21000131,Shure,[B-Stock] Shure SH-MICCASEW06 Plastic Case with Latches to Hold 6 Wireless Mics,0,89.5,716408562896,,0
 11000132,Shure,Shure SH-MICCASEW07 Plastic Case with Latches to Hold 7 Wireless Mics,1,"111.00",716408562902,,0
 21000132,Shure,[B-Stock] Shure SH-MICCASEW07 Plastic Case with Latches to Hold 7 Wireless Mics,0,111,716408562902,,0
-10024273,Shure,Shure SH-DESKTOP1-W Desktop Mic Stand with 6'' Round Base white,0,"25.00",716408570853,"2026-06-10 00:00:00",0
-20024273,Shure,[B-Stock] Shure SH-DESKTOP1-W Desktop Mic Stand with 6'' Round Base white,0,25,716408570853,"2026-06-10 00:00:00",0
-10024274,Shure,Shure SH-DESKTOP2-W Low Profile Mic Stand Single-Section Boom white,0,"42.50",716408570860,"2026-06-10 00:00:00",0
-20024274,Shure,[B-Stock] Shure SH-DESKTOP2-W Low Profile Mic Stand Single-Section Boom white,0,42.5,716408570860,"2026-06-10 00:00:00",0
-10024275,Shure,Shure SH-BROADCAST2-W Low-Profile Desktop Mic Boom Stand white,0,"77.80",716408570808,"2026-06-10 00:00:00",0
-20024275,Shure,[B-Stock] Shure SH-BROADCAST2-W Low-Profile Desktop Mic Boom Stand white,0,77.8,716408570808,"2026-06-10 00:00:00",0
-10024276,Shure,"Shure SH-RBMICSTAND10-W 10"" Round Base Mic Stand white",0,"43.90",716408570839,"2026-06-10 00:00:00",0
-20024276,Shure,"[B-Stock] Shure SH-RBMICSTAND10-W 10"" Round Base Mic Stand white",0,43.9,716408570839,"2026-06-10 00:00:00",0
-10024277,Shure,Shure SH-TRIPODSTANDDX-W Deluxe Tripod Mic Stand white,0,"36.00",716408570822,"2026-06-10 00:00:00",0
-20024277,Shure,[B-Stock] Shure SH-TRIPODSTANDDX-W Deluxe Tripod Mic Stand white,0,36,716408570822,"2026-06-10 00:00:00",0
+10024273,Shure,Shure SH-DESKTOP1-W Desktop Mic Stand with 6'' Round Base white,0,"25.00",716408570853,"2026-08-14 00:00:00",0
+20024273,Shure,[B-Stock] Shure SH-DESKTOP1-W Desktop Mic Stand with 6'' Round Base white,0,25,716408570853,"2026-08-14 00:00:00",0
+10024274,Shure,Shure SH-DESKTOP2-W Low Profile Mic Stand Single-Section Boom white,0,"42.50",716408570860,"2026-08-14 00:00:00",0
+20024274,Shure,[B-Stock] Shure SH-DESKTOP2-W Low Profile Mic Stand Single-Section Boom white,0,42.5,716408570860,"2026-08-14 00:00:00",0
+10024275,Shure,Shure SH-BROADCAST2-W Low-Profile Desktop Mic Boom Stand white,0,"77.80",716408570808,"2026-08-14 00:00:00",0
+20024275,Shure,[B-Stock] Shure SH-BROADCAST2-W Low-Profile Desktop Mic Boom Stand white,0,77.8,716408570808,"2026-08-14 00:00:00",0
+10024276,Shure,"Shure SH-RBMICSTAND10-W 10"" Round Base Mic Stand white",0,"43.90",716408570839,"2026-08-14 00:00:00",0
+20024276,Shure,"[B-Stock] Shure SH-RBMICSTAND10-W 10"" Round Base Mic Stand white",0,43.9,716408570839,"2026-08-14 00:00:00",0
+10024277,Shure,Shure SH-TRIPODSTANDDX-W Deluxe Tripod Mic Stand white,0,"36.00",716408570822,"2026-08-14 00:00:00",0
+20024277,Shure,[B-Stock] Shure SH-TRIPODSTANDDX-W Deluxe Tripod Mic Stand white,0,36,716408570822,"2026-08-14 00:00:00",0
 10000270,DiMarzio,DiMarzio DP 101FCR Dual Sound,0,"67.00",663334002401,"2026-07-25 00:00:00",0
 20000270,DiMarzio,[B-Stock] DiMarzio DP 101FCR Dual Sound,0,67,663334002401,"2026-07-25 00:00:00",0
 10000276,DiMarzio,DiMarzio DP 103FBK PAF,0,"71.00",663334002968,"2026-07-25 00:00:00",0
@@ -8863,8 +8883,8 @@
 20000662,DiMarzio,[B-Stock] DiMarzio DP 715BK Imperium 7 Neck black,0,83,663334047235,"2026-07-25 00:00:00",0
 10000273,DiMarzio,DiMarzio DP 103BC PAF,0,"71.00",663334002845,"2026-07-25 00:00:00",0
 20000273,DiMarzio,[B-Stock] DiMarzio DP 103BC PAF,0,71,663334002845,"2026-07-25 00:00:00",0
-10000279,DiMarzio,DiMarzio DP 104FBK Super 2,0,"65.00",663334003323,"2026-07-25 00:00:00",0
-20000279,DiMarzio,[B-Stock] DiMarzio DP 104FBK Super 2,0,65,663334003323,"2026-07-25 00:00:00",0
+10000279,DiMarzio,DiMarzio DP 104FBK Super 2,0,"65.00",663334003323,"2026-07-29 00:00:00",0
+20000279,DiMarzio,[B-Stock] DiMarzio DP 104FBK Super 2,0,65,663334003323,"2026-07-29 00:00:00",0
 10000280,DiMarzio,DiMarzio DP 110BK FS-1,1,"52.00",663334003972,,0
 20000280,DiMarzio,[B-Stock] DiMarzio DP 110BK FS-1,0,52,663334003972,,0
 10000281,DiMarzio,DiMarzio DP 110W FS-1,0,"52.00",663334004078,"2026-07-28 00:00:00",0
@@ -10055,8 +10075,8 @@
 20000504,DiMarzio,[B-Stock] DiMarzio DP 219FBK D Activator Neck,0,67,663334027596,"2026-07-25 00:00:00",0
 10000506,DiMarzio,DiMarzio DP 180BK Air Norton S,0,"65.00",663334027657,"2026-06-28 00:00:00",0
 20000506,DiMarzio,[B-Stock] DiMarzio DP 180BK Air Norton S,0,65,663334027657,"2026-06-28 00:00:00",0
-10000515,DiMarzio,DiMarzio DP 417G Area T Neck,0,"71.00",663334028906,"2026-06-28 00:00:00",0
-20000515,DiMarzio,[B-Stock] DiMarzio DP 417G Area T Neck,0,71,663334028906,"2026-06-28 00:00:00",0
+10000515,DiMarzio,DiMarzio DP 417G Area T Neck,0,"71.00",663334028906,"2026-05-28 00:00:00",0
+20000515,DiMarzio,[B-Stock] DiMarzio DP 417G Area T Neck,0,71,663334028906,"2026-05-28 00:00:00",0
 10000523,DiMarzio,DiMarzio DP 175SW True Velvet Middle,1,"52.00",663334029712,,0
 20000523,DiMarzio,[B-Stock] DiMarzio DP 175SW True Velvet Middle,0,52,663334029712,,0
 10000526,DiMarzio,DiMarzio DP 176W True Velvet Bridge,1,"52.00",663334029613,,0
@@ -15243,8 +15263,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20014314,DiMarzio,"[B-Stock] DiMarzio DP 155CC+G The Tone Zone Chrome Tops, Gold Pole Pieces",0,49,,"2026-07-18 00:00:00",0
 10014344,DiMarzio,"DiMarzio DP 155FG8 The Tone Zone F-spaced, Worn Gold Cover",0,"89.90",,"2026-07-18 00:00:00",0
 20014344,DiMarzio,"[B-Stock] DiMarzio DP 155FG8 The Tone Zone F-spaced, Worn Gold Cover",0,89.9,,"2026-07-18 00:00:00",0
-10014347,DiMarzio,"DiMarzio DP 155FGG+BK The Tone Zone F-spaced, Gold Tops, Black Pole Pieces",0,"117.80",663334007093,"2026-07-28 00:00:00",0
-20014347,DiMarzio,"[B-Stock] DiMarzio DP 155FGG+BK The Tone Zone F-spaced, Gold Tops, Black Pole Pieces",0,117.8,663334007093,"2026-07-28 00:00:00",0
+10014347,DiMarzio,"DiMarzio DP 155FGG+BK The Tone Zone F-spaced, Gold Tops, Black Pole Pieces",0,"117.80",663334007093,"2026-07-29 00:00:00",0
+20014347,DiMarzio,"[B-Stock] DiMarzio DP 155FGG+BK The Tone Zone F-spaced, Gold Tops, Black Pole Pieces",0,117.8,663334007093,"2026-07-29 00:00:00",0
 10014350,DiMarzio,"DiMarzio DP 155FKK+G The Tone Zone F-spaced, Black Metal Cover, Gold Pole Pieces",0,"86.00",,"2026-07-18 00:00:00",0
 20014350,DiMarzio,"[B-Stock] DiMarzio DP 155FKK+G The Tone Zone F-spaced, Black Metal Cover, Gold Pole Pieces",0,86,,"2026-07-18 00:00:00",0
 10014358,DiMarzio,"DiMarzio DP 155FSG The Tone Zone F-spaced, Satin Gold Cover",0,"84.20",,"2026-07-18 00:00:00",0
@@ -32573,14 +32593,14 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20024501,DiMarzio,[B-Stock] DiMarzio DP 180WSP Air Norton S No Flange,0,75.8,,"2026-07-27 00:00:00",0
 10024502,DiMarzio,DiMarzio DP 187WSP The Cruiser Bridge No Flange,0,"75.80",,"2026-07-27 00:00:00",0
 20024502,DiMarzio,[B-Stock] DiMarzio DP 187WSP The Cruiser Bridge No Flange,0,75.8,,"2026-07-27 00:00:00",0
-10012437,Thalia,Thalia Gibson by THALIA Hummingbird/ Black Chrome Officially licensed Gibson Series,1,"64.00",686186799589,,0
-20012437,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Black Chrome Officially licensed Gibson Series,0,64,686186799589,,0
-10012438,Thalia,"Thalia Rubber Fret Pad Kit - 0"" 2pc Set - Standard/ High Tension",1,"4.80",686186795352,,0
-20012438,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 0"" 2pc Set - Standard/ High Tension",0,4.8,686186795352,,0
-10012440,Thalia,"Thalia Rubber Fret Pad Kit - 9.5"" 2pc Set - Standard/ High Tension",1,"4.80",686186795376,,0
-20012440,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 9.5"" 2pc Set - Standard/ High Tension",0,4.8,686186795376,,0
-10012454,Thalia,Thalia Taylor by THALIA 500 Ser./ Century/ Black Chrome Officially licensed Taylor Series,1,"64.00",686186799985,,0
-20012454,Thalia,[B-Stock] Thalia Taylor by THALIA 500 Ser./ Century/ Black Chrome Officially licensed Taylor Series,0,64,686186799985,,0
+10012437,Thalia,Thalia Gibson by THALIA Hummingbird/ Black Chrome Officially licensed Gibson Series,1,"65.00",686186799589,,0
+20012437,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Black Chrome Officially licensed Gibson Series,0,65,686186799589,,0
+10012438,Thalia,"Thalia Rubber Fret Pad Kit - 0"" 2pc Set - Standard/ High Tension",1,"5.00",686186795352,,0
+20012438,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 0"" 2pc Set - Standard/ High Tension",0,5,686186795352,,0
+10012440,Thalia,"Thalia Rubber Fret Pad Kit - 9.5"" 2pc Set - Standard/ High Tension",1,"5.00",686186795376,,0
+20012440,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 9.5"" 2pc Set - Standard/ High Tension",0,5,686186795376,,0
+10012454,Thalia,Thalia Taylor by THALIA 500 Ser./ Century/ Black Chrome Officially licensed Taylor Series,1,"65.00",686186799985,,0
+20012454,Thalia,[B-Stock] Thalia Taylor by THALIA 500 Ser./ Century/ Black Chrome Officially licensed Taylor Series,0,65,686186799985,,0
 10012465,Thalia,Thalia Shell Collection Capo/ Crimson Paua/ Chrome Exotic Series,1,"45.00",686186795017,,0
 20012465,Thalia,[B-Stock] Thalia Shell Collection Capo/ Crimson Paua/ Chrome Exotic Series,0,45,686186795017,,0
 10012467,Thalia,Thalia Shell Collection Capo/ White MOP/ Chrome Exotic Series,1,"45.00",686186795031,,0
@@ -32591,104 +32611,104 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20012479,Thalia,[B-Stock] Thalia Shell Collection Capo/ Teal Angel/ Black Chrome Exotic Series,0,45,686186795154,,0
 10012480,Thalia,Thalia Shell Collection Capo/ Tenn. Whisky/ Black Chrome Exotic Series,1,"45.00",686186795161,,0
 20012480,Thalia,[B-Stock] Thalia Shell Collection Capo/ Tenn. Whisky/ Black Chrome Exotic Series,0,45,686186795161,,0
-10012484,Thalia,Thalia Shell Collection Capo/ Green Angel/ Gold Exotic Series,1,"45.00",686186795208,,0
-20012484,Thalia,[B-Stock] Thalia Shell Collection Capo/ Green Angel/ Gold Exotic Series,0,45,686186795208,,0
-10012488,Thalia,Thalia Shell Collection Capo/ Teal Angel/ Gold Exotic Series,1,"45.00",686186795246,,0
-20012488,Thalia,[B-Stock] Thalia Shell Collection Capo/ Teal Angel/ Gold Exotic Series,0,45,686186795246,,0
+10012484,Thalia,Thalia Shell Collection Capo/ Green Angel/ Gold Exotic Series,1,"57.00",686186795208,,0
+20012484,Thalia,[B-Stock] Thalia Shell Collection Capo/ Green Angel/ Gold Exotic Series,0,57,686186795208,,0
+10012488,Thalia,Thalia Shell Collection Capo/ Teal Angel/ Gold Exotic Series,1,"57.00",686186795246,,0
+20012488,Thalia,[B-Stock] Thalia Shell Collection Capo/ Teal Angel/ Gold Exotic Series,0,57,686186795246,,0
 10012494,Thalia,Thalia Wood Collection Capo/ Sapele/ Black Chrome Exotic Series,1,"45.00",686186795307,,0
 20012494,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sapele/ Black Chrome Exotic Series,0,45,686186795307,,0
-10012496,Thalia,Thalia Wood Collection Capo/ Sant. Rosewood/ Gold Exotic Series,1,"45.00",686186795321,,0
-20012496,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sant. Rosewood/ Gold Exotic Series,0,45,686186795321,,0
+10012496,Thalia,Thalia Wood Collection Capo/ Sant. Rosewood/ Gold Exotic Series,1,"57.00",686186795321,,0
+20012496,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sant. Rosewood/ Gold Exotic Series,0,57,686186795321,,0
 10012500,Thalia,Thalia Premium Series/ Black Dragon Scales/ Black Chrome Premium Series,1,"62.00",686186797165,,0
 20012500,Thalia,[B-Stock] Thalia Premium Series/ Black Dragon Scales/ Black Chrome Premium Series,0,62,686186797165,,0
-10012530,Thalia,Thalia Taylor by THALIA Koa/ Blk Logo/ Gold Officially licensed Taylor Series,1,"64.00",686186801367,,0
-20012530,Thalia,[B-Stock] Thalia Taylor by THALIA Koa/ Blk Logo/ Gold Officially licensed Taylor Series,0,64,686186801367,,0
-10012531,Thalia,Thalia Taylor by THALIA 300 Ser./ Gemstone/ Gold Officially licensed Taylor Series,1,"64.00",686186801145,,0
-20012531,Thalia,[B-Stock] Thalia Taylor by THALIA 300 Ser./ Gemstone/ Gold Officially licensed Taylor Series,0,64,686186801145,,0
-10012536,Thalia,Thalia Taylor by THALIA 800 Ser./ Element/ Gold Officially licensed Taylor Series,1,"64.00",686186798988,,0
-20012536,Thalia,[B-Stock] Thalia Taylor by THALIA 800 Ser./ Element/ Gold Officially licensed Taylor Series,0,64,686186798988,,0
-10012539,Thalia,Thalia Taylor by THALIA 300 Ser./ Gemstone/ Chrome Officially licensed Taylor Series,1,"64.00",686186801268,,0
-20012539,Thalia,[B-Stock] Thalia Taylor by THALIA 300 Ser./ Gemstone/ Chrome Officially licensed Taylor Series,0,64,686186801268,,0
-10012543,Thalia,Thalia Taylor by THALIA 700 Ser./ Reflections/ Chrome Officially licensed Taylor Series,1,"64.00",686186801237,,0
-20012543,Thalia,[B-Stock] Thalia Taylor by THALIA 700 Ser./ Reflections/ Chrome Officially licensed Taylor Series,0,64,686186801237,,0
-10012445,Thalia,Thalia Gibson by THALIA Trapezoid/ Black Chrome Officially licensed Gibson Series,1,"64.00",686186799596,,0
-20012445,Thalia,[B-Stock] Thalia Gibson by THALIA Trapezoid/ Black Chrome Officially licensed Gibson Series,0,64,686186799596,,0
-10012446,Thalia,Thalia Gibson by THALIA Split Parallelogram/ Black Chrome Officially licensed Gibson Series,1,"64.00",686186799602,,0
-20012446,Thalia,[B-Stock] Thalia Gibson by THALIA Split Parallelogram/ Black Chrome Officially licensed Gibson Series,0,64,686186799602,,0
-10012448,Thalia,Thalia Gibson by THALIA Holly/ Black Chrome Officially licensed Gibson Series,1,"64.00",686186799626,,0
-20012448,Thalia,[B-Stock] Thalia Gibson by THALIA Holly/ Black Chrome Officially licensed Gibson Series,0,64,686186799626,,0
-10012451,Thalia,Thalia Taylor by THALIA Koa/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,1,"64.00",686186799954,,0
-20012451,Thalia,[B-Stock] Thalia Taylor by THALIA Koa/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,0,64,686186799954,,0
-10012453,Thalia,Thalia Taylor by THALIA 400 Ser./ Renaissance/ Blk Chrome Officially licensed Taylor Series,1,"64.00",686186799978,,0
-20012453,Thalia,[B-Stock] Thalia Taylor by THALIA 400 Ser./ Renaissance/ Blk Chrome Officially licensed Taylor Series,0,64,686186799978,,0
-10012460,Thalia,Thalia Guild by THALIA Ebony-Ripple/ Shield/ Black Chrome Officially licensed Guild Series,1,"64.00",686186799787,,0
-20012460,Thalia,[B-Stock] Thalia Guild by THALIA Ebony-Ripple/ Shield/ Black Chrome Officially licensed Guild Series,0,64,686186799787,,0
+10012530,Thalia,Thalia Taylor by THALIA Koa/ Blk Logo/ Gold Officially licensed Taylor Series,1,"77.00",686186801367,,0
+20012530,Thalia,[B-Stock] Thalia Taylor by THALIA Koa/ Blk Logo/ Gold Officially licensed Taylor Series,0,77,686186801367,,0
+10012531,Thalia,Thalia Taylor by THALIA 300 Ser./ Gemstone/ Gold Officially licensed Taylor Series,1,"77.00",686186801145,,0
+20012531,Thalia,[B-Stock] Thalia Taylor by THALIA 300 Ser./ Gemstone/ Gold Officially licensed Taylor Series,0,77,686186801145,,0
+10012536,Thalia,Thalia Taylor by THALIA 800 Ser./ Element/ Gold Officially licensed Taylor Series,1,"77.00",686186798988,,0
+20012536,Thalia,[B-Stock] Thalia Taylor by THALIA 800 Ser./ Element/ Gold Officially licensed Taylor Series,0,77,686186798988,,0
+10012539,Thalia,Thalia Taylor by THALIA 300 Ser./ Gemstone/ Chrome Officially licensed Taylor Series,1,"65.00",686186801268,,0
+20012539,Thalia,[B-Stock] Thalia Taylor by THALIA 300 Ser./ Gemstone/ Chrome Officially licensed Taylor Series,0,65,686186801268,,0
+10012543,Thalia,Thalia Taylor by THALIA 700 Ser./ Reflections/ Chrome Officially licensed Taylor Series,1,"65.00",686186801237,,0
+20012543,Thalia,[B-Stock] Thalia Taylor by THALIA 700 Ser./ Reflections/ Chrome Officially licensed Taylor Series,0,65,686186801237,,0
+10012445,Thalia,Thalia Gibson by THALIA Trapezoid/ Black Chrome Officially licensed Gibson Series,1,"65.00",686186799596,,0
+20012445,Thalia,[B-Stock] Thalia Gibson by THALIA Trapezoid/ Black Chrome Officially licensed Gibson Series,0,65,686186799596,,0
+10012446,Thalia,Thalia Gibson by THALIA Split Parallelogram/ Black Chrome Officially licensed Gibson Series,1,"65.00",686186799602,,0
+20012446,Thalia,[B-Stock] Thalia Gibson by THALIA Split Parallelogram/ Black Chrome Officially licensed Gibson Series,0,65,686186799602,,0
+10012448,Thalia,Thalia Gibson by THALIA Holly/ Black Chrome Officially licensed Gibson Series,1,"65.00",686186799626,,0
+20012448,Thalia,[B-Stock] Thalia Gibson by THALIA Holly/ Black Chrome Officially licensed Gibson Series,0,65,686186799626,,0
+10012451,Thalia,Thalia Taylor by THALIA Koa/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,1,"65.00",686186799954,,0
+20012451,Thalia,[B-Stock] Thalia Taylor by THALIA Koa/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,0,65,686186799954,,0
+10012453,Thalia,Thalia Taylor by THALIA 400 Ser./ Renaissance/ Blk Chrome Officially licensed Taylor Series,1,"65.00",686186799978,,0
+20012453,Thalia,[B-Stock] Thalia Taylor by THALIA 400 Ser./ Renaissance/ Blk Chrome Officially licensed Taylor Series,0,65,686186799978,,0
+10012460,Thalia,Thalia Guild by THALIA Ebony-Ripple/ Shield/ Black Chrome Officially licensed Guild Series,1,"65.00",686186799787,,0
+20012460,Thalia,[B-Stock] Thalia Guild by THALIA Ebony-Ripple/ Shield/ Black Chrome Officially licensed Guild Series,0,65,686186799787,,0
 10012472,Thalia,Thalia Shell Collection Capo/ Ebony Inked/ Black Chrome Exotic Series,1,"45.00",686186795086,,0
 20012472,Thalia,[B-Stock] Thalia Shell Collection Capo/ Ebony Inked/ Black Chrome Exotic Series,0,45,686186795086,,0
 10012478,Thalia,Thalia Shell Collection Capo/ Red Angel/ Black Chrome Exotic Series,1,"45.00",686186795147,,0
 20012478,Thalia,[B-Stock] Thalia Shell Collection Capo/ Red Angel/ Black Chrome Exotic Series,0,45,686186795147,,0
-10012481,Thalia,Thalia Shell Collection Capo/ Ebony Inked/ Gold Exotic Series,1,"45.00",686186795178,,0
-20012481,Thalia,[B-Stock] Thalia Shell Collection Capo/ Ebony Inked/ Gold Exotic Series,0,45,686186795178,,0
-10012441,Thalia,"Thalia Rubber Fret Pad Kit - 10"" 2pc Set - Standard/ High Tension",1,"4.80",686186795383,,0
-20012441,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 10"" 2pc Set - Standard/ High Tension",0,4.8,686186795383,,0
-10012457,Thalia,Thalia Taylor by THALIA 800 Ser./ Element/ Black Chrome Officially licensed Taylor Series,1,"64.00",686186800018,,0
-20012457,Thalia,[B-Stock] Thalia Taylor by THALIA 800 Ser./ Element/ Black Chrome Officially licensed Taylor Series,0,64,686186800018,,0
+10012481,Thalia,Thalia Shell Collection Capo/ Ebony Inked/ Gold Exotic Series,1,"57.00",686186795178,,0
+20012481,Thalia,[B-Stock] Thalia Shell Collection Capo/ Ebony Inked/ Gold Exotic Series,0,57,686186795178,,0
+10012441,Thalia,"Thalia Rubber Fret Pad Kit - 10"" 2pc Set - Standard/ High Tension",1,"5.00",686186795383,,0
+20012441,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 10"" 2pc Set - Standard/ High Tension",0,5,686186795383,,0
+10012457,Thalia,Thalia Taylor by THALIA 800 Ser./ Element/ Black Chrome Officially licensed Taylor Series,1,"65.00",686186800018,,0
+20012457,Thalia,[B-Stock] Thalia Taylor by THALIA 800 Ser./ Element/ Black Chrome Officially licensed Taylor Series,0,65,686186800018,,0
 10012464,Thalia,Thalia Shell Collection Capo/ Blue Abalone/ Chrome Exotic Series,1,"45.00",686186795000,,0
 20012464,Thalia,[B-Stock] Thalia Shell Collection Capo/ Blue Abalone/ Chrome Exotic Series,0,45,686186795000,,0
-10012487,Thalia,Thalia Shell Collection Capo/ Red Angel/ Gold Exotic Series,1,"45.00",686186795239,,0
-20012487,Thalia,[B-Stock] Thalia Shell Collection Capo/ Red Angel/ Gold Exotic Series,0,45,686186795239,,0
+10012487,Thalia,Thalia Shell Collection Capo/ Red Angel/ Gold Exotic Series,1,"57.00",686186795239,,0
+20012487,Thalia,[B-Stock] Thalia Shell Collection Capo/ Red Angel/ Gold Exotic Series,0,57,686186795239,,0
 10012493,Thalia,Thalia Wood Collection Capo/ Sant. Rosewood/ Black Chrome Exotic Series,0,"45.00",686186795291,"2026-07-03 00:00:00",0
 20012493,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sant. Rosewood/ Black Chrome Exotic Series,0,45,686186795291,"2026-07-03 00:00:00",0
-10012501,Thalia,Thalia Premium Series/ Curly AAA Koa/ Black Chrome Premium Series,1,"62.00",686186797172,,0
-20012501,Thalia,[B-Stock] Thalia Premium Series/ Curly AAA Koa/ Black Chrome Premium Series,0,62,686186797172,,0
-10012519,Thalia,Thalia Gibson by THALIA Crown/ Gold Officially licensed Gibson Series,1,"64.00",686186801510,,0
-20012519,Thalia,[B-Stock] Thalia Gibson by THALIA Crown/ Gold Officially licensed Gibson Series,0,64,686186801510,,0
-10012526,Thalia,Thalia Gibson by THALIA Holly/ Chrome Officially licensed Gibson Series,1,"64.00",686186801589,,0
-20012526,Thalia,[B-Stock] Thalia Gibson by THALIA Holly/ Chrome Officially licensed Gibson Series,0,64,686186801589,,0
-10012529,Thalia,Thalia Taylor by THALIA White Pearl/ Blk Logo/ Gold Officially licensed Taylor Series,1,"64.00",686186801350,,0
-20012529,Thalia,[B-Stock] Thalia Taylor by THALIA White Pearl/ Blk Logo/ Gold Officially licensed Taylor Series,0,64,686186801350,,0
-10012482,Thalia,Thalia Shell Collection Capo/ Blue Abalone/ Gold Exotic Series,1,"45.00",686186795185,,0
-20012482,Thalia,[B-Stock] Thalia Shell Collection Capo/ Blue Abalone/ Gold Exotic Series,0,45,686186795185,,0
-10012483,Thalia,Thalia Shell Collection Capo/ Crimson Paua/ Gold Exotic Series,1,"45.00",686186795192,,0
-20012483,Thalia,[B-Stock] Thalia Shell Collection Capo/ Crimson Paua/ Gold Exotic Series,0,45,686186795192,,0
+10012501,Thalia,Thalia Premium Series/ Curly AAA Koa/ Black Chrome Premium Series,1,"65.00",686186797172,,0
+20012501,Thalia,[B-Stock] Thalia Premium Series/ Curly AAA Koa/ Black Chrome Premium Series,0,65,686186797172,,0
+10012519,Thalia,Thalia Gibson by THALIA Crown/ Gold Officially licensed Gibson Series,1,"77.00",686186801510,,0
+20012519,Thalia,[B-Stock] Thalia Gibson by THALIA Crown/ Gold Officially licensed Gibson Series,0,77,686186801510,,0
+10012526,Thalia,Thalia Gibson by THALIA Holly/ Chrome Officially licensed Gibson Series,1,"65.00",686186801589,,0
+20012526,Thalia,[B-Stock] Thalia Gibson by THALIA Holly/ Chrome Officially licensed Gibson Series,0,65,686186801589,,0
+10012529,Thalia,Thalia Taylor by THALIA White Pearl/ Blk Logo/ Gold Officially licensed Taylor Series,1,"77.00",686186801350,,0
+20012529,Thalia,[B-Stock] Thalia Taylor by THALIA White Pearl/ Blk Logo/ Gold Officially licensed Taylor Series,0,77,686186801350,,0
+10012482,Thalia,Thalia Shell Collection Capo/ Blue Abalone/ Gold Exotic Series,1,"57.00",686186795185,,0
+20012482,Thalia,[B-Stock] Thalia Shell Collection Capo/ Blue Abalone/ Gold Exotic Series,0,57,686186795185,,0
+10012483,Thalia,Thalia Shell Collection Capo/ Crimson Paua/ Gold Exotic Series,1,"57.00",686186795192,,0
+20012483,Thalia,[B-Stock] Thalia Shell Collection Capo/ Crimson Paua/ Gold Exotic Series,0,57,686186795192,,0
 10012491,Thalia,Thalia Wood Collection Capo/ Sapele/ Chrome Exotic Series,1,"45.00",686186795277,,0
 20012491,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sapele/ Chrome Exotic Series,0,45,686186795277,,0
-10012502,Thalia,Thalia Premium Series/ Curly AAA Koa/ Gold Premium Series,1,"62.00",686186797189,,0
-20012502,Thalia,[B-Stock] Thalia Premium Series/ Curly AAA Koa/ Gold Premium Series,0,62,686186797189,,0
-10012503,Thalia,Thalia Premium Series/ Vintage Pearl/ Black Chrome Premium Series,1,"62.00",686186797196,,0
-20012503,Thalia,[B-Stock] Thalia Premium Series/ Vintage Pearl/ Black Chrome Premium Series,0,62,686186797196,,0
-10012516,Thalia,Thalia Gibson by THALIA Hummingbird/ Gold Officially licensed Gibson Series,0,"64.00",686186801480,"2026-06-30 00:00:00",0
-20012516,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Gold Officially licensed Gibson Series,0,64,686186801480,"2026-06-30 00:00:00",0
-10012518,Thalia,Thalia Gibson by THALIA Split Parallelogram/ Gold Officially licensed Gibson Series,1,"64.00",686186801503,,0
-20012518,Thalia,[B-Stock] Thalia Gibson by THALIA Split Parallelogram/ Gold Officially licensed Gibson Series,0,64,686186801503,,0
-10012524,Thalia,Thalia Gibson by THALIA Split Parallelogram/ Chrome Officially licensed Gibson Series,1,"64.00",686186801565,,0
-20012524,Thalia,[B-Stock] Thalia Gibson by THALIA Split Parallelogram/ Chrome Officially licensed Gibson Series,0,64,686186801565,,0
-10012525,Thalia,Thalia Gibson by THALIA Crown/ Chrome Officially licensed Gibson Series,1,"64.00",686186801572,,0
-20012525,Thalia,[B-Stock] Thalia Gibson by THALIA Crown/ Chrome Officially licensed Gibson Series,0,64,686186801572,,0
-10012540,Thalia,Thalia Taylor by THALIA 400 Ser./ Renaissance/ Chrome Officially licensed Taylor Series,1,"64.00",686186801152,,0
-20012540,Thalia,[B-Stock] Thalia Taylor by THALIA 400 Ser./ Renaissance/ Chrome Officially licensed Taylor Series,0,64,686186801152,,0
-10012545,Thalia,Thalia Taylor by THALIA 900 Ser./ Ascension/ Chrome Officially licensed Taylor Series,1,"64.00",686186801244,,0
-20012545,Thalia,[B-Stock] Thalia Taylor by THALIA 900 Ser./ Ascension/ Chrome Officially licensed Taylor Series,0,64,686186801244,,0
-10012532,Thalia,Thalia Taylor by THALIA 400 Ser./ Renaissance/ Gold Officially licensed Taylor Series,1,"64.00",686186801152,,0
-20012532,Thalia,[B-Stock] Thalia Taylor by THALIA 400 Ser./ Renaissance/ Gold Officially licensed Taylor Series,0,64,686186801152,,0
-10012533,Thalia,Thalia Taylor by THALIA 500 Ser./ Century/ Gold Officially licensed Taylor Series,1,"64.00",686186801169,,0
-20012533,Thalia,[B-Stock] Thalia Taylor by THALIA 500 Ser./ Century/ Gold Officially licensed Taylor Series,0,64,686186801169,,0
-10013241,Thalia,Thalia Fender by THALIA Sunburst w/White Perine Logo Officially licensed Fender Series,1,"64.00",686186803941,,0
-20013241,Thalia,[B-Stock] Thalia Fender by THALIA Sunburst w/White Perine Logo Officially licensed Fender Series,0,64,686186803941,,0
-10013244,Thalia,Thalia Fender by THALIA Maple w/Black Perine Logo Officially licensed Fender Series,1,"64.00",686186803972,,0
-20013244,Thalia,[B-Stock] Thalia Fender by THALIA Maple w/Black Perine Logo Officially licensed Fender Series,0,64,686186803972,,0
-10013236,Thalia,Thalia Fender by THALIA Red Angel Wing w/White Peri. Logo Officially licensed Fender Series,1,"64.00",686186803897,,0
-20013236,Thalia,[B-Stock] Thalia Fender by THALIA Red Angel Wing w/White Peri. Logo Officially licensed Fender Series,0,64,686186803897,,0
+10012502,Thalia,Thalia Premium Series/ Curly AAA Koa/ Gold Premium Series,1,"77.00",686186797189,,0
+20012502,Thalia,[B-Stock] Thalia Premium Series/ Curly AAA Koa/ Gold Premium Series,0,77,686186797189,,0
+10012503,Thalia,Thalia Premium Series/ Vintage Pearl/ Black Chrome Premium Series,1,"65.00",686186797196,,0
+20012503,Thalia,[B-Stock] Thalia Premium Series/ Vintage Pearl/ Black Chrome Premium Series,0,65,686186797196,,0
+10012516,Thalia,Thalia Gibson by THALIA Hummingbird/ Gold Officially licensed Gibson Series,0,"77.00",686186801480,"2026-06-30 00:00:00",0
+20012516,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Gold Officially licensed Gibson Series,0,77,686186801480,"2026-06-30 00:00:00",0
+10012518,Thalia,Thalia Gibson by THALIA Split Parallelogram/ Gold Officially licensed Gibson Series,1,"77.00",686186801503,,0
+20012518,Thalia,[B-Stock] Thalia Gibson by THALIA Split Parallelogram/ Gold Officially licensed Gibson Series,0,77,686186801503,,0
+10012524,Thalia,Thalia Gibson by THALIA Split Parallelogram/ Chrome Officially licensed Gibson Series,1,"65.00",686186801565,,0
+20012524,Thalia,[B-Stock] Thalia Gibson by THALIA Split Parallelogram/ Chrome Officially licensed Gibson Series,0,65,686186801565,,0
+10012525,Thalia,Thalia Gibson by THALIA Crown/ Chrome Officially licensed Gibson Series,1,"65.00",686186801572,,0
+20012525,Thalia,[B-Stock] Thalia Gibson by THALIA Crown/ Chrome Officially licensed Gibson Series,0,65,686186801572,,0
+10012540,Thalia,Thalia Taylor by THALIA 400 Ser./ Renaissance/ Chrome Officially licensed Taylor Series,1,"65.00",686186801152,,0
+20012540,Thalia,[B-Stock] Thalia Taylor by THALIA 400 Ser./ Renaissance/ Chrome Officially licensed Taylor Series,0,65,686186801152,,0
+10012545,Thalia,Thalia Taylor by THALIA 900 Ser./ Ascension/ Chrome Officially licensed Taylor Series,1,"65.00",686186801244,,0
+20012545,Thalia,[B-Stock] Thalia Taylor by THALIA 900 Ser./ Ascension/ Chrome Officially licensed Taylor Series,0,65,686186801244,,0
+10012532,Thalia,Thalia Taylor by THALIA 400 Ser./ Renaissance/ Gold Officially licensed Taylor Series,1,"77.00",686186801152,,0
+20012532,Thalia,[B-Stock] Thalia Taylor by THALIA 400 Ser./ Renaissance/ Gold Officially licensed Taylor Series,0,77,686186801152,,0
+10012533,Thalia,Thalia Taylor by THALIA 500 Ser./ Century/ Gold Officially licensed Taylor Series,1,"77.00",686186801169,,0
+20012533,Thalia,[B-Stock] Thalia Taylor by THALIA 500 Ser./ Century/ Gold Officially licensed Taylor Series,0,77,686186801169,,0
+10013241,Thalia,Thalia Fender by THALIA Sunburst w/White Perine Logo Officially licensed Fender Series,1,"65.00",686186803941,,0
+20013241,Thalia,[B-Stock] Thalia Fender by THALIA Sunburst w/White Perine Logo Officially licensed Fender Series,0,65,686186803941,,0
+10013244,Thalia,Thalia Fender by THALIA Maple w/Black Perine Logo Officially licensed Fender Series,1,"65.00",686186803972,,0
+20013244,Thalia,[B-Stock] Thalia Fender by THALIA Maple w/Black Perine Logo Officially licensed Fender Series,0,65,686186803972,,0
+10013236,Thalia,Thalia Fender by THALIA Red Angel Wing w/White Peri. Logo Officially licensed Fender Series,1,"65.00",686186803897,,0
+20013236,Thalia,[B-Stock] Thalia Fender by THALIA Red Angel Wing w/White Peri. Logo Officially licensed Fender Series,0,65,686186803897,,0
 10013237,Thalia,Thalia Fender by THALIA Tortoise w/Gold Spaghetti Logo Officially licensed Fender Series,1,"64.00",686186803903,,0
 20013237,Thalia,[B-Stock] Thalia Fender by THALIA Tortoise w/Gold Spaghetti Logo Officially licensed Fender Series,0,64,686186803903,,0
-10012447,Thalia,Thalia Gibson by THALIA Crown/ Black Chrome Officially licensed Gibson Series,1,"64.00",686186799619,,0
-20012447,Thalia,[B-Stock] Thalia Gibson by THALIA Crown/ Black Chrome Officially licensed Gibson Series,0,64,686186799619,,0
-10012449,Thalia,Thalia Gibson by THALIA Soft Diamond/ Black Chrome Officially licensed Gibson Series,1,"64.00",686186799633,,0
-20012449,Thalia,[B-Stock] Thalia Gibson by THALIA Soft Diamond/ Black Chrome Officially licensed Gibson Series,0,64,686186799633,,0
-10012456,Thalia,Thalia Taylor by THALIA 700 Ser./ Reflections/ Blk Chrome Officially licensed Taylor Series,1,"64.00",686186800001,,0
-20012456,Thalia,[B-Stock] Thalia Taylor by THALIA 700 Ser./ Reflections/ Blk Chrome Officially licensed Taylor Series,0,64,686186800001,,0
-10012459,Thalia,Thalia Guild by THALIA Ebony/ V Block/ Black Chrome Officially licensed Guild Series,1,"64.00",686186799770,,0
-20012459,Thalia,[B-Stock] Thalia Guild by THALIA Ebony/ V Block/ Black Chrome Officially licensed Guild Series,0,64,686186799770,,0
+10012447,Thalia,Thalia Gibson by THALIA Crown/ Black Chrome Officially licensed Gibson Series,1,"65.00",686186799619,,0
+20012447,Thalia,[B-Stock] Thalia Gibson by THALIA Crown/ Black Chrome Officially licensed Gibson Series,0,65,686186799619,,0
+10012449,Thalia,Thalia Gibson by THALIA Soft Diamond/ Black Chrome Officially licensed Gibson Series,1,"65.00",686186799633,,0
+20012449,Thalia,[B-Stock] Thalia Gibson by THALIA Soft Diamond/ Black Chrome Officially licensed Gibson Series,0,65,686186799633,,0
+10012456,Thalia,Thalia Taylor by THALIA 700 Ser./ Reflections/ Blk Chrome Officially licensed Taylor Series,1,"65.00",686186800001,,0
+20012456,Thalia,[B-Stock] Thalia Taylor by THALIA 700 Ser./ Reflections/ Blk Chrome Officially licensed Taylor Series,0,65,686186800001,,0
+10012459,Thalia,Thalia Guild by THALIA Ebony/ V Block/ Black Chrome Officially licensed Guild Series,1,"65.00",686186799770,,0
+20012459,Thalia,[B-Stock] Thalia Guild by THALIA Ebony/ V Block/ Black Chrome Officially licensed Guild Series,0,65,686186799770,,0
 10012466,Thalia,Thalia Shell Collection Capo/ Green Angel Wing/ Chrome Exotic Series,1,"45.00",686186795024,,0
 20012466,Thalia,[B-Stock] Thalia Shell Collection Capo/ Green Angel Wing/ Chrome Exotic Series,0,45,686186795024,,0
 10012468,Thalia,Thalia Shell Collection Capo/ Purple Paua/ Chrome Exotic Series,1,"45.00",686186795048,,0
@@ -32697,26 +32717,26 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20012470,Thalia,[B-Stock] Thalia Shell Collection Capo/ Teal Angel Wing/ Chrome Exotic Series,0,45,686186795062,,0
 10012471,Thalia,Thalia Shell Collection Capo/ Tenn. Whisky Wing/ Chrome Exotic Series,1,"45.00",686186795079,,0
 20012471,Thalia,[B-Stock] Thalia Shell Collection Capo/ Tenn. Whisky Wing/ Chrome Exotic Series,0,45,686186795079,,0
-10012489,Thalia,Thalia Shell Collection Capo/ Tenn. Whisky/ Gold Exotic Series,1,"45.00",686186795253,,0
-20012489,Thalia,[B-Stock] Thalia Shell Collection Capo/ Tenn. Whisky/ Gold Exotic Series,0,45,686186795253,,0
-10012497,Thalia,Thalia Wood Collection Capo/ Sapele/ Gold Exotic Series,1,"45.00",686186795338,,0
-20012497,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sapele/ Gold Exotic Series,0,45,686186795338,,0
-10012517,Thalia,Thalia Gibson by THALIA Trapezoid/ Gold Officially licensed Gibson Series,1,"64.00",686186801497,,0
-20012517,Thalia,[B-Stock] Thalia Gibson by THALIA Trapezoid/ Gold Officially licensed Gibson Series,0,64,686186801497,,0
-10012523,Thalia,Thalia Gibson by THALIA Trapezoid/ Chrome Officially licensed Gibson Series,1,"64.00",686186801558,,0
-20012523,Thalia,[B-Stock] Thalia Gibson by THALIA Trapezoid/ Chrome Officially licensed Gibson Series,0,64,686186801558,,0
-10012537,Thalia,Thalia Taylor by THALIA White Pearl/ Blk Logo/ Chrome Officially licensed Taylor Series,1,"64.00",686186801190,,0
-20012537,Thalia,[B-Stock] Thalia Taylor by THALIA White Pearl/ Blk Logo/ Chrome Officially licensed Taylor Series,0,64,686186801190,,0
-10012538,Thalia,Thalia Taylor by THALIA Koa/ Blk Logo/ Chrome Officially licensed Taylor Series,1,"64.00",686186801381,,0
-20012538,Thalia,[B-Stock] Thalia Taylor by THALIA Koa/ Blk Logo/ Chrome Officially licensed Taylor Series,0,64,686186801381,,0
-10013242,Thalia,Thalia Fender by THALIA Sunburst w/Black Perine Logo Officially licensed Fender Series,1,"64.00",686186803958,,0
-20013242,Thalia,[B-Stock] Thalia Fender by THALIA Sunburst w/Black Perine Logo Officially licensed Fender Series,0,64,686186803958,,0
-10012442,Thalia,"Thalia Rubber Fret Pad Kit - 12"" 2pc Set - Standard/ High Tension",1,"4.80",686186795390,,0
-20012442,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 12"" 2pc Set - Standard/ High Tension",0,4.8,686186795390,,0
-10012452,Thalia,Thalia Taylor by THALIA 300 Ser./ Gemstone/ Blk Chrome Officially licensed Taylor Series,1,"64.00",686186799961,,0
-20012452,Thalia,[B-Stock] Thalia Taylor by THALIA 300 Ser./ Gemstone/ Blk Chrome Officially licensed Taylor Series,0,64,686186799961,,0
-10012461,Thalia,Thalia Guild by THALIA Koa/ Shield/ Black Chrome Officially licensed Guild Series,1,"64.00",686186799794,,0
-20012461,Thalia,[B-Stock] Thalia Guild by THALIA Koa/ Shield/ Black Chrome Officially licensed Guild Series,0,64,686186799794,,0
+10012489,Thalia,Thalia Shell Collection Capo/ Tenn. Whisky/ Gold Exotic Series,1,"57.00",686186795253,,0
+20012489,Thalia,[B-Stock] Thalia Shell Collection Capo/ Tenn. Whisky/ Gold Exotic Series,0,57,686186795253,,0
+10012497,Thalia,Thalia Wood Collection Capo/ Sapele/ Gold Exotic Series,1,"57.00",686186795338,,0
+20012497,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sapele/ Gold Exotic Series,0,57,686186795338,,0
+10012517,Thalia,Thalia Gibson by THALIA Trapezoid/ Gold Officially licensed Gibson Series,1,"77.00",686186801497,,0
+20012517,Thalia,[B-Stock] Thalia Gibson by THALIA Trapezoid/ Gold Officially licensed Gibson Series,0,77,686186801497,,0
+10012523,Thalia,Thalia Gibson by THALIA Trapezoid/ Chrome Officially licensed Gibson Series,1,"65.00",686186801558,,0
+20012523,Thalia,[B-Stock] Thalia Gibson by THALIA Trapezoid/ Chrome Officially licensed Gibson Series,0,65,686186801558,,0
+10012537,Thalia,Thalia Taylor by THALIA White Pearl/ Blk Logo/ Chrome Officially licensed Taylor Series,1,"65.00",686186801190,,0
+20012537,Thalia,[B-Stock] Thalia Taylor by THALIA White Pearl/ Blk Logo/ Chrome Officially licensed Taylor Series,0,65,686186801190,,0
+10012538,Thalia,Thalia Taylor by THALIA Koa/ Blk Logo/ Chrome Officially licensed Taylor Series,1,"65.00",686186801381,,0
+20012538,Thalia,[B-Stock] Thalia Taylor by THALIA Koa/ Blk Logo/ Chrome Officially licensed Taylor Series,0,65,686186801381,,0
+10013242,Thalia,Thalia Fender by THALIA Sunburst w/Black Perine Logo Officially licensed Fender Series,1,"65.00",686186803958,,0
+20013242,Thalia,[B-Stock] Thalia Fender by THALIA Sunburst w/Black Perine Logo Officially licensed Fender Series,0,65,686186803958,,0
+10012442,Thalia,"Thalia Rubber Fret Pad Kit - 12"" 2pc Set - Standard/ High Tension",1,"5.00",686186795390,,0
+20012442,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 12"" 2pc Set - Standard/ High Tension",0,5,686186795390,,0
+10012452,Thalia,Thalia Taylor by THALIA 300 Ser./ Gemstone/ Blk Chrome Officially licensed Taylor Series,1,"65.00",686186799961,,0
+20012452,Thalia,[B-Stock] Thalia Taylor by THALIA 300 Ser./ Gemstone/ Blk Chrome Officially licensed Taylor Series,0,65,686186799961,,0
+10012461,Thalia,Thalia Guild by THALIA Koa/ Shield/ Black Chrome Officially licensed Guild Series,1,"65.00",686186799794,,0
+20012461,Thalia,[B-Stock] Thalia Guild by THALIA Koa/ Shield/ Black Chrome Officially licensed Guild Series,0,65,686186799794,,0
 10012463,Thalia,Thalia Shell Collection Capo/ Ebony Inked/ Chrome Exotic Series,1,"45.00",686186794997,,0
 20012463,Thalia,[B-Stock] Thalia Shell Collection Capo/ Ebony Inked/ Chrome Exotic Series,0,45,686186794997,,0
 10012469,Thalia,Thalia Shell Collection Capo/ Red Angel Wing/ Chrome Exotic Series,1,"45.00",686186795055,,0
@@ -32725,74 +32745,74 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20012475,Thalia,[B-Stock] Thalia Shell Collection Capo/ Green Angel/ Black Chrome Exotic Series,0,45,686186795116,,0
 10012476,Thalia,Thalia Shell Collection Capo/ White MOP/ Black Chrome Exotic Series,1,"45.00",686186795123,,0
 20012476,Thalia,[B-Stock] Thalia Shell Collection Capo/ White MOP/ Black Chrome Exotic Series,0,45,686186795123,,0
-10012485,Thalia,Thalia Shell Collection Capo/ White MOP/ Gold Exotic Series,1,"45.00",686186795215,,0
-20012485,Thalia,[B-Stock] Thalia Shell Collection Capo/ White MOP/ Gold Exotic Series,0,45,686186795215,,0
+10012485,Thalia,Thalia Shell Collection Capo/ White MOP/ Gold Exotic Series,1,"57.00",686186795215,,0
+20012485,Thalia,[B-Stock] Thalia Shell Collection Capo/ White MOP/ Gold Exotic Series,0,57,686186795215,,0
 10012492,Thalia,Thalia Wood Collection Capo/ Koa AAA/ Chrome Exotic Series,1,"45.00",686186795284,,0
 20012492,Thalia,[B-Stock] Thalia Wood Collection Capo/ Koa AAA/ Chrome Exotic Series,0,45,686186795284,,0
 10012499,Thalia,Thalia Premium Series/ Pearl Dragon Scales/ Black Chrome Premium Series,1,"62.00",686186797158,,0
 20012499,Thalia,[B-Stock] Thalia Premium Series/ Pearl Dragon Scales/ Black Chrome Premium Series,0,62,686186797158,,0
-10012504,Thalia,Thalia Premium Series/ Vintage Pearl/ Gold Premium Series,1,"62.00",686186797202,,0
-20012504,Thalia,[B-Stock] Thalia Premium Series/ Vintage Pearl/ Gold Premium Series,0,62,686186797202,,0
-10012520,Thalia,Thalia Gibson by THALIA Holly/ Gold Officially licensed Gibson Series,1,"64.00",686186801527,,0
-20012520,Thalia,[B-Stock] Thalia Gibson by THALIA Holly/ Gold Officially licensed Gibson Series,0,64,686186801527,,0
-10012528,Thalia,Thalia Taylor by THALIA 900 Ser./ Ascension/ Black Chrome Officially licensed Taylor Series,0,"64.00",686186801251,"2026-06-30 00:00:00",0
-20012528,Thalia,[B-Stock] Thalia Taylor by THALIA 900 Ser./ Ascension/ Black Chrome Officially licensed Taylor Series,0,64,686186801251,"2026-06-30 00:00:00",0
-10012542,Thalia,Thalia Taylor by THALIA 600 Ser./ Wings/ Chrome Officially licensed Taylor Series,1,"64.00",686186801220,,0
-20012542,Thalia,[B-Stock] Thalia Taylor by THALIA 600 Ser./ Wings/ Chrome Officially licensed Taylor Series,0,64,686186801220,,0
-10012544,Thalia,Thalia Taylor by THALIA 800 Ser./ Element/ Blk Chrome Officially licensed Taylor Series,1,"64.00",686186801398,,0
-20012544,Thalia,[B-Stock] Thalia Taylor by THALIA 800 Ser./ Element/ Blk Chrome Officially licensed Taylor Series,0,64,686186801398,,0
+10012504,Thalia,Thalia Premium Series/ Vintage Pearl/ Gold Premium Series,1,"77.00",686186797202,,0
+20012504,Thalia,[B-Stock] Thalia Premium Series/ Vintage Pearl/ Gold Premium Series,0,77,686186797202,,0
+10012520,Thalia,Thalia Gibson by THALIA Holly/ Gold Officially licensed Gibson Series,1,"77.00",686186801527,,0
+20012520,Thalia,[B-Stock] Thalia Gibson by THALIA Holly/ Gold Officially licensed Gibson Series,0,77,686186801527,,0
+10012528,Thalia,Thalia Taylor by THALIA 900 Ser./ Ascension/ Black Chrome Officially licensed Taylor Series,0,"65.00",686186801251,"2026-06-30 00:00:00",0
+20012528,Thalia,[B-Stock] Thalia Taylor by THALIA 900 Ser./ Ascension/ Black Chrome Officially licensed Taylor Series,0,65,686186801251,"2026-06-30 00:00:00",0
+10012542,Thalia,Thalia Taylor by THALIA 600 Ser./ Wings/ Chrome Officially licensed Taylor Series,1,"65.00",686186801220,,0
+20012542,Thalia,[B-Stock] Thalia Taylor by THALIA 600 Ser./ Wings/ Chrome Officially licensed Taylor Series,0,65,686186801220,,0
+10012544,Thalia,Thalia Taylor by THALIA 800 Ser./ Element/ Blk Chrome Officially licensed Taylor Series,1,"65.00",686186801398,,0
+20012544,Thalia,[B-Stock] Thalia Taylor by THALIA 800 Ser./ Element/ Blk Chrome Officially licensed Taylor Series,0,65,686186801398,,0
 10013235,Thalia,Thalia Fender by THALIA Red Angel Wing w/White Spag. Logo Officially licensed Fender Series,1,"64.00",686186803880,,0
 20013235,Thalia,[B-Stock] Thalia Fender by THALIA Red Angel Wing w/White Spag. Logo Officially licensed Fender Series,0,64,686186803880,,0
 10013243,Thalia,Thalia Fender by THALIA Maple w/Black Spaghetti Logo Officially licensed Fender Series,1,"64.00",686186803965,,0
 20013243,Thalia,[B-Stock] Thalia Fender by THALIA Maple w/Black Spaghetti Logo Officially licensed Fender Series,0,64,686186803965,,0
-10012439,Thalia,"Thalia Rubber Fret Pad Kit - 7.25"" 2pc Set - Standard/ High Tension",1,"4.80",686186795369,,0
-20012439,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 7.25"" 2pc Set - Standard/ High Tension",0,4.8,686186795369,,0
-10012443,Thalia,"Thalia Rubber Fret Pad Kit - 15"" 2pc Set - Standard/ High Tension",1,"4.80",686186795413,,0
-20012443,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 15"" 2pc Set - Standard/ High Tension",0,4.8,686186795413,,0
-10012444,Thalia,"Thalia Rubber Fret Pad Kit - 16"" 2pc Set - Standard/ High Tension",1,"4.80",686186795420,,0
-20012444,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 16"" 2pc Set - Standard/ High Tension",0,4.8,686186795420,,0
-10012450,Thalia,Thalia Taylor by THALIA White Pearl/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,1,"64.00",686186799947,,0
-20012450,Thalia,[B-Stock] Thalia Taylor by THALIA White Pearl/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,0,64,686186799947,,0
-10012455,Thalia,Thalia Taylor by THALIA 600 Ser./ Wings/ Black Chrome Officially licensed Taylor Series,1,"64.00",686186799992,,0
-20012455,Thalia,[B-Stock] Thalia Taylor by THALIA 600 Ser./ Wings/ Black Chrome Officially licensed Taylor Series,0,64,686186799992,,0
-10012458,Thalia,Thalia Taylor by THALIA 900 Ser./ Ascension/ Gold Officially licensed Taylor Series,1,"64.00",686186800025,,0
-20012458,Thalia,[B-Stock] Thalia Taylor by THALIA 900 Ser./ Ascension/ Gold Officially licensed Taylor Series,0,64,686186800025,,0
-10012462,Thalia,Thalia Guild by THALIA Blue Abalone/ Shield/ Black Chrome Officially licensed Guild Series,1,"64.00",686186799800,,0
-20012462,Thalia,[B-Stock] Thalia Guild by THALIA Blue Abalone/ Shield/ Black Chrome Officially licensed Guild Series,0,64,686186799800,,0
+10012439,Thalia,"Thalia Rubber Fret Pad Kit - 7.25"" 2pc Set - Standard/ High Tension",1,"5.00",686186795369,,0
+20012439,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 7.25"" 2pc Set - Standard/ High Tension",0,5,686186795369,,0
+10012443,Thalia,"Thalia Rubber Fret Pad Kit - 15"" 2pc Set - Standard/ High Tension",1,"5.00",686186795413,,0
+20012443,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 15"" 2pc Set - Standard/ High Tension",0,5,686186795413,,0
+10012444,Thalia,"Thalia Rubber Fret Pad Kit - 16"" 2pc Set - Standard/ High Tension",1,"5.00",686186795420,,0
+20012444,Thalia,"[B-Stock] Thalia Rubber Fret Pad Kit - 16"" 2pc Set - Standard/ High Tension",0,5,686186795420,,0
+10012450,Thalia,Thalia Taylor by THALIA White Pearl/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,1,"65.00",686186799947,,0
+20012450,Thalia,[B-Stock] Thalia Taylor by THALIA White Pearl/ Blk Logo/ Blk Chrome Officially licensed Taylor Series,0,65,686186799947,,0
+10012455,Thalia,Thalia Taylor by THALIA 600 Ser./ Wings/ Black Chrome Officially licensed Taylor Series,1,"65.00",686186799992,,0
+20012455,Thalia,[B-Stock] Thalia Taylor by THALIA 600 Ser./ Wings/ Black Chrome Officially licensed Taylor Series,0,65,686186799992,,0
+10012458,Thalia,Thalia Taylor by THALIA 900 Ser./ Ascension/ Gold Officially licensed Taylor Series,1,"77.00",686186800025,,0
+20012458,Thalia,[B-Stock] Thalia Taylor by THALIA 900 Ser./ Ascension/ Gold Officially licensed Taylor Series,0,77,686186800025,,0
+10012462,Thalia,Thalia Guild by THALIA Blue Abalone/ Shield/ Black Chrome Officially licensed Guild Series,1,"65.00",686186799800,,0
+20012462,Thalia,[B-Stock] Thalia Guild by THALIA Blue Abalone/ Shield/ Black Chrome Officially licensed Guild Series,0,65,686186799800,,0
 10012474,Thalia,Thalia Shell Collection Capo/ Crimson Paua/ Black Chrome Exotic Series,1,"45.00",686186795109,,0
 20012474,Thalia,[B-Stock] Thalia Shell Collection Capo/ Crimson Paua/ Black Chrome Exotic Series,0,45,686186795109,,0
 10012477,Thalia,Thalia Shell Collection Capo/ Purple Paua/ Black Chrome Exotic Series,1,"45.00",686186795130,,0
 20012477,Thalia,[B-Stock] Thalia Shell Collection Capo/ Purple Paua/ Black Chrome Exotic Series,0,45,686186795130,,0
-10012486,Thalia,Thalia Shell Collection Capo/ Purple Paua/ Gold Exotic Series,1,"45.00",686186795222,,0
-20012486,Thalia,[B-Stock] Thalia Shell Collection Capo/ Purple Paua/ Gold Exotic Series,0,45,686186795222,,0
+10012486,Thalia,Thalia Shell Collection Capo/ Purple Paua/ Gold Exotic Series,1,"57.00",686186795222,,0
+20012486,Thalia,[B-Stock] Thalia Shell Collection Capo/ Purple Paua/ Gold Exotic Series,0,57,686186795222,,0
 10012490,Thalia,Thalia Wood Collection Capo/ Sant. Rosewood/ Chrome Exotic Series,1,"45.00",686186795260,,0
 20012490,Thalia,[B-Stock] Thalia Wood Collection Capo/ Sant. Rosewood/ Chrome Exotic Series,0,45,686186795260,,0
 10012495,Thalia,Thalia Wood Collection Capo/ Koa AAA/ Black Chrome Exotic Series,1,"45.00",686186795314,,0
 20012495,Thalia,[B-Stock] Thalia Wood Collection Capo/ Koa AAA/ Black Chrome Exotic Series,0,45,686186795314,,0
-10012498,Thalia,Thalia Wood Collection Capo/ Koa AAA/ Gold Exotic Series,1,"45.00",686186795345,,0
-20012498,Thalia,[B-Stock] Thalia Wood Collection Capo/ Koa AAA/ Gold Exotic Series,0,45,686186795345,,0
+10012498,Thalia,Thalia Wood Collection Capo/ Koa AAA/ Gold Exotic Series,1,"57.00",686186795345,,0
+20012498,Thalia,[B-Stock] Thalia Wood Collection Capo/ Koa AAA/ Gold Exotic Series,0,57,686186795345,,0
 10012521,Thalia,Thalia Gibson by THALIA Soft Diamond/ Gold Officially licensed Gibson Series,1,"64.00",686186801992,,0
 20012521,Thalia,[B-Stock] Thalia Gibson by THALIA Soft Diamond/ Gold Officially licensed Gibson Series,0,64,686186801992,,0
-10012522,Thalia,Thalia Gibson by THALIA Hummingbird/ Chrome Officially licensed Gibson Series,1,"64.00",686186801541,,0
-20012522,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Chrome Officially licensed Gibson Series,0,64,686186801541,,0
+10012522,Thalia,Thalia Gibson by THALIA Hummingbird/ Chrome Officially licensed Gibson Series,1,"65.00",686186801541,,0
+20012522,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Chrome Officially licensed Gibson Series,0,65,686186801541,,0
 10012527,Thalia,Thalia Gibson by THALIA Soft Diamond/ Chrome Officially licensed Gibson Series,1,"64.00",686186801985,,0
 20012527,Thalia,[B-Stock] Thalia Gibson by THALIA Soft Diamond/ Chrome Officially licensed Gibson Series,0,64,686186801985,,0
-10012534,Thalia,Thalia Taylor by THALIA 600 Ser./ Wings/ Gold Officially licensed Taylor Series,1,"64.00",686186801176,,0
-20012534,Thalia,[B-Stock] Thalia Taylor by THALIA 600 Ser./ Wings/ Gold Officially licensed Taylor Series,0,64,686186801176,,0
-10012535,Thalia,Thalia Taylor by THALIA 700 Ser./ Reflections/ Gold Officially licensed Taylor Series,1,"64.00",686186801183,,0
-20012535,Thalia,[B-Stock] Thalia Taylor by THALIA 700 Ser./ Reflections/ Gold Officially licensed Taylor Series,0,64,686186801183,,0
-10012541,Thalia,Thalia Taylor by THALIA 500 Ser./ Century/ Chrome Officially licensed Taylor Series,1,"64.00",686186801213,,0
-20012541,Thalia,[B-Stock] Thalia Taylor by THALIA 500 Ser./ Century/ Chrome Officially licensed Taylor Series,0,64,686186801213,,0
-10013238,Thalia,Thalia Fender by THALIA Tortoise w/Gold Perine Logo Officially licensed Fender Series,1,"64.00",686186803910,,0
-20013238,Thalia,[B-Stock] Thalia Fender by THALIA Tortoise w/Gold Perine Logo Officially licensed Fender Series,0,64,686186803910,,0
+10012534,Thalia,Thalia Taylor by THALIA 600 Ser./ Wings/ Gold Officially licensed Taylor Series,1,"77.00",686186801176,,0
+20012534,Thalia,[B-Stock] Thalia Taylor by THALIA 600 Ser./ Wings/ Gold Officially licensed Taylor Series,0,77,686186801176,,0
+10012535,Thalia,Thalia Taylor by THALIA 700 Ser./ Reflections/ Gold Officially licensed Taylor Series,1,"77.00",686186801183,,0
+20012535,Thalia,[B-Stock] Thalia Taylor by THALIA 700 Ser./ Reflections/ Gold Officially licensed Taylor Series,0,77,686186801183,,0
+10012541,Thalia,Thalia Taylor by THALIA 500 Ser./ Century/ Chrome Officially licensed Taylor Series,1,"65.00",686186801213,,0
+20012541,Thalia,[B-Stock] Thalia Taylor by THALIA 500 Ser./ Century/ Chrome Officially licensed Taylor Series,0,65,686186801213,,0
+10013238,Thalia,Thalia Fender by THALIA Tortoise w/Gold Perine Logo Officially licensed Fender Series,1,"65.00",686186803910,,0
+20013238,Thalia,[B-Stock] Thalia Fender by THALIA Tortoise w/Gold Perine Logo Officially licensed Fender Series,0,65,686186803910,,0
 10013239,Thalia,Thalia Fender by THALIA Sunburst w/White Spagh. Logo Officially licensed Fender Series,1,"64.00",686186803927,,0
 20013239,Thalia,[B-Stock] Thalia Fender by THALIA Sunburst w/White Spagh. Logo Officially licensed Fender Series,0,64,686186803927,,0
 10013240,Thalia,Thalia Fender by THALIA Sunburst w/Black Spagh. Logo Officially licensed Fender Series,1,"64.00",686186803934,,0
 20013240,Thalia,[B-Stock] Thalia Fender by THALIA Sunburst w/Black Spagh. Logo Officially licensed Fender Series,0,64,686186803934,,0
 10013245,Thalia,Thalia Fender by THALIA White MOP w/Black Spagh. Logo Officially licensed Fender Series,1,"64.00",686186803989,,0
 20013245,Thalia,[B-Stock] Thalia Fender by THALIA White MOP w/Black Spagh. Logo Officially licensed Fender Series,0,64,686186803989,,0
-10013246,Thalia,Thalia Fender by THALIA White MOP w/Black Perine Logo Officially licensed Fender Series,1,"64.00",686186803996,,0
-20013246,Thalia,[B-Stock] Thalia Fender by THALIA White MOP w/Black Perine Logo Officially licensed Fender Series,0,64,686186803996,,0
+10013246,Thalia,Thalia Fender by THALIA White MOP w/Black Perine Logo Officially licensed Fender Series,1,"65.00",686186803996,,0
+20013246,Thalia,[B-Stock] Thalia Fender by THALIA White MOP w/Black Perine Logo Officially licensed Fender Series,0,65,686186803996,,0
 10024064,Thalia,Thalia Fender Pick Puck - Red Angel Wing w/White Perine L Officially licensed Fender Series,1,"14.80",686186804016,,0
 20024064,Thalia,[B-Stock] Thalia Fender Pick Puck - Red Angel Wing w/White Perine L Officially licensed Fender Series,0,14.8,686186804016,,0
 10024065,Thalia,Thalia Fender Pick Puck - Tortoise w/Gold Hot Stamp Perin Officially licensed Fender Series,1,"14.80",686186804030,,0
@@ -32825,118 +32845,118 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20024079,Thalia,"[B-Stock] Thalia Guild 2.5"" Black Strap -Rosewood w/Guild Pearl Log Officially licensed Guild Series",0,48,686186799817,,0
 10024080,Thalia,"Thalia Guild 2/5"" Dark Chocolate Strap - Black Ebony w/Gu Officially licensed Guild Series",1,"48.00",686186799893,,0
 20024080,Thalia,"[B-Stock] Thalia Guild 2/5"" Dark Chocolate Strap - Black Ebony w/Gu Officially licensed Guild Series",0,48,686186799893,,0
-10024417,Thalia,Thalia Thalia Black Chrome Finish Capo - Texas Lone Star Deluxe Series Black Chrome,0,"0.00",686186796939,"2100-01-01 00:00:00",0
-20024417,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Texas Lone Star Deluxe Series Black Chrome,0,0,686186796939,"2100-01-01 00:00:00",0
-10024418,Thalia,Thalia Thalia Black Chrome Finish Capo - Stars & Stripes Deluxe Series Black Chrome,0,"0.00",686186797141,"2100-01-01 00:00:00",0
-20024418,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Stars & Stripes Deluxe Series Black Chrome,0,0,686186797141,"2100-01-01 00:00:00",0
-10024419,Thalia,Thalia Thalia Black Chrome Finish Capo - Birds on Pearl Deluxe Series Black Chrome,0,"0.00",686186796953,"2100-01-01 00:00:00",0
-20024419,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Birds on Pearl Deluxe Series Black Chrome,0,0,686186796953,"2100-01-01 00:00:00",0
-10024420,Thalia,Thalia Thalia Black Chrome Capo Finish - Stained Glass Deluxe Series Black Chrome,0,"0.00",686186796984,"2100-01-01 00:00:00",0
-20024420,Thalia,[B-Stock] Thalia Thalia Black Chrome Capo Finish - Stained Glass Deluxe Series Black Chrome,0,0,686186796984,"2100-01-01 00:00:00",0
-10024421,Thalia,Thalia Thalia Black Chrome Finish Capo - Mermaid Deluxe Series Black Chrome,0,"0.00",686186796991,"2100-01-01 00:00:00",0
-20024421,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Mermaid Deluxe Series Black Chrome,0,0,686186796991,"2100-01-01 00:00:00",0
-10024422,Thalia,Thalia Thalia Black Chrome Finish - Fouled Anchor Deluxe Series Black Chrome,0,"0.00",686186797004,"2100-01-01 00:00:00",0
-20024422,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish - Fouled Anchor Deluxe Series Black Chrome,0,0,686186797004,"2100-01-01 00:00:00",0
-10024423,Thalia,Thalia Thalia Black Chrome Capo - Flamed Maple Waves Deluxe Series Black Chrome,0,"0.00",686186797011,"2100-01-01 00:00:00",0
-20024423,Thalia,[B-Stock] Thalia Thalia Black Chrome Capo - Flamed Maple Waves Deluxe Series Black Chrome,0,0,686186797011,"2100-01-01 00:00:00",0
-10024424,Thalia,Thalia Thalia Black Chrome Finish Capo - Starry Night Deluxe Series Black Chrome,0,"0.00",686186797035,"2100-01-01 00:00:00",0
-20024424,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Starry Night Deluxe Series Black Chrome,0,0,686186797035,"2100-01-01 00:00:00",0
-10024425,Thalia,Thalia Thalia Black Chrome Finish Capo - Pearl Mandala Deluxe Series Black Chrome,0,"0.00",686186797042,"2100-01-01 00:00:00",0
-20024425,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Pearl Mandala Deluxe Series Black Chrome,0,0,686186797042,"2100-01-01 00:00:00",0
-10024426,Thalia,Thalia Thalia Black Chrome Finish Capo - Pearl Peacock Deluxe Series Black Chrome,0,"0.00",686186797059,"2100-01-01 00:00:00",0
-20024426,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Pearl Peacock Deluxe Series Black Chrome,0,0,686186797059,"2100-01-01 00:00:00",0
-10024427,Thalia,Thalia Thalia Black Chrome Finish Capo - Hummingbird Deluxe Series Black Chrome,0,"0.00",686186797066,"2100-01-01 00:00:00",0
-20024427,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Hummingbird Deluxe Series Black Chrome,0,0,686186797066,"2100-01-01 00:00:00",0
-10024428,Thalia,Thalia Thalia Black Chrome Finish Capo - Koa Nouveau Deluxe Series Black Chrome,0,"0.00",686186797080,"2100-01-01 00:00:00",0
-20024428,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Koa Nouveau Deluxe Series Black Chrome,0,0,686186797080,"2100-01-01 00:00:00",0
-10024429,Thalia,Thalia Thalia Black Chrome Finish - Crimson Phoenix Deluxe Series Black Chrome,0,"0.00",686186797097,"2100-01-01 00:00:00",0
-20024429,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish - Crimson Phoenix Deluxe Series Black Chrome,0,0,686186797097,"2100-01-01 00:00:00",0
-10024430,Thalia,Thalia Thalia Black Chrome Finish Capo - Pearl Tie-Dye Deluxe Series Black Chrome,0,"0.00",686186797103,"2100-01-01 00:00:00",0
-20024430,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Pearl Tie-Dye Deluxe Series Black Chrome,0,0,686186797103,"2100-01-01 00:00:00",0
-10024431,Thalia,Thalia Thalia Black Chrome Finish Capo - Azure Seas Deluxe Series Black Chrome,0,"0.00",686186797127,"2100-01-01 00:00:00",0
-20024431,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Azure Seas Deluxe Series Black Chrome,0,0,686186797127,"2100-01-01 00:00:00",0
-10024432,Thalia,Thalia Thalia Chrome Finish Capo - White Pearl Waves Deluxe Series Chrome,0,"0.00",686186796908,"2100-01-01 00:00:00",0
-20024432,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo - White Pearl Waves Deluxe Series Chrome,0,0,686186796908,"2100-01-01 00:00:00",0
-10024433,Thalia,Thalia Thalia Chrome Finish Capo - Stars & Stripes Deluxe Series Chrome,0,"0.00",686186796946,"2100-01-01 00:00:00",0
-20024433,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo - Stars & Stripes Deluxe Series Chrome,0,0,686186796946,"2100-01-01 00:00:00",0
-10024434,Thalia,Thalia Thalia Chrome Finish Capo - Texas Lone Star Deluxe Series Chrome,0,"0.00",686186797134,"2100-01-01 00:00:00",0
-20024434,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo - Texas Lone Star Deluxe Series Chrome,0,0,686186797134,"2100-01-01 00:00:00",0
-10024435,Thalia,Thalia Thalia Gold Finish Capo - Moon Phases on Pearl Deluxe Series Gold,0,"0.00",686186796977,"2100-01-01 00:00:00",0
-20024435,Thalia,[B-Stock] Thalia Thalia Gold Finish Capo - Moon Phases on Pearl Deluxe Series Gold,0,0,686186796977,"2100-01-01 00:00:00",0
-10024436,Thalia,Thalia Thalia Gold Finish Capo - Flamed Maple Waves Deluxe Series Gold,0,"0.00",686186797028,"2100-01-01 00:00:00",0
-20024436,Thalia,[B-Stock] Thalia Thalia Gold Finish Capo - Flamed Maple Waves Deluxe Series Gold,0,0,686186797028,"2100-01-01 00:00:00",0
-10024437,Thalia,Thalia Thalia Chrome Finish Capo w/Prism Abalone Inlay Exotic Series Shell Collection,0,"0.00",686186827749,"2100-01-01 00:00:00",0
-20024437,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Prism Abalone Inlay Exotic Series Shell Collection,0,0,686186827749,"2100-01-01 00:00:00",0
-10024438,Thalia,Thalia Thalia 24K Gold Finish Capo w/Paua Sparkle Inlay Exotic Series Shell Collection,0,"0.00",686186827817,"2100-01-01 00:00:00",0
-20024438,Thalia,[B-Stock] Thalia Thalia 24K Gold Finish Capo w/Paua Sparkle Inlay Exotic Series Shell Collection,0,0,686186827817,"2100-01-01 00:00:00",0
-10024439,Thalia,Thalia Thalia Chrome Finish Capo w/Purple Sparkle Inlay Exotic Series Sparkle Collection,0,"0.00",686186835065,"2100-01-01 00:00:00",0
-20024439,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Purple Sparkle Inlay Exotic Series Sparkle Collection,0,0,686186835065,"2100-01-01 00:00:00",0
-10024440,Thalia,Thalia Thalia Chrome Finish Capo w/Red Sparkle Inlay Exotic Series Sparkle Collection,0,"0.00",686186835331,"2100-01-01 00:00:00",0
-20024440,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Red Sparkle Inlay Exotic Series Sparkle Collection,0,0,686186835331,"2100-01-01 00:00:00",0
-10024441,Thalia,Thalia Thalia Chrome Finish Capo w/Silver Sparkle Inlay Exotic Series Sparkle Collection,0,"0.00",686186835157,"2100-01-01 00:00:00",0
-20024441,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Silver Sparkle Inlay Exotic Series Sparkle Collection,0,0,686186835157,"2100-01-01 00:00:00",0
-10024442,Thalia,Thalia Thalia 24K Gold Finish Capo w/Green Sparkle Inlay Exotic Series Sparkle Collection,0,"0.00",686186835447,"2100-01-01 00:00:00",0
-20024442,Thalia,[B-Stock] Thalia Thalia 24K Gold Finish Capo w/Green Sparkle Inlay Exotic Series Sparkle Collection,0,0,686186835447,"2100-01-01 00:00:00",0
-10024443,Thalia,Thalia Thalia 24K Gold Finish Capo w/Yellow Sparkle Inlay Exotic Series Sparkle Collection,0,"0.00",686186835263,"2100-01-01 00:00:00",0
-20024443,Thalia,[B-Stock] Thalia Thalia 24K Gold Finish Capo w/Yellow Sparkle Inlay Exotic Series Sparkle Collection,0,0,686186835263,"2100-01-01 00:00:00",0
-10024444,Thalia,Thalia Gibson Chrome. Capo - Split Diamond Officially Licensed Gibson Guitars,0,"0.00",686186801596,"2100-01-01 00:00:00",0
-20024444,Thalia,[B-Stock] Thalia Gibson Chrome. Capo - Split Diamond Officially Licensed Gibson Guitars,0,0,686186801596,"2100-01-01 00:00:00",0
-10024445,Thalia,Thalia Gibson Gold. Capo - Split Diamond Officially Licensed Gibson Guitars,0,"0.00",686186801534,"2100-01-01 00:00:00",0
-20024445,Thalia,[B-Stock] Thalia Gibson Gold. Capo - Split Diamond Officially Licensed Gibson Guitars,0,0,686186801534,"2100-01-01 00:00:00",0
-10024446,Thalia,Thalia Guild Chrome Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,"0.00",686186801466,"2100-01-01 00:00:00",0
-20024446,Thalia,[B-Stock] Thalia Guild Chrome Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,0,686186801466,"2100-01-01 00:00:00",0
-10024447,Thalia,Thalia Guild Chrome Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,"0.00",686186801473,"2100-01-01 00:00:00",0
-20024447,Thalia,[B-Stock] Thalia Guild Chrome Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,0,686186801473,"2100-01-01 00:00:00",0
-10024448,Thalia,Thalia Guild Gold Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,"0.00",686186801428,"2100-01-01 00:00:00",0
-20024448,Thalia,[B-Stock] Thalia Guild Gold Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,0,686186801428,"2100-01-01 00:00:00",0
-10024449,Thalia,Thalia Guild Gold Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,"0.00",686186801435,"2100-01-01 00:00:00",0
-20024449,Thalia,[B-Stock] Thalia Guild Gold Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,0,686186801435,"2100-01-01 00:00:00",0
-10024450,Thalia,Thalia Thalia Black Chrome - White Pearl Waves Deluxe Series Black Chrome,0,"0.00",686186796892,"2100-01-01 00:00:00",0
-20024450,Thalia,[B-Stock] Thalia Thalia Black Chrome - White Pearl Waves Deluxe Series Black Chrome,0,0,686186796892,"2100-01-01 00:00:00",0
-10024451,Thalia,Thalia Thalia Black Chrome - Hawaiian Koa Celtic Knot Deluxe Series Black Chrome,0,"0.00",686186796915,"2100-01-01 00:00:00",0
-20024451,Thalia,[B-Stock] Thalia Thalia Black Chrome - Hawaiian Koa Celtic Knot Deluxe Series Black Chrome,0,0,686186796915,"2100-01-01 00:00:00",0
-10024452,Thalia,Thalia Thalia Black Chrome - Dark Side of Pearl Deluxe Series Black Chrome,0,"0.00",686186796922,"2100-01-01 00:00:00",0
-20024452,Thalia,[B-Stock] Thalia Thalia Black Chrome - Dark Side of Pearl Deluxe Series Black Chrome,0,0,686186796922,"2100-01-01 00:00:00",0
-10024453,Thalia,Thalia Thalia Black Chrome - Moon Phases on Pearl Deluxe Series Black Chrome,0,"0.00",686186796960,"2100-01-01 00:00:00",0
-20024453,Thalia,[B-Stock] Thalia Thalia Black Chrome - Moon Phases on Pearl Deluxe Series Black Chrome,0,0,686186796960,"2100-01-01 00:00:00",0
-10024454,Thalia,Thalia Thalia Black Chrome - Koi Pond of Pearl Deluxe Series Black Chrome,0,"0.00",686186797073,"2100-01-01 00:00:00",0
-20024454,Thalia,[B-Stock] Thalia Thalia Black Chrome - Koi Pond of Pearl Deluxe Series Black Chrome,0,0,686186797073,"2100-01-01 00:00:00",0
-10024455,Thalia,Thalia Thalia Black Chrome - The Wall of Pearl Deluxe Series Black Chrome,0,"0.00",686186797110,"2100-01-01 00:00:00",0
-20024455,Thalia,[B-Stock] Thalia Thalia Black Chrome - The Wall of Pearl Deluxe Series Black Chrome,0,0,686186797110,"2100-01-01 00:00:00",0
-10024456,Thalia,Thalia Thalia Black Chrome - Pearl Dragon Scales Deluxe Series Black Chrome,0,"0.00",686186827855,"2100-01-01 00:00:00",0
-20024456,Thalia,[B-Stock] Thalia Thalia Black Chrome - Pearl Dragon Scales Deluxe Series Black Chrome,0,0,686186827855,"2100-01-01 00:00:00",0
-10024457,Thalia,Thalia Thalia Black Chrome - Black Dragon Scales Deluxe Series Black Chrome,0,"0.00",686186827862,"2100-01-01 00:00:00",0
-20024457,Thalia,[B-Stock] Thalia Thalia Black Chrome - Black Dragon Scales Deluxe Series Black Chrome,0,0,686186827862,"2100-01-01 00:00:00",0
-10024458,Thalia,Thalia Thalia Black Chrome w/Aurora Abalone Exotic Series Shell Collection,0,"0.00",686186827664,"2100-01-01 00:00:00",0
-20024458,Thalia,[B-Stock] Thalia Thalia Black Chrome w/Aurora Abalone Exotic Series Shell Collection,0,0,686186827664,"2100-01-01 00:00:00",0
-10024459,Thalia,Thalia Thalia Black Chrome w/Kentucky Bourbon Abalone Exotic Series Shell Collection,0,"0.00",686186827763,"2100-01-01 00:00:00",0
-20024459,Thalia,[B-Stock] Thalia Thalia Black Chrome w/Kentucky Bourbon Abalone Exotic Series Shell Collection,0,0,686186827763,"2100-01-01 00:00:00",0
-10024460,Thalia,Thalia Thalia Chrome w/Maya Blue Mexican Abalone Exotic Series Shell Collection,0,"0.00",686186827732,"2100-01-01 00:00:00",0
-20024460,Thalia,[B-Stock] Thalia Thalia Chrome w/Maya Blue Mexican Abalone Exotic Series Shell Collection,0,0,686186827732,"2100-01-01 00:00:00",0
-10024461,Thalia,Thalia Thalia 24K Gold w/Emerald Green Abalone Exotic Series Shell Collection,0,"0.00",686186827770,"2100-01-01 00:00:00",0
-20024461,Thalia,[B-Stock] Thalia Thalia 24K Gold w/Emerald Green Abalone Exotic Series Shell Collection,0,0,686186827770,"2100-01-01 00:00:00",0
-10024462,Thalia,Thalia Thalia Black Chrome w/Blue Sparkle Exotic Series Sparkle Collection,0,"0.00",686186834983,"2100-01-01 00:00:00",0
-20024462,Thalia,[B-Stock] Thalia Thalia Black Chrome w/Blue Sparkle Exotic Series Sparkle Collection,0,0,686186834983,"2100-01-01 00:00:00",0
-10024463,Thalia,Thalia Guild Chrome - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,"0.00",686186801442,"2100-01-01 00:00:00",0
-20024463,Thalia,[B-Stock] Thalia Guild Chrome - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,0,686186801442,"2100-01-01 00:00:00",0
-10024464,Thalia,Thalia Guild Chrome - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,"0.00",686186801459,"2100-01-01 00:00:00",0
-20024464,Thalia,[B-Stock] Thalia Guild Chrome - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,0,686186801459,"2100-01-01 00:00:00",0
-10024465,Thalia,Thalia Guild Gold - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,"0.00",686186801404,"2100-01-01 00:00:00",0
-20024465,Thalia,[B-Stock] Thalia Guild Gold - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,0,686186801404,"2100-01-01 00:00:00",0
-10024466,Thalia,Thalia Guild Gold - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,"0.00",686186801411,"2100-01-01 00:00:00",0
-20024466,Thalia,[B-Stock] Thalia Guild Gold - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,0,686186801411,"2100-01-01 00:00:00",0
-10024467,Thalia,"Thalia Ocean Works, Full Logo - Black Chrome Officially Licensed OceanWorks",0,"0.00",686186806348,"2100-01-01 00:00:00",0
-20024467,Thalia,"[B-Stock] Thalia Ocean Works, Full Logo - Black Chrome Officially Licensed OceanWorks",0,0,686186806348,"2100-01-01 00:00:00",0
-10024468,Thalia,"Thalia Ocean Works, Partial Logo - Black Chrome Officially Licensed OceanWorks",0,"0.00",686186806355,"2100-01-01 00:00:00",0
-20024468,Thalia,"[B-Stock] Thalia Ocean Works, Partial Logo - Black Chrome Officially Licensed OceanWorks",0,0,686186806355,"2100-01-01 00:00:00",0
-10024469,Thalia,"Thalia Ocean Works, Full Logo - Chrome Officially Licensed OceanWorks",0,"0.00",686186806324,"2100-01-01 00:00:00",0
-20024469,Thalia,"[B-Stock] Thalia Ocean Works, Full Logo - Chrome Officially Licensed OceanWorks",0,0,686186806324,"2100-01-01 00:00:00",0
-10024470,Thalia,"Thalia Ocean Works, Partial Logo - Chrome Officially Licensed OceanWorks",0,"0.00",686186806331,"2100-01-01 00:00:00",0
-20024470,Thalia,"[B-Stock] Thalia Ocean Works, Partial Logo - Chrome Officially Licensed OceanWorks",0,0,686186806331,"2100-01-01 00:00:00",0
-10024471,Thalia,"Thalia Ocean Works, Full Logo - 24K Gold Officially Licensed OceanWorks",0,"0.00",686186806300,"2100-01-01 00:00:00",0
-20024471,Thalia,"[B-Stock] Thalia Ocean Works, Full Logo - 24K Gold Officially Licensed OceanWorks",0,0,686186806300,"2100-01-01 00:00:00",0
-10024472,Thalia,"Thalia Ocean Works, Partial Logo - 24K Gold Officially Licensed OceanWorks",0,"0.00",686186806317,"2100-01-01 00:00:00",0
-20024472,Thalia,"[B-Stock] Thalia Ocean Works, Partial Logo - 24K Gold Officially Licensed OceanWorks",0,0,686186806317,"2100-01-01 00:00:00",0
+10024417,Thalia,Thalia Thalia Black Chrome Finish Capo - Texas Lone Star Deluxe Series Black Chrome,0,"57.00",686186796939,"2100-01-01 00:00:00",0
+20024417,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Texas Lone Star Deluxe Series Black Chrome,0,57,686186796939,"2100-01-01 00:00:00",0
+10024418,Thalia,Thalia Thalia Black Chrome Finish Capo - Stars & Stripes Deluxe Series Black Chrome,0,"57.00",686186797141,"2100-01-01 00:00:00",0
+20024418,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Stars & Stripes Deluxe Series Black Chrome,0,57,686186797141,"2100-01-01 00:00:00",0
+10024419,Thalia,Thalia Thalia Black Chrome Finish Capo - Birds on Pearl Deluxe Series Black Chrome,0,"57.00",686186796953,"2100-01-01 00:00:00",0
+20024419,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Birds on Pearl Deluxe Series Black Chrome,0,57,686186796953,"2100-01-01 00:00:00",0
+10024420,Thalia,Thalia Thalia Black Chrome Capo Finish - Stained Glass Deluxe Series Black Chrome,0,"57.00",686186796984,"2100-01-01 00:00:00",0
+20024420,Thalia,[B-Stock] Thalia Thalia Black Chrome Capo Finish - Stained Glass Deluxe Series Black Chrome,0,57,686186796984,"2100-01-01 00:00:00",0
+10024421,Thalia,Thalia Thalia Black Chrome Finish Capo - Mermaid Deluxe Series Black Chrome,0,"57.00",686186796991,"2100-01-01 00:00:00",0
+20024421,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Mermaid Deluxe Series Black Chrome,0,57,686186796991,"2100-01-01 00:00:00",0
+10024422,Thalia,Thalia Thalia Black Chrome Finish - Fouled Anchor Deluxe Series Black Chrome,0,"57.00",686186797004,"2100-01-01 00:00:00",0
+20024422,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish - Fouled Anchor Deluxe Series Black Chrome,0,57,686186797004,"2100-01-01 00:00:00",0
+10024423,Thalia,Thalia Thalia Black Chrome Capo - Flamed Maple Waves Deluxe Series Black Chrome,0,"57.00",686186797011,"2100-01-01 00:00:00",0
+20024423,Thalia,[B-Stock] Thalia Thalia Black Chrome Capo - Flamed Maple Waves Deluxe Series Black Chrome,0,57,686186797011,"2100-01-01 00:00:00",0
+10024424,Thalia,Thalia Thalia Black Chrome Finish Capo - Starry Night Deluxe Series Black Chrome,0,"57.00",686186797035,"2100-01-01 00:00:00",0
+20024424,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Starry Night Deluxe Series Black Chrome,0,57,686186797035,"2100-01-01 00:00:00",0
+10024425,Thalia,Thalia Thalia Black Chrome Finish Capo - Pearl Mandala Deluxe Series Black Chrome,0,"57.00",686186797042,"2100-01-01 00:00:00",0
+20024425,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Pearl Mandala Deluxe Series Black Chrome,0,57,686186797042,"2100-01-01 00:00:00",0
+10024426,Thalia,Thalia Thalia Black Chrome Finish Capo - Pearl Peacock Deluxe Series Black Chrome,0,"57.00",686186797059,"2100-01-01 00:00:00",0
+20024426,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Pearl Peacock Deluxe Series Black Chrome,0,57,686186797059,"2100-01-01 00:00:00",0
+10024427,Thalia,Thalia Thalia Black Chrome Finish Capo - Hummingbird Deluxe Series Black Chrome,0,"57.00",686186797066,"2100-01-01 00:00:00",0
+20024427,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Hummingbird Deluxe Series Black Chrome,0,57,686186797066,"2100-01-01 00:00:00",0
+10024428,Thalia,Thalia Thalia Black Chrome Finish Capo - Koa Nouveau Deluxe Series Black Chrome,0,"57.00",686186797080,"2100-01-01 00:00:00",0
+20024428,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Koa Nouveau Deluxe Series Black Chrome,0,57,686186797080,"2100-01-01 00:00:00",0
+10024429,Thalia,Thalia Thalia Black Chrome Finish - Crimson Phoenix Deluxe Series Black Chrome,0,"57.00",686186797097,"2100-01-01 00:00:00",0
+20024429,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish - Crimson Phoenix Deluxe Series Black Chrome,0,57,686186797097,"2100-01-01 00:00:00",0
+10024430,Thalia,Thalia Thalia Black Chrome Finish Capo - Pearl Tie-Dye Deluxe Series Black Chrome,0,"57.00",686186797103,"2100-01-01 00:00:00",0
+20024430,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Pearl Tie-Dye Deluxe Series Black Chrome,0,57,686186797103,"2100-01-01 00:00:00",0
+10024431,Thalia,Thalia Thalia Black Chrome Finish Capo - Azure Seas Deluxe Series Black Chrome,0,"57.00",686186797127,"2100-01-01 00:00:00",0
+20024431,Thalia,[B-Stock] Thalia Thalia Black Chrome Finish Capo - Azure Seas Deluxe Series Black Chrome,0,57,686186797127,"2100-01-01 00:00:00",0
+10024432,Thalia,Thalia Thalia Chrome Finish Capo - White Pearl Waves Deluxe Series Chrome,0,"57.00",686186796908,"2100-01-01 00:00:00",0
+20024432,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo - White Pearl Waves Deluxe Series Chrome,0,57,686186796908,"2100-01-01 00:00:00",0
+10024433,Thalia,Thalia Thalia Chrome Finish Capo - Stars & Stripes Deluxe Series Chrome,0,"57.00",686186796946,"2100-01-01 00:00:00",0
+20024433,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo - Stars & Stripes Deluxe Series Chrome,0,57,686186796946,"2100-01-01 00:00:00",0
+10024434,Thalia,Thalia Thalia Chrome Finish Capo - Texas Lone Star Deluxe Series Chrome,0,"57.00",686186797134,"2100-01-01 00:00:00",0
+20024434,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo - Texas Lone Star Deluxe Series Chrome,0,57,686186797134,"2100-01-01 00:00:00",0
+10024435,Thalia,Thalia Thalia Gold Finish Capo - Moon Phases on Pearl Deluxe Series Gold,0,"69.00",686186796977,"2100-01-01 00:00:00",0
+20024435,Thalia,[B-Stock] Thalia Thalia Gold Finish Capo - Moon Phases on Pearl Deluxe Series Gold,0,69,686186796977,"2100-01-01 00:00:00",0
+10024436,Thalia,Thalia Thalia Gold Finish Capo - Flamed Maple Waves Deluxe Series Gold,0,"69.00",686186797028,"2100-01-01 00:00:00",0
+20024436,Thalia,[B-Stock] Thalia Thalia Gold Finish Capo - Flamed Maple Waves Deluxe Series Gold,0,69,686186797028,"2100-01-01 00:00:00",0
+10024437,Thalia,Thalia Thalia Chrome Finish Capo w/Prism Abalone Inlay Exotic Series Shell Collection,0,"45.00",686186827749,"2100-01-01 00:00:00",0
+20024437,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Prism Abalone Inlay Exotic Series Shell Collection,0,45,686186827749,"2100-01-01 00:00:00",0
+10024438,Thalia,Thalia Thalia 24K Gold Finish Capo w/Paua Sparkle Inlay Exotic Series Shell Collection,0,"57.00",686186827817,"2100-01-01 00:00:00",0
+20024438,Thalia,[B-Stock] Thalia Thalia 24K Gold Finish Capo w/Paua Sparkle Inlay Exotic Series Shell Collection,0,57,686186827817,"2100-01-01 00:00:00",0
+10024439,Thalia,Thalia Thalia Chrome Finish Capo w/Purple Sparkle Inlay Exotic Series Sparkle Collection,0,"45.00",686186835065,"2100-01-01 00:00:00",0
+20024439,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Purple Sparkle Inlay Exotic Series Sparkle Collection,0,45,686186835065,"2100-01-01 00:00:00",0
+10024440,Thalia,Thalia Thalia Chrome Finish Capo w/Red Sparkle Inlay Exotic Series Sparkle Collection,0,"45.00",686186835331,"2100-01-01 00:00:00",0
+20024440,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Red Sparkle Inlay Exotic Series Sparkle Collection,0,45,686186835331,"2100-01-01 00:00:00",0
+10024441,Thalia,Thalia Thalia Chrome Finish Capo w/Silver Sparkle Inlay Exotic Series Sparkle Collection,0,"45.00",686186835157,"2100-01-01 00:00:00",0
+20024441,Thalia,[B-Stock] Thalia Thalia Chrome Finish Capo w/Silver Sparkle Inlay Exotic Series Sparkle Collection,0,45,686186835157,"2100-01-01 00:00:00",0
+10024442,Thalia,Thalia Thalia 24K Gold Finish Capo w/Green Sparkle Inlay Exotic Series Sparkle Collection,0,"57.00",686186835447,"2100-01-01 00:00:00",0
+20024442,Thalia,[B-Stock] Thalia Thalia 24K Gold Finish Capo w/Green Sparkle Inlay Exotic Series Sparkle Collection,0,57,686186835447,"2100-01-01 00:00:00",0
+10024443,Thalia,Thalia Thalia 24K Gold Finish Capo w/Yellow Sparkle Inlay Exotic Series Sparkle Collection,0,"57.00",686186835263,"2100-01-01 00:00:00",0
+20024443,Thalia,[B-Stock] Thalia Thalia 24K Gold Finish Capo w/Yellow Sparkle Inlay Exotic Series Sparkle Collection,0,57,686186835263,"2100-01-01 00:00:00",0
+10024444,Thalia,Thalia Gibson Chrome. Capo - Split Diamond Officially Licensed Gibson Guitars,0,"65.00",686186801596,"2100-01-01 00:00:00",0
+20024444,Thalia,[B-Stock] Thalia Gibson Chrome. Capo - Split Diamond Officially Licensed Gibson Guitars,0,65,686186801596,"2100-01-01 00:00:00",0
+10024445,Thalia,Thalia Gibson Gold. Capo - Split Diamond Officially Licensed Gibson Guitars,0,"77.00",686186801534,"2100-01-01 00:00:00",0
+20024445,Thalia,[B-Stock] Thalia Gibson Gold. Capo - Split Diamond Officially Licensed Gibson Guitars,0,77,686186801534,"2100-01-01 00:00:00",0
+10024446,Thalia,Thalia Guild Chrome Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,"65.00",686186801466,"2100-01-01 00:00:00",0
+20024446,Thalia,[B-Stock] Thalia Guild Chrome Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,65,686186801466,"2100-01-01 00:00:00",0
+10024447,Thalia,Thalia Guild Chrome Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,"65.00",686186801473,"2100-01-01 00:00:00",0
+20024447,Thalia,[B-Stock] Thalia Guild Chrome Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,65,686186801473,"2100-01-01 00:00:00",0
+10024448,Thalia,Thalia Guild Gold Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,"77.00",686186801428,"2100-01-01 00:00:00",0
+20024448,Thalia,[B-Stock] Thalia Guild Gold Finish Capo - Koa w/G Shield Officially Licensed Guild Guitars,0,77,686186801428,"2100-01-01 00:00:00",0
+10024449,Thalia,Thalia Guild Gold Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,"77.00",686186801435,"2100-01-01 00:00:00",0
+20024449,Thalia,[B-Stock] Thalia Guild Gold Finish Capo - Blue Abalone w/G Shield Officially Licensed Guild Guitars,0,77,686186801435,"2100-01-01 00:00:00",0
+10024450,Thalia,Thalia Thalia Black Chrome - White Pearl Waves Deluxe Series Black Chrome,0,"57.00",686186796892,"2100-01-01 00:00:00",0
+20024450,Thalia,[B-Stock] Thalia Thalia Black Chrome - White Pearl Waves Deluxe Series Black Chrome,0,57,686186796892,"2100-01-01 00:00:00",0
+10024451,Thalia,Thalia Thalia Black Chrome - Hawaiian Koa Celtic Knot Deluxe Series Black Chrome,0,"57.00",686186796915,"2100-01-01 00:00:00",0
+20024451,Thalia,[B-Stock] Thalia Thalia Black Chrome - Hawaiian Koa Celtic Knot Deluxe Series Black Chrome,0,57,686186796915,"2100-01-01 00:00:00",0
+10024452,Thalia,Thalia Thalia Black Chrome - Dark Side of Pearl Deluxe Series Black Chrome,0,"57.00",686186796922,"2100-01-01 00:00:00",0
+20024452,Thalia,[B-Stock] Thalia Thalia Black Chrome - Dark Side of Pearl Deluxe Series Black Chrome,0,57,686186796922,"2100-01-01 00:00:00",0
+10024453,Thalia,Thalia Thalia Black Chrome - Moon Phases on Pearl Deluxe Series Black Chrome,0,"57.00",686186796960,"2100-01-01 00:00:00",0
+20024453,Thalia,[B-Stock] Thalia Thalia Black Chrome - Moon Phases on Pearl Deluxe Series Black Chrome,0,57,686186796960,"2100-01-01 00:00:00",0
+10024454,Thalia,Thalia Thalia Black Chrome - Koi Pond of Pearl Deluxe Series Black Chrome,0,"57.00",686186797073,"2100-01-01 00:00:00",0
+20024454,Thalia,[B-Stock] Thalia Thalia Black Chrome - Koi Pond of Pearl Deluxe Series Black Chrome,0,57,686186797073,"2100-01-01 00:00:00",0
+10024455,Thalia,Thalia Thalia Black Chrome - The Wall of Pearl Deluxe Series Black Chrome,0,"57.00",686186797110,"2100-01-01 00:00:00",0
+20024455,Thalia,[B-Stock] Thalia Thalia Black Chrome - The Wall of Pearl Deluxe Series Black Chrome,0,57,686186797110,"2100-01-01 00:00:00",0
+10024456,Thalia,Thalia Thalia Black Chrome - Pearl Dragon Scales Deluxe Series Black Chrome,0,"57.00",686186827855,"2100-01-01 00:00:00",0
+20024456,Thalia,[B-Stock] Thalia Thalia Black Chrome - Pearl Dragon Scales Deluxe Series Black Chrome,0,57,686186827855,"2100-01-01 00:00:00",0
+10024457,Thalia,Thalia Thalia Black Chrome - Black Dragon Scales Deluxe Series Black Chrome,0,"57.00",686186827862,"2100-01-01 00:00:00",0
+20024457,Thalia,[B-Stock] Thalia Thalia Black Chrome - Black Dragon Scales Deluxe Series Black Chrome,0,57,686186827862,"2100-01-01 00:00:00",0
+10024458,Thalia,Thalia Thalia Black Chrome w/Aurora Abalone Exotic Series Shell Collection,0,"45.00",686186827664,"2100-01-01 00:00:00",0
+20024458,Thalia,[B-Stock] Thalia Thalia Black Chrome w/Aurora Abalone Exotic Series Shell Collection,0,45,686186827664,"2100-01-01 00:00:00",0
+10024459,Thalia,Thalia Thalia Black Chrome w/Kentucky Bourbon Abalone Exotic Series Shell Collection,0,"45.00",686186827763,"2100-01-01 00:00:00",0
+20024459,Thalia,[B-Stock] Thalia Thalia Black Chrome w/Kentucky Bourbon Abalone Exotic Series Shell Collection,0,45,686186827763,"2100-01-01 00:00:00",0
+10024460,Thalia,Thalia Thalia Chrome w/Maya Blue Mexican Abalone Exotic Series Shell Collection,0,"45.00",686186827732,"2100-01-01 00:00:00",0
+20024460,Thalia,[B-Stock] Thalia Thalia Chrome w/Maya Blue Mexican Abalone Exotic Series Shell Collection,0,45,686186827732,"2100-01-01 00:00:00",0
+10024461,Thalia,Thalia Thalia 24K Gold w/Emerald Green Abalone Exotic Series Shell Collection,0,"57.00",686186827770,"2100-01-01 00:00:00",0
+20024461,Thalia,[B-Stock] Thalia Thalia 24K Gold w/Emerald Green Abalone Exotic Series Shell Collection,0,57,686186827770,"2100-01-01 00:00:00",0
+10024462,Thalia,Thalia Thalia Black Chrome w/Blue Sparkle Exotic Series Sparkle Collection,0,"45.00",686186834983,"2100-01-01 00:00:00",0
+20024462,Thalia,[B-Stock] Thalia Thalia Black Chrome w/Blue Sparkle Exotic Series Sparkle Collection,0,45,686186834983,"2100-01-01 00:00:00",0
+10024463,Thalia,Thalia Guild Chrome - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,"65.00",686186801442,"2100-01-01 00:00:00",0
+20024463,Thalia,[B-Stock] Thalia Guild Chrome - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,65,686186801442,"2100-01-01 00:00:00",0
+10024464,Thalia,Thalia Guild Chrome - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,"65.00",686186801459,"2100-01-01 00:00:00",0
+20024464,Thalia,[B-Stock] Thalia Guild Chrome - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,65,686186801459,"2100-01-01 00:00:00",0
+10024465,Thalia,Thalia Guild Gold - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,"77.00",686186801404,"2100-01-01 00:00:00",0
+20024465,Thalia,[B-Stock] Thalia Guild Gold - Ebony Inked w/V Block Marker Officially Licensed Guild Guitars,0,77,686186801404,"2100-01-01 00:00:00",0
+10024466,Thalia,Thalia Guild Gold - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,"77.00",686186801411,"2100-01-01 00:00:00",0
+20024466,Thalia,[B-Stock] Thalia Guild Gold - Ebony Inked Blk Ripple w/G Shield Officially Licensed Guild Guitars,0,77,686186801411,"2100-01-01 00:00:00",0
+10024467,Thalia,"Thalia Ocean Works, Full Logo - Black Chrome Officially Licensed OceanWorks",0,"65.00",686186806348,"2100-01-01 00:00:00",0
+20024467,Thalia,"[B-Stock] Thalia Ocean Works, Full Logo - Black Chrome Officially Licensed OceanWorks",0,65,686186806348,"2100-01-01 00:00:00",0
+10024468,Thalia,"Thalia Ocean Works, Partial Logo - Black Chrome Officially Licensed OceanWorks",0,"65.00",686186806355,"2100-01-01 00:00:00",0
+20024468,Thalia,"[B-Stock] Thalia Ocean Works, Partial Logo - Black Chrome Officially Licensed OceanWorks",0,65,686186806355,"2100-01-01 00:00:00",0
+10024469,Thalia,"Thalia Ocean Works, Full Logo - Chrome Officially Licensed OceanWorks",0,"65.00",686186806324,"2100-01-01 00:00:00",0
+20024469,Thalia,"[B-Stock] Thalia Ocean Works, Full Logo - Chrome Officially Licensed OceanWorks",0,65,686186806324,"2100-01-01 00:00:00",0
+10024470,Thalia,"Thalia Ocean Works, Partial Logo - Chrome Officially Licensed OceanWorks",0,"65.00",686186806331,"2100-01-01 00:00:00",0
+20024470,Thalia,"[B-Stock] Thalia Ocean Works, Partial Logo - Chrome Officially Licensed OceanWorks",0,65,686186806331,"2100-01-01 00:00:00",0
+10024471,Thalia,"Thalia Ocean Works, Full Logo - 24K Gold Officially Licensed OceanWorks",0,"77.00",686186806300,"2100-01-01 00:00:00",0
+20024471,Thalia,"[B-Stock] Thalia Ocean Works, Full Logo - 24K Gold Officially Licensed OceanWorks",0,77,686186806300,"2100-01-01 00:00:00",0
+10024472,Thalia,"Thalia Ocean Works, Partial Logo - 24K Gold Officially Licensed OceanWorks",0,"77.00",686186806317,"2100-01-01 00:00:00",0
+20024472,Thalia,"[B-Stock] Thalia Ocean Works, Partial Logo - 24K Gold Officially Licensed OceanWorks",0,77,686186806317,"2100-01-01 00:00:00",0
 10023158,CITADEL,CITADEL Bus Driver Analog VCA Compressor,1,"116.00",4897147560018,,0
 20023158,CITADEL,[B-Stock] CITADEL Bus Driver Analog VCA Compressor,0,116,4897147560018,,0
 10023159,CITADEL,CITADEL Dynazero Adaptive Noise Gate,1,"116.00",4897147560025,,0
@@ -33529,8 +33549,8 @@ John Petrucci Signature Model",0,83.7,,"2026-07-25 00:00:00",0
 20024202,Samson,[B-Stock] Samson Expedition  XP1000B (UK) Portable PA with Bluetooth,0,699,809164015734,"2026-08-17 00:00:00",0
 10024260,Samson,Samson AH7/QE- Ch.E4 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221883,"2026-07-01 00:00:00",0
 20024260,Samson,[B-Stock] Samson AH7/QE- Ch.E4 Airline 77 Transmitter+Microphone Only,0,159,809164221883,"2026-07-01 00:00:00",0
-10024376,Samson,Samson Airline XD Digital Wireless Fitness USB System,1,"179.00",809164226451,,0
-20024376,Samson,[B-Stock] Samson Airline XD Digital Wireless Fitness USB System,0,179,809164226451,,0
+10024376,Samson,Samson Airline XD Digital Wireless Fitness USB System,1,"179.00",809164226499,,0
+20024376,Samson,[B-Stock] Samson Airline XD Digital Wireless Fitness USB System,0,179,809164226499,,0
 10024378,Samson,Samson C01U Pro Podcasting Pack USB Condenser Mic w/Accesories,1,"139.00",809164019831,,0
 20024378,Samson,[B-Stock] Samson C01U Pro Podcasting Pack USB Condenser Mic w/Accesories,0,139,809164019831,,0
 10024484,Samson,Samson XPX Plug-In Wireless System Handheld Digital Wireless Mic System,0,"99.00",809164227502,"2026-08-31 00:00:00",0

@@ -907,7 +907,6 @@ AGSL1108;Aguilar SL 110;5;https://www.music-park.sk/produkt/baskytarove-reprobox
 AGSL2124;Aguilar SL 212-4;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3357/sl-212-4
 AGSL410X4;Aguilar SL 410X;2;https://www.music-park.sk/produkt/baskytarove-reproboxy/3358/sl-410x
 VXAC10HWR1XX;VOX AC10 Hand-Wired  (Rozbalené);2;https://www.music-park.sk/produkt/kytarova-komba/3359/ac10-hand-wired-rozbalene
-DSDTV-DBK;Duesenberg Starplayer TV Deep Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3360/starplayer-tv-deep-black
 DSDTV-EWH;Duesenberg Starplayer TV Everest White;0;https://www.music-park.sk/produkt/elektricke-kytary/3362/starplayer-tv-everest-white
 DSDTV-TBB;Duesenberg Starplayer TV Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3363/starplayer-tv-tobacco-burst
 DSDTV-GDB;Duesenberg Starplayer TV Gold Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3364/starplayer-tv-gold-burst
@@ -2043,7 +2042,7 @@ KROPSIX;KORG Opsix;0;https://www.music-park.sk/produkt/digitalni-syntezatory/215
 KRNAUTILUS88;KORG Nautilus 88;0;https://www.music-park.sk/produkt/pracovni-stanice/2155/nautilus-88
 KRNAUTILUS73;KORG Nautilus 73;0;https://www.music-park.sk/produkt/pracovni-stanice/2156/nautilus-73
 KRNAUTILUS61;KORG Nautilus 61;3;https://www.music-park.sk/produkt/pracovni-stanice/2157/nautilus-61
-KRLP380UWH;KORG LP-380U WH;4;https://www.music-park.sk/produkt/digitalni-piana/2158/lp-380u-wh
+KRLP380UWH;KORG LP-380U WH;3;https://www.music-park.sk/produkt/digitalni-piana/2158/lp-380u-wh
 KRLP380URWBK;KORG LP-380U RWBK;5;https://www.music-park.sk/produkt/digitalni-piana/2159/lp-380u-rwbk
 KRLP380URW;KORG LP-380U RW;5;https://www.music-park.sk/produkt/digitalni-piana/2160/lp-380u-rw
 MBA551027;Markbass MB Bass Ramp;0;https://www.music-park.sk/produkt/basove-prislusenstvi/2161/mb-bass-ramp
@@ -2266,15 +2265,15 @@ GLTI-KIL-113R03M20;G&L Tribute Kiloton Candy Apple Red, MP;0;https://www.music-p
 GLTI-KIL-113R54R20;G&L Tribute Kiloton Black Frost, RW;0;https://www.music-park.sk/produkt/elektricke-baskytary/2419/tribute-kiloton-black-frost-rw
 GLTI-KIL-176R20R40;G&L Tribute Kiloton Fretless 3-Tone Sunburst, RW;0;https://www.music-park.sk/produkt/elektricke-baskytary/2420/tribute-kiloton-fretless-3-tone-sunburst-rw
 GLTI-LB1-113R56M26;G&L Tribute LB-100 Olympic White, MP;0;https://www.music-park.sk/produkt/elektricke-baskytary/2421/tribute-lb-100-olympic-white-mp
-GLTI-LB1-113R63R46;G&L Tribute LB-100 Emerald Blue, RW;3;https://www.music-park.sk/produkt/elektricke-baskytary/2422/tribute-lb-100-emerald-blue-rw
-GLTI-LB1-173R20R46;G&L Tribute LB-100 3-Tone Sunburst, RW;4;https://www.music-park.sk/produkt/elektricke-baskytary/2423/tribute-lb-100-3-tone-sunburst-rw
+GLTI-LB1-113R63R46;G&L Tribute LB-100 Emerald Blue, RW;2;https://www.music-park.sk/produkt/elektricke-baskytary/2422/tribute-lb-100-emerald-blue-rw
+GLTI-LB1-173R20R46;G&L Tribute LB-100 3-Tone Sunburst, RW;3;https://www.music-park.sk/produkt/elektricke-baskytary/2423/tribute-lb-100-3-tone-sunburst-rw
 GLTI-L20-171R20R00;G&L Tribute L-2000 3-Tone Sunburst, RW;0;https://www.music-park.sk/produkt/elektricke-baskytary/2424/tribute-l-2000-3-tone-sunburst-rw
 GLTI-L20-171R21M00;G&L Tribute L-2000 Blueburst, MP;1;https://www.music-park.sk/produkt/elektricke-baskytary/2425/tribute-l-2000-blueburst-mp
 GLTI-L20-171L20R00;G&L Tribute L-2000 Lefty 3-Tone Sunburst, RW;0;https://www.music-park.sk/produkt/elektricke-baskytary/2426/tribute-l-2000-lefty-3-tone-sunburst-rw
 GLTI-L25-113R54M00;G&L Tribute L-2500 Black Frost, MP;0;https://www.music-park.sk/produkt/elektricke-baskytary/2427/tribute-l-2500-black-frost-mp
 GLTI-L25-173R24R00;G&L Tribute L-2500 Tobacco Sunburst, RW;0;https://www.music-park.sk/produkt/elektricke-baskytary/2428/tribute-l-2500-tobacco-sunburst-rw
 GLTI-SB2-111R51M30;G&L Tribute SB-2 Surf Green, MP;4;https://www.music-park.sk/produkt/elektricke-baskytary/2429/tribute-sb-2-surf-green-mp
-GLTI-SB2-111R54R20;G&L Tribute SB-2 Black Satin RW;5;https://www.music-park.sk/produkt/elektricke-baskytary/2430/tribute-sb-2-black-satin-rw
+GLTI-SB2-111R54R20;G&L Tribute SB-2 Black Satin RW;4;https://www.music-park.sk/produkt/elektricke-baskytary/2430/tribute-sb-2-black-satin-rw
 GLTI-FLB-111R01R40;G&L Tribute Fallout Bass Jet Black, RW;0;https://www.music-park.sk/produkt/elektricke-baskytary/2431/tribute-fallout-bass-jet-black-rw
 GLTI-FLB-111R03M30;G&L Tribute Fallout Bass Candy Apple Red, MP;0;https://www.music-park.sk/produkt/elektricke-baskytary/2432/tribute-fallout-bass-candy-apple-red-mp
 GLTI-FLB-111R51M10;G&L Tribute Fallout Bass Surf Green, MP;5;https://www.music-park.sk/produkt/elektricke-baskytary/2433/tribute-fallout-bass-surf-green-mp

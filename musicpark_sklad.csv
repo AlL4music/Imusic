@@ -1432,6 +1432,7 @@ AGSL1108;Aguilar SL 110;5;https://www.music-park.sk/produkt/baskytarove-reprobox
 AGSL2124;Aguilar SL 212-4;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3357/sl-212-4
 AGSL410X4;Aguilar SL 410X;2;https://www.music-park.sk/produkt/baskytarove-reproboxy/3358/sl-410x
 VXAC10HWR1XX;VOX AC10 Hand-Wired  (Rozbalené);2;https://www.music-park.sk/produkt/kytarova-komba/3359/ac10-hand-wired-rozbalene
+DSDTV-DBK;Duesenberg Starplayer TV Deep Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3360/starplayer-tv-deep-black
 DSDTV-EWH;Duesenberg Starplayer TV Everest White;0;https://www.music-park.sk/produkt/elektricke-kytary/3362/starplayer-tv-everest-white
 DSDTV-TBB;Duesenberg Starplayer TV Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3363/starplayer-tv-tobacco-burst
 DSDTV-GDB;Duesenberg Starplayer TV Gold Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3364/starplayer-tv-gold-burst
@@ -1447,6 +1448,63 @@ DSDTV-DT-CHG;Duesenberg Starplayer TV Duo Tone Harbor Green;0;https://www.music-
 DSDTV-GPU;Duesenberg Starplayer TV Galaxy Purple Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3374/starplayer-tv-galaxy-purple-burst
 DSDTV-BKV;Duesenberg Starplayer TV Black Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3375/starplayer-tv-black-velvet
 DSDTV-WHV;Duesenberg Starplayer TV White Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3376/starplayer-tv-white-velvet
+DSDTV-DLX-LAB;Duesenberg Starplayer TV DLX Light Antique Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3377/starplayer-tv-dlx-light-antique-burst
+DSDTV-DLX-CGB;Duesenberg Starplayer TV DLX Catalina Green Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3378/starplayer-tv-dlx-catalina-green-burst
+DSDTV-CM-BK;Duesenberg Starplayer TV Custom Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3379/starplayer-tv-custom-black
+DSDTV-PC-BK;Duesenberg Starplayer TV Phonic Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3380/starplayer-tv-phonic-black
+DSDTV-PC-VNW;Duesenberg Starplayer TV Phonic Venetian White;0;https://www.music-park.sk/produkt/elektricke-kytary/3381/starplayer-tv-phonic-venetian-white
+DSDTV-PC-BPR;Duesenberg Starplayer TV Phonic Balboa Pearl Red;0;https://www.music-park.sk/produkt/elektricke-kytary/3382/starplayer-tv-phonic-balboa-pearl-red
+DSDAC-JD-CTG;Duesenberg Alliance Series Jeff DaRosa Catalina Green Burst;1;https://www.music-park.sk/produkt/elektricke-kytary/3383/alliance-series-jeff-darosa-catalina-green-burst
+DSDAC-JW-BK;Duesenberg Alliance Series Joe Walsh Black;1;https://www.music-park.sk/produkt/elektricke-kytary/3384/alliance-series-joe-walsh-black
+DSDAC-JW-GB;Duesenberg Alliance Series Joe Walsh Gold Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3385/alliance-series-joe-walsh-gold-burst
+DSDCR-TBK;Duesenberg Starplayer CBR Transparent Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3386/starplayer-cbr-transparent-black
+DSDCR-CTG;Duesenberg Starplayer CBR Catalina Green;0;https://www.music-park.sk/produkt/elektricke-kytary/3387/starplayer-cbr-catalina-green
+DSDCR-TBB;Duesenberg Starplayer CBR Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3388/starplayer-cbr-tobacco-burst
+DSDCR-THN;Duesenberg Starplayer CBR Transparent Honey;0;https://www.music-park.sk/produkt/elektricke-kytary/3389/starplayer-cbr-transparent-honey
+DSDCR-TVO;Duesenberg Starplayer CBR Transparant Orange;0;https://www.music-park.sk/produkt/elektricke-kytary/3390/starplayer-cbr-transparant-orange
+DSDFA-BK-S;Duesenberg Fantom Series A Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3391/fantom-series-a-black
+DSDFA-AGW-S;Duesenberg Fantom Series A Aged White;0;https://www.music-park.sk/produkt/elektricke-kytary/3392/fantom-series-a-aged-white
+DSDFA-MOV-S;Duesenberg Fantom Series A Matt Olive;0;https://www.music-park.sk/produkt/elektricke-kytary/3393/fantom-series-a-matt-olive
+DSDFS-BK-S;Duesenberg Fantom Series S Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3394/fantom-series-s-black
+DSDFS-LMG-S;Duesenberg Fantom Series S Lumina Green;1;https://www.music-park.sk/produkt/elektricke-kytary/3395/fantom-series-s-lumina-green
+DSDFS-LAB-S;Duesenberg Fantom Series S Light Antique Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3396/fantom-series-s-light-antique-burst
+DSDFS-TBB-S;Duesenberg Fantom Series S Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3397/fantom-series-s-tobacco-burst
+DSDFN-BK;Duesenberg Falken Black Tremolo;0;https://www.music-park.sk/produkt/elektricke-kytary/3398/falken-black-tremolo
+DSDFN-SLV;Duesenberg Falken Silver Tremolo;0;https://www.music-park.sk/produkt/elektricke-kytary/3399/falken-silver-tremolo
+DSDFN-MBK;Duesenberg Falken Matte Black Tremolo;0;https://www.music-park.sk/produkt/elektricke-kytary/3400/falken-matte-black-tremolo
+DSDPA-CM-BK;Duesenberg Paloma Custom Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3401/paloma-custom-black
+DSDPA-BK;Duesenberg Paloma Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3402/paloma-black
+DSDPA-WH;Duesenberg Paloma White;0;https://www.music-park.sk/produkt/elektricke-kytary/3403/paloma-white
+DSDPA-VB;Duesenberg Paloma Vintage Burst;1;https://www.music-park.sk/produkt/elektricke-kytary/3404/paloma-vintage-burst
+DSDPA-BKS;Duesenberg Paloma Black Sparkle;0;https://www.music-park.sk/produkt/elektricke-kytary/3405/paloma-black-sparkle
+DSDPA-RDS;Duesenberg Paloma Red Sparkle;0;https://www.music-park.sk/produkt/elektricke-kytary/3406/paloma-red-sparkle
+DSDPA-CTB;Duesenberg Paloma Catalina Blue;0;https://www.music-park.sk/produkt/elektricke-kytary/3407/paloma-catalina-blue
+DSDPA-CHG;Duesenberg Paloma Catalina Harbor Green;0;https://www.music-park.sk/produkt/elektricke-kytary/3408/paloma-catalina-harbor-green
+DSDPA-CSR;Duesenberg Paloma Catalina Sunset Rose;0;https://www.music-park.sk/produkt/elektricke-kytary/3409/paloma-catalina-sunset-rose
+DSDPA-D6-BKS;Duesenberg Paloma Baritone Black Sparkle;0;https://www.music-park.sk/produkt/elektricke-kytary/3410/paloma-baritone-black-sparkle
+DSDCB-BK;Duesenberg Caribou Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3411/caribou-black
+DSDCB-NB;Duesenberg Caribou Narvik Blue;0;https://www.music-park.sk/produkt/elektricke-kytary/3412/caribou-narvik-blue
+DSDCB-BS;Duesenberg Caribou Butterscotch;0;https://www.music-park.sk/produkt/elektricke-kytary/3413/caribou-butterscotch
+DSDCB-CHG;Duesenberg Caribou Catalina Harbor Green;0;https://www.music-park.sk/produkt/elektricke-kytary/3414/caribou-catalina-harbor-green
+DSDDC-BK;Duesenberg Double Cat Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3415/double-cat-black
+DSDDC-VB;Duesenberg Double Cat Vintage Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3416/double-cat-vintage-burst
+DSDDC-VB-12;Duesenberg Double Cat 12-String Vintage Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3417/double-cat-12-string-vintage-burst
+DSDJT-CBK-S;Duesenberg Julietta Catalina Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3418/julietta-catalina-black
+DSDJT-VW-S;Duesenberg Julietta Vintage White;0;https://www.music-park.sk/produkt/elektricke-kytary/3420/julietta-vintage-white
+DSDJT-CHG-S;Duesenberg Julietta Catalina Harbor Green;1;https://www.music-park.sk/produkt/elektricke-kytary/3421/julietta-catalina-harbor-green
+DSDJT-CTR-S;Duesenberg Julietta Catalina Red;0;https://www.music-park.sk/produkt/elektricke-kytary/3422/julietta-catalina-red
+DSDJT-CTB-S;Duesenberg Julietta Catalina Blue;0;https://www.music-park.sk/produkt/elektricke-kytary/3423/julietta-catalina-blue
+DSDJT-D6-CBK-S;Duesenberg Julietta Baritone Catalina Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3424/julietta-baritone-catalina-black
+DSDJT-D6-CTR;Duesenberg Julietta Baritone Catalina Red;0;https://www.music-park.sk/produkt/elektricke-kytary/3425/julietta-baritone-catalina-red
+DSDAC-CC-BK;Duesenberg Alliance Series Chris Chaney Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3426/alliance-series-chris-chaney-black
+DSDBB-DBK;Duesenberg Starplayer Bass Deep Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3427/starplayer-bass-deep-black
+DSDBB-TBB;Duesenberg Starplayer Bass Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-baskytary/3428/starplayer-bass-tobacco-burst
+DSDBB-BKV;Duesenberg Starplayer Bass Black Velvet;0;https://www.music-park.sk/produkt/elektricke-baskytary/3429/starplayer-bass-black-velvet
+DSDBT-CHG;Duesenberg Triton Bass Catalina Harbor Green;0;https://www.music-park.sk/produkt/elektricke-baskytary/3430/triton-bass-catalina-harbor-green
+DSDBT-BK;Duesenberg Triton Bass Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3431/triton-bass-black
+DSDBT-GT;Duesenberg Triton Bass Gold Top;0;https://www.music-park.sk/produkt/elektricke-baskytary/3432/triton-bass-gold-top
+DSDBK-NB;Duesenberg Kavalier Bass Narvik Blue;0;https://www.music-park.sk/produkt/elektricke-baskytary/3433/kavalier-bass-narvik-blue
+DSDBK-RDS;Duesenberg Kavalier Bass Red Sparkle;0;https://www.music-park.sk/produkt/elektricke-baskytary/3434/kavalier-bass-red-sparkle
 ASSTUDIO4;Ashdown Studio 4;0;https://www.music-park.sk/produkt/baskytarova-komba/3473/studio-4
 ASSTUDIO210;Ashdown Studio 210;0;https://www.music-park.sk/produkt/baskytarova-komba/3513/studio-210
 VXMV50ACXX;VOX MV50 AC (Rozbalené);2;https://www.music-park.sk/produkt/kytarove-zesilovace/3514/mv50-ac-rozbalene

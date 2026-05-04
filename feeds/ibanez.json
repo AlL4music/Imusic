@@ -1,7 +1,7 @@
 {
   "name": "Ibanez",
   "enabled": true,
-  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/Ibanez.csv",
+  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/ibanez.csv",
   "delimiter": ",",
   "columns": {
     "sku": "Product Code",

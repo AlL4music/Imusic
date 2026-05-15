@@ -30,6 +30,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run All Scrapers
+        env:
+          SOUND_SERVICE_EMAIL: ${{ secrets.SOUND_SERVICE_EMAIL }}
+          SOUND_SERVICE_PASSWORD: ${{ secrets.SOUND_SERVICE_PASSWORD }}
+          SOUND_SERVICE_TOKEN: ${{ secrets.SOUND_SERVICE_TOKEN }}
         run: |
           echo "=== Music Meyer (SOAP API) ==="
           node music_meyer.js || echo "music_meyer failed"
@@ -83,8 +87,10 @@ jobs:
           fi
 
       - name: Trigger DB Import (both shops)
+        env:
+          CRON_TRIGGER_KEY: ${{ secrets.CRON_TRIGGER_KEY }}
         run: |
           echo "=== Waiting 60s for GitHub CDN cache ==="
           sleep 60
           echo "=== Triggering cron feed import ==="
-          curl -s "https://all4music.sk/cron_feed_import.php?key=a4m_feed_2026_x7kP9mQ"
+          curl -s "https://all4music.sk/cron_feed_import.php?key=${CRON_TRIGGER_KEY}"

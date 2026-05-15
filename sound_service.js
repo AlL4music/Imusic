@@ -13,10 +13,15 @@ const path = require('path');
 
 // --- Config ---
 const API_URL = 'https://soundservicelabs.com/api/v2/pricing';
-const AUTH_EMAIL = 'ptr.salik@gmail.com';
-const AUTH_PASSWORD = 'Medvedik14811!';
-const AUTH_TOKEN = '486|DMlUe1iMG9MRtPzGBu3seff0UZcdphS5BrGLZkE3';
+const AUTH_EMAIL = process.env.SOUND_SERVICE_EMAIL;
+const AUTH_PASSWORD = process.env.SOUND_SERVICE_PASSWORD;
+const AUTH_TOKEN = process.env.SOUND_SERVICE_TOKEN;
 const OUTPUT_FILE = path.join(__dirname, 'sound serivce.csv');
+
+if (!AUTH_EMAIL || !AUTH_PASSWORD || !AUTH_TOKEN) {
+  console.error('Missing required env vars: SOUND_SERVICE_EMAIL, SOUND_SERVICE_PASSWORD, SOUND_SERVICE_TOKEN');
+  process.exit(1);
+}
 
 // --- HTTP helpers ---
 

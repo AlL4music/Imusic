@@ -35,43 +35,40 @@ jobs:
           SOUND_SERVICE_PASSWORD: ${{ secrets.SOUND_SERVICE_PASSWORD }}
           SOUND_SERVICE_TOKEN: ${{ secrets.SOUND_SERVICE_TOKEN }}
         run: |
-          echo "=== Music Meyer (SOAP API) ==="
-          node music_meyer.js || echo "music_meyer failed"
+          FAILED=()
+          run() {
+            local name="$1"; shift
+            echo "=== $name ==="
+            if ! "$@"; then
+              echo "::error title=Scraper failed::$name"
+              FAILED+=("$name")
+            fi
+          }
 
-          echo "=== Sound Service Labs (REST API) ==="
-          node sound_service.js || echo "sound_service failed"
+          run "Music Meyer (SOAP API)"   node music_meyer.js
+          run "Sound Service Labs"        node sound_service.js
+          run "3DMX"                      python -u 3dmx.py
+          run "Alexim"                    python -u Alexim.py
+          run "Eprodance"                 python -u eprodance.py
+          run "iMusic Network"            python -u imusic.py
+          run "Kytary"                    python -u kytary.py
+          run "Music Park"                python -u musicpark.py
+          run "Muziker"                   python -u muziker.py
+          run "PMC"                       python -u pmc.py
+          run "Music Trade"               python -u musictrade.py
+          run "Rockster"                  python -u rockster.py
 
-          echo "=== 3DMX ==="
-          python -u 3dmx.py || echo "3dmx failed"
-
-          echo "=== Alexim ==="
-          python -u Alexim.py || echo "Alexim failed"
-
-          echo "=== Eprodance ==="
-          python -u eprodance.py || echo "eprodance failed"
-
-          echo "=== iMusic Network ==="
-          python -u imusic.py || echo "imusic failed"
-
-          echo "=== Kytary ==="
-          python -u kytary.py || echo "kytary failed"
-
-          echo "=== Music Park ==="
-          python -u musicpark.py || echo "musicpark failed"
-
-          echo "=== Muziker ==="
-          python -u muziker.py || echo "muziker failed"
-
-          echo "=== PMC ==="
-          python -u pmc.py || echo "pmc failed"
-
-          echo "=== Music Trade ==="
-          python -u musictrade.py || echo "musictrade failed"
-
-          echo "=== Rockster ==="
-          python -u rockster.py || echo "Rockster failed"
+          if [ ${#FAILED[@]} -gt 0 ]; then
+            echo ""
+            echo "==================================="
+            echo "FAILED SCRAPERS: ${FAILED[*]}"
+            echo "==================================="
+            exit 1
+          fi
+          echo "All scrapers succeeded."
 
       - name: Commit and Push CSV files
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -87,6 +84,7 @@ jobs:
           fi
 
       - name: Trigger DB Import (both shops)
+        if: always()
         env:
           CRON_TRIGGER_KEY: ${{ secrets.CRON_TRIGGER_KEY }}
         run: |

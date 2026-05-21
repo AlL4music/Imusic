@@ -33,7 +33,7 @@ jobs:
         env:
           SOUND_SERVICE_EMAIL: ${{ secrets.SOUND_SERVICE_EMAIL }}
           SOUND_SERVICE_PASSWORD: ${{ secrets.SOUND_SERVICE_PASSWORD }}
-          SOUND_SERVICE_TOKEN: ${{ secrets.SOUND_SERVICE_TOKEN }}
+          SOUND_SERVICE_TOKEN: ${{ secrets.SOUND_SERVICE_TOKE }}
         run: |
           FAILED=()
           run() {

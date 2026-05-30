@@ -1258,7 +1258,7 @@ QLSSL913WH;Quik Lok SL-913ALU WH;0;https://www.music-park.sk/produkt/klavesove-s
 QL10.01028;Quik Lok SL/930;0;https://www.music-park.sk/produkt/klavesove-stojany/1095/sl-930
 QL10.00207;Quik Lok T-10 BK;20;https://www.music-park.sk/produkt/klavesove-stojany/1096/t-10-bk
 QL10.00209;Quik Lok T-20 BK;10;https://www.music-park.sk/produkt/klavesove-stojany/1097/t-20-bk
-QL10.00212;Quik Lok T/22;4;https://www.music-park.sk/produkt/klavesove-stojany/1098/t-22
+QL10.00212;Quik Lok T/22;3;https://www.music-park.sk/produkt/klavesove-stojany/1098/t-22
 QL10.00943;Quik Lok WS/421;5;https://www.music-park.sk/produkt/klavesove-stojany/1099/ws-421
 QL10.00976;Quik Lok WS/650;3;https://www.music-park.sk/produkt/klavesove-stojany/1100/ws-650
 QL10.00361;Quik Lok Z/716;3;https://www.music-park.sk/produkt/klavesove-stojany/1101/z-716
@@ -1777,10 +1777,10 @@ MBB148036;Markbass MB Yellow PB;0;https://www.music-park.sk/produkt/elektricke-b
 MBB148037;Markbass MB Yellow JB;0;https://www.music-park.sk/produkt/elektricke-baskytary/3116/mb-yellow-jb
 KRSQCCKSP;SEQUENZ CC-KSP;5;https://www.music-park.sk/produkt/puzdra-na-klavesy/3117/cc-ksp
 AGTHCARRYBAG;Aguilar Carry Bag;10;https://www.music-park.sk/produkt/obaly-na-aparaty/3118/carry-bag
-QL30.02262;Quik Lok JUST JJ 4.5;0;https://www.music-park.sk/produkt/nastrojove-kabely/3119/just-jj-45
-QL30.02263;Quik Lok JUST JJ 6;2;https://www.music-park.sk/produkt/nastrojove-kabely/3120/just-jj-6
-QL30.02268;Quik Lok JUST JR 4.5;0;https://www.music-park.sk/produkt/nastrojove-kabely/3121/just-jr-45
-QL30.02269;Quik Lok JUST JR 6;5;https://www.music-park.sk/produkt/nastrojove-kabely/3122/just-jr-6
+QL30.02262;Quik Lok JUST JJ-4,5;0;https://www.music-park.sk/produkt/nastrojove-kabely/3119/just-jj-45
+QL30.02263;Quik Lok JUST JJ-6;2;https://www.music-park.sk/produkt/nastrojove-kabely/3120/just-jj-6
+QL30.02268;Quik Lok JUST JR-4,5;0;https://www.music-park.sk/produkt/nastrojove-kabely/3121/just-jr-45
+QL30.02269;Quik Lok JUST JR-6;0;https://www.music-park.sk/produkt/nastrojove-kabely/3122/just-jr-6
 KRNANOKFOLDAG;KORG nanoKEY Fold Alpine Green;20;https://www.music-park.sk/produkt/midi-kontrolery/3123/nanokey-fold-alpine-green
 KRNANOKFOLDBK;KORG nanoKEY Fold Black;20;https://www.music-park.sk/produkt/midi-kontrolery/3124/nanokey-fold-black
 KRNANOKFOLDLO;KORG nanoKEY Fold Lava Orange;20;https://www.music-park.sk/produkt/midi-kontrolery/3125/nanokey-fold-lava-orange
@@ -1789,6 +1789,8 @@ KRNANOKFOLDWH;KORG nanoKEY Fold White;20;https://www.music-park.sk/produkt/midi-
 KRFSUPBMBK;KORG FISA Suprema B;1;https://www.music-park.sk/produkt/akordeony/3128/fisa-suprema-b
 KRFSUPPMBK;KORG FISA Suprema P;2;https://www.music-park.sk/produkt/akordeony/3129/fisa-suprema-p
 KRTUST1K;KORG ST1K;10;https://www.music-park.sk/produkt/ladicky-a-metronomy/3130/st1k
+QL30.02353;Quik Lok JUST JJ-6 SL;0;https://www.music-park.sk/produkt/nastrojove-kabely/3131/just-jj-6-sl
+QL30.02359;Quik Lok JUST JR-6 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3132/just-jr-6-sl
 EK06217265;EKO MIA A400E;2;https://www.music-park.sk/produkt/akusticke-kytary/3134/mia-a400e
 EK06217266;EKO MIA A400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3135/mia-a400ce
 EK06217263;EKO MIA D400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3136/mia-d400ce
@@ -1960,8 +1962,8 @@ DXBAGL3;Dexibell DX Bag L3;0;https://www.music-park.sk/produkt/puzdra-na-klavesy
 QL10.01031;Quik Lok A/304 BK EU;5;https://www.music-park.sk/produkt/stojany-na-mikrofon/3315/a-304-bk-eu
 QL10.00196;Quik Lok SBG/14;5;https://www.music-park.sk/produkt/kytarove-stojany/3316/sbg-14
 QL10.00198;Quik Lok SBG/4;5;https://www.music-park.sk/produkt/kytarove-stojany/3317/sbg-4
-QL30.02352;Quik Lok JUST JJ 4.5 SL;3;https://www.music-park.sk/produkt/nastrojove-kabely/3318/just-jj-45-sl
-QL30.02358;Quik Lok JUST JR 4.5 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3319/just-jr-45-sl
+QL30.02352;Quik Lok JUST JJ-4,5 SL;3;https://www.music-park.sk/produkt/nastrojove-kabely/3318/just-jj-45-sl
+QL30.02358;Quik Lok JUST JR-4,5 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3319/just-jr-45-sl
 DR1SMR45;DR Strings Hi-Beam SMR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/3320/hi-beam-smr-45
 AGOCTDLX;Aguilar Octamizer DLX;5;https://www.music-park.sk/produkt/baskytarove-efekty/3321/octamizer-dlx
 AGTLCDLX;Aguilar TLC Compressor EQ DLX;0;https://www.music-park.sk/produkt/baskytarove-efekty/3322/tlc-compressor-eq-dlx

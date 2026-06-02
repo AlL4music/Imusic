@@ -552,7 +552,7 @@ EK06216943;EKO Ranger XII VR EQ Honey Burst;0;https://www.music-park.sk/produkt/
 PHSAF2DC;Phonic Safari 2000DC;2;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1508/safari-2000dc
 PHSAF3DC;Phonic Safari 3000DC;4;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1509/safari-3000dc
 PHUSBR1;Phonic USBR-1;5;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1510/usbr-1
-KRELECTR2B;KORG Electribe BL;2;https://www.music-park.sk/produkt/produkcni-nastroje/1514/electribe-bl
+KRELECTR2B;KORG Electribe BL;3;https://www.music-park.sk/produkt/produkcni-nastroje/1514/electribe-bl
 KRELECTR2SR;KORG Electribe Sampler RD;5;https://www.music-park.sk/produkt/produkcni-nastroje/1516/electribe-sampler-rd
 KRKAOSSDJ;KORG Kaoss DJ;0;https://www.music-park.sk/produkt/produkcni-nastroje/1523/kaoss-dj
 KRKO2S;KORG Kaossilator 2S;0;https://www.music-park.sk/produkt/produkcni-nastroje/1529/kaossilator-2s
@@ -1165,7 +1165,7 @@ KRTUAWLT100M;KORG AW-LT100M;20;https://www.music-park.sk/produkt/chromaticke-lad
 KRTUAWLT100V;KORG AW-LT100V;0;https://www.music-park.sk/produkt/chromaticke-ladicky/972/aw-lt100v
 KRTUCA2;KORG CA-2;20;https://www.music-park.sk/produkt/chromaticke-ladicky/974/ca-2
 KRTUCA2SL;KORG CA-2 SL;0;https://www.music-park.sk/produkt/chromaticke-ladicky/975/ca-2-sl
-KRTUCA50;KORG CA-50;20;https://www.music-park.sk/produkt/chromaticke-ladicky/977/ca-50
+KRTUCA50;KORG CA-50;15;https://www.music-park.sk/produkt/chromaticke-ladicky/977/ca-50
 KRTUCM200BK;KORG CM-200 BK;0;https://www.music-park.sk/produkt/chromaticke-ladicky/978/cm-200-bk
 KRTUCM200BKRD;KORG CM-200 BKRD;0;https://www.music-park.sk/produkt/chromaticke-ladicky/979/cm-200-bkrd
 KRTUCM200WHBK;KORG CM-200 WHBK;0;https://www.music-park.sk/produkt/chromaticke-ladicky/980/cm-200-whbk
@@ -1622,7 +1622,7 @@ VXAP3HG;VOX AmPlug 3 High Gain;1;https://www.music-park.sk/produkt/sluchatkove-z
 VXAP3UK;VOX AmPlug 3 UK Drive;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2950/amplug-3-uk-drive
 VXAP3US;VOX AmPlug 3 US Silver;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2951/amplug-3-us-silver
 VXAP3MB;VOX AmPlug 3 Modern Bass;10;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2952/amplug-3-modern-bass
-KRTUTM70BK;KORG TM-70T BK;0;https://www.music-park.sk/produkt/chromaticke-ladicky/2953/tm-70t-bk
+KRTUTM70BK;KORG TM-70T BK;1;https://www.music-park.sk/produkt/chromaticke-ladicky/2953/tm-70t-bk
 KRTUTM70WH;KORG TM-70T WH;20;https://www.music-park.sk/produkt/chromaticke-ladicky/2954/tm-70t-wh
 KRTUTM70CBK;KORG TM-70C BK;20;https://www.music-park.sk/produkt/chromaticke-ladicky/2955/tm-70c-bk
 KRTUTM70CWH;KORG TM-70C WH;20;https://www.music-park.sk/produkt/chromaticke-ladicky/2956/tm-70c-wh
@@ -2015,8 +2015,6 @@ DSDTV-DT-CTB;Duesenberg Starplayer TV Duo Tone Catalina Blue;0;https://www.music
 DSDTV-DT-CTR;Duesenberg Starplayer TV Duo Tone Catalina Red;0;https://www.music-park.sk/produkt/elektricke-kytary/3372/starplayer-tv-duo-tone-catalina-red
 DSDTV-DT-CHG;Duesenberg Starplayer TV Duo Tone Harbor Green;0;https://www.music-park.sk/produkt/elektricke-kytary/3373/starplayer-tv-duo-tone-harbor-green
 DSDTV-GPU;Duesenberg Starplayer TV Galaxy Purple Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3374/starplayer-tv-galaxy-purple-burst
-DSDTV-BKV;Duesenberg Starplayer TV Black Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3375/starplayer-tv-black-velvet
-DSDTV-WHV;Duesenberg Starplayer TV White Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3376/starplayer-tv-white-velvet
 DSDTV-DLX-LAB;Duesenberg Starplayer TV Deluxe Light Antique Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3377/starplayer-tv-deluxe-light-antique-burst
 DSDTV-DLX-CGB;Duesenberg Starplayer TV Deluxe Catalina Green Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3378/starplayer-tv-deluxe-catalina-green-burst
 DSDTV-CM-BK;Duesenberg Starplayer TV Custom Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3379/starplayer-tv-custom-black

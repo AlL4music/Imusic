@@ -71,8 +71,8 @@
 20000762,ESP,[B-Stock] ESP ORIGINAL KH-2 PURPLE SPARKLE Signature Series,0,4045,799493262285,"2026-08-28 00:00:00",0
 10000793,ESP,ESP ORIGINAL ECLIPSE CUSTOM PURPLE PEEL Original Series,0,"3629.00",799493267204,"2027-04-26 00:00:00",0
 20000793,ESP,[B-Stock] ESP ORIGINAL ECLIPSE CUSTOM PURPLE PEEL Original Series,0,3629,799493267204,"2027-04-26 00:00:00",0
-10000794,ESP,ESP ORIGINAL ECLIPSE CUSTOM SILVER LIQUID METAL BURST Original Series,1,"4499.00",799493267198,,0
-20000794,ESP,[B-Stock] ESP ORIGINAL ECLIPSE CUSTOM SILVER LIQUID METAL BURST Original Series,0,4499,799493267198,,0
+10000794,ESP,ESP ORIGINAL ECLIPSE CUSTOM SILVER LIQUID METAL BURST Original Series,0,"4499.00",799493267198,"2027-04-29 00:00:00",0
+20000794,ESP,[B-Stock] ESP ORIGINAL ECLIPSE CUSTOM SILVER LIQUID METAL BURST Original Series,0,4499,799493267198,"2027-04-29 00:00:00",0
 10000795,ESP,ESP ORIGINAL FRX CAST METAL ANDROMEDA II Original Series,0,"4689.00",799493267242,"2027-04-26 00:00:00",0
 20000795,ESP,[B-Stock] ESP ORIGINAL FRX CAST METAL ANDROMEDA II Original Series,0,4689,799493267242,"2027-04-26 00:00:00",0
 10001787,ESP,ESP ORIGINAL Battery Box,0,"21.00",,,1
@@ -483,8 +483,8 @@
 20012691,ESP,[B-Stock] ESP ORIGINAL Hanging Banner ESP 50th Anniversary ESP 50th Anniversary,0,66,,,0
 10011993,ESP,ESP ORIGINAL M-II CTM FR/E CS CRIMSON SILK pasting decal,0,"6888.00",,"2027-04-26 00:00:00",0
 20011993,ESP,[B-Stock] ESP ORIGINAL M-II CTM FR/E CS CRIMSON SILK pasting decal,0,6888,,"2027-04-26 00:00:00",0
-10012098,ESP,ESP ORIGINAL GEORGE LYNCH Desert Eagle,0,"5129.00",,"2027-04-28 00:00:00",0
-20012098,ESP,[B-Stock] ESP ORIGINAL GEORGE LYNCH Desert Eagle,0,5129,,"2027-04-28 00:00:00",0
+10012098,ESP,ESP ORIGINAL GEORGE LYNCH Desert Eagle,0,"5129.00",,"2027-04-29 00:00:00",0
+20012098,ESP,[B-Stock] ESP ORIGINAL GEORGE LYNCH Desert Eagle,0,5129,,"2027-04-29 00:00:00",0
 10012554,ESP,ESP ORIGINAL ESP LOGO ZIP HOODIE BLK S,0,"34.90",,"2027-04-27 00:00:00",0
 20012554,ESP,[B-Stock] ESP ORIGINAL ESP LOGO ZIP HOODIE BLK S,0,34.9,,"2027-04-27 00:00:00",0
 10012560,ESP,ESP ORIGINAL ESP 1975 LOGO LONGSLEEVE BLK S ESP,1,"16.90",,,0
@@ -2209,8 +2209,8 @@
 20004396,Zoom,"[B-Stock] Zoom AD-19F (UK) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",0,17,4515260014651,,0
 10004417,Zoom,Zoom AIH-1 Audio Interface Holder,0,"12.00",4515260017515,,0
 20004417,Zoom,[B-Stock] Zoom AIH-1 Audio Interface Holder,0,12,4515260017515,,0
-10004702,Zoom,Zoom APH-5 Accessory Pack for H5,1,"42.00",4515260013968,,0
-20004702,Zoom,[B-Stock] Zoom APH-5 Accessory Pack for H5,0,42,4515260013968,,0
+10004702,Zoom,Zoom APH-5 Accessory Pack for H5,0,"42.00",4515260013968,"2026-06-30 00:00:00",0
+20004702,Zoom,[B-Stock] Zoom APH-5 Accessory Pack for H5,0,42,4515260013968,"2026-06-30 00:00:00",0
 10004727,Zoom,Zoom BCQ-2n Battery Case for Q2n / Q2n-4K,1,"34.00",4515260019939,,1
 20004727,Zoom,[B-Stock] Zoom BCQ-2n Battery Case for Q2n / Q2n-4K,0,34,4515260019939,,1
 10004803,Zoom,Zoom GHM-1 Guitar Head Mount for action cams,0,"27.00",4515260014019,"2026-07-18 00:00:00",0
@@ -2281,8 +2281,8 @@
 20010296,Zoom,[B-Stock] Zoom G2X FOUR Guitar Multi-Effects Pedal,0,99.5,4515260027392,"2026-06-04 00:00:00",0
 10009581,Zoom,Zoom ZUM-2PMP USB Podcast Mic Pack,1,"44.00",4515260025732,,0
 20009581,Zoom,[B-Stock] Zoom ZUM-2PMP USB Podcast Mic Pack,2,39.6,4515260025732,,0
-10009582,Zoom,Zoom ZUM-2 USB Microphone,1,"35.00",4515260025718,,1
-20009582,Zoom,[B-Stock] Zoom ZUM-2 USB Microphone,1,31.5,4515260025718,,1
+10009582,Zoom,Zoom ZUM-2 USB Microphone,1,"35.00",4515260025718,,0
+20009582,Zoom,[B-Stock] Zoom ZUM-2 USB Microphone,1,31.5,4515260025718,,0
 10009705,Zoom,Zoom T-Shirt Creators Panel Grey Size S,1,"10.00",,,0
 20009705,Zoom,[B-Stock] Zoom T-Shirt Creators Panel Grey Size S,0,10,,,0
 10009708,Zoom,Zoom T-Shirt Creators Panel Grey Size XL,1,"12.69",,,0
@@ -2439,16 +2439,16 @@
 20000075,Zoom,[B-Stock] Zoom H2essential / WSH-2e windscreen Bundle,0,135,4250673599394,,0
 50000076,Zoom,Zoom H1essential / WSH-1e windscreen Bundle,0,"82.00",4250673599387,,0
 20000076,Zoom,[B-Stock] Zoom H1essential / WSH-1e windscreen Bundle,0,82,4250673599387,,0
-50000079,Zoom,Zoom PodTrak P2 / ZUM-2 PMP / ZMA-1 BUNDLE,0,"149.00",,,0
-20000079,Zoom,[B-Stock] Zoom PodTrak P2 / ZUM-2 PMP / ZMA-1 BUNDLE,0,149,,,0
+50000079,Zoom,Zoom PodTrak P2 / ZUM-2 PMP / ZMA-1 BUNDLE,0,"139.00",,,0
+20000079,Zoom,[B-Stock] Zoom PodTrak P2 / ZUM-2 PMP / ZMA-1 BUNDLE,0,139,,,0
 50000082,Zoom,Zoom PodTrak P4next / 4 x ZDM-1 PMP / 4 x ZMA-1 BUNDLE,0,"549.00",,,0
 20000082,Zoom,[B-Stock] Zoom PodTrak P4next / 4 x ZDM-1 PMP / 4 x ZMA-1 BUNDLE,0,549,,,0
-50000078,Zoom,Zoom PodTrak P2 / 2 x ZUM-2 PMP BUNDLE,0,"159.00",,,0
-20000078,Zoom,[B-Stock] Zoom PodTrak P2 / 2 x ZUM-2 PMP BUNDLE,0,159,,,0
-50000080,Zoom,Zoom PodTrak P2 / 2 x ZUM-2 PMP / 2 x ZMA-1 BUNDLE,0,"229.00",,,0
-20000080,Zoom,[B-Stock] Zoom PodTrak P2 / 2 x ZUM-2 PMP / 2 x ZMA-1 BUNDLE,0,229,,,0
-50000077,Zoom,Zoom PodTrak P2 / ZUM-2 PMP BUNDLE,0,"109.00",,,0
-20000077,Zoom,[B-Stock] Zoom PodTrak P2 / ZUM-2 PMP BUNDLE,0,109,,,0
+50000078,Zoom,Zoom PodTrak P2 / 2 x ZUM-2 PMP BUNDLE,0,"149.00",,,0
+20000078,Zoom,[B-Stock] Zoom PodTrak P2 / 2 x ZUM-2 PMP BUNDLE,0,149,,,0
+50000080,Zoom,Zoom PodTrak P2 / 2 x ZUM-2 PMP / 2 x ZMA-1 BUNDLE,0,"219.00",,,0
+20000080,Zoom,[B-Stock] Zoom PodTrak P2 / 2 x ZUM-2 PMP / 2 x ZMA-1 BUNDLE,0,219,,,0
+50000077,Zoom,Zoom PodTrak P2 / ZUM-2 PMP BUNDLE,0,"99.00",,,0
+20000077,Zoom,[B-Stock] Zoom PodTrak P2 / ZUM-2 PMP BUNDLE,0,99,,,0
 50000081,Zoom,Zoom PodTrak P4next / 2 x ZDM-1 PMP / 2 x ZMA-1 BUNDLE,0,"325.00",,,0
 20000081,Zoom,[B-Stock] Zoom PodTrak P4next / 2 x ZDM-1 PMP / 2 x ZMA-1 BUNDLE,0,325,,,0
 10022878,Zoom,Zoom TCA-1 Timecode Adapter,0,"39.00",4515260030576,"2026-09-30 00:00:00",0
@@ -4377,8 +4377,8 @@
 20006120,Dixon,[B-Stock] Dixon PDSM-23 Snare Throw-off,0,12.5,4718981495826,,0
 10006159,Dixon,Dixon PDTL-1R Spannböckchen f. March BD,1,"2.53",4718981437086,,1
 20006159,Dixon,[B-Stock] Dixon PDTL-1R Spannböckchen f. March BD,0,2.53,4718981437086,,1
-10006314,Dixon,Dixon PA-SSW-HP Black Nylon Washer 10pc,1,"2.80",4718981439349,,0
-20006314,Dixon,[B-Stock] Dixon PA-SSW-HP Black Nylon Washer 10pc,0,2.8,4718981439349,,0
+10006314,Dixon,Dixon PA-SSW-HP Black Nylon Washer 10pc/pack,1,"2.80",4718981439349,,0
+20006314,Dixon,[B-Stock] Dixon PA-SSW-HP Black Nylon Washer 10pc/pack,0,2.8,4718981439349,,0
 10006547,Dixon,Dixon PODL520BKC Little Roomer Shellset 5pc Satin Black Coal Lacquer,1,"405.00",4718981478812,,0
 20006547,Dixon,[B-Stock] Dixon PODL520BKC Little Roomer Shellset 5pc Satin Black Coal Lacquer,0,405,4718981478812,,0
 10006554,Dixon,Dixon PODCSTH422-01-NM Cornerstone Hybrid Shellset 4pc Satin Neo-Mint,0,"785.00",4718981484523,"2026-08-05 00:00:00",0
@@ -4513,8 +4513,8 @@
 20004021,Dixon,[B-Stock] Dixon PDCP0606DX 6X6 Concert Tom Black with Clip type bracket,0,50,4718981428770,,0
 10004022,Dixon,Dixon PDCP0808DX 8X8 Concert Tom Black with Clip type bracket,0,"56.00",4718981428787,"2026-11-05 00:00:00",0
 20004022,Dixon,[B-Stock] Dixon PDCP0808DX 8X8 Concert Tom Black with Clip type bracket,0,56,4718981428787,"2026-11-05 00:00:00",0
-10004032,Dixon,Dixon PSHK-7B-HP Standard Hi-Hat Clutch,0,"5.40",4718981416975,"2026-06-30 00:00:00",0
-20004032,Dixon,[B-Stock] Dixon PSHK-7B-HP Standard Hi-Hat Clutch,0,5.4,4718981416975,"2026-06-30 00:00:00",0
+10004032,Dixon,Dixon PSHK-7B-HP Hi-Hat Clutch,0,"5.40",4718981416975,"2026-06-30 00:00:00",0
+20004032,Dixon,[B-Stock] Dixon PSHK-7B-HP Hi-Hat Clutch,0,5.4,4718981416975,"2026-06-30 00:00:00",0
 10003811,Dixon,Dixon PSHK-7F-HP Deluxe Hi-Hat Clutch,1,"7.45",4718981449966,,0
 20003811,Dixon,[B-Stock] Dixon PSHK-7F-HP Deluxe Hi-Hat Clutch,0,7.45,4718981449966,,0
 10003812,Dixon,Dixon PSHK-7E-HP Sure Grip Hi-Hat Clutch,1,"8.12",4718981404446,,0
@@ -4577,8 +4577,8 @@
 20004024,Dixon,[B-Stock] Dixon PDCP1012DX 12''X10'' Concert Tom Black with Clip type bracket,0,67,4718981428800,,0
 10004064,Dixon,Dixon PATS-4H/100 Tension Rod 32mm,0,"19.00",4718981427537,,0
 20004064,Dixon,[B-Stock] Dixon PATS-4H/100 Tension Rod 32mm,0,19,4718981427537,,0
-10004075,Dixon,Dixon PDTH620TB Tom Tom Bracket,0,"10.50",4718981425779,"2026-11-05 00:00:00",0
-20004075,Dixon,[B-Stock] Dixon PDTH620TB Tom Tom Bracket,0,10.5,4718981425779,"2026-11-05 00:00:00",0
+10004075,Dixon,"Dixon PDTH620TB Tom Tom Bracket 10,5 mm (L-Rod)",0,"10.50",4718981425779,"2026-11-05 00:00:00",0
+20004075,Dixon,"[B-Stock] Dixon PDTH620TB Tom Tom Bracket 10,5 mm (L-Rod)",0,10.5,4718981425779,"2026-11-05 00:00:00",0
 10004111,Dixon,Dixon PDTL-1N Snare/Tom Lug with screw,1,"1.74",4718981426097,,0
 20004111,Dixon,[B-Stock] Dixon PDTL-1N Snare/Tom Lug with screw,0,1.74,4718981426097,,0
 10004123,Dixon,Dixon PRCB-S-SP Cowbellslapper,0,"9.45",4718981426042,"2026-09-28 00:00:00",0
@@ -4691,8 +4691,8 @@
 20005833,Dixon,"[B-Stock] Dixon PODCST422-01-BUF Cornerstone Drum Set 18x22 BD, 8x10 TT, 9x12 TT, 16x16 FT",0,674.44,,,0
 10005962,Dixon,Dixon PALB-FR-HP Beinstrebe für Basicrack,1,"0.00",4718981425519,,1
 20005962,Dixon,[B-Stock] Dixon PALB-FR-HP Beinstrebe für Basicrack,0,0,4718981425519,,1
-10006035,Dixon,Dixon PAUSP RIM Seitenplatte chrom,1,"6.69",4718981458326,,0
-20006035,Dixon,[B-Stock] Dixon PAUSP RIM Seitenplatte chrom,0,6.69,4718981458326,,0
+10006035,Dixon,Dixon PAUSP RIM Plate Chrome,1,"6.69",4718981458326,,0
+20006035,Dixon,[B-Stock] Dixon PAUSP RIM Plate Chrome,0,6.69,4718981458326,,0
 10006135,Dixon,"Dixon PDSW212A Snappy Snare For 12"" Drums, 12 Strands",1,"5.40",4718981440994,,0
 20006135,Dixon,"[B-Stock] Dixon PDSW212A Snappy Snare For 12"" Drums, 12 Strands",0,5.4,4718981440994,,0
 10006170,Dixon,Dixon PDZL-1DN Bass Drum Lug with screw,1,"3.30",4718981440260,,0
@@ -4755,8 +4755,8 @@
 20006721,Dixon,"[B-Stock] Dixon PKS314-8-HP 14"" Power Hoop Chrome 8 Ears, 2,3mm Snare Side",0,9.2,4718981426035,,0
 10006732,Dixon,Dixon PAWS-9B/4-HP Cymbal Felt 4pc/pack,1,"2.25",4718981449386,,0
 20006732,Dixon,[B-Stock] Dixon PAWS-9B/4-HP Cymbal Felt 4pc/pack,0,2.25,4718981449386,,0
-10006745,Dixon,Dixon PAKL171-HP Hi-hat attachment clamp set,0,"15.40",4718981439363,"2026-08-05 00:00:00",0
-20006745,Dixon,[B-Stock] Dixon PAKL171-HP Hi-hat attachment clamp set,0,15.4,4718981439363,"2026-08-05 00:00:00",0
+10006745,Dixon,Dixon PAKL171-HP Hi-Hat Attachment Clamp Set,0,"15.40",4718981439363,"2026-08-05 00:00:00",0
+20006745,Dixon,[B-Stock] Dixon PAKL171-HP Hi-Hat Attachment Clamp Set,0,15.4,4718981439363,"2026-08-05 00:00:00",0
 10005955,Dixon,Dixon PAKL-LB-HP Beinstrebe für Flexrack,1,"8.15",4718981410935,,0
 20005955,Dixon,[B-Stock] Dixon PAKL-LB-HP Beinstrebe für Flexrack,0,8.15,4718981410935,,0
 10006093,Dixon,Dixon PDSB-52 Snare Butt End,0,"3.09",4718981407430,"2026-11-05 00:00:00",0
@@ -4799,8 +4799,8 @@
 20006650,Dixon,[B-Stock] Dixon PAKL-MC2-TMS-HP Clip mic holder set,0,6.34,4718981477310,,0
 10006659,Dixon,Dixon PKS014BKC-HP 14'' Maple Hoop See-Through-Black Snare Side,1,"31.10",4718981488163,,0
 20006659,Dixon,[B-Stock] Dixon PKS014BKC-HP 14'' Maple Hoop See-Through-Black Snare Side,0,31.1,4718981488163,,0
-10006660,Dixon,"Dixon PDSW812A Snappy Snare For 8"" Drums 12 Strands",0,"4.00",4718981401384,"2026-09-28 00:00:00",0
-20006660,Dixon,"[B-Stock] Dixon PDSW812A Snappy Snare For 8"" Drums 12 Strands",0,4,4718981401384,"2026-09-28 00:00:00",0
+10006660,Dixon,"Dixon PDSW812A Snappy Snare For 8"" Drums ,12 Strands",0,"4.00",4718981401384,"2026-09-28 00:00:00",0
+20006660,Dixon,"[B-Stock] Dixon PDSW812A Snappy Snare For 8"" Drums ,12 Strands",0,4,4718981401384,"2026-09-28 00:00:00",0
 10006662,Dixon,"Dixon PDSW320A Snappy Snare For 13"" Drums, 20 Strands",1,"5.40",4718981403807,,0
 20006662,Dixon,"[B-Stock] Dixon PDSW320A Snappy Snare For 13"" Drums, 20 Strands",0,5.4,4718981403807,,0
 10006671,Dixon,Dixon PSR-MT Mini Percussion Table,1,"39.95",4718981406037,,0
@@ -4851,8 +4851,8 @@
 20006608,Dixon,[B-Stock] Dixon PP-P1 Single Pedal Single Chain Drive,0,47,4718981480525,"2026-09-29 00:00:00",0
 10006613,Dixon,"Dixon PDP481-HP Practice Pad 6""",0,"14.50",4718981494133,"2026-06-30 00:00:00",0
 20006613,Dixon,"[B-Stock] Dixon PDP481-HP Practice Pad 6""",0,14.5,4718981494133,"2026-06-30 00:00:00",0
-10006630,Dixon,"Dixon PDTH950A-SP Single Tom Holder With Clamp 9,5mm",1,"24.40",4718981450818,,0
-20006630,Dixon,"[B-Stock] Dixon PDTH950A-SP Single Tom Holder With Clamp 9,5mm",0,24.4,4718981450818,,0
+10006630,Dixon,"Dixon PDTH950A-SP Single Tom Holder with Clamp 9,5mm",1,"24.40",4718981450818,,0
+20006630,Dixon,"[B-Stock] Dixon PDTH950A-SP Single Tom Holder with Clamp 9,5mm",0,24.4,4718981450818,,0
 10006631,Dixon,Dixon PAWS-11V-HP Metal washer for tension rod 12pc/pk,1,"1.42",4718981449362,,0
 20006631,Dixon,[B-Stock] Dixon PAWS-11V-HP Metal washer for tension rod 12pc/pk,0,1.42,4718981449362,,0
 10006632,Dixon,Dixon PAKL272-SP Multi Clamp,1,"22.00",4718981403029,,0
@@ -4867,8 +4867,8 @@
 20006663,Dixon,"[B-Stock] Dixon PDSW220A Snappy Snare For 12"" Drums, 20 Strands",0,5.4,4718981405092,,0
 10006665,Dixon,Dixon PDSM-DX-SP Flip-Drop Snare Throw-off,1,"24.40",4718981483519,,0
 20006665,Dixon,[B-Stock] Dixon PDSM-DX-SP Flip-Drop Snare Throw-off,0,24.4,4718981483519,,0
-10006669,Dixon,Dixon PAMF1623-SP Mufflers square,0,"8.00",4718981402657,"2026-08-05 00:00:00",0
-20006669,Dixon,[B-Stock] Dixon PAMF1623-SP Mufflers square,0,8,4718981402657,"2026-08-05 00:00:00",0
+10006669,Dixon,Dixon PAMF1623-SP Muffler Square,0,"8.00",4718981402657,"2026-08-05 00:00:00",0
+20006669,Dixon,[B-Stock] Dixon PAMF1623-SP Muffler Square,0,8,4718981402657,"2026-08-05 00:00:00",0
 10006677,Dixon,Dixon PPSJ-K1-SP Double Pedal Linkage,0,"38.50",4718981483502,"2026-06-30 00:00:00",0
 20006677,Dixon,[B-Stock] Dixon PPSJ-K1-SP Double Pedal Linkage,0,38.5,4718981483502,"2026-06-30 00:00:00",0
 10006678,Dixon,Dixon PPSJ-91-SP Double Pedal Linkage,1,"36.50",4718981403159,,0
@@ -4921,8 +4921,8 @@
 20003832,Dixon,[B-Stock] Dixon PSYV-T2-HP Cymbal Sleeve 6mm 4pc/pack White,0,1.5,4718981442868,,0
 10003839,Dixon,"Dixon PDSW420A Snappy Snare For 14"" Drums, 20 Strands",1,"5.70",4718981402831,,0
 20003839,Dixon,"[B-Stock] Dixon PDSW420A Snappy Snare For 14"" Drums, 20 Strands",0,5.7,4718981402831,,0
-10003842,Dixon,"Dixon PDSW012A Snappy Snare For 10"" Drums 12 Strands 12 Strands",1,"5.00",4718981429098,,0
-20003842,Dixon,"[B-Stock] Dixon PDSW012A Snappy Snare For 10"" Drums 12 Strands 12 Strands",0,5,4718981429098,,0
+10003842,Dixon,"Dixon PDSW012A Snappy Snare For 10"" Drums 12 Strands",1,"5.00",4718981429098,,0
+20003842,Dixon,"[B-Stock] Dixon PDSW012A Snappy Snare For 10"" Drums 12 Strands",0,5,4718981429098,,0
 10003848,Dixon,Dixon PDZC-4D/3-SP Bass Drum Claw Hook Rubber 3pcs.,1,"7.80",4718981436003,,0
 20003848,Dixon,[B-Stock] Dixon PDZC-4D/3-SP Bass Drum Claw Hook Rubber 3pcs.,0,7.8,4718981436003,,0
 10003851,Dixon,Dixon PPB-261-HP Bass Drum Beater Dual Surface,1,"5.49",4718981428893,,0
@@ -5023,8 +5023,8 @@
 20006657,Dixon,[B-Stock] Dixon PKS014SN-HP 14'' Maple Hoop Satin Natural Snare Side,0,31.1,4718981479505,,0
 10006667,Dixon,Dixon PDSB-53-HP Snare Butt End,1,"4.30",4718981454984,,0
 20006667,Dixon,[B-Stock] Dixon PDSB-53-HP Snare Butt End,0,4.3,4718981454984,,0
-10006670,Dixon,Dixon PAMF1621-SP Mufflers round,0,"8.00",4718981413936,"2026-08-21 00:00:00",0
-20006670,Dixon,[B-Stock] Dixon PAMF1621-SP Mufflers round,0,8,4718981413936,"2026-08-21 00:00:00",0
+10006670,Dixon,Dixon PAMF1621-SP Muffler Round,0,"8.00",4718981413936,"2026-08-21 00:00:00",0
+20006670,Dixon,[B-Stock] Dixon PAMF1621-SP Muffler Round,0,8,4718981413936,"2026-08-21 00:00:00",0
 10006681,Dixon,Dixon PPA-PCDDA-SP Precision Coil Pedal Direct Drive CAM Assembly,1,"16.55",4718981483489,,0
 20006681,Dixon,[B-Stock] Dixon PPA-PCDDA-SP Precision Coil Pedal Direct Drive CAM Assembly,0,16.55,4718981483489,,0
 10006685,Dixon,Dixon PASP-15C-HP Bass Drum Pedal Spring 2pc/pack,1,"1.60",4718981411918,,0
@@ -5849,8 +5849,10 @@
 20024549,Dixon,[B-Stock] Dixon PDTCSTH0710QB Cornerstone 10''x7'' Tom Quetzal Blue,0,152,,"2026-09-28 00:00:00",0
 10024550,Dixon,Dixon PDTCSTH0710PB Cornerstone 10''x7'' Tom Piano Black,0,"152.00",,"2026-09-28 00:00:00",0
 20024550,Dixon,[B-Stock] Dixon PDTCSTH0710PB Cornerstone 10''x7'' Tom Piano Black,0,152,,"2026-09-28 00:00:00",0
-10024565,Dixon,Dixon Equator Lug,0,"4.50",,"2026-09-30 00:00:00",0
-20024565,Dixon,[B-Stock] Dixon Equator Lug,0,4.5,,"2026-09-30 00:00:00",0
+10024565,Dixon,Dixon Equator Lug,0,"3.90",,"2026-09-30 00:00:00",0
+20024565,Dixon,[B-Stock] Dixon Equator Lug,0,3.9,,"2026-09-30 00:00:00",0
+10024566,Dixon,Dixon PSH-UPR5-HP Pull Rod - PSH-K9001-KS Hi-Hat Pull Rod,0,"4.50",4718981508175,"2026-10-01 00:00:00",0
+20024566,Dixon,[B-Stock] Dixon PSH-UPR5-HP Pull Rod - PSH-K9001-KS Hi-Hat Pull Rod,0,4.5,4718981508175,"2026-10-01 00:00:00",0
 10000715,E-II,E-II FRX RDB Reindeer Blue,0,"2217.00",840248007054,"2027-03-28 00:00:00",0
 20000715,E-II,[B-Stock] E-II FRX RDB Reindeer Blue,0,2217,840248007054,"2027-03-28 00:00:00",0
 10000738,E-II,E-II ECLIPSE BB BLKS Black Satin,0,"1884.00",799493254839,"2026-10-28 00:00:00",0
@@ -5935,8 +5937,8 @@
 20005415,E-II,[B-Stock] E-II ECLIPSE SWS LEFTHAND Snow White Satin,0,1884,799493267020,"2027-04-26 00:00:00",0
 10007237,E-II,E-II BTL-5 BLKNB Black Natural Burst,1,"2078.00",799493262520,,0
 20007237,E-II,[B-Stock] E-II BTL-5 BLKNB Black Natural Burst,0,2078,799493262520,,0
-10000716,E-II,E-II HORIZON-III RDB Reindeer Blue,0,"1799.00",840248008907,"2027-05-28 00:00:00",0
-20000716,E-II,[B-Stock] E-II HORIZON-III RDB Reindeer Blue,0,1799,840248008907,"2027-05-28 00:00:00",0
+10000716,E-II,E-II HORIZON-III RDB Reindeer Blue,0,"1799.00",840248008907,"2027-10-28 00:00:00",0
+20000716,E-II,[B-Stock] E-II HORIZON-III RDB Reindeer Blue,0,1799,840248008907,"2027-10-28 00:00:00",0
 10000757,E-II,E-II HORIZON NT-II BPG Blue-Purple Gradation,1,"2009.00",799493262551,,0
 20000757,E-II,[B-Stock] E-II HORIZON NT-II BPG Blue-Purple Gradation,0,2009,799493262551,,0
 10000767,E-II,E-II ARROW NT BLK Black,1,"1787.00",799493265064,,0
@@ -6231,8 +6233,8 @@
 20010716,Gator,[B-Stock] Gator GL-CLASSIC Classical Guitar Lightweight,0,61.5,716408500010,,0
 10010732,Gator,Gator GRR-6L 6U Audio Rack; Rolling,1,"123.00",716408500836,,0
 20010732,Gator,[B-Stock] Gator GRR-6L 6U Audio Rack; Rolling,0,123,716408500836,,0
-10010733,Gator,Gator GRR-4L 4U Audio Rack; Rolling,0,"119.00",716408500959,"2026-06-11 00:00:00",0
-20010733,Gator,[B-Stock] Gator GRR-4L 4U Audio Rack; Rolling,0,119,716408500959,"2026-06-11 00:00:00",0
+10010733,Gator,Gator GRR-4L 4U Audio Rack; Rolling,0,"119.00",716408500959,"2026-06-15 00:00:00",0
+20010733,Gator,[B-Stock] Gator GRR-4L 4U Audio Rack; Rolling,0,119,716408500959,"2026-06-15 00:00:00",0
 10010741,Gator,Gator GR-6S 6U Audio Rack; Shallow,0,"92.00",716408501352,"2026-06-11 00:00:00",0
 20010741,Gator,[B-Stock] Gator GR-6S 6U Audio Rack; Shallow,0,92,716408501352,"2026-06-11 00:00:00",0
 10010748,Gator,Gator GR-2S 2U Audio Rack; Shallow,0,"72.90",716408507767,"2026-06-11 00:00:00",0
@@ -7227,8 +7229,8 @@
 20024267,Gator,"[B-Stock] Gator GV-TE3113R2-GB Travel Elite Pedal Board 31"" x 13"" Surface and Riser 2 with Gig Bag",0,178,716408570174,"2026-07-10 00:00:00",0
 10024268,Gator,"Gator GV-TL1710-GB Travel Lite Pedal Board 17"" x 10"" Surface with Gig Bag",0,"101.50",716408570181,"2026-07-10 00:00:00",0
 20024268,Gator,"[B-Stock] Gator GV-TL1710-GB Travel Lite Pedal Board 17"" x 10"" Surface with Gig Bag",0,101.5,716408570181,"2026-07-10 00:00:00",0
-10024269,Gator,"Gator GV-TL1710R1-GB Travel Lite Pedal Board 17"" x 10"" Surface and Riser TLR1 with Gig Bag",0,"143.50",716408570167,"2026-07-10 00:00:00",0
-20024269,Gator,"[B-Stock] Gator GV-TL1710R1-GB Travel Lite Pedal Board 17"" x 10"" Surface and Riser TLR1 with Gig Bag",0,143.5,716408570167,"2026-07-10 00:00:00",0
+10024269,Gator,"Gator GV-TL1710R1-GB Travel Lite Pedal Board 17"" x 10"" Surface and Riser TLR1 with Gig Bag",0,"143.50",716408570167,"2026-08-14 00:00:00",0
+20024269,Gator,"[B-Stock] Gator GV-TL1710R1-GB Travel Lite Pedal Board 17"" x 10"" Surface and Riser TLR1 with Gig Bag",0,143.5,716408570167,"2026-08-14 00:00:00",0
 10024270,Gator,Gator GV-RDPBMK-4824 Pedalboard Mounting Kit,0,"26.00",716408570969,"2026-07-10 00:00:00",0
 20024270,Gator,[B-Stock] Gator GV-RDPBMK-4824 Pedalboard Mounting Kit,0,26,716408570969,"2026-07-10 00:00:00",0
 10024271,Gator,Gator GV-RDCTP-48 Pedalboard Mounting Kit,0,"3.35",716408570976,"2026-07-10 00:00:00",0
@@ -7631,8 +7633,8 @@
 20010959,Gator Frameworks,[B-Stock] Gator Frameworks GFW-SPK-WM100 Adjustable Wall Mountable Speaker Stands Pair,0,45.5,716408532899,"2026-12-07 00:00:00",0
 10010962,Gator Frameworks,Gator Frameworks GFW-GTR-SEATDLX Deluxe Guitar Seat,1,"92.90",716408551562,,0
 20010962,Gator Frameworks,[B-Stock] Gator Frameworks GFW-GTR-SEATDLX Deluxe Guitar Seat,0,92.9,716408551562,,0
-10011039,Gator Frameworks,"Gator Frameworks GFW-ACPNL1212PCHA-4PK 4 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",1,"27.80",716408556765,,0
-20011039,Gator Frameworks,"[B-Stock] Gator Frameworks GFW-ACPNL1212PCHA-4PK 4 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,27.8,716408556765,,0
+10011039,Gator Frameworks,"Gator Frameworks GFW-ACPNL1212PCHA-4PK 4 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,"27.80",716408556765,"2026-12-11 00:00:00",0
+20011039,Gator Frameworks,"[B-Stock] Gator Frameworks GFW-ACPNL1212PCHA-4PK 4 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,27.8,716408556765,"2026-12-11 00:00:00",0
 10011075,Gator Frameworks,"Gator Frameworks GFW-ACPNL1212PRED-4PK 4 Pack of Red 12x12"" Acoustic Pyramid Panel",1,"29.30",716408556758,,0
 20011075,Gator Frameworks,"[B-Stock] Gator Frameworks GFW-ACPNL1212PRED-4PK 4 Pack of Red 12x12"" Acoustic Pyramid Panel",0,29.3,716408556758,,0
 10011183,Gator Frameworks,Gator Frameworks GFW-MIC-SM5560 Studio Microphone Universal Shock Mount 55mm-60mm,0,"15.70",716408554891,"2026-09-27 00:00:00",0
@@ -8109,12 +8111,12 @@
 20011323,Rogers,[B-Stock] Rogers USA CLE-0320HX-DM Cleveland 3pc. Dark Mahogany 20''x14''BD/12''x8''/14''x14FT,0,2345,4718981493495,"2026-08-30 00:00:00",0
 10011401,Rogers,Rogers USA CLE-0322HXPDP-RG Cleveland 3pc. Purple Diamond Pearl 22''x14''BD/13''x9''/16''x16FT,0,"2459.00",4718981498094,"2026-08-30 00:00:00",0
 20011401,Rogers,[B-Stock] Rogers USA CLE-0322HXPDP-RG Cleveland 3pc. Purple Diamond Pearl 22''x14''BD/13''x9''/16''x16FT,0,2459,4718981498094,"2026-08-30 00:00:00",0
-10012055,Rogers,Rogers RDH7439-DBL Dynomatic double tom mount w/left & right tom arms,1,"77.50",4718981499411,,0
-20012055,Rogers,[B-Stock] Rogers RDH7439-DBL Dynomatic double tom mount w/left & right tom arms,0,77.5,4718981499411,,0
+10012055,Rogers,Rogers RDH7439-DBL Dynomatic Double Tom Mount with Right & Left om Arm,1,"77.50",4718981499411,,0
+20012055,Rogers,[B-Stock] Rogers RDH7439-DBL Dynomatic Double Tom Mount with Right & Left om Arm,0,77.5,4718981499411,,0
 10012056,Rogers,"Rogers RDH3249-BD Ultra-Matic BD bracket,  Accepts 7/8"" tube",1,"22.50",4718981499404,,0
 20012056,Rogers,"[B-Stock] Rogers RDH3249-BD Ultra-Matic BD bracket,  Accepts 7/8"" tube",0,22.5,4718981499404,,0
-10012110,Rogers,"Rogers No.9361 Powertone Tension Rods, Floor Tom 58mm / 6pcs",1,"2.33",4718981500261,,0
-20012110,Rogers,"[B-Stock] Rogers No.9361 Powertone Tension Rods, Floor Tom 58mm / 6pcs",0,2.33,4718981500261,,0
+10012110,Rogers,"Rogers No.9361 Powertone Tension Rods, Floor Tom 58mm 6pc/pack",1,"2.33",4718981500261,,0
+20012110,Rogers,"[B-Stock] Rogers No.9361 Powertone Tension Rods, Floor Tom 58mm 6pc/pack",0,2.33,4718981500261,,0
 10012115,Rogers,Rogers RDH4248-FTLB Dynomatic Floor Tom Bracket w/ oval plate,1,"23.00",4718981499350,,0
 20012115,Rogers,[B-Stock] Rogers RDH4248-FTLB Dynomatic Floor Tom Bracket w/ oval plate,0,23,4718981499350,,0
 10012122,Rogers,Rogers PT-0420HX-SG Powertone 4pc 20x14/10x7/12x8/14x14 Sage Green,1,"1625.00",4718981500308,,0
@@ -8239,8 +8241,8 @@
 20011229,Rogers,"[B-Stock] Rogers No.26-ST Powertone Snare 14''x6,5'' Steel 1.0mm Chrome Plated Steel Shell",0,279,4718981487968,"2026-08-30 00:00:00",0
 10012107,Rogers,Rogers RA-016 Cymbal Stand Wing Bolt 8mm / 4pk,1,"8.54",4718981500247,,0
 20012107,Rogers,[B-Stock] Rogers RA-016 Cymbal Stand Wing Bolt 8mm / 4pk,0,8.54,4718981500247,,0
-10012108,Rogers,Rogers RA-026 Cymbal Stand Wing Nut 8mm / 4pk,1,"7.39",4718981500230,,0
-20012108,Rogers,[B-Stock] Rogers RA-026 Cymbal Stand Wing Nut 8mm / 4pk,0,7.39,4718981500230,,0
+10012108,Rogers,Rogers RA-026 Cymbal Stand Wing Nut 8mm / 4pc/pack,1,"7.39",4718981500230,,0
+20012108,Rogers,[B-Stock] Rogers RA-026 Cymbal Stand Wing Nut 8mm / 4pc/pack,0,7.39,4718981500230,,0
 10012116,Rogers,Rogers RDH7440-PST Dynomatic Double Tom Mount post only,1,"35.00",4718981500124,,0
 20012116,Rogers,[B-Stock] Rogers RDH7440-PST Dynomatic Double Tom Mount post only,0,35,4718981500124,,0
 10012125,Rogers,"Rogers USA No.37-PDP Dyna-Sonic 14''x6,5'' Purple Diamond Pearl Beavertail Lug",0,"633.00",4718981498049,"2026-08-29 00:00:00",0
@@ -8307,8 +8309,8 @@
 20011416,Rogers,[B-Stock] Rogers USA No.ST36-PDP SuperTen 14''x5'' Purple Diamond Pearl,0,525,4718981498056,"2026-08-30 00:00:00",0
 10011419,Rogers,Rogers USA CV-0320HX-GMP Covington 3pc. Green Marien Pearl 20''x14''BD/12''x8''/14''x14FT,0,"2569.00",4718981488064,"2026-08-29 00:00:00",0
 20011419,Rogers,[B-Stock] Rogers USA CV-0320HX-GMP Covington 3pc. Green Marien Pearl 20''x14''BD/12''x8''/14''x14FT,0,2569,4718981488064,"2026-08-29 00:00:00",0
-10012113,Rogers,"Rogers No.9364 Tower Tension Rods, Bass Drum 195mm / 6pcs",1,"15.00",4718981500292,,0
-20012113,Rogers,"[B-Stock] Rogers No.9364 Tower Tension Rods, Bass Drum 195mm / 6pcs",0,15,4718981500292,,0
+10012113,Rogers,"Rogers No.9364 Tower Tension Rods, Bass Drum 195mm 10pcs",1,"15.00",4718981500292,,0
+20012113,Rogers,"[B-Stock] Rogers No.9364 Tower Tension Rods, Bass Drum 195mm 10pcs",0,15,4718981500292,,0
 10012121,Rogers,Rogers USA CLE-0320HX-PDP Cleveland 3pc. Purple Diamond Pearl 20''x14''BD/12''x8''/14''x14FT,0,"2345.00",4718981498087,"2026-08-29 00:00:00",0
 20012121,Rogers,[B-Stock] Rogers USA CLE-0320HX-PDP Cleveland 3pc. Purple Diamond Pearl 20''x14''BD/12''x8''/14''x14FT,0,2345,4718981498087,"2026-08-29 00:00:00",0
 10012132,Rogers,Rogers USA RBH13A 13'' Coated Drum Head,1,"14.70",4718981481751,,0
@@ -8431,8 +8433,8 @@
 20011812,Rogers,[B-Stock] Rogers No.24-CS Powertone Snare 14''x5''Champagne Sparkle 5-ply Maple-Poplar - 2-ply reinforcement rings,0,329,4718981498872,,0
 10011815,Rogers,"Rogers USA No.37-CS Dyna-Sonic 14''x6,5'' Champagne Sparkle Beavertail Lug",0,"584.00",4718981498926,"2026-08-29 00:00:00",0
 20011815,Rogers,"[B-Stock] Rogers USA No.37-CS Dyna-Sonic 14''x6,5'' Champagne Sparkle Beavertail Lug",0,584,4718981498926,"2026-08-29 00:00:00",0
-10012109,Rogers,"Rogers No.9359 Powertone Tension Rods, Tom 42mm / 6pcs",1,"2.33",4718981500254,,0
-20012109,Rogers,"[B-Stock] Rogers No.9359 Powertone Tension Rods, Tom 42mm / 6pcs",0,2.33,4718981500254,,0
+10012109,Rogers,"Rogers No.9359 Powertone Tension Rods, Tom 42mm 6pc/pack",1,"2.33",4718981500254,,0
+20012109,Rogers,"[B-Stock] Rogers No.9359 Powertone Tension Rods, Tom 42mm 6pc/pack",0,2.33,4718981500254,,0
 10012111,Rogers,"Rogers No.9362 Tower Tension Rods, Tom 100mm / 6pcs",1,"4.00",4718981500278,,0
 20012111,Rogers,"[B-Stock] Rogers No.9362 Tower Tension Rods, Tom 100mm / 6pcs",0,4,4718981500278,,0
 10012133,Rogers,Rogers USA RBH14A 14'' Coated Drum Head,1,"16.30",4718981481768,,0
@@ -8547,8 +8549,8 @@
 20000329,DiMarzio,[B-Stock] DiMarzio DP 186W The Cruiser Neck,0,65,663334010673,"2026-09-28 00:00:00",0
 10000335,DiMarzio,DiMarzio DP 192BK Air Zone,0,"65.00",663334011663,"2026-09-28 00:00:00",0
 20000335,DiMarzio,[B-Stock] DiMarzio DP 192BK Air Zone,0,65,663334011663,"2026-09-28 00:00:00",0
-10000337,DiMarzio,DiMarzio DP 193FBK Air Norton,0,"65.00",663334012189,"2026-07-28 00:00:00",0
-20000337,DiMarzio,[B-Stock] DiMarzio DP 193FBK Air Norton,0,65,663334012189,"2026-07-28 00:00:00",0
+10000337,DiMarzio,DiMarzio DP 193FBK Air Norton,0,"65.00",663334012189,"2026-09-28 00:00:00",0
+20000337,DiMarzio,[B-Stock] DiMarzio DP 193FBK Air Norton,0,65,663334012189,"2026-09-28 00:00:00",0
 10000341,DiMarzio,DiMarzio DP 190BK Air Classic Neck,0,"65.00",663334010925,"2026-08-29 00:00:00",0
 20000341,DiMarzio,[B-Stock] DiMarzio DP 190BK Air Classic Neck,0,65,663334010925,"2026-08-29 00:00:00",0
 10000357,DiMarzio,DiMarzio DP 155FBC The Tone Zone black/creme,1,"65.00",663334006928,,0
@@ -8595,8 +8597,8 @@
 20000522,DiMarzio,[B-Stock] DiMarzio DP 175W True Velvet Neck,0,52,663334029569,"2026-07-28 00:00:00",0
 10000535,DiMarzio,DiMarzio DP 223CR PAF Bridge,0,"71.00",663334029637,"2026-07-28 00:00:00",0
 20000535,DiMarzio,[B-Stock] DiMarzio DP 223CR PAF Bridge,0,71,663334029637,"2026-07-28 00:00:00",0
-10000542,DiMarzio,DiMarzio DP 421BK Area Hot T Bridge,0,"71.00",663334033207,"2026-06-28 00:00:00",0
-20000542,DiMarzio,[B-Stock] DiMarzio DP 421BK Area Hot T Bridge,0,71,663334033207,"2026-06-28 00:00:00",0
+10000542,DiMarzio,DiMarzio DP 421BK Area Hot T Bridge,0,"71.00",663334033207,"2026-07-28 00:00:00",0
+20000542,DiMarzio,[B-Stock] DiMarzio DP 421BK Area Hot T Bridge,0,71,663334033207,"2026-07-28 00:00:00",0
 10000558,DiMarzio,DiMarzio DP 708BK Crunch Lab 7,0,"83.00",663334034112,"2026-06-28 00:00:00",0
 20000558,DiMarzio,[B-Stock] DiMarzio DP 708BK Crunch Lab 7,0,83,663334034112,"2026-06-28 00:00:00",0
 10000559,DiMarzio,DiMarzio DP 217BK HS-4,0,"57.00",663334012806,"2026-07-28 00:00:00",0
@@ -10319,8 +10321,8 @@
 20000598,DiMarzio,[B-Stock] DiMarzio DP 245FBK Dominion Bridge,0,78,663334039629,,0
 10000607,DiMarzio,DiMarzio DP 252FBK Gravity Storm Neck black,0,"78.00",663334040281,"2026-08-29 00:00:00",0
 20000607,DiMarzio,[B-Stock] DiMarzio DP 252FBK Gravity Storm Neck black,0,78,663334040281,"2026-08-29 00:00:00",0
-10000610,DiMarzio,DiMarzio DP 253FBK Gravity Storm Bridge black,1,"78.00",663334040304,,0
-20000610,DiMarzio,[B-Stock] DiMarzio DP 253FBK Gravity Storm Bridge black,0,78,663334040304,,0
+10000610,DiMarzio,DiMarzio DP 253FBK Gravity Storm Bridge black,0,"78.00",663334040304,"2026-06-28 00:00:00",0
+20000610,DiMarzio,[B-Stock] DiMarzio DP 253FBK Gravity Storm Bridge black,0,78,663334040304,"2026-06-28 00:00:00",0
 10000617,DiMarzio,DiMarzio DP 811BK Ionizer 8 Bridge black,0,"79.00",663334041271,"2026-08-29 00:00:00",0
 20000617,DiMarzio,[B-Stock] DiMarzio DP 811BK Ionizer 8 Bridge black,0,79,663334041271,"2026-08-29 00:00:00",0
 10000622,DiMarzio,DiMarzio DP 256BK Illuminator Neck black,0,"78.00",663334041868,"2026-08-29 00:00:00",0
@@ -10393,8 +10395,8 @@
 20001469,DiMarzio,[B-Stock] DiMarzio DP 111CR SDS-1,0,52,663334004122,"2026-08-29 00:00:00",0
 10001472,DiMarzio,DiMarzio DP 100RDY Super Distortion,0,"70.70",,"2026-08-29 00:00:00",0
 20001472,DiMarzio,[B-Stock] DiMarzio DP 100RDY Super Distortion,0,70.7,,"2026-08-29 00:00:00",0
-10001483,DiMarzio,DiMarzio DD 2800BK 3 Inch Nylon ClipLock Black,1,"19.70",663334000254,,0
-20001483,DiMarzio,[B-Stock] DiMarzio DD 2800BK 3 Inch Nylon ClipLock Black,0,19.7,663334000254,,0
+10001483,DiMarzio,DiMarzio DD 2800BK 3 Inch Nylon ClipLock Black,0,"19.70",663334000254,"2026-06-28 00:00:00",0
+20001483,DiMarzio,[B-Stock] DiMarzio DD 2800BK 3 Inch Nylon ClipLock Black,0,19.7,663334000254,"2026-06-28 00:00:00",0
 10001491,DiMarzio,DiMarzio DD 3100NW Nylon Strap White,1,"13.70",663334000346,,0
 20001491,DiMarzio,[B-Stock] DiMarzio DD 3100NW Nylon Strap White,0,13.7,663334000346,,0
 10001505,DiMarzio,DiMarzio DD 3100CM Cordura with Leather Ends Camo,1,"13.70",663334025257,,0
@@ -12555,8 +12557,8 @@ John Petrucci Signature Model",0,83.7,,"2026-08-29 00:00:00",0
 20009038,DiMarzio,[B-Stock] DiMarzio DP 220FGN+BK D Activator Bridge,0,81.1,,"2026-08-29 00:00:00",0
 10007953,DiMarzio,DiMarzio DP 227FBK+G LiquiFire black F-Spaced / Black / Gold Pole Pieces,0,"86.40",,"2026-08-29 00:00:00",0
 20007953,DiMarzio,[B-Stock] DiMarzio DP 227FBK+G LiquiFire black F-Spaced / Black / Gold Pole Pieces,0,86.4,,"2026-08-29 00:00:00",0
-10007964,DiMarzio,DiMarzio DP 159FV Evolution Bridge F-Spaced/Purple,1,"83.70",,,0
-20007964,DiMarzio,[B-Stock] DiMarzio DP 159FV Evolution Bridge F-Spaced/Purple,0,83.7,,,0
+10007964,DiMarzio,DiMarzio DP 159FV Evolution Bridge F-Spaced/Purple,0,"83.70",,"2026-09-02 00:00:00",0
+20007964,DiMarzio,[B-Stock] DiMarzio DP 159FV Evolution Bridge F-Spaced/Purple,0,83.7,,"2026-09-02 00:00:00",0
 10008050,DiMarzio,DiMarzio DP 259FBC Titan Bridge Black / Cream,0,"78.00",,"2026-08-29 00:00:00",0
 20008050,DiMarzio,[B-Stock] DiMarzio DP 259FBC Titan Bridge Black / Cream,0,78,,"2026-08-29 00:00:00",0
 10008100,DiMarzio,DiMarzio DP 205BP Steve Morse Neck Black / Pink,0,"83.70",,"2026-08-29 00:00:00",0
@@ -17757,8 +17759,8 @@ John Petrucci Signature Model",0,83.7,,"2026-08-29 00:00:00",0
 20015408,DiMarzio,"[B-Stock] DiMarzio DP 188MG+N Pro Track Mint Green, Nickel Pole Pieces",0,79.1,663334185906,"2026-08-29 00:00:00",0
 10015419,DiMarzio,DiMarzio DP 188Y Pro Track Yellow,0,"70.70",663334010888,"2026-08-29 00:00:00",0
 20015419,DiMarzio,[B-Stock] DiMarzio DP 188Y Pro Track Yellow,0,70.7,663334010888,"2026-08-29 00:00:00",0
-10015424,DiMarzio,"DiMarzio DP 189BK+G The Tone Zone S Black, Gold Pole Pieces",0,"73.40",663334177208,"2026-08-29 00:00:00",0
-20015424,DiMarzio,"[B-Stock] DiMarzio DP 189BK+G The Tone Zone S Black, Gold Pole Pieces",0,73.4,663334177208,"2026-08-29 00:00:00",0
+10015424,DiMarzio,"DiMarzio DP 189BK+G The Tone Zone S Black, Gold Pole Pieces",1,"73.40",663334177208,,0
+20015424,DiMarzio,"[B-Stock] DiMarzio DP 189BK+G The Tone Zone S Black, Gold Pole Pieces",0,73.4,663334177208,,0
 10015425,DiMarzio,"DiMarzio DP 189BK+N The Tone Zone S Black, Nickel Pole Pieces",0,"73.40",663334179349,"2026-08-29 00:00:00",0
 20015425,DiMarzio,"[B-Stock] DiMarzio DP 189BK+N The Tone Zone S Black, Nickel Pole Pieces",0,73.4,663334179349,"2026-08-29 00:00:00",0
 10015426,DiMarzio,"DiMarzio DP 189BL+G The Tone Zone S Blue, Gold Pole Pieces",0,"79.10",,"2026-08-29 00:00:00",0
@@ -32753,8 +32755,8 @@ John Petrucci Signature Model",0,83.7,,"2026-08-29 00:00:00",0
 21002395,DiMarzio,[B-Stock] DiMarzio FH 1311 Vintage Single-coil Mounting Kit Chrome,0,0,663334016460,,0
 11002396,DiMarzio,DiMarzio EP 1022OF Oil-Filled Capacitor .022 Microfarad,1,"0.00",663334197121,,0
 21002396,DiMarzio,[B-Stock] DiMarzio EP 1022OF Oil-Filled Capacitor .022 Microfarad,0,0,663334197121,,0
-11002397,DiMarzio,DiMarzio EP 1022OD Orange Drop Capacitor .022 Microfarad,1,"0.00",663334197091,,0
-21002397,DiMarzio,[B-Stock] DiMarzio EP 1022OD Orange Drop Capacitor .022 Microfarad,0,0,663334197091,,0
+11002397,DiMarzio,DiMarzio EP 1022OD Orange Drop Capacitor .022 Microfarad,1,"3.75",663334197091,,0
+21002397,DiMarzio,[B-Stock] DiMarzio EP 1022OD Orange Drop Capacitor .022 Microfarad,0,3.75,663334197091,,0
 11002403,DiMarzio,DiMarzio Classic Zoom Logo T-Shirt - XXL DIMARZIO,1,"14.50",,,0
 21002403,DiMarzio,[B-Stock] DiMarzio Classic Zoom Logo T-Shirt - XXL DIMARZIO,0,14.5,,,0
 11002390,DiMarzio,DiMarzio GW2109 HH Wiring Harness with Five-Way Super Switch,1,"0.00",663334197350,,0
@@ -33197,8 +33199,8 @@ John Petrucci Signature Model",0,83.7,,"2026-08-29 00:00:00",0
 20023163,CITADEL,[B-Stock] CITADEL Vector Hybrid Octave Fuzz,0,103,4897147560070,,0
 10023164,CITADEL,CITADEL Overtuber High Voltage Overdrive,1,"187.00",4897147560032,,0
 20023164,CITADEL,[B-Stock] CITADEL Overtuber High Voltage Overdrive,0,187,4897147560032,,0
-10024109,CITADEL,CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,"1.00",,"2100-01-01 00:00:00",0
-20024109,CITADEL,[B-Stock] CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,1,,"2100-01-01 00:00:00",0
+10024109,CITADEL,CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,1,"1.00",,,0
+20024109,CITADEL,[B-Stock] CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,1,,,0
 10023658,Samson,Samson S-PATCH+ 48-point Patchbay,0,"109.00",809164003144,"2026-06-08 00:00:00",0
 20023658,Samson,[B-Stock] Samson S-PATCH+ 48-point Patchbay,0,109,809164003144,"2026-06-08 00:00:00",0
 10023659,Samson,Samson S-ZONE 4-Input / 4- Zone Stereo Zone Mixer,1,"275.00",809164004622,,0

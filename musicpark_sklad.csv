@@ -47,7 +47,7 @@ KRARPODYSREV1;KORG ARP Odyssey Rev1;0;https://www.music-park.sk/produkt/analogov
 KREK50;KORG EK-50;20;https://www.music-park.sk/produkt/aranzery/106/ek-50
 KRMP10;KORG MP-10 Pro;0;https://www.music-park.sk/produkt/aranzery/107/mp-10-pro
 KRPA1000;KORG Pa1000;20;https://www.music-park.sk/produkt/aranzery/108/pa1000
-KRPA300;KORG Pa300;1;https://www.music-park.sk/produkt/aranzery/112/pa300
+KRPA300;KORG Pa300;0;https://www.music-park.sk/produkt/aranzery/112/pa300
 KRPA3X61;KORG Pa3X-61;0;https://www.music-park.sk/produkt/aranzery/113/pa3x-61
 KRPA3X76;KORG Pa3X-76;0;https://www.music-park.sk/produkt/aranzery/114/pa3x-76
 KRPA3XLE76;KORG Pa3X-Le;0;https://www.music-park.sk/produkt/aranzery/115/pa3x-le
@@ -60,7 +60,7 @@ KRPA500;KORG PA500;0;https://www.music-park.sk/produkt/aranzery/123/pa500
 KRPA50SD;KORG Pa50SD;0;https://www.music-park.sk/produkt/aranzery/124/pa50sd
 KRPA588;KORG PA588;0;https://www.music-park.sk/produkt/aranzery/125/pa588
 KRPA600;KORG Pa600;5;https://www.music-park.sk/produkt/aranzery/127/pa600
-KRPA700;KORG Pa700;10;https://www.music-park.sk/produkt/aranzery/128/pa700
+KRPA700;KORG Pa700;5;https://www.music-park.sk/produkt/aranzery/128/pa700
 KRPA700OR;KORG Pa700 Oriental;0;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
 KRPA800;KORG PA800;0;https://www.music-park.sk/produkt/aranzery/131/pa800
 KRPA900;KORG Pa900;0;https://www.music-park.sk/produkt/aranzery/132/pa900
@@ -126,7 +126,7 @@ MBE170012;Markbass MB7 Booster;0;https://www.music-park.sk/produkt/baskytarove-e
 MBE170013;Markbass MB Mini Dist;0;https://www.music-park.sk/produkt/baskytarove-efekty/203/mb-mini-dist
 MBE170014;Markbass MB Mini Boost;0;https://www.music-park.sk/produkt/baskytarove-efekty/204/mb-mini-boost
 MBE170016;Markbass Super Synth;0;https://www.music-park.sk/produkt/baskytarove-efekty/205/super-synth
-MBE170017;Markbass Compressore;1;https://www.music-park.sk/produkt/baskytarove-efekty/206/compressore
+MBE170017;Markbass Compressore;0;https://www.music-park.sk/produkt/baskytarove-efekty/206/compressore
 VXAC2RVBASS;VOX AC2 RhythmVOX Bass;0;https://www.music-park.sk/produkt/baskytarova-komba/207/ac2-rhythmvox-bass
 VXADIOAIRBS;VOX Adio Air BS;3;https://www.music-park.sk/produkt/baskytarova-komba/208/adio-air-bs
 VXPF10B;VOX Pathfinder 10B;0;https://www.music-park.sk/produkt/baskytarova-komba/209/pathfinder-10b
@@ -563,7 +563,7 @@ KRKP3+;KORG Kaoss Pad KP3+;0;https://www.music-park.sk/produkt/produkcni-nastroj
 KRKPMINI2S;KORG Mini Kaoss Pad 2S;0;https://www.music-park.sk/produkt/produkcni-nastroje/1540/mini-kaoss-pad-2s
 KRKPQ;KORG Kaoss Pad Quad;0;https://www.music-park.sk/produkt/produkcni-nastroje/1541/kaoss-pad-quad
 KRSQ1;KORG SQ-1;5;https://www.music-park.sk/produkt/produkcni-nastroje/1543/sq-1
-KRVOLCABASS;KORG Volca Bass;15;https://www.music-park.sk/produkt/produkcni-nastroje/1544/volca-bass
+KRVOLCABASS;KORG Volca Bass;10;https://www.music-park.sk/produkt/produkcni-nastroje/1544/volca-bass
 KRVOLCABEAT;KORG Volca Beats;5;https://www.music-park.sk/produkt/produkcni-nastroje/1545/volca-beats
 KRVOLCAFM;KORG Volca FM;0;https://www.music-park.sk/produkt/produkcni-nastroje/1546/volca-fm
 KRVOLCAKEYS;KORG Volca Keys;0;https://www.music-park.sk/produkt/produkcni-nastroje/1547/volca-keys
@@ -615,7 +615,7 @@ QL10.00775;Quik Lok SLS/15;0;https://www.music-park.sk/produkt/stojany-pro-repro
 QL10.00201;Quik Lok SP/180;3;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1626/sp-180
 QL10.01037;Quik Lok SP/282 BK;3;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1627/sp-282-bk
 KRPC300BK;KORG PC-300BK;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1628/pc-300bk
-KRPC300WH;KORG PC-300WH;1;https://www.music-park.sk/produkt/stolicky-a-lavice/1629/pc-300wh
+KRPC300WH;KORG PC-300WH;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1629/pc-300wh
 KRPC550WH;KORG PC-550-WH;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1631/pc-550-wh
 KRPC770BK;KORG PC-770-BK;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1632/pc-770-bk
 KRPC770WH;KORG PC-770-WH;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1633/pc-770-wh
@@ -1639,7 +1639,7 @@ KRPOETRY;KORG Poetry;0;https://www.music-park.sk/produkt/digitalni-piana/2964/po
 KRMICRO2;KORG microKORG2;3;https://www.music-park.sk/produkt/digitalni-syntezatory/2965/microkorg2
 KROPSIXMK2;KORG Opsix mk II;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2966/opsix-mk-ii
 KRMODWAVEM;KORG Modwave Module;5;https://www.music-park.sk/produkt/digitalni-syntezatory/2967/modwave-module
-KROPSIXM;KORG Opsix Module;1;https://www.music-park.sk/produkt/digitalni-syntezatory/2968/opsix-module
+KROPSIXM;KORG Opsix Module;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2968/opsix-module
 KRWAVESTATEM;KORG Wavestate Module;10;https://www.music-park.sk/produkt/digitalni-syntezatory/2969/wavestate-module
 VXV846V;VOX V846 Vintage Wah;5;https://www.music-park.sk/produkt/kytarove-efekty/2970/v846-vintage-wah
 VXVRM1;VOX Real McCoy Wah;10;https://www.music-park.sk/produkt/kytarove-efekty/2971/real-mccoy-wah
@@ -1889,7 +1889,7 @@ KRHDTRXTUJ;KORG handytraxx tube J;2;https://www.music-park.sk/produkt/produkcni-
 KRHDTRX1B;KORG handytraxx 1bit;4;https://www.music-park.sk/produkt/produkcni-nastroje/3236/handytraxx-1bit
 KRKRONOS361;KORG Kronos 3 61;5;https://www.music-park.sk/produkt/pracovni-stanice/3237/kronos-3-61
 KRKRONOS373;KORG Kronos 3 73;0;https://www.music-park.sk/produkt/pracovni-stanice/3238/kronos-3-73
-KRKRONOS388;KORG Kronos 3 88;4;https://www.music-park.sk/produkt/pracovni-stanice/3239/kronos-3-88
+KRKRONOS388;KORG Kronos 3 88;3;https://www.music-park.sk/produkt/pracovni-stanice/3239/kronos-3-88
 KRFSUPCBMBK;KORG FISA Suprema C B;1;https://www.music-park.sk/produkt/akordeony/3240/fisa-suprema-c-b
 KRFSUPCPMBK;KORG FISA Suprema C P;3;https://www.music-park.sk/produkt/akordeony/3241/fisa-suprema-c-p
 DR2NBE9;DR Strings Neon Blue NBE-9;5;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3242/neon-blue-nbe-9
@@ -2137,7 +2137,7 @@ VXVGA3PSNA;VOX Giulietta VGA-3PS Natural;3;https://www.music-park.sk/produkt/aku
 KROPSIX;KORG Opsix;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2154/opsix
 KRNAUTILUS88;KORG Nautilus 88;0;https://www.music-park.sk/produkt/pracovni-stanice/2155/nautilus-88
 KRNAUTILUS73;KORG Nautilus 73;0;https://www.music-park.sk/produkt/pracovni-stanice/2156/nautilus-73
-KRNAUTILUS61;KORG Nautilus 61;3;https://www.music-park.sk/produkt/pracovni-stanice/2157/nautilus-61
+KRNAUTILUS61;KORG Nautilus 61;2;https://www.music-park.sk/produkt/pracovni-stanice/2157/nautilus-61
 KRLP380UWH;KORG LP-380U WH;0;https://www.music-park.sk/produkt/digitalni-piana/2158/lp-380u-wh
 KRLP380URWBK;KORG LP-380U RWBK;4;https://www.music-park.sk/produkt/digitalni-piana/2159/lp-380u-rwbk
 KRLP380URW;KORG LP-380U RW;4;https://www.music-park.sk/produkt/digitalni-piana/2160/lp-380u-rw
@@ -2743,7 +2743,7 @@ AGFILTV2;Aguilar Filter Twin-2;4;https://www.music-park.sk/produkt/baskytarove-e
 AGFUZZV2;Aguilar Fuzzistor-2;3;https://www.music-park.sk/produkt/baskytarove-efekty/2815/fuzzistor-2
 AGPHASV2;Aguilar Grape Phaser-2;0;https://www.music-park.sk/produkt/baskytarove-efekty/2816/grape-phaser-2
 AGOCTV2;Aguilar Octamizer-2;5;https://www.music-park.sk/produkt/baskytarove-efekty/2817/octamizer-2
-AGCOMPV2;Aguilar TLC Compressor-2;1;https://www.music-park.sk/produkt/baskytarove-efekty/2818/tlc-compressor-2
+AGCOMPV2;Aguilar TLC Compressor-2;0;https://www.music-park.sk/produkt/baskytarove-efekty/2818/tlc-compressor-2
 KRMICROCR;KORG microKORG Crystal;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2819/microkorg-crystal
 KRWAVESTATESEPT;KORG Wavestate SE Platinum;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2820/wavestate-se-platinum
 KROPSIXSEPT;KORG Opsix SE Platinum;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2821/opsix-se-platinum

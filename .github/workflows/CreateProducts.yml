@@ -1,0 +1,66 @@
+name: Create Products
+
+# Creates ESP-family (Edwards / ESP / E-II / LTD) products in the OpenCart shop
+# from esp_family_products.csv so they stop showing as Unmatched (Prep).
+#
+# SAFE BY DEFAULT: runs as a DRY RUN unless you set commit=true.
+# Recommended order:
+#   1. Run with defaults (dry run) and read the log / summary.
+#   2. Run with commit=true, limit=1 to create a single product and verify it in the shop.
+#   3. Run with commit=true, limit=0 to create the rest (idempotent — re-running skips existing).
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit:
+        description: 'Actually write to the DB? (false = dry run)'
+        type: boolean
+        required: true
+        default: false
+      limit:
+        description: 'Max products to process (0 = all)'
+        required: false
+        default: '0'
+      brands:
+        description: 'Comma-separated brand filter (blank = all in CSV)'
+        required: false
+        default: ''
+      file:
+        description: 'Product CSV file'
+        required: false
+        default: 'esp_family_products.csv'
+
+jobs:
+  create-products:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install mysql2
+
+      - name: Create products
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          # Optional overrides — set as repo variables/secrets if your shop differs:
+          LANGUAGE_ID: ${{ vars.LANGUAGE_ID }}
+          STORE_ID: ${{ vars.STORE_ID }}
+          TAX_CLASS_ID: ${{ vars.TAX_CLASS_ID }}
+          STOCK_STATUS_ID: ${{ vars.STOCK_STATUS_ID }}
+          CATEGORY_ID: ${{ vars.CATEGORY_ID }}
+        run: |
+          node create_products.js \
+            --file "${{ github.event.inputs.file }}" \
+            ${{ github.event.inputs.brands != '' && format('--brands {0}', github.event.inputs.brands) || '' }} \
+            --limit "${{ github.event.inputs.limit }}" \
+            ${{ github.event.inputs.commit == 'true' && '--commit' || '' }}

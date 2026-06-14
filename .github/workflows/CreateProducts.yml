@@ -29,6 +29,10 @@ on:
         description: 'Product CSV file'
         required: false
         default: 'esp_family_products.csv'
+      status:
+        description: 'Product status when created (0 = disabled/staged, 1 = live)'
+        required: false
+        default: '0'
 
 jobs:
   create-products:
@@ -58,6 +62,7 @@ jobs:
           TAX_CLASS_ID: ${{ vars.TAX_CLASS_ID }}
           STOCK_STATUS_ID: ${{ vars.STOCK_STATUS_ID }}
           CATEGORY_ID: ${{ vars.CATEGORY_ID }}
+          PRODUCT_STATUS: ${{ github.event.inputs.status }}
         run: |
           node create_products.js \
             --file "${{ github.event.inputs.file }}" \

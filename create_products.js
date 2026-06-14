@@ -26,6 +26,8 @@
  *   DB_HOST, DB_PORT, DB_USER, DB_PASS, DB_NAME
  *   LANGUAGE_ID (default 1), STORE_ID (default 0), TAX_CLASS_ID (default 0)
  *   STOCK_STATUS_ID (default 5), CATEGORY_ID (optional, assigns every product to it)
+ *   PRODUCT_STATUS (default 0 = created DISABLED/staged so you can publish them
+ *                   yourself; set 1 to create them live).
  */
 
 const mysql = require('mysql2/promise');
@@ -50,6 +52,8 @@ const STORE_ID = parseInt(process.env.STORE_ID || '0', 10);
 const TAX_CLASS_ID = parseInt(process.env.TAX_CLASS_ID || '0', 10);
 const STOCK_STATUS_ID = parseInt(process.env.STOCK_STATUS_ID || '5', 10);
 const CATEGORY_ID = process.env.CATEGORY_ID ? parseInt(process.env.CATEGORY_ID, 10) : null;
+// 0 = disabled (staged/hidden — you publish them yourself), 1 = enabled (live immediately).
+const PRODUCT_STATUS = parseInt(process.env.PRODUCT_STATUS || '0', 10);
 
 const dbConfig = {
   host: process.env.DB_HOST || 'db.r6.websupport.sk',
@@ -119,6 +123,7 @@ async function main() {
   console.log(`Mode:        ${COMMIT ? 'COMMIT (writing to DB)' : 'DRY RUN (no writes)'}`);
   console.log(`CSV:         ${FILE}  (${products.length} candidate rows)`);
   console.log(`DB:          ${dbConfig.database}@${dbConfig.host}`);
+  console.log(`Status:      ${PRODUCT_STATUS === 1 ? 'ENABLED (live)' : 'DISABLED (staged — you publish them)'}`);
   console.log(`Defaults:    language_id=${LANGUAGE_ID} store_id=${STORE_ID} stock_status_id=${STOCK_STATUS_ID}`
     + (CATEGORY_ID ? ` category_id=${CATEGORY_ID}` : '') + '\n');
 
@@ -180,9 +185,9 @@ async function main() {
            image, manufacturer_id, shipping, price, points, tax_class_id, date_available,
            weight, weight_class_id, length, width, height, length_class_id, subtract,
            minimum, sort_order, status, viewed, date_added, date_modified)
-         VALUES (?, ?, '', ?, '', '', '', '', ?, ?, '', ?, 1, ?, 0, ?, ?, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, ?, ?)`,
+         VALUES (?, ?, '', ?, '', '', '', '', ?, ?, '', ?, 1, ?, 0, ?, ?, 0, 1, 0, 0, 0, 1, 1, 1, 1, ?, 0, ?, ?)`,
         [model, sku, ean, quantity, STOCK_STATUS_ID, manufacturerId, price, TAX_CLASS_ID,
-         now, now, now]
+         now, PRODUCT_STATUS, now, now]
       );
       const productId = pr.insertId;
 

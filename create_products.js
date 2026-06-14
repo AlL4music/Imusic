@@ -55,12 +55,15 @@ const CATEGORY_ID = process.env.CATEGORY_ID ? parseInt(process.env.CATEGORY_ID, 
 // 0 = disabled (staged/hidden — you publish them yourself), 1 = enabled (live immediately).
 const PRODUCT_STATUS = parseInt(process.env.PRODUCT_STATUS || '0', 10);
 
+// Trim secrets defensively — a stray space/tab/newline in a GitHub secret
+// otherwise causes "getaddrinfo ENOTFOUND" on the host.
+const clean = (v) => (v == null ? v : String(v).trim());
 const dbConfig = {
-  host: process.env.DB_HOST || 'db.r6.websupport.sk',
-  port: parseInt(process.env.DB_PORT || '3306', 10),
-  user: process.env.DB_USER,
-  password: process.env.DB_PASS,
-  database: process.env.DB_NAME,
+  host: clean(process.env.DB_HOST) || 'db.r6.websupport.sk',
+  port: parseInt(clean(process.env.DB_PORT) || '3306', 10),
+  user: clean(process.env.DB_USER),
+  password: process.env.DB_PASS,   // not trimmed: passwords may contain edge whitespace
+  database: clean(process.env.DB_NAME),
   connectTimeout: 30000,
 };
 

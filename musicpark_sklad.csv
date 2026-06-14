@@ -513,7 +513,7 @@ GLL1000-CLF-NAT-MP;G&L USA CLF Research L-1000 Natural;0;https://www.music-park.
 QLCAD303K;Quik Lok AD 30-3K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1466/ad-30-3k
 QL30.00248;Quik Lok AD-40-3K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1467/ad-40-3k
 QLCAD42K;Quik Lok AD 4-2,5K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1468/ad-4-25k
-QL10.00364;Quik Lok Z/720L;5;https://www.music-park.sk/produkt/klavesove-stojany/1469/z-720l
+QL10.00364;Quik Lok Z/720L;3;https://www.music-park.sk/produkt/klavesove-stojany/1469/z-720l
 QL30.01255;Quik Lok FPC/120 K;4;https://www.music-park.sk/produkt/propojovaci-kabely/1470/fpc-120-k
 QL30.01399;Quik Lok FPC/150;5;https://www.music-park.sk/produkt/propojovaci-kabely/1471/fpc-150
 QL30.01627;Quik Lok FPC/Q;10;https://www.music-park.sk/produkt/propojovaci-kabely/1472/fpc-q
@@ -772,7 +772,7 @@ HSULSWESN-BLK;HAGSTROM Ultra Swede Essential - Black Gloss;4;https://www.music-p
 HSULSWESN-TSB;HAGSTROM Ultra Swede Essential - Tobacco Sunburst;1;https://www.music-park.sk/produkt/elektricke-kytary/1865/ultra-swede-essential-tobacco-sunburst
 HSULSWESN-WCT;HAGSTROM Ultra Swede Essential - Wild Cherry Transparent;2;https://www.music-park.sk/produkt/elektricke-kytary/1866/ultra-swede-essential-wild-cherry-transparent
 QL30.02380;Quik Lok RKSM/340-5;20;https://www.music-park.sk/produkt/mikrofonni-kabely/1867/rksm-340-5
-EK06204120;EKO CS-12;4;https://www.music-park.sk/produkt/klasicke-kytary/1868/cs-12
+EK06204120;EKO CS-12;5;https://www.music-park.sk/produkt/klasicke-kytary/1868/cs-12
 SAHS220S;Sakae HS-220S;2;https://www.music-park.sk/produkt/hardware-pro-bici/1871/hs-220s
 DR1LLH40;DR Strings Lo-Rider LLH-40;0;https://www.music-park.sk/produkt/struny-na-baskytary/1875/lo-rider-llh-40
 SADT220DS;Sakae DT-220DS;2;https://www.music-park.sk/produkt/hardware-pro-bici/1876/dt-220ds
@@ -841,10 +841,10 @@ QLSSL915;Quik Lok SL-915ALU;5;https://www.music-park.sk/produkt/klavesove-stojan
 QL10.01140;Quik Lok LPH/007;5;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/1945/lph-007
 QLSSL918BK;Quik Lok SL-918ALU BK;2;https://www.music-park.sk/produkt/klavesove-stojany/1946/sl-918alu-bk
 QLSSL919BK;Quik Lok SL-919ALU BK;0;https://www.music-park.sk/produkt/klavesove-stojany/1947/sl-919alu-bk
-QL10.00366;Quik Lok Z/727;4;https://www.music-park.sk/produkt/klavesove-stojany/1948/z-727
+QL10.00366;Quik Lok Z/727;3;https://www.music-park.sk/produkt/klavesove-stojany/1948/z-727
 PHAM5GE;Phonic AM 5GE;0;https://www.music-park.sk/produkt/mixazni-pulty/1949/am-5ge
 PHAM6GE;Phonic AM 6GE;0;https://www.music-park.sk/produkt/mixazni-pulty/1950/am-6ge
-PHAM8GE;Phonic AM 8GE;20;https://www.music-park.sk/produkt/mixazni-pulty/1951/am-8ge
+PHAM8GE;Phonic AM 8GE;15;https://www.music-park.sk/produkt/mixazni-pulty/1951/am-8ge
 PHAM12GE;Phonic AM 12GE;0;https://www.music-park.sk/produkt/mixazni-pulty/1952/am-12ge
 PHAM14GE;Phonic AM 14GE;0;https://www.music-park.sk/produkt/mixazni-pulty/1953/am-14ge
 PHAM1204FXRW;Phonic AM 1204FX RW;0;https://www.music-park.sk/produkt/mixazni-pulty/1954/am-1204fx-rw
@@ -1504,7 +1504,7 @@ QL10.00251;Quik Lok MS/331;10;https://www.music-park.sk/produkt/notove-stojany/1
 QL10.00732;Quik Lok MS/335;20;https://www.music-park.sk/produkt/notove-stojany/1372/ms-335
 VXVFS2;VOX VFS-2;20;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1373/vfs-2
 VXVFS2A;VOX VFS2A;5;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1374/vfs2a
-VXVFS5;VOX VFS5;10;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1375/vfs5
+VXVFS5;VOX VFS5;15;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1375/vfs5
 DVA134019;DV Mark DVM Controller;0;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1376/dvm-controller
 DVA292008;DV Mark DV EVO1 Controller;1;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1377/dv-evo1-controller
 ASFS4;Ashdown FS-4;0;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1378/fs-4
@@ -1779,7 +1779,7 @@ MBB148037;Markbass MB Yellow JB;0;https://www.music-park.sk/produkt/elektricke-b
 KRSQCCKSP;SEQUENZ CC-KSP;5;https://www.music-park.sk/produkt/puzdra-na-klavesy/3117/cc-ksp
 AGTHCARRYBAG;Aguilar Carry Bag;10;https://www.music-park.sk/produkt/obaly-na-aparaty/3118/carry-bag
 QL30.02262;Quik Lok JUST JJ-4,5;0;https://www.music-park.sk/produkt/nastrojove-kabely/3119/just-jj-45
-QL30.02263;Quik Lok JUST JJ-6;2;https://www.music-park.sk/produkt/nastrojove-kabely/3120/just-jj-6
+QL30.02263;Quik Lok JUST JJ-6;3;https://www.music-park.sk/produkt/nastrojove-kabely/3120/just-jj-6
 QL30.02268;Quik Lok JUST JR-4,5;0;https://www.music-park.sk/produkt/nastrojove-kabely/3121/just-jr-45
 QL30.02269;Quik Lok JUST JR-6;0;https://www.music-park.sk/produkt/nastrojove-kabely/3122/just-jr-6
 KRNANOKFOLDAG;KORG nanoKEY Fold Alpine Green;20;https://www.music-park.sk/produkt/midi-kontrolery/3123/nanokey-fold-alpine-green
@@ -1791,7 +1791,7 @@ KRFSUPBMBK;KORG FISA Suprema B;1;https://www.music-park.sk/produkt/akordeony/312
 KRFSUPPMBK;KORG FISA Suprema P;2;https://www.music-park.sk/produkt/akordeony/3129/fisa-suprema-p
 KRTUST1K;KORG ST1K;10;https://www.music-park.sk/produkt/ladicky-a-metronomy/3130/st1k
 QL30.02353;Quik Lok JUST JJ-6 SL;0;https://www.music-park.sk/produkt/nastrojove-kabely/3131/just-jj-6-sl
-QL30.02359;Quik Lok JUST JR-6 SL;4;https://www.music-park.sk/produkt/nastrojove-kabely/3132/just-jr-6-sl
+QL30.02359;Quik Lok JUST JR-6 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3132/just-jr-6-sl
 EK06217265;EKO MIA A400E;2;https://www.music-park.sk/produkt/akusticke-kytary/3134/mia-a400e
 EK06217266;EKO MIA A400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3135/mia-a400ce
 EK06217263;EKO MIA D400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3136/mia-d400ce
@@ -1963,7 +1963,7 @@ DXBAGL3;Dexibell DX Bag L3;0;https://www.music-park.sk/produkt/puzdra-na-klavesy
 QL10.01031;Quik Lok A/304 BK EU;5;https://www.music-park.sk/produkt/stojany-na-mikrofon/3315/a-304-bk-eu
 QL10.00196;Quik Lok SBG/14;5;https://www.music-park.sk/produkt/kytarove-stojany/3316/sbg-14
 QL10.00198;Quik Lok SBG/4;5;https://www.music-park.sk/produkt/kytarove-stojany/3317/sbg-4
-QL30.02352;Quik Lok JUST JJ-4,5 SL;2;https://www.music-park.sk/produkt/nastrojove-kabely/3318/just-jj-45-sl
+QL30.02352;Quik Lok JUST JJ-4,5 SL;3;https://www.music-park.sk/produkt/nastrojove-kabely/3318/just-jj-45-sl
 QL30.02358;Quik Lok JUST JR-4,5 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3319/just-jr-45-sl
 DR1SMR45;DR Strings Hi-Beam SMR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/3320/hi-beam-smr-45
 AGOCTDLX;Aguilar Octamizer DLX;10;https://www.music-park.sk/produkt/baskytarove-efekty/3321/octamizer-dlx
@@ -1976,7 +1976,7 @@ VXVFZ1;VOX VFZ-1 Fuzz;5;https://www.music-park.sk/produkt/kytarove-efekty/3328/v
 VXVTB1;VOX VTB-1 Treble Booster;5;https://www.music-park.sk/produkt/kytarove-efekty/3329/vtb-1-treble-booster
 KRKPV;KORG Kaoss Pad V;20;https://www.music-park.sk/produkt/produkcni-nastroje/3330/kaoss-pad-v
 QL10.01164;Quik Lok DAS001;2;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/3331/das001
-QL10.01166;Quik Lok GHS001;1;https://www.music-park.sk/produkt/kytarove-stojany/3332/ghs001
+QL10.01166;Quik Lok GHS001;2;https://www.music-park.sk/produkt/kytarove-stojany/3332/ghs001
 QL10.01165;Quik Lok PPS001;5;https://www.music-park.sk/produkt/stojany/3333/pps001
 ASUKSBM110;Ashdown UK-SBM-110-100;0;https://www.music-park.sk/produkt/baskytarova-komba/3334/uk-sbm-110-100
 ASUKSBM112;Ashdown UK-SBM-112-200;0;https://www.music-park.sk/produkt/baskytarova-komba/3335/uk-sbm-112-200

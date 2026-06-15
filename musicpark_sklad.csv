@@ -513,7 +513,7 @@ GLL1000-CLF-NAT-MP;G&L USA CLF Research L-1000 Natural;0;https://www.music-park.
 QLCAD303K;Quik Lok AD 30-3K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1466/ad-30-3k
 QL30.00248;Quik Lok AD-40-3K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1467/ad-40-3k
 QLCAD42K;Quik Lok AD 4-2,5K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1468/ad-4-25k
-QL10.00364;Quik Lok Z/720L;3;https://www.music-park.sk/produkt/klavesove-stojany/1469/z-720l
+QL10.00364;Quik Lok Z/720L;4;https://www.music-park.sk/produkt/klavesove-stojany/1469/z-720l
 QL30.01255;Quik Lok FPC/120 K;4;https://www.music-park.sk/produkt/propojovaci-kabely/1470/fpc-120-k
 QL30.01399;Quik Lok FPC/150;5;https://www.music-park.sk/produkt/propojovaci-kabely/1471/fpc-150
 QL30.01627;Quik Lok FPC/Q;10;https://www.music-park.sk/produkt/propojovaci-kabely/1472/fpc-q
@@ -1433,7 +1433,7 @@ PHCELTUBE;Phonic Celeus Tube;0;https://www.music-park.sk/produkt/mixazni-pulty/1
 PHPHAC14;Phonic AC14;0;https://www.music-park.sk/produkt/napajeci-adaptery/1300/ac14
 QL10.01074;Quik Lok DJ/233;2;https://www.music-park.sk/produkt/multifunkcni-stojany/1301/dj-233
 QL10.01059;Quik Lok LPH/004;4;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/1302/lph-004
-QL10.01075;Quik Lok LPH/005;3;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/1303/lph-005
+QL10.01075;Quik Lok LPH/005;2;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/1303/lph-005
 QL10.00763;Quik Lok LPH/X;3;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/1304/lph-x
 QL20.00030;Quik Lok CM/805 BK;20;https://www.music-park.sk/produkt/multikabely-metraz/1305/cm-805-bk
 KRKA189;KORG KA-189;20;https://www.music-park.sk/produkt/napajeci-adaptery/1306/ka-189
@@ -1966,8 +1966,8 @@ QL10.00198;Quik Lok SBG/4;5;https://www.music-park.sk/produkt/kytarove-stojany/3
 QL30.02352;Quik Lok JUST JJ-4,5 SL;3;https://www.music-park.sk/produkt/nastrojove-kabely/3318/just-jj-45-sl
 QL30.02358;Quik Lok JUST JR-4,5 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3319/just-jr-45-sl
 DR1SMR45;DR Strings Hi-Beam SMR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/3320/hi-beam-smr-45
-AGOCTDLX;Aguilar Octamizer DLX;10;https://www.music-park.sk/produkt/baskytarove-efekty/3321/octamizer-dlx
-AGTLCDLX;Aguilar TLC Compressor EQ DLX;15;https://www.music-park.sk/produkt/baskytarove-efekty/3322/tlc-compressor-eq-dlx
+AGOCTDLX;Aguilar Octamizer DLX;15;https://www.music-park.sk/produkt/baskytarove-efekty/3321/octamizer-dlx
+AGTLCDLX;Aguilar TLC Compressor EQ DLX;20;https://www.music-park.sk/produkt/baskytarove-efekty/3322/tlc-compressor-eq-dlx
 VXVT20XCLBL;VOX VT20X Classic Blue;20;https://www.music-park.sk/produkt/kytarova-komba/3323/vt20x-classic-blue
 VXVT40XCLBL;VOX VT40X Classic Blue;10;https://www.music-park.sk/produkt/kytarova-komba/3324/vt40x-classic-blue
 VXPF10BRG;VOX Pathfinder 10 Green;10;https://www.music-park.sk/produkt/kytarova-komba/3325/pathfinder-10-green
@@ -2016,6 +2016,8 @@ DSDTV-DT-CTB;Duesenberg Starplayer TV Duo Tone Catalina Blue;0;https://www.music
 DSDTV-DT-CTR;Duesenberg Starplayer TV Duo Tone Catalina Red;0;https://www.music-park.sk/produkt/elektricke-kytary/3372/starplayer-tv-duo-tone-catalina-red
 DSDTV-DT-CHG;Duesenberg Starplayer TV Duo Tone Harbor Green;0;https://www.music-park.sk/produkt/elektricke-kytary/3373/starplayer-tv-duo-tone-harbor-green
 DSDTV-GPU;Duesenberg Starplayer TV Galaxy Purple Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3374/starplayer-tv-galaxy-purple-burst
+DSDTV-BKV;Duesenberg Starplayer TV Black Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3375/starplayer-tv-black-velvet
+DSDTV-WHV;Duesenberg Starplayer TV White Velvet;0;https://www.music-park.sk/produkt/elektricke-kytary/3376/starplayer-tv-white-velvet
 DSDTV-DLX-LAB;Duesenberg Starplayer TV Deluxe Light Antique Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3377/starplayer-tv-deluxe-light-antique-burst
 DSDTV-DLX-CGB;Duesenberg Starplayer TV Deluxe Catalina Green Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3378/starplayer-tv-deluxe-catalina-green-burst
 DSDTV-CM-BK;Duesenberg Starplayer TV Custom Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3379/starplayer-tv-custom-black
@@ -2066,6 +2068,8 @@ DSDJT-D6-CBK-S;Duesenberg Julietta Baritone Catalina Black;0;https://www.music-p
 DSDJT-D6-CTR;Duesenberg Julietta Baritone Catalina Red;0;https://www.music-park.sk/produkt/elektricke-kytary/3425/julietta-baritone-catalina-red
 DSDAC-CC-BK;Duesenberg Alliance Series Chris Chaney Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3426/alliance-series-chris-chaney-black
 DSDBB-DBK;Duesenberg Starplayer Bass Deep Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3427/starplayer-bass-deep-black
+DSDBB-TBB;Duesenberg Starplayer Bass Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-baskytary/3428/starplayer-bass-tobacco-burst
+DSDBB-BKV;Duesenberg Starplayer Bass Black Velvet;0;https://www.music-park.sk/produkt/elektricke-baskytary/3429/starplayer-bass-black-velvet
 DSDBT-CHG;Duesenberg Triton Bass Catalina Harbor Green;0;https://www.music-park.sk/produkt/elektricke-baskytary/3430/triton-bass-catalina-harbor-green
 DSDBT-BK;Duesenberg Triton Bass Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3431/triton-bass-black
 DSDBT-GT;Duesenberg Triton Bass Gold Top;0;https://www.music-park.sk/produkt/elektricke-baskytary/3432/triton-bass-gold-top

@@ -289,7 +289,7 @@ KRB1SPBK;KORG B1SP-BK;0;https://www.music-park.sk/produkt/digitalni-piana/402/b1
 KRB1SPWH;KORG B1SP-WH;0;https://www.music-park.sk/produkt/digitalni-piana/403/b1sp-wh
 KRB1WH;KORG B1-WH;0;https://www.music-park.sk/produkt/digitalni-piana/404/b1-wh
 KRC1AIRBK;KORG C1 Air BK;4;https://www.music-park.sk/produkt/digitalni-piana/405/c1-air-bk
-KRC1AIRBR;KORG C1 Air BR;2;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
+KRC1AIRBR;KORG C1 Air BR;1;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
 KRC1AIRWH;KORG C1 Air WH;10;https://www.music-park.sk/produkt/digitalni-piana/407/c1-air-wh
 KRHAVIAN30;KORG Havian 30;0;https://www.music-park.sk/produkt/digitalni-piana/418/havian-30
 KRLP180BK;KORG LP-180 BK;10;https://www.music-park.sk/produkt/digitalni-piana/419/lp-180-bk
@@ -1071,7 +1071,7 @@ DVC132028;DV Mark DVC Guitar Friend 12;0;https://www.music-park.sk/produkt/kytar
 DVC132030;DV Mark DVC Guitar Friend 12 II;0;https://www.music-park.sk/produkt/kytarova-komba/832/dvc-guitar-friend-12-ii
 VXVHEP1BK;VOX VH-EP-1 BK;5;https://www.music-park.sk/produkt/sluchatka/833/vh-ep-1-bk
 VXVHEP1WH;VOX VH-EP-1 WH;5;https://www.music-park.sk/produkt/sluchatka/834/vh-ep-1-wh
-ASWOODSMANCLAS;Ashdown Woodsman Classic;0;https://www.music-park.sk/produkt/kytarova-komba/835/woodsman-classic
+ASWOODSMANCLAS;Ashdown Woodsman Classic;5;https://www.music-park.sk/produkt/kytarova-komba/835/woodsman-classic
 ASWOODSMANPARL;Ashdown Woodsman Parlour;0;https://www.music-park.sk/produkt/kytarova-komba/837/woodsman-parlour
 ACC125008;DV Mark AC 101 H;0;https://www.music-park.sk/produkt/kytarova-komba/839/ac-101-h
 ACC125012;DV Mark AC 801 P (Rozbalené);1;https://www.music-park.sk/produkt/kytarova-komba/840/ac-801-p-rozbalene
@@ -1103,13 +1103,14 @@ DVL131032;DV Mark FG 212 V;0;https://www.music-park.sk/produkt/kytarove-reprobox
 DVL131033;DV Mark DV 112 Plus;0;https://www.music-park.sk/produkt/kytarove-reproboxy/873/dv-112-plus
 DVL131034;DV Mark DV 212 GH;0;https://www.music-park.sk/produkt/kytarove-reproboxy/874/dv-212-gh
 DVL131035;DV Mark DV Jazz 208;0;https://www.music-park.sk/produkt/kytarove-reproboxy/875/dv-jazz-208
+QL10.00088;Quik Lok GS/437;0;https://www.music-park.sk/produkt/kytarove-stojany/876/gs-437
 KRB2BKXX;KORG B2-BK (rozbalené);1;https://www.music-park.sk/produkt/digitalni-piana/877/b2-bk-rozbalene
 QL10.00081;Quik Lok FS/01;20;https://www.music-park.sk/produkt/kytarove-stojany/878/fs-01
 QL10.01022;Quik Lok GI/8;20;https://www.music-park.sk/produkt/kytarove-stojany/879/gi-8
 QL10.01014;Quik Lok GS/350-BB;5;https://www.music-park.sk/produkt/kytarove-stojany/880/gs-350-bb
 QL10.00083;Quik Lok GS/403;20;https://www.music-park.sk/produkt/kytarove-stojany/881/gs-403
-QL10.00087;Quik Lok GS-436;0;https://www.music-park.sk/produkt/kytarove-stojany/882/gs-436
-QL10.00089;Quik Lok GS-438;0;https://www.music-park.sk/produkt/kytarove-stojany/883/gs-438
+QL10.00087;Quik Lok GS/436;0;https://www.music-park.sk/produkt/kytarove-stojany/882/gs-436
+QL10.00089;Quik Lok GS/438;0;https://www.music-park.sk/produkt/kytarove-stojany/883/gs-438
 QL10.01057;Quik Lok GS/460;5;https://www.music-park.sk/produkt/kytarove-stojany/884/gs-460
 QL10.01065;Quik Lok GS/508;5;https://www.music-park.sk/produkt/kytarove-stojany/885/gs-508
 QL10.01066;Quik Lok GS/528;5;https://www.music-park.sk/produkt/kytarove-stojany/886/gs-528
@@ -1504,7 +1505,7 @@ QL10.00251;Quik Lok MS/331;10;https://www.music-park.sk/produkt/notove-stojany/1
 QL10.00732;Quik Lok MS/335;20;https://www.music-park.sk/produkt/notove-stojany/1372/ms-335
 VXVFS2;VOX VFS-2;20;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1373/vfs-2
 VXVFS2A;VOX VFS2A;5;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1374/vfs2a
-VXVFS5;VOX VFS5;15;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1375/vfs5
+VXVFS5;VOX VFS5;10;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1375/vfs5
 DVA134019;DV Mark DVM Controller;0;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1376/dvm-controller
 DVA292008;DV Mark DV EVO1 Controller;1;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1377/dv-evo1-controller
 ASFS4;Ashdown FS-4;0;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/1378/fs-4
@@ -1635,7 +1636,7 @@ AGINST20RS;Aguilar INST-20RS;3;https://www.music-park.sk/produkt/nastrojove-kabe
 AGSPK3;Aguilar SPK-3;10;https://www.music-park.sk/produkt/reproduktorove-kabely/2962/spk-3
 AGSPK6;Aguilar SPK-6;5;https://www.music-park.sk/produkt/reproduktorove-kabely/2963/spk-6
 KRPOETRY;KORG Poetry;5;https://www.music-park.sk/produkt/digitalni-piana/2964/poetry
-KRMICRO2;KORG microKORG2;2;https://www.music-park.sk/produkt/digitalni-syntezatory/2965/microkorg2
+KRMICRO2;KORG microKORG2;1;https://www.music-park.sk/produkt/digitalni-syntezatory/2965/microkorg2
 KROPSIXMK2;KORG Opsix mk II;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2966/opsix-mk-ii
 KRMODWAVEM;KORG Modwave Module;5;https://www.music-park.sk/produkt/digitalni-syntezatory/2967/modwave-module
 KROPSIXM;KORG Opsix Module;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2968/opsix-module
@@ -1978,10 +1979,10 @@ KRKPV;KORG Kaoss Pad V;20;https://www.music-park.sk/produkt/produkcni-nastroje/3
 QL10.01164;Quik Lok DAS001;2;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/3331/das001
 QL10.01166;Quik Lok GHS001;2;https://www.music-park.sk/produkt/kytarove-stojany/3332/ghs001
 QL10.01165;Quik Lok PPS001;5;https://www.music-park.sk/produkt/stojany/3333/pps001
-ASUKSBM110;Ashdown UK-SBM-110-100;0;https://www.music-park.sk/produkt/baskytarova-komba/3334/uk-sbm-110-100
-ASUKSBM112;Ashdown UK-SBM-112-200;0;https://www.music-park.sk/produkt/baskytarova-komba/3335/uk-sbm-112-200
-ASUKSBM115;Ashdown UK-SBM-115-500;0;https://www.music-park.sk/produkt/baskytarova-komba/3336/uk-sbm-115-500
-ASUKSBM210;Ashdown UK-SBM-210-500;0;https://www.music-park.sk/produkt/baskytarova-komba/3337/uk-sbm-210-500
+ASUKSBM110;Ashdown UK-SBM-110-100;2;https://www.music-park.sk/produkt/baskytarova-komba/3334/uk-sbm-110-100
+ASUKSBM112;Ashdown UK-SBM-112-200;4;https://www.music-park.sk/produkt/baskytarova-komba/3335/uk-sbm-112-200
+ASUKSBM115;Ashdown UK-SBM-115-500;2;https://www.music-park.sk/produkt/baskytarova-komba/3336/uk-sbm-115-500
+ASUKSBM210;Ashdown UK-SBM-210-500;2;https://www.music-park.sk/produkt/baskytarova-komba/3337/uk-sbm-210-500
 ASUKOBM300;Ashdown UK-OBM-300;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3338/uk-obm-300
 ASUKOBM500;Ashdown UK-OBM-500;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3339/uk-obm-500
 ASUKOBMC112300;Ashdown UK-OBM-C112-300;0;https://www.music-park.sk/produkt/baskytarova-komba/3340/uk-obm-c112-300
@@ -2075,27 +2076,27 @@ DSDBT-BK;Duesenberg Triton Bass Black;0;https://www.music-park.sk/produkt/elektr
 DSDBT-GT;Duesenberg Triton Bass Gold Top;0;https://www.music-park.sk/produkt/elektricke-baskytary/3432/triton-bass-gold-top
 DSDBK-NB;Duesenberg Kavalier Bass Narvik Blue;0;https://www.music-park.sk/produkt/elektricke-baskytary/3433/kavalier-bass-narvik-blue
 DSDBK-RDS;Duesenberg Kavalier Bass Red Sparkle;0;https://www.music-park.sk/produkt/elektricke-baskytary/3434/kavalier-bass-red-sparkle
-ASSTUDIO4;Ashdown Studio 4;0;https://www.music-park.sk/produkt/baskytarova-komba/3473/studio-4
-ASUKABM600EVO4;Ashdown UK-ABM-600-EVO IV;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3475/uk-abm-600-evo-iv
-ASUKABM112HEVO4;Ashdown UK-ABM-112H-EVO IV;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3477/uk-abm-112h-evo-iv
-ASUKABM115HEVO4;Ashdown UK-ABM-115H-EVO IV;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3478/uk-abm-115h-evo-iv
-ASUKABM210HEVO4;Ashdown UK-ABM-210H-EVO IV;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3479/uk-abm-210h-evo-iv
+ASSTUDIO4;Ashdown Studio 4;10;https://www.music-park.sk/produkt/baskytarova-komba/3473/studio-4
+ASUKABM600EVO4;Ashdown UK-ABM-600-EVO IV;2;https://www.music-park.sk/produkt/baskytarove-zesilovace/3475/uk-abm-600-evo-iv
+ASUKABM112HEVO4;Ashdown UK-ABM-112H-EVO IV;2;https://www.music-park.sk/produkt/baskytarove-reproboxy/3477/uk-abm-112h-evo-iv
+ASUKABM115HEVO4;Ashdown UK-ABM-115H-EVO IV;1;https://www.music-park.sk/produkt/baskytarove-reproboxy/3478/uk-abm-115h-evo-iv
+ASUKABM210HEVO4;Ashdown UK-ABM-210H-EVO IV;1;https://www.music-park.sk/produkt/baskytarove-reproboxy/3479/uk-abm-210h-evo-iv
 ASUKABM410HEVO4;Ashdown UK-ABM-410H-EVO IV;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3480/uk-abm-410h-evo-iv
 ASUKRBM500;Ashdown UK-RBM-500;2;https://www.music-park.sk/produkt/baskytarove-zesilovace/3482/uk-rbm-500
 ASUKRBM800;Ashdown UK-RBM-800;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3483/uk-rbm-800
 ASUKRBM112;Ashdown UK-RBM-112T;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3484/uk-rbm-112t
-ASUKRBM115;Ashdown UK-RBM-115T;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3485/uk-rbm-115t
-ASUKRBM210;Ashdown UK-RBM-210T;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3486/uk-rbm-210t
+ASUKRBM115;Ashdown UK-RBM-115T;1;https://www.music-park.sk/produkt/baskytarove-reproboxy/3485/uk-rbm-115t
+ASUKRBM210;Ashdown UK-RBM-210T;1;https://www.music-park.sk/produkt/baskytarove-reproboxy/3486/uk-rbm-210t
 ASUKCTM100;Ashdown UK-CTM-100;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3487/uk-ctm-100
 ASUKCL112H;Ashdown UK-CL-112H;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3489/uk-cl-112h
 ASUKCL115H;Ashdown UK-CL-115H;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3490/uk-cl-115h
 ASUKCL210H;Ashdown UK-CL-210H;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/3491/uk-cl-210h
-ASUKHOD600;Ashdown UK-HOD-600;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3494/uk-hod-600
+ASUKHOD600;Ashdown UK-HOD-600;1;https://www.music-park.sk/produkt/baskytarove-zesilovace/3494/uk-hod-600
 ASUKCODPURPLE12;Ashdown UK-COD-PURPLE 12;0;https://www.music-park.sk/produkt/baskytarova-komba/3496/uk-cod-purple-12
-ASSZ-FUNKFACEVU;Ashdown SZ Funk Face VU;0;https://www.music-park.sk/produkt/baskytarove-efekty/3497/sz-funk-face-vu
-ASJLO-MEGADRIVE;Ashdown Lomenzo Mega Drive;0;https://www.music-park.sk/produkt/baskytarove-efekty/3498/lomenzo-mega-drive
-ASSAINTGB;Ashdown The Saint Gloss Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3499/the-saint-gloss-black
-ASSAINTSOAPGB;Ashdown Saint Soap Gloss Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/3503/saint-soap-gloss-black
+ASSZ-FUNKFACEVU;Ashdown SZ Funk Face VU;2;https://www.music-park.sk/produkt/baskytarove-efekty/3497/sz-funk-face-vu
+ASJLO-MEGADRIVE;Ashdown Lomenzo Mega Drive;2;https://www.music-park.sk/produkt/baskytarove-efekty/3498/lomenzo-mega-drive
+ASSAINTGB;Ashdown The Saint Gloss Black;2;https://www.music-park.sk/produkt/elektricke-baskytary/3499/the-saint-gloss-black
+ASSAINTSOAPGB;Ashdown Saint Soap Gloss Black;2;https://www.music-park.sk/produkt/elektricke-baskytary/3503/saint-soap-gloss-black
 ASUKPBM200;Ashdown UK-PBM-200;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3512/uk-pbm-200
 ASSTUDIO210;Ashdown Studio 210;0;https://www.music-park.sk/produkt/baskytarova-komba/3513/studio-210
 VXMV50ACXX;VOX MV50 AC (Rozbalené);1;https://www.music-park.sk/produkt/kytarove-zesilovace/3514/mv50-ac-rozbalene
@@ -2112,10 +2113,10 @@ VXVALVENERGYSD;VOX Silk Drive;0;https://www.music-park.sk/produkt/kytarove-efekt
 VXVALVENERGYCD;VOX Copperhead Drive;0;https://www.music-park.sk/produkt/kytarove-efekty/2124/copperhead-drive
 VXTELSTAR;VOX Telstar 2020;0;https://www.music-park.sk/produkt/bici-soupravy/2125/telstar-2020
 ASSTUDIOJNR;Ashdown Studio Junior;2;https://www.music-park.sk/produkt/baskytarova-komba/2126/studio-junior
-ASSTUDIO8;Ashdown Studio 8;0;https://www.music-park.sk/produkt/baskytarova-komba/2127/studio-8
+ASSTUDIO8;Ashdown Studio 8;5;https://www.music-park.sk/produkt/baskytarova-komba/2127/studio-8
 ASSTUDIO10;Ashdown Studio 10;5;https://www.music-park.sk/produkt/baskytarova-komba/2128/studio-10
-ASSTUDIO12;Ashdown Studio 12;0;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
-ASSTUDIO15;Ashdown Studio 15;1;https://www.music-park.sk/produkt/baskytarova-komba/2130/studio-15
+ASSTUDIO12;Ashdown Studio 12;5;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
+ASSTUDIO15;Ashdown Studio 15;5;https://www.music-park.sk/produkt/baskytarova-komba/2130/studio-15
 VXAC15C1VB;VOX AC15C1-VB;0;https://www.music-park.sk/produkt/kytarova-komba/2131/ac15c1-vb
 AGCC210SL;Aguilar SL 210 Cover;0;https://www.music-park.sk/produkt/obaly-na-aparaty/2132/sl-210-cover
 MAK156016;MarkAudio ERGO System 1S 121;0;https://www.music-park.sk/produkt/ozvucovaci-systemy/2133/ergo-system-1s-121
@@ -2452,8 +2453,8 @@ MBC105093;Markbass MB58R CMD 121P;0;https://www.music-park.sk/produkt/baskytarov
 MBC105094;Markbass MB58R CMD 151P;0;https://www.music-park.sk/produkt/baskytarova-komba/2520/mb58r-cmd-151p
 ASHBASSX;Ashdown Bass Exchange;0;https://www.music-park.sk/produkt/baskytarove-efekty/2521/bass-exchange
 ASHMACOMP;Ashdown Macchiato Compressor;0;https://www.music-park.sk/produkt/baskytarove-efekty/2522/macchiato-compressor
-ASJMY-DD;Ashdown John Myung Double Drive;0;https://www.music-park.sk/produkt/baskytarove-efekty/2523/john-myung-double-drive
-ASGZR-POD;Ashdown Geezer Butler Pedal Of Doom;0;https://www.music-park.sk/produkt/baskytarove-efekty/2524/geezer-butler-pedal-of-doom
+ASJMY-DD;Ashdown John Myung Double Drive;1;https://www.music-park.sk/produkt/baskytarove-efekty/2523/john-myung-double-drive
+ASGZR-POD;Ashdown Geezer Butler Pedal Of Doom;1;https://www.music-park.sk/produkt/baskytarove-efekty/2524/geezer-butler-pedal-of-doom
 ASHCL310DH;Ashdown CL-310-DH;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/2525/cl-310-dh
 ASHINT600;Ashdown Interstellar-600;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/2526/interstellar-600
 MBB148017;Markbass GV4 Gloxy Fiesta Red;0;https://www.music-park.sk/produkt/elektricke-baskytary/2527/gv4-gloxy-fiesta-red

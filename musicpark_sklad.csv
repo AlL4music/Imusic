@@ -59,8 +59,8 @@ KRPA50;KORG Pa50;0;https://www.music-park.sk/produkt/aranzery/122/pa50
 KRPA500;KORG PA500;0;https://www.music-park.sk/produkt/aranzery/123/pa500
 KRPA50SD;KORG Pa50SD;0;https://www.music-park.sk/produkt/aranzery/124/pa50sd
 KRPA588;KORG PA588;0;https://www.music-park.sk/produkt/aranzery/125/pa588
-KRPA600;KORG Pa600;5;https://www.music-park.sk/produkt/aranzery/127/pa600
-KRPA700;KORG Pa700;5;https://www.music-park.sk/produkt/aranzery/128/pa700
+KRPA600;KORG Pa600;4;https://www.music-park.sk/produkt/aranzery/127/pa600
+KRPA700;KORG Pa700;4;https://www.music-park.sk/produkt/aranzery/128/pa700
 KRPA700OR;KORG Pa700 Oriental;0;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
 KRPA800;KORG PA800;0;https://www.music-park.sk/produkt/aranzery/131/pa800
 KRPA900;KORG Pa900;0;https://www.music-park.sk/produkt/aranzery/132/pa900
@@ -428,7 +428,7 @@ VXTLLE;VOX TONELAB LE;0;https://www.music-park.sk/produkt/kytarove-efekty/669/to
 VXTLST;VOX ToneLab ST;0;https://www.music-park.sk/produkt/kytarove-efekty/671/tonelab-st
 VXV845;VOX V845;10;https://www.music-park.sk/produkt/kytarove-efekty/672/v845
 VXV846HW;VOX V846-HW;0;https://www.music-park.sk/produkt/kytarove-efekty/673/v846-hw
-VXV847A;VOX V847-A;5;https://www.music-park.sk/produkt/kytarove-efekty/674/v847-a
+VXV847A;VOX V847-A;4;https://www.music-park.sk/produkt/kytarove-efekty/674/v847-a
 VXV860;VOX V860;0;https://www.music-park.sk/produkt/kytarove-efekty/676/v860
 VXVDL1;VOX Dynamic Looper;0;https://www.music-park.sk/produkt/kytarove-efekty/677/dynamic-looper
 VXVDLLB;VOX DelayLab;0;https://www.music-park.sk/produkt/kytarove-efekty/678/delaylab
@@ -1620,7 +1620,7 @@ EK05130480;EKO VT-380 V-Nos Sunburst;2;https://www.music-park.sk/produkt/elektri
 VXAP3AC;VOX AmPlug 3 AC30;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2946/amplug-3-ac30
 VXAP3BA;VOX AmPlug 3 Bass;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2947/amplug-3-bass
 VXAP3BQ;VOX AmPlug 3 Boutique;15;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2948/amplug-3-boutique
-VXAP3HG;VOX AmPlug 3 High Gain;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2949/amplug-3-high-gain
+VXAP3HG;VOX AmPlug 3 High Gain;15;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2949/amplug-3-high-gain
 VXAP3UK;VOX AmPlug 3 UK Drive;15;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2950/amplug-3-uk-drive
 VXAP3US;VOX AmPlug 3 US Silver;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2951/amplug-3-us-silver
 VXAP3MB;VOX AmPlug 3 Modern Bass;20;https://www.music-park.sk/produkt/sluchatkove-zesilovace/2952/amplug-3-modern-bass
@@ -1646,7 +1646,7 @@ VXVRM1;VOX Real McCoy Wah;10;https://www.music-park.sk/produkt/kytarove-efekty/2
 VXVRM1LTD;VOX Real McCoy Wah Ltd;4;https://www.music-park.sk/produkt/kytarove-efekty/2972/real-mccoy-wah-ltd
 KRGSX;KORG Grandstage X;5;https://www.music-park.sk/produkt/stage-piana/2973/grandstage-x
 KRNTS1MK2;KORG NTS-1 mk II;10;https://www.music-park.sk/produkt/digitalni-syntezatory/2974/nts-1-mk-ii
-KRNTS3;KORG NTS-3;5;https://www.music-park.sk/produkt/produkcni-nastroje/2975/nts-3
+KRNTS3;KORG NTS-3;4;https://www.music-park.sk/produkt/produkcni-nastroje/2975/nts-3
 KRKR11;KORG KR-11;20;https://www.music-park.sk/produkt/bici-automaty/2976/kr-11
 DR4BTSBK;DR Strings Butter-Soft BTS-BK;10;https://www.music-park.sk/produkt/kytarove-prislusenstvi/2977/butter-soft-bts-bk
 DR4BTSBR;DR Strings Butter-Soft BTS-BR;15;https://www.music-park.sk/produkt/kytarove-prislusenstvi/2978/butter-soft-bts-br
@@ -2004,7 +2004,7 @@ AGSL2124;Aguilar SL 212-4;0;https://www.music-park.sk/produkt/baskytarove-reprob
 AGSL410X4;Aguilar SL 410X;2;https://www.music-park.sk/produkt/baskytarove-reproboxy/3358/sl-410x
 VXAC10HWR1XX;VOX AC10 Hand-Wired  (Rozbalené);2;https://www.music-park.sk/produkt/kytarova-komba/3359/ac10-hand-wired-rozbalene
 DSDTV-DBK;Duesenberg Starplayer TV Deep Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3360/starplayer-tv-deep-black
-DSDTV-EWH;Duesenberg Starplayer TV Everest White;0;https://www.music-park.sk/produkt/elektricke-kytary/3362/starplayer-tv-everest-white
+DSDTV-EWH;Duesenberg Starplayer TV Everest White;1;https://www.music-park.sk/produkt/elektricke-kytary/3362/starplayer-tv-everest-white
 DSDTV-TBB;Duesenberg Starplayer TV Tobacco Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3363/starplayer-tv-tobacco-burst
 DSDTV-GDB;Duesenberg Starplayer TV Gold Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3364/starplayer-tv-gold-burst
 DSDTV-MTF;Duesenberg Starplayer TV Midnight Flake;0;https://www.music-park.sk/produkt/elektricke-kytary/3365/starplayer-tv-midnight-flake
@@ -2032,7 +2032,7 @@ DSDCR-TBK;Duesenberg Starplayer CBR Transparent Black;0;https://www.music-park.s
 DSDCR-CTG;Duesenberg Starplayer CBR Catalina Green;1;https://www.music-park.sk/produkt/elektricke-kytary/3387/starplayer-cbr-catalina-green
 DSDCR-TBB;Duesenberg Starplayer CBR Tobacco Burst;1;https://www.music-park.sk/produkt/elektricke-kytary/3388/starplayer-cbr-tobacco-burst
 DSDCR-THN;Duesenberg Starplayer CBR Transparent Honey;0;https://www.music-park.sk/produkt/elektricke-kytary/3389/starplayer-cbr-transparent-honey
-DSDCR-TVO;Duesenberg Starplayer CBR Transparant Orange;0;https://www.music-park.sk/produkt/elektricke-kytary/3390/starplayer-cbr-transparant-orange
+DSDCR-TVO;Duesenberg Starplayer CBR Transparant Orange;1;https://www.music-park.sk/produkt/elektricke-kytary/3390/starplayer-cbr-transparant-orange
 DSDFA-BK-S;Duesenberg Fantom Series A Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3391/fantom-series-a-black
 DSDFA-AGW-S;Duesenberg Fantom Series A Aged White;0;https://www.music-park.sk/produkt/elektricke-kytary/3392/fantom-series-a-aged-white
 DSDFA-MOV-S;Duesenberg Fantom Series A Matt Olive;1;https://www.music-park.sk/produkt/elektricke-kytary/3393/fantom-series-a-matt-olive
@@ -2509,7 +2509,7 @@ KRNTHDS;KORG HD-S;5;https://www.music-park.sk/produkt/kytarove-efekty/2576/hd-s
 KRNTTRS;KORG TR-S;0;https://www.music-park.sk/produkt/kytarove-efekty/2577/tr-s
 DR3DSA10;DR Strings Dragon Skin DSA-10;20;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2578/dragon-skin-dsa-10
 DR3DSA11;DR Strings Dragon Skin DSA-11;0;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2579/dragon-skin-dsa-11
-DR3DSA12;DR Strings Dragon Skin DSA-12;3;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2580/dragon-skin-dsa-12
+DR3DSA12;DR Strings Dragon Skin DSA-12;2;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2580/dragon-skin-dsa-12
 DR3DSA1256;DR Strings Dragon Skin DSA-12/56;15;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2581/dragon-skin-dsa-12-56
 DR3DSA1012;DR Strings Dragon Skin DSA-10/12;10;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2582/dragon-skin-dsa-10-12
 DR3DSA210;DR Strings Dragon Skin DSA-2/10;15;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/2583/dragon-skin-dsa-2-10
@@ -2603,7 +2603,7 @@ DR1NMCB45;DR Strings Neon Multi-Color NMCB-45;20;https://www.music-park.sk/produ
 DR1NPB40;DR Strings Neon Pink NPB-40;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2671/neon-pink-npb-40
 DR1NPB45;DR Strings Neon Pink NPB-45;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2672/neon-pink-npb-45
 DR1NGB540;DR Strings Neon Green NGB5-40;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2673/neon-green-ngb5-40
-DR1NGB545;DR Strings Neon Green NGB5-45;3;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2674/neon-green-ngb5-45
+DR1NGB545;DR Strings Neon Green NGB5-45;2;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2674/neon-green-ngb5-45
 DR1NMCB540;DR Strings Neon Multi-Color NMCB5-40;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2675/neon-multi-color-nmcb5-40
 DR1NMCB545;DR Strings Neon Multi-Color NMCB5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2676/neon-multi-color-nmcb5-45
 DR1NPB540;DR Strings Neon Pink NPB5-40;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2677/neon-pink-npb5-40

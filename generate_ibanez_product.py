@@ -35,6 +35,7 @@ Usage
 
 import csv
 import html
+import os
 import re
 import sys
 
@@ -145,16 +146,18 @@ def li(label, value):
     return f"<li>{html.escape(label)} - {html.escape(v)}</li>" if v else ""
 
 
-def build_html(rec):
+def build_html(rec, img_urls=None):
     brand = "Ibanez"
     model = clean(rec.get("MODEL"))
     color = clean(rec.get("Color Name")) or clean(rec.get("COLOR"))
     grade = clean(rec.get("Grade"))
     series = clean(rec.get("Series"))
     category = clean(rec.get("Category"))
-    img1 = clean(rec.get("Product Image_1"))
-    img2 = clean(rec.get("Product Image_2"))
-    img3 = clean(rec.get("Product Image_3"))
+    # Prefer discovered/servable image URLs; fall back to build-sheet fields.
+    img_urls = (img_urls or []) + ["", "", ""]
+    img1 = img_urls[0] or clean(rec.get("Product Image_1"))
+    img2 = img_urls[1] or clean(rec.get("Product Image_2"))
+    img3 = img_urls[2] or clean(rec.get("Product Image_3"))
 
     features, special = parse_feature_blocks(rec.get("Copy") or rec.get("Product_Features"))
 
@@ -301,7 +304,25 @@ def build_html(rec):
     return "\n".join(parts)
 
 
-def build_record(rec, prices=None):
+def find_images(sku, image_dir):
+    """Discover product photos for a SKU by convention.
+
+    Looks for '<image_dir>/<sku-lower>-*.{jpg,jpeg,png,webp}' (sorted, so
+    -1 is the main image) and returns their OpenCart-relative paths, i.e.
+    with the leading 'image/' stripped: 'catalog/ibanez/rgr8820qm-bre-1.jpg'.
+    """
+    if not image_dir or not os.path.isdir(image_dir):
+        return []
+    pat = re.compile(rf"^{re.escape(sku.lower())}-\d+\.(jpe?g|png|webp)$", re.IGNORECASE)
+    files = sorted(f for f in os.listdir(image_dir) if pat.match(f))
+    rel = []
+    for f in files:
+        p = os.path.join(image_dir, f).replace(os.sep, "/")
+        rel.append(re.sub(r"^\.?/?image/", "", p))  # OpenCart path is relative to image/
+    return rel
+
+
+def build_record(rec, prices=None, image_dir="image/catalog/ibanez"):
     model = clean(rec.get("MODEL"))
     color_code = clean(rec.get("COLOR"))
     color_name = clean(rec.get("Color Name"))
@@ -327,6 +348,13 @@ def build_record(rec, prices=None):
     except (TypeError, ValueError):
         price = "0.00"
 
+    # Discover photos by convention (image/catalog/ibanez/<sku>-N.jpg). These
+    # OpenCart-relative paths go in the CSV; their servable /image/... URLs are
+    # embedded in the HTML description.
+    imgs = find_images(sku, image_dir)
+    imgs3 = (imgs + ["", "", ""])[:3]
+    servable = ["/image/" + p if p else "" for p in imgs3]
+
     return {
         "SKU": sku,
         "Brand": "Ibanez",
@@ -336,10 +364,10 @@ def build_record(rec, prices=None):
         "Price": price,              # from --price; 0.00 => created staged
         "EAN": clean(rec.get("EAN")),
         "Quantity": "0",             # not on build sheet
-        "Image_1": clean(rec.get("Product Image_1")),
-        "Image_2": clean(rec.get("Product Image_2")),
-        "Image_3": clean(rec.get("Product Image_3")),
-        "HTML_Description": build_html(rec),
+        "Image_1": imgs3[0] or clean(rec.get("Product Image_1")),
+        "Image_2": imgs3[1] or clean(rec.get("Product Image_2")),
+        "Image_3": imgs3[2] or clean(rec.get("Product Image_3")),
+        "HTML_Description": build_html(rec, servable),
     }
 
 
@@ -355,16 +383,23 @@ def parse_prices(tokens):
     return prices
 
 
-def main():
-    argv = sys.argv[1:]
-    prices_tokens = []
-    while "--price" in argv:
-        i = argv.index("--price")
+def _take_opt(argv, name, default):
+    """Pop a repeatable '--name VALUE' option; return the list of values."""
+    vals = []
+    while name in argv:
+        i = argv.index(name)
         if i + 1 < len(argv):
-            prices_tokens.append(argv[i + 1])
+            vals.append(argv[i + 1])
             del argv[i:i + 2]
         else:
             del argv[i]
+    return vals if vals else default
+
+
+def main():
+    argv = sys.argv[1:]
+    prices_tokens = _take_opt(argv, "--price", [])
+    image_dir = _take_opt(argv, "--image-dir", ["image/catalog/ibanez"])[-1]
     if not argv:
         print(__doc__)
         sys.exit(1)
@@ -372,7 +407,7 @@ def main():
     out_path = argv[1] if len(argv) > 1 else "ibanez_products.csv"
     prices = parse_prices(prices_tokens)
 
-    records = [build_record(r, prices) for r in read_sheet(in_path)]
+    records = [build_record(r, prices, image_dir) for r in read_sheet(in_path)]
     if not records:
         print("No product rows found in build sheet.", file=sys.stderr)
         sys.exit(1)
@@ -386,7 +421,8 @@ def main():
 
     print(f"Wrote {len(records)} product(s) to {out_path}")
     for r in records:
-        print(f"  {r['SKU']:<16} {r['Name']}  (EAN {r['EAN']})")
+        imgs = [r[k] for k in ("Image_1", "Image_2", "Image_3") if r[k]]
+        print(f"  {r['SKU']:<16} {r['Name']}  (EAN {r['EAN']}, {len(imgs)} image(s))")
 
 
 if __name__ == "__main__":

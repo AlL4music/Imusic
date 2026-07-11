@@ -1,0 +1,78 @@
+name: Deploy Product Images (FTP)
+
+# Uploads product photos from the repo to the OpenCart shop over FTP/FTPS, so
+# images added to image/catalog/... show up on the storefront without manual
+# FTP work.
+#
+# SAFETY: this only UPLOADS (mirror -R) and NEVER deletes remote files, and it
+# is scoped to a single local folder (default image/catalog/ibanez), so it can
+# only ever add/update files inside that one folder on the server.
+#
+# Required repo secrets (Settings -> Secrets and variables -> Actions):
+#   FTP_HOST      e.g. peto.all4music.sk
+#   FTP_USERNAME  your FTP login
+#   FTP_PASSWORD  your FTP password   (rotate it if it was ever shared in plaintext)
+
+on:
+  workflow_dispatch:
+    inputs:
+      local_dir:
+        description: 'Local folder in the repo to upload'
+        required: false
+        default: 'image/catalog/ibanez'
+      remote_dir:
+        description: 'Target folder on the server (relative to the FTP login dir). Must be the shop''s image/catalog/ibanez path.'
+        required: false
+        default: 'image/catalog/ibanez'
+      protocol:
+        description: 'FTP protocol'
+        required: false
+        type: choice
+        default: 'ftps'
+        options: [ftps, ftp]
+
+jobs:
+  deploy-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install lftp
+        run: sudo apt-get update -qq && sudo apt-get install -y lftp
+
+      - name: Upload images
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          LOCAL_DIR: ${{ github.event.inputs.local_dir }}
+          REMOTE_DIR: ${{ github.event.inputs.remote_dir }}
+          PROTOCOL: ${{ github.event.inputs.protocol }}
+        run: |
+          if [ -z "$FTP_HOST" ] || [ -z "$FTP_USERNAME" ] || [ -z "$FTP_PASSWORD" ]; then
+            echo "Missing FTP_HOST / FTP_USERNAME / FTP_PASSWORD secrets. Add them in repo Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+          echo "Uploading '$LOCAL_DIR' -> '$REMOTE_DIR' on $FTP_HOST via $PROTOCOL"
+          ls -la "$LOCAL_DIR"
+
+          if [ "$PROTOCOL" = "ftp" ]; then
+            SSL_SETUP="set ftp:ssl-allow no;"
+          else
+            SSL_SETUP="set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no;"
+          fi
+
+          # mirror -R = reverse mirror (local -> remote). No --delete, so remote
+          # files outside our set are never touched. --only-newer skips unchanged.
+          lftp -c "
+            set net:max-retries 3;
+            set net:timeout 20;
+            $SSL_SETUP
+            open -u '$FTP_USERNAME','$FTP_PASSWORD' '$FTP_HOST';
+            mkdir -p '$REMOTE_DIR';
+            mirror -R --only-newer --verbose '$LOCAL_DIR' '$REMOTE_DIR';
+            echo '--- remote listing after upload ---';
+            cls -l '$REMOTE_DIR';
+          "
+          echo "Done."

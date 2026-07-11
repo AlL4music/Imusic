@@ -48,6 +48,9 @@ const LIMIT = parseInt(opt('--limit', '0'), 10) || 0;
 const BRAND_FILTER = (opt('--brands', '') || '').split(',').map(s => s.trim()).filter(Boolean);
 
 const LANGUAGE_ID = parseInt(process.env.LANGUAGE_ID || '1', 10);
+// Second language slot (Slovak = 2). If the CSV carries *_sk columns, a
+// translation row is written here too. Set to 0 to disable.
+const LANGUAGE_ID_SK = parseInt(process.env.LANGUAGE_ID_SK || '2', 10);
 const STORE_ID = parseInt(process.env.STORE_ID || '0', 10);
 const TAX_CLASS_ID = parseInt(process.env.TAX_CLASS_ID || '0', 10);
 const STOCK_STATUS_ID = parseInt(process.env.STOCK_STATUS_ID || '5', 10);
@@ -216,6 +219,21 @@ async function main() {
          VALUES (?, ?, ?, ?, '', ?, ?, '')`,
         [productId, LANGUAGE_ID, name, description, metaTitle, metaDesc]
       );
+
+      // Optional Slovak (or other second-language) row from *_sk CSV columns.
+      const nameSk = (p.Name_sk || '').trim();
+      if (LANGUAGE_ID_SK && nameSk) {
+        await db.query(
+          `INSERT INTO oc_product_description
+            (product_id, language_id, name, description, tag, meta_title, meta_description, meta_keyword)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+          [productId, LANGUAGE_ID_SK, nameSk, p.HTML_Description_sk || '',
+           (p.Tag_sk || '').trim(),
+           (p.MetaTitle_sk || nameSk).slice(0, 255),
+           (p.MetaDescription_sk || '').slice(0, 255),
+           (p.MetaKeyword_sk || '').trim()]
+        );
+      }
 
       await db.query(
         'INSERT INTO oc_product_to_store (product_id, store_id) VALUES (?, ?)',

@@ -1,4 +1,4 @@
-﻿"SKU","Brand","Model","Color","Name","Price","EAN","Quantity","Image_1","Image_2","Image_3","HTML_Description"
+﻿"SKU","Brand","Model","Color","Name","Price","EAN","Quantity","Image_1","Image_2","Image_3","HTML_Description","Name_sk","MetaTitle_sk","MetaDescription_sk","MetaKeyword_sk","Tag_sk","HTML_Description_sk"
 "RGR8820QM-BRE","Ibanez","RGR8820QM","Black Rutile","Ibanez RGR8820QM j.custom Black Rutile (with Case)","4500.00","4549763379351","0","catalog/ibanez/rgr8820qm-bre-1.jpg","catalog/ibanez/rgr8820qm-bre-2.jpg","catalog/ibanez/rgr8820qm-bre-3.jpg","<style>
 .product-description-container{font-family:'Roboto',sans-serif;color:#374151}.product-description-container h3,.product-description-container h4{font-family:'Barlow',sans-serif;font-weight:900;letter-spacing:-.025em;color:#111827}.product-description-container ul{list-style-type:disc;margin-left:1.5rem;margin-bottom:1rem;padding-left:1rem}.product-description-container li{margin-bottom:.25rem}.product-description-container .prose{line-height:1.75}.features-3col-section{text-align:center;padding:2rem 0}.features-3col-section .main-image img{border-radius:.75rem;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);width:100%;max-width:800px;margin:0 auto 2rem auto}.features-3col-section .main-text{max-width:800px;margin:0 auto 3rem auto}.features-3col-section .main-text h3{font-size:2.25rem;margin-bottom:1rem}.features-3col-section .columns-container{display:grid;gap:2rem;max-width:1200px;margin:0 auto}.features-3col-section .columns-container.cols-3{grid-template-columns:repeat(3,1fr)}.features-3col-section .feature-item{text-align:left}.features-3col-section .feature-item svg{width:48px;height:48px;margin-bottom:1rem;color:#e7284d}.features-3col-section .feature-item h4{font-size:1.25rem;font-weight:700;margin-bottom:.5rem}.desc-section{display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;margin-bottom:2rem}.desc-section.image-layout-left .desc-image{order:1}.desc-section.image-layout-left .desc-text{order:2}.desc-section.image-layout-right .desc-image{order:2}.desc-section.image-layout-right .desc-text{order:1}.desc-image{border-radius:.75rem;overflow:hidden;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);background-color:#f9fafb}.desc-image img{width:100%;height:100%;display:block;object-fit:contain}.desc-text h3{font-size:1.875rem;margin-bottom:1rem}@media(max-width:768px){.desc-section{grid-template-columns:1fr}.features-3col-section .columns-container.cols-3{grid-template-columns:1fr}}
 </style>
@@ -52,7 +52,7 @@ Ibanez j.custom guitars are manufactured by an elite group of highly skilled lut
 <li>Neck material - 5pc Maple/Wenge</li>
 <li>Neck joint - Bolt-on</li>
 <li>Neck finish - Satin Polyurethane</li>
-<li>Neck thickness - 17mm @1st / 19mm @12th</li>
+<li>Neck thickness - 17 mm @1st / 19 mm @12th</li>
 <li>Scale - 25.5&quot; / 648mm</li>
 <li>Fretboard - Rosewood</li>
 <li>Fretboard radius - 16.9&quot; / 430mm</li>
@@ -85,6 +85,92 @@ Ibanez j.custom guitars are manufactured by an elite group of highly skilled lut
 <li>Tuning - 1E,2B,3G,4D,5A,6E</li>
 <li>Case / bag - Hardshell case included</li>
 <li>Also included - Tremolo arm, Multi tool, Strap lock pin, Certificate</li>
+</ul></div></div>
+</section>
+</div>","Ibanez RGR8820QM j.custom Black Rutile (s puzdrom)","Ibanez RGR8820QM j.custom elektrická gitara, Black Rutile","Ibanez RGR8820QM j.custom, Black Rutile: 5-dielny krk Super Wizard AS (Maple/Wenge), Palisandrový hmatník. Vyrobené v Japonsku. Predobjednávka.","Ibanez RGR8820QM, Ibanez j.custom, RGR8820QM Black Rutile, Ibanez elektrická gitara, gitara j.custom","Ibanez, RGR8820QM, j.custom, Black Rutile, elektrická gitara","<style>
+.product-description-container{font-family:'Roboto',sans-serif;color:#374151}.product-description-container h3,.product-description-container h4{font-family:'Barlow',sans-serif;font-weight:900;letter-spacing:-.025em;color:#111827}.product-description-container ul{list-style-type:disc;margin-left:1.5rem;margin-bottom:1rem;padding-left:1rem}.product-description-container li{margin-bottom:.25rem}.product-description-container .prose{line-height:1.75}.features-3col-section{text-align:center;padding:2rem 0}.features-3col-section .main-image img{border-radius:.75rem;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);width:100%;max-width:800px;margin:0 auto 2rem auto}.features-3col-section .main-text{max-width:800px;margin:0 auto 3rem auto}.features-3col-section .main-text h3{font-size:2.25rem;margin-bottom:1rem}.features-3col-section .columns-container{display:grid;gap:2rem;max-width:1200px;margin:0 auto}.features-3col-section .columns-container.cols-3{grid-template-columns:repeat(3,1fr)}.features-3col-section .feature-item{text-align:left}.features-3col-section .feature-item svg{width:48px;height:48px;margin-bottom:1rem;color:#e7284d}.features-3col-section .feature-item h4{font-size:1.25rem;font-weight:700;margin-bottom:.5rem}.desc-section{display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;margin-bottom:2rem}.desc-section.image-layout-left .desc-image{order:1}.desc-section.image-layout-left .desc-text{order:2}.desc-section.image-layout-right .desc-image{order:2}.desc-section.image-layout-right .desc-text{order:1}.desc-image{border-radius:.75rem;overflow:hidden;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);background-color:#f9fafb}.desc-image img{width:100%;height:100%;display:block;object-fit:contain}.desc-text h3{font-size:1.875rem;margin-bottom:1rem}@media(max-width:768px){.desc-section{grid-template-columns:1fr}.features-3col-section .columns-container.cols-3{grid-template-columns:1fr}}
+</style>
+<div class=""product-description-container"">
+<section class=""features-3col-section"">
+<div class=""main-text"">
+<h3>Ibanez RGR8820QM</h3>
+<div class=""prose max-w-none""><b>Black Rutile</b></div>
+<div class=""prose max-w-none"">j.custom · Axe Design Lab · Vyrobené v Japonsku</div>
+<div class=""prose max-w-none"" style=""text-align:left""><p>RG je najznámejšia a najvýraznejšia gitara v ponuke Ibanez. Tri desaťročia metalu vykovali tento vysokovýkonný nástroj a vybrúsili ho pre rýchlosť aj silu. Či už uprednostňujete pevný (hardtail) mostík alebo náš špičkový uzamykateľný tremolo systém, RG je precízny nástroj.</p><p>Axe Design Lab – Ibanez neustále prináša inovácie, ktoré nielen zodpovedajú jedinečným požiadavkám hráčov danej doby, ale sa nakoniec stávajú aj priemyselnými štandardmi, ako sú 7-strunové, 8-strunové a multi-menzúrové gitary. Všetko to vychádza z nášho prístupu byť „inovatívni, priekopnícki a na špici“. Séria Axe Design Lab tento prístup plne reprezentuje.</p><p>j.custom – Gitary Ibanez j.custom vyrába elitná skupina vysoko zručných luthierov školených vo výrobe nástrojov nekompromisnej kvality. Označenie j.custom predstavuje každý pokrok v dizajne a technológiách, ktoré Ibanez za desaťročia vyvinul: najlepšie drevá, krk, úpravu pražcov, žiadané snímače a špičkový hardvér. Každý kus je majstrovsky zhotovený podľa najvyšších štandardov, aby zaručil neprekonateľný zvuk, maximálnu hrateľnosť a výnimočnú krásu.</p></div>
+</div>
+<div class=""main-image""><img src=""/image/catalog/ibanez/rgr8820qm-bre-1.jpg"" alt=""Ibanez RGR8820QM Black Rutile"" loading=""lazy""></div>
+<div class=""columns-container cols-3"">
+<div class=""feature-item""><svg xmlns=""http://www.w3.org/2000/svg"" width=""48"" height=""48"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""1.5"" stroke-linecap=""round"" stroke-linejoin=""round""><path d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z""></path><path d=""m9 12 2 2 4-4""></path></svg><h4>5-dielny krk Super Wizard AS (Maple/Wenge)</h4><div class=""prose max-w-none"">Asymetrický tvar je zaoblenejší na basovej strane a zároveň si zachováva celkovú hrúbku profilu Super Wizard (17 mm pri nultom, 19 mm pri 12. pražci). Poskytuje pohodlnejší úchop a prirodzený pocit, vďaka ktorému sú techniky ako sweeping a preskakovanie strún oveľa jednoduchšie.</div></div>
+<div class=""feature-item""><svg xmlns=""http://www.w3.org/2000/svg"" width=""48"" height=""48"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""1.5"" stroke-linecap=""round"" stroke-linejoin=""round""><path d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z""></path><path d=""m9 12 2 2 4-4""></path></svg><h4>Palisandrový hmatník</h4><div class=""prose max-w-none"">Palisandrový hmatník poskytuje vyvážený, plný tón so zameraním na stredy.</div></div>
+<div class=""feature-item""><svg xmlns=""http://www.w3.org/2000/svg"" width=""48"" height=""48"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""1.5"" stroke-linecap=""round"" stroke-linejoin=""round""><path d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z""></path><path d=""m9 12 2 2 4-4""></path></svg><h4>Jumbo pražce s j.custom úpravou hrán</h4><div class=""prose max-w-none"">Široký a vysoký typ pražcov ponúka rýchlu odozvu, dobrú artikuláciu pri akordoch a čistý tón. j.custom úprava hrán zaručuje dokonale hladký pocit pri každom pražci.</div></div>
+</div>
+</section>
+<section class=""desc-section image-layout-left"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""><img src=""/image/catalog/ibanez/rgr8820qm-bre-2.jpg"" alt=""Ibanez RGR8820QM"" loading=""lazy""></div>
+<div class=""desc-text""><h3>Vlastnosti</h3><div class=""prose max-w-none""><ul>
+<li><strong>5-dielny krk Super Wizard AS (Maple/Wenge)</strong> — Asymetrický tvar je zaoblenejší na basovej strane a zároveň si zachováva celkovú hrúbku profilu Super Wizard (17 mm pri nultom, 19 mm pri 12. pražci). Poskytuje pohodlnejší úchop a prirodzený pocit, vďaka ktorému sú techniky ako sweeping a preskakovanie strún oveľa jednoduchšie.</li>
+<li><strong>Palisandrový hmatník</strong> — Palisandrový hmatník poskytuje vyvážený, plný tón so zameraním na stredy.</li>
+<li><strong>Jumbo pražce s j.custom úpravou hrán</strong> — Široký a vysoký typ pražcov ponúka rýchlu odozvu, dobrú artikuláciu pri akordoch a čistý tón. j.custom úprava hrán zaručuje dokonale hladký pocit pri každom pražci.</li>
+<li><strong>Vrchná doska Quilted Maple (4 mm) / telo z jelše</strong> — Prešívaný javor s nádhernou kresbou dreva a telo z jelše prinášajú vyvážený jasný tón, bohatšiu rezonanciu a sustain.</li>
+<li><strong>Snímače Fishman® Fluence™ Modern Humbucker Ceramic</strong> — Snímače Fishman® Fluence™ Modern Humbucker poskytujú agresívny tón a razantný útok bez nadmerného šumu.</li>
+<li><strong>Ladiace mechaniky Gotoh®</strong> — Ladiace mechaniky Gotoh® poskytujú vynikajúcu presnosť, plynulý chod a výbornú stabilitu ladenia.</li>
+<li><strong>Tremolo Lo-Pro Edge</strong> — Legendárny mostík Lo-Pro Edge ponúka maximálne pohodlie pri hraní vďaka nízkemu profilu a zapusteným jemným ladičkám. Uzamykateľné čapy prispievajú k stabilite ladenia.</li>
+<li><strong>Prepínač Fishman® Fluence™ Voicing</strong> — Prepínač Voicing umožňuje snímačom prepnúť z moderného aktívneho zvuku s vysokým výstupom na čistý a plynulý zvuk.</li>
+<li><strong>Bočné bodky Luminlay</strong> — Bočné orientačné bodky Luminlay uľahčujú sledovanie pozície na hmatníku pri hraní na tmavých pódiách.</li>
+<li><strong>Kolíky Gotoh® strap lock</strong> — Kolíky Gotoh® strap lock chránia gitaru pred pádom pri náročných vystúpeniach.</li>
+<li><strong>Súčasťou je tvrdé puzdro</strong> — Tvrdé puzdro Ibanez poskytuje extrémnu ochranu vášho nástroja.</li>
+</ul></div></div>
+</section>
+<section class=""desc-section image-layout-right"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""><img src=""/image/catalog/ibanez/rgr8820qm-bre-3.jpg"" alt=""Ibanez RGR8820QM"" loading=""lazy""></div>
+<div class=""desc-text""><h3>Špeciálne vlastnosti</h3><div class=""prose max-w-none""><ul>
+<li><strong>Špeciálny j.custom krk</strong> — Krk Super Wizard obsahuje jumbo pražce so špeciálnou j.custom úpravou hrán pre super hladký a pohodlný výkon. Povrchová úprava „Velvetouch“ na zadnej strane krku zaručuje ideálny pocit a jednoduchú hrateľnosť.</li>
+<li><strong>All Access Neck Joint</strong> — Spoj krku All Access Neck Joint ponúka vynikajúcu hrateľnosť vo vysokých pražcoch.</li>
+<li><strong>Komorované telo (RG)</strong> — Komorované telo prispieva k nižšej hmotnosti a zároveň pridáva správne množstvo spodkov a čistoty, ktoré preferujú dnešní metaloví hráči.</li>
+<li><strong>Hlboko a skosene vyrezaný spodný roh</strong> — Umožňuje lepší a viacsmerný prístup k vysokým pražcom.</li>
+</ul></div></div>
+</section>
+<section class=""desc-section image-layout-left"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""></div>
+<div class=""desc-text""><h3>Špecifikácie</h3><div class=""prose max-w-none""><ul>
+<li>Telo - vrchná doska Quilted Maple (4mm) / telo Alder</li>
+<li>Typ krku - RG j.custom Super Wizard AS</li>
+<li>Materiál krku - 5pc Maple/Wenge</li>
+<li>Spoj krku - Skrutkovaný (Bolt-on)</li>
+<li>Povrch krku - Saténový polyuretán</li>
+<li>Hrúbka krku - 17 mm (1. pražec) / 19 mm (12. pražec)</li>
+<li>Menzúra - 25.5&quot; / 648mm</li>
+<li>Hmatník - Palisander</li>
+<li>Rádius hmatníka - 16.9&quot; / 430mm</li>
+<li>Pražce - 24, Jumbo</li>
+<li>Úprava hrán pražcov - j.custom fret edge treatment</li>
+<li>Inlay - Tree of Life</li>
+<li>Šírka nultého pražca - 1.7&quot; / 43mm</li>
+<li>Počet strún - 6</li>
+<li>Povrch tela - Lesklý polyester</li>
+<li>Krajina pôvodu - Japonsko</li>
+</ul></div></div>
+</section>
+<section class=""desc-section image-layout-right"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""></div>
+<div class=""desc-text""><h3>Elektronika a hardvér</h3><div class=""prose max-w-none""><ul>
+<li>Mostík - Lo-Pro Edge</li>
+<li>Nultý pražec - Uzamykateľný</li>
+<li>Ladiace mechaniky - Gotoh® machine heads</li>
+<li>Farba hardvéru - Zlatá</li>
+<li>Krčný snímač - Fishman® Fluence™ Modern Humbucker Ceramic (H)</li>
+<li>Mostíkový snímač - Fishman® Fluence™ Modern Humbucker Ceramic (H)</li>
+<li>Elektronika - Aktívna</li>
+<li>Ovládanie - 1 Volume, 1 Tone, 3-way lever switch</li>
+<li>Prepínanie - Fishman® Fluence™ Voicing switch</li>
+<li>Rozostup strún - 10.8mm</li>
+<li>Bočné bodky - Luminlay side dots</li>
+<li>Strap lock - Gotoh® Strap lock pins</li>
+<li>Struny - D&#x27;Addario® EXL120</li>
+<li>Hrúbky strún - .009/.011/.016/.024/.032/.042</li>
+<li>Ladenie - 1E,2B,3G,4D,5A,6E</li>
+<li>Puzdro - Hardshell case included</li>
+<li>Ďalej obsahuje - Tremolo arm, Multi tool, Strap lock pin, Certificate</li>
 </ul></div></div>
 </section>
 </div>"

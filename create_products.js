@@ -168,11 +168,19 @@ async function main() {
     const quantity = parseInt(p.Quantity || '0', 10) || 0;
     const ean = (p.EAN || '').trim();
     const description = p.HTML_Description || '';
+    // Images are OpenCart-relative paths (e.g. catalog/ibanez/x-1.jpg). Image_1
+    // is the main image (oc_product.image); the rest become gallery images
+    // (oc_product_image). The files must exist under the store's image/ dir.
+    const images = [p.Image_1, p.Image_2, p.Image_3, p.Image_4, p.Image_5]
+      .map(v => (v || '').trim()).filter(Boolean);
+    const mainImage = images[0] || '';
+    const galleryImages = images.slice(1);
     const metaTitle = name.slice(0, 255);
     const metaDesc = metaDescription(name, brand);
 
     if (!COMMIT) {
-      console.log(`[dry-run] would create: ${sku.padEnd(10)} ${brand.padEnd(8)} ${name}`);
+      const imgNote = images.length ? ` [${images.length} img]` : '';
+      console.log(`[dry-run] would create: ${sku.padEnd(10)} ${brand.padEnd(8)} ${name}${imgNote}`);
       created++;
       continue;
     }
@@ -188,11 +196,19 @@ async function main() {
            image, manufacturer_id, shipping, price, points, tax_class_id, date_available,
            weight, weight_class_id, length, width, height, length_class_id, subtract,
            minimum, sort_order, status, viewed, date_added, date_modified)
-         VALUES (?, ?, '', ?, '', '', '', '', ?, ?, '', ?, 1, ?, 0, ?, ?, 0, 1, 0, 0, 0, 1, 1, 1, 1, ?, 0, ?, ?)`,
-        [model, sku, ean, quantity, STOCK_STATUS_ID, manufacturerId, price, TAX_CLASS_ID,
+         VALUES (?, ?, '', ?, '', '', '', '', ?, ?, ?, ?, 1, ?, 0, ?, ?, 0, 1, 0, 0, 0, 1, 1, 1, 1, ?, 0, ?, ?)`,
+        [model, sku, ean, quantity, STOCK_STATUS_ID, mainImage, manufacturerId, price, TAX_CLASS_ID,
          now, PRODUCT_STATUS, now, now]
       );
       const productId = pr.insertId;
+
+      // Additional photos -> gallery (oc_product_image).
+      for (let gi = 0; gi < galleryImages.length; gi++) {
+        await db.query(
+          'INSERT INTO oc_product_image (product_id, image, sort_order) VALUES (?, ?, ?)',
+          [productId, galleryImages[gi], gi + 1]
+        );
+      }
 
       await db.query(
         `INSERT INTO oc_product_description

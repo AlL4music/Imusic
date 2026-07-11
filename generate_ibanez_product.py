@@ -25,8 +25,10 @@ Notes
   * Images are "TBA" on pre-release sheets -> left blank for later backfill.
 
 Usage
-    python generate_ibanez_product.py <build_sheet.xlsx> [out.csv]
+    python generate_ibanez_product.py <build_sheet.xlsx> [out.csv] [--price N]
     # default out.csv = ibanez_products.csv
+    # --price 4500            set the price for every product in the sheet
+    # --price RGR8820QM-BRE=4500   set the price for one SKU (repeatable)
     node create_products.js --file ibanez_products.csv            # dry run
     node create_products.js --file ibanez_products.csv --commit    # create
 """
@@ -299,7 +301,7 @@ def build_html(rec):
     return "\n".join(parts)
 
 
-def build_record(rec):
+def build_record(rec, prices=None):
     model = clean(rec.get("MODEL"))
     color_code = clean(rec.get("COLOR"))
     color_name = clean(rec.get("Color Name"))
@@ -316,13 +318,22 @@ def build_record(rec):
         name_bits.append("(with Case)")
     name = " ".join(name_bits)
 
+    # Price isn't on the build sheet. Accept it via --price SKU=VALUE (or a bare
+    # VALUE for a single-product sheet); default 0.00 -> product created staged.
+    prices = prices or {}
+    raw_price = prices.get(sku, prices.get("*", "0"))
+    try:
+        price = f"{float(raw_price):.2f}"
+    except (TypeError, ValueError):
+        price = "0.00"
+
     return {
         "SKU": sku,
         "Brand": "Ibanez",
         "Model": model,
         "Color": color_name or color_code,
         "Name": name,
-        "Price": "0.00",             # not on build sheet — set before publishing
+        "Price": price,              # from --price; 0.00 => created staged
         "EAN": clean(rec.get("EAN")),
         "Quantity": "0",             # not on build sheet
         "Image_1": clean(rec.get("Product Image_1")),
@@ -332,14 +343,36 @@ def build_record(rec):
     }
 
 
+def parse_prices(tokens):
+    """Parse --price args: 'SKU=4500' entries, or a bare '4500' applied to all."""
+    prices = {}
+    for t in tokens:
+        if "=" in t:
+            sku, val = t.split("=", 1)
+            prices[sku.strip()] = val.strip()
+        else:
+            prices["*"] = t.strip()
+    return prices
+
+
 def main():
-    if len(sys.argv) < 2:
+    argv = sys.argv[1:]
+    prices_tokens = []
+    while "--price" in argv:
+        i = argv.index("--price")
+        if i + 1 < len(argv):
+            prices_tokens.append(argv[i + 1])
+            del argv[i:i + 2]
+        else:
+            del argv[i]
+    if not argv:
         print(__doc__)
         sys.exit(1)
-    in_path = sys.argv[1]
-    out_path = sys.argv[2] if len(sys.argv) > 2 else "ibanez_products.csv"
+    in_path = argv[0]
+    out_path = argv[1] if len(argv) > 1 else "ibanez_products.csv"
+    prices = parse_prices(prices_tokens)
 
-    records = [build_record(r) for r in read_sheet(in_path)]
+    records = [build_record(r, prices) for r in read_sheet(in_path)]
     if not records:
         print("No product rows found in build sheet.", file=sys.stderr)
         sys.exit(1)

@@ -1,0 +1,32 @@
+name: Apply SEO RGR8820QM (push-triggered)
+
+# Writes the crafted SEO meta fields for the product. Kicked off by changing
+# .seo-apply-trigger. Values live in env below so punctuation stays clean.
+
+on:
+  push:
+    branches: [claude/ibanez-product-import-5bd9an]
+    paths: ['.seo-apply-trigger']
+
+jobs:
+  apply-seo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install mysql2
+      - name: Apply SEO
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          SEO_TITLE: "Ibanez RGR8820QM j.custom Electric Guitar, Black Rutile"
+          SEO_DESC: "Ibanez RGR8820QM j.custom in Black Rutile: quilted maple top, Fishman Fluence pickups, Lo-Pro Edge tremolo & hardshell case. Made in Japan. Pre-order now."
+          SEO_KEYWORDS: "Ibanez RGR8820QM, Ibanez j.custom, RGR8820QM Black Rutile, Ibanez electric guitar, j.custom guitar, Fishman Fluence, Lo-Pro Edge, Axe Design Lab, Ibanez Japan"
+          SEO_TAG: "Ibanez, RGR8820QM, j.custom, Black Rutile, electric guitar, Fishman Fluence, Lo-Pro Edge, Made in Japan"
+          SEO_SLUG: "ibanez-rgr8820qm-black-rutile"
+        run: node update_product_seo.js --sku "RGR8820QM-BRE" --commit

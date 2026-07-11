@@ -1,0 +1,37 @@
+name: Apply Slovak translation RGR8820QM (push-triggered)
+
+# Writes the Slovak name/description/meta into language_id=2 for the product.
+# Kicked off by changing .translate-trigger.
+
+on:
+  push:
+    branches: [claude/ibanez-product-import-5bd9an]
+    paths: ['.translate-trigger']
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install mysql2
+      - name: Apply Slovak translation
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          TR_NAME: "Ibanez RGR8820QM j.custom Black Rutile (s puzdrom)"
+          TR_META_TITLE: "Ibanez RGR8820QM j.custom elektrická gitara, Black Rutile"
+          TR_META_DESC: "Ibanez RGR8820QM j.custom, Black Rutile: quilted maple vrch, Fishman Fluence snímače, Lo-Pro Edge tremolo, tvrdé puzdro. Vyrobené v Japonsku. Predobjednávka."
+          TR_META_KEYWORD: "Ibanez RGR8820QM, Ibanez j.custom, RGR8820QM Black Rutile, Ibanez elektrická gitara, gitara j.custom, Fishman Fluence, Lo-Pro Edge, Axe Design Lab, Ibanez Japonsko"
+          TR_TAG: "Ibanez, RGR8820QM, j.custom, Black Rutile, elektrická gitara, Fishman Fluence, Lo-Pro Edge, Vyrobené v Japonsku"
+        run: |
+          node update_product_translation.js \
+            --sku "RGR8820QM-BRE" \
+            --language-id 2 \
+            --desc-file "translations/rgr8820qm-bre.sk.html" \
+            --commit

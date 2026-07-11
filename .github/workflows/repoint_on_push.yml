@@ -1,0 +1,40 @@
+name: Repoint RGR8820QM images (push-triggered)
+
+# One-shot helper: runs the image repoint automatically when the .repoint-trigger
+# file changes on this branch, so it can be kicked off by a push (used when the
+# workflow_dispatch "Run" button isn't accessible). Path-filtered so ordinary
+# pushes don't re-run it.
+
+on:
+  push:
+    branches: [claude/ibanez-product-import-5bd9an]
+    paths: ['.repoint-trigger']
+
+jobs:
+  repoint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install mysql2
+
+      - name: Repoint images
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+        run: |
+          node update_product_images.js \
+            --sku "RGR8820QM-BRE" \
+            --main "catalog/0.C50.jpg" \
+            --gallery "catalog/16.26EA.jpg,catalog/78.3222.jpg" \
+            --commit

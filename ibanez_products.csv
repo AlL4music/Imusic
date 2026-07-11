@@ -1,0 +1,90 @@
+﻿"SKU","Brand","Model","Color","Name","Price","EAN","Quantity","Image_1","Image_2","Image_3","HTML_Description"
+"RGR8820QM-BRE","Ibanez","RGR8820QM","Black Rutile","Ibanez RGR8820QM j.custom Black Rutile (with Case)","0.00","4549763379351","0","","","","<style>
+.product-description-container{font-family:'Roboto',sans-serif;color:#374151}.product-description-container h3,.product-description-container h4{font-family:'Barlow',sans-serif;font-weight:900;letter-spacing:-.025em;color:#111827}.product-description-container ul{list-style-type:disc;margin-left:1.5rem;margin-bottom:1rem;padding-left:1rem}.product-description-container li{margin-bottom:.25rem}.product-description-container .prose{line-height:1.75}.features-3col-section{text-align:center;padding:2rem 0}.features-3col-section .main-image img{border-radius:.75rem;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);width:100%;max-width:800px;margin:0 auto 2rem auto}.features-3col-section .main-text{max-width:800px;margin:0 auto 3rem auto}.features-3col-section .main-text h3{font-size:2.25rem;margin-bottom:1rem}.features-3col-section .columns-container{display:grid;gap:2rem;max-width:1200px;margin:0 auto}.features-3col-section .columns-container.cols-3{grid-template-columns:repeat(3,1fr)}.features-3col-section .feature-item{text-align:left}.features-3col-section .feature-item svg{width:48px;height:48px;margin-bottom:1rem;color:#e7284d}.features-3col-section .feature-item h4{font-size:1.25rem;font-weight:700;margin-bottom:.5rem}.desc-section{display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:center;margin-bottom:2rem}.desc-section.image-layout-left .desc-image{order:1}.desc-section.image-layout-left .desc-text{order:2}.desc-section.image-layout-right .desc-image{order:2}.desc-section.image-layout-right .desc-text{order:1}.desc-image{border-radius:.75rem;overflow:hidden;box-shadow:0 10px 15px -3px rgba(0,0,0,.1);background-color:#f9fafb}.desc-image img{width:100%;height:100%;display:block;object-fit:contain}.desc-text h3{font-size:1.875rem;margin-bottom:1rem}@media(max-width:768px){.desc-section{grid-template-columns:1fr}.features-3col-section .columns-container.cols-3{grid-template-columns:1fr}}
+</style>
+<div class=""product-description-container"">
+<section class=""features-3col-section"">
+<div class=""main-text"">
+<h3>Ibanez RGR8820QM</h3>
+<div class=""prose max-w-none""><b>Black Rutile</b></div>
+<div class=""prose max-w-none"">j.custom · Axe Design Lab · Made in JAPAN</div>
+<div class=""prose max-w-none"" style=""text-align:left""><p>The RG is the most recognizable and distinctive guitar in the Ibanez line. Three decades of metal have forged this high-performance machine, honing it for both speed and strength. Whether you favor a hardtail (fixed) bridge or our industry-leading locking tremolo system, the RG is a precision instrument.</p><p>- Axe Design Lab -
+Ibanez has been creating innovations which do not only fit the unique demands of players from that period, but also eventually turn into industrial standards, such as 7 string, 8 string and Multi scale guitars. All these started from our attitude to be “Innovative, Cutting-Edge and Pioneer”. Axe Design Lab is the series fully represents this attitude.</p><p>- j.custom -
+Ibanez j.custom guitars are manufactured by an elite group of highly skilled luthiers trained in producing instruments of uncompromised quality. The j.custom designation represents every advance in design and technology Ibanez has developed over the decades: the best woods, neck, fret treatments, in-demand pickup, and top-quality hardware. Each is masterfully crafted to the highest standards to ensure unparalleled sound, maximum playability and exquisite beauty.</p></div>
+</div>
+
+<div class=""columns-container cols-3"">
+<div class=""feature-item""><svg xmlns=""http://www.w3.org/2000/svg"" width=""48"" height=""48"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""1.5"" stroke-linecap=""round"" stroke-linejoin=""round""><path d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z""></path><path d=""m9 12 2 2 4-4""></path></svg><h4>Super Wizard AS 5pc Maple/Wenge neck</h4><div class=""prose max-w-none"">This Super Wizard AS neck has a more rounded shape towards the bass side, while still retaining the overall thickness of the Super Wizard profile– 17mm at nut and 19mm at 12th fret. This asymmetric shape provides a more comfortable grip and natural feel that makes techniques like sweeping and string skipping much easier.</div></div>
+<div class=""feature-item""><svg xmlns=""http://www.w3.org/2000/svg"" width=""48"" height=""48"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""1.5"" stroke-linecap=""round"" stroke-linejoin=""round""><path d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z""></path><path d=""m9 12 2 2 4-4""></path></svg><h4>Rosewood fretboard</h4><div class=""prose max-w-none"">Rosewood fretboard provides a well-balanced solid tone with a focused mid range.</div></div>
+<div class=""feature-item""><svg xmlns=""http://www.w3.org/2000/svg"" width=""48"" height=""48"" viewBox=""0 0 24 24"" fill=""none"" stroke=""currentColor"" stroke-width=""1.5"" stroke-linecap=""round"" stroke-linejoin=""round""><path d=""M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z""></path><path d=""m9 12 2 2 4-4""></path></svg><h4>Jumbo frets with j.custom fret edge treatment</h4><div class=""prose max-w-none"">The wide and tall fret-type offers a quick response, good articulation when playing chords and clear tone when playing single notes. The j.custom fret edge treatment provides the ultimate smooth touch around every single fret.</div></div>
+</div>
+</section>
+<section class=""desc-section image-layout-left"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""></div>
+<div class=""desc-text""><h3>Features</h3><div class=""prose max-w-none""><ul>
+<li><strong>Super Wizard AS 5pc Maple/Wenge neck</strong> — This Super Wizard AS neck has a more rounded shape towards the bass side, while still retaining the overall thickness of the Super Wizard profile– 17mm at nut and 19mm at 12th fret. This asymmetric shape provides a more comfortable grip and natural feel that makes techniques like sweeping and string skipping much easier.</li>
+<li><strong>Rosewood fretboard</strong> — Rosewood fretboard provides a well-balanced solid tone with a focused mid range.</li>
+<li><strong>Jumbo frets with j.custom fret edge treatment</strong> — The wide and tall fret-type offers a quick response, good articulation when playing chords and clear tone when playing single notes. The j.custom fret edge treatment provides the ultimate smooth touch around every single fret.</li>
+<li><strong>Quilted Maple (4mm) top / Alder body</strong> — The Quilted Maple top displaying a beautiful wood grain and the Alder body deliver a well-balanced bright tone, enriched resonance and sustain.</li>
+<li><strong>Fishman® Fluence™ Modern Humbucker Ceramic pickups</strong> — The Fishman® Fluence™ Modern Humbucker pickups provide an aggressive tone and a powerful attack without excess noise.</li>
+<li><strong>Gotoh® machine heads</strong> — Gotoh® machine heads provide superior precision, a smooth feel, and excellent tuning accuracy.</li>
+<li><strong>Lo-Pro Edge tremolo</strong> — The legendary Lo-Pro Edge bridge offers maximum playing comfort with its streamlined profile and recessed fine tuners. Locking studs contribute to tuning stability.</li>
+<li><strong>Fishman® Fluence™ Voicing switch</strong> — The Voicing switch allows the pickups to switch from a modern, active high output sound to a crisp, clean and fluid sound.</li>
+<li><strong>Luminlay side dots</strong> — The Luminlay side dot position marks make it easy for players to see fretboard position marks when performing on dark stages.</li>
+<li><strong>Gotoh® Strap lock pins</strong> — Gotoh® Strap lock pins protect your guitar from falling under tough stage performance.</li>
+<li><strong>Hardshell case included</strong> — Ibanez Hardshell case gives extreme protection for your beloved instrument.</li>
+</ul></div></div>
+</section>
+<section class=""desc-section image-layout-right"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""></div>
+<div class=""desc-text""><h3>Special Features</h3><div class=""prose max-w-none""><ul>
+<li><strong>Special j.custom Neck</strong> — j.custom Super Wizard neck includes jumbo frets finished with our j.custom special fret edge treatment for a super smooth and comfortable performance. The ”Velvetouch” finish on the back of the neck ensures a ”just right” feel and easy playability.</li>
+<li><strong>All Access Neck Joint</strong> — All Access Neck Joint offers superior playability at the high frets.</li>
+<li><strong>Chambered body (RG)</strong> — The chambered body not only contributes to a lighter overall weight, but also adds just the right amount of bottom and clarity, which is preferred by today’s metal players.</li>
+<li><strong>Deep and beveled lower horn scoop</strong> — It allows better and multidirectional high fret access.</li>
+</ul></div></div>
+</section>
+<section class=""desc-section image-layout-left"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""></div>
+<div class=""desc-text""><h3>Specifications</h3><div class=""prose max-w-none""><ul>
+<li>Body - Quilted Maple (4mm) top / Alder body</li>
+<li>Neck type - RG j.custom Super Wizard AS</li>
+<li>Neck material - 5pc Maple/Wenge</li>
+<li>Neck joint - Bolt-on</li>
+<li>Neck finish - Satin Polyurethane</li>
+<li>Neck thickness - 17mm @1st / 19mm @12th</li>
+<li>Scale - 25.5&quot; / 648mm</li>
+<li>Fretboard - Rosewood</li>
+<li>Fretboard radius - 16.9&quot; / 430mm</li>
+<li>Frets - 24, Jumbo</li>
+<li>Fret edge treatment - j.custom fret edge treatment</li>
+<li>Inlay - Tree of Life</li>
+<li>Nut width - 1.7&quot; / 43mm</li>
+<li>Number of strings - 6</li>
+<li>Body finish - Gloss Polyester</li>
+<li>Country of origin - JAPAN</li>
+</ul></div></div>
+</section>
+<section class=""desc-section image-layout-right"">
+<div class=""desc-image fit-contain"" style=""height:450px;max-height:450px;""></div>
+<div class=""desc-text""><h3>Electronics &amp; Hardware</h3><div class=""prose max-w-none""><ul>
+<li>Bridge - Lo-Pro Edge</li>
+<li>Nut - Locking</li>
+<li>Machine heads - Gotoh® machine heads</li>
+<li>Hardware color - Gold</li>
+<li>Neck pickup - Fishman® Fluence™ Modern Humbucker Ceramic (H)</li>
+<li>Bridge pickup - Fishman® Fluence™ Modern Humbucker Ceramic (H)</li>
+<li>Electronics - Active</li>
+<li>Controls - 1 Volume, 1 Tone, 3-way lever switch</li>
+<li>Switching - Fishman® Fluence™ Voicing switch</li>
+<li>String spacing - 10.8mm</li>
+<li>Side dot inlay - Luminlay side dots</li>
+<li>Strap lock - Gotoh® Strap lock pins</li>
+<li>Strings - D&#x27;Addario® EXL120</li>
+<li>String gauges - .009/.011/.016/.024/.032/.042</li>
+<li>Tuning - 1E,2B,3G,4D,5A,6E</li>
+<li>Case / bag - Hardshell case included</li>
+<li>Also included - Tremolo arm, Multi tool, Strap lock pin, Certificate</li>
+</ul></div></div>
+</section>
+</div>"

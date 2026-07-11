@@ -1,0 +1,55 @@
+name: Update Product Images
+
+# Repoints an existing product's images (main + gallery) to new OpenCart-relative
+# paths, for when photos were uploaded to a different folder than the product
+# currently references. Dry run by default; set commit=true to apply.
+
+on:
+  workflow_dispatch:
+    inputs:
+      sku:
+        description: 'Product SKU to update'
+        required: true
+        default: 'RGR8820QM-BRE'
+      main:
+        description: 'Main image path (OpenCart-relative, no leading image/)'
+        required: true
+        default: 'catalog/0.C50.jpg'
+      gallery:
+        description: 'Comma-separated gallery image paths'
+        required: false
+        default: 'catalog/16.26EA.jpg,catalog/78.3222.jpg'
+      commit:
+        description: 'Actually write to the DB? (false = dry run)'
+        type: boolean
+        required: true
+        default: false
+
+jobs:
+  update-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install mysql2
+
+      - name: Update product images
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+        run: |
+          node update_product_images.js \
+            --sku "${{ github.event.inputs.sku }}" \
+            --main "${{ github.event.inputs.main }}" \
+            --gallery "${{ github.event.inputs.gallery }}" \
+            ${{ github.event.inputs.commit == 'true' && '--commit' || '' }}

@@ -3,6 +3,7 @@ name: Product Audit
 on:
   workflow_dispatch:
   schedule:
+    - cron: '30 7 * * *'  # Daily at 7:30 UTC (after scrapers + SEO check)
 
 jobs:
   product-audit:

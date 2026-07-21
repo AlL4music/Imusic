@@ -107,6 +107,8 @@ async function main() {
       id: pid,
       name: (p.name || '').substring(0, 80),
       model: (p.model || '').substring(0, 40),
+      sku: (p.sku || '').trim(),
+      price: p.price != null ? Number(p.price) : null,
       manufacturer: mfrName,
       issues: coreIssues,
       extras: extraIssues,
@@ -142,7 +144,7 @@ async function main() {
     },
     by_manufacturer: {},
     products: [...results.incomplete, ...results.complete].map(p => ({
-      id: p.id, n: p.name, m: p.model, b: p.manufacturer,
+      id: p.id, n: p.name, m: p.model, sku: p.sku, pr: p.price, b: p.manufacturer,
       i: p.issues, x: p.extras, s: p.score,
     })),
   };

@@ -1,0 +1,701 @@
+{
+  "run": "29834214882",
+  "dry": false,
+  "applied": 99,
+  "skipped": 0,
+  "items": [
+    {
+      "id": 17084,
+      "sku": "10002871",
+      "old_price": 160.65,
+      "new_price": 201.15,
+      "status": "applied"
+    },
+    {
+      "id": 17161,
+      "sku": "10011367",
+      "old_price": 1294.65,
+      "new_price": 1618.65,
+      "status": "applied"
+    },
+    {
+      "id": 17171,
+      "sku": "10011994",
+      "old_price": 1470.15,
+      "new_price": 1983.15,
+      "status": "applied"
+    },
+    {
+      "id": 17186,
+      "sku": "10012669",
+      "old_price": 1213.65,
+      "new_price": 1559.25,
+      "status": "applied"
+    },
+    {
+      "id": 17201,
+      "sku": "10011372",
+      "old_price": 1213.65,
+      "new_price": 1537.65,
+      "status": "applied"
+    },
+    {
+      "id": 17215,
+      "sku": "10012721",
+      "old_price": 189,
+      "new_price": 249.75,
+      "status": "applied"
+    },
+    {
+      "id": 17227,
+      "sku": "10011354",
+      "old_price": 1335.15,
+      "new_price": 2307.15,
+      "status": "applied"
+    },
+    {
+      "id": 17251,
+      "sku": "10002685",
+      "old_price": 1186.65,
+      "new_price": 1780.65,
+      "status": "applied"
+    },
+    {
+      "id": 17261,
+      "sku": "10009330",
+      "old_price": 1753.65,
+      "new_price": 2355.75,
+      "status": "applied"
+    },
+    {
+      "id": 17263,
+      "sku": "10009586",
+      "old_price": 1282.5,
+      "new_price": 1618.65,
+      "status": "applied"
+    },
+    {
+      "id": 17266,
+      "sku": "10012679",
+      "old_price": 1348.65,
+      "new_price": 1780.65,
+      "status": "applied"
+    },
+    {
+      "id": 17272,
+      "sku": "10002704",
+      "old_price": 1335.15,
+      "new_price": 1780.65,
+      "status": "applied"
+    },
+    {
+      "id": 17291,
+      "sku": "10024173",
+      "old_price": 1605.15,
+      "new_price": 1780.65,
+      "status": "applied"
+    },
+    {
+      "id": 17299,
+      "sku": "10011998",
+      "old_price": 1348.65,
+      "new_price": 1780.65,
+      "status": "applied"
+    },
+    {
+      "id": 17306,
+      "sku": "10011376",
+      "old_price": 1316.25,
+      "new_price": 1653.75,
+      "status": "applied"
+    },
+    {
+      "id": 17310,
+      "sku": "10011375",
+      "old_price": 1348.65,
+      "new_price": 1780.65,
+      "status": "applied"
+    },
+    {
+      "id": 17311,
+      "sku": "10012673",
+      "old_price": 1282.5,
+      "new_price": 1653.75,
+      "status": "applied"
+    },
+    {
+      "id": 17312,
+      "sku": "10012686",
+      "old_price": 384.75,
+      "new_price": 518.4,
+      "status": "applied"
+    },
+    {
+      "id": 17324,
+      "sku": "10011377",
+      "old_price": 997.65,
+      "new_price": 1559.25,
+      "status": "applied"
+    },
+    {
+      "id": 17325,
+      "sku": "10011362",
+      "old_price": 459,
+      "new_price": 579.15,
+      "status": "applied"
+    },
+    {
+      "id": 17412,
+      "sku": "10007904",
+      "old_price": 2428.65,
+      "new_price": 3086.1,
+      "status": "applied"
+    },
+    {
+      "id": 17430,
+      "sku": "10009994",
+      "old_price": 3103.65,
+      "new_price": 4899.15,
+      "status": "applied"
+    },
+    {
+      "id": 17438,
+      "sku": "10009982",
+      "old_price": 3643.65,
+      "new_price": 5668.65,
+      "status": "applied"
+    },
+    {
+      "id": 17443,
+      "sku": "10009986",
+      "old_price": 4858.65,
+      "new_price": 7369.65,
+      "status": "applied"
+    },
+    {
+      "id": 17573,
+      "sku": "10009412",
+      "old_price": 3643.65,
+      "new_price": 5636.25,
+      "status": "applied"
+    },
+    {
+      "id": 17575,
+      "sku": "10009411",
+      "old_price": 3238.65,
+      "new_price": 5803.65,
+      "status": "applied"
+    },
+    {
+      "id": 17578,
+      "sku": "10012098",
+      "old_price": 4845.15,
+      "new_price": 6924.15,
+      "status": "applied"
+    },
+    {
+      "id": 17599,
+      "sku": "10000703",
+      "old_price": 4251.15,
+      "new_price": 7761.15,
+      "status": "applied"
+    },
+    {
+      "id": 17611,
+      "sku": "10009484",
+      "old_price": 2800,
+      "new_price": 4518.45,
+      "status": "applied"
+    },
+    {
+      "id": 17625,
+      "sku": "10010689",
+      "old_price": 3500,
+      "new_price": 4711.5,
+      "status": "applied"
+    },
+    {
+      "id": 25858,
+      "sku": "10005377",
+      "old_price": 674,
+      "new_price": 1057.05,
+      "status": "applied"
+    },
+    {
+      "id": 25860,
+      "sku": "10002983",
+      "old_price": 660.15,
+      "new_price": 1254.15,
+      "status": "applied"
+    },
+    {
+      "id": 25865,
+      "sku": "20009064",
+      "old_price": 1888.65,
+      "new_price": 3179.25,
+      "status": "applied"
+    },
+    {
+      "id": 25866,
+      "sku": "20005378",
+      "old_price": 1065.15,
+      "new_price": 1591.65,
+      "status": "applied"
+    },
+    {
+      "id": 25867,
+      "sku": "10005378",
+      "old_price": 1065.15,
+      "new_price": 1591.65,
+      "status": "applied"
+    },
+    {
+      "id": 25868,
+      "sku": "10002706",
+      "old_price": 1186.65,
+      "new_price": 1969.65,
+      "status": "applied"
+    },
+    {
+      "id": 25869,
+      "sku": "20002706",
+      "old_price": 1078.65,
+      "new_price": 1969.65,
+      "status": "applied"
+    },
+    {
+      "id": 25875,
+      "sku": "10009990",
+      "old_price": 2700,
+      "new_price": 4436.1,
+      "status": "applied"
+    },
+    {
+      "id": 25876,
+      "sku": "10009988",
+      "old_price": 2700,
+      "new_price": 4436.1,
+      "status": "applied"
+    },
+    {
+      "id": 25877,
+      "sku": "10009989",
+      "old_price": 2700,
+      "new_price": 4436.1,
+      "status": "applied"
+    },
+    {
+      "id": 25878,
+      "sku": "10006782",
+      "old_price": 3103.65,
+      "new_price": 4777.65,
+      "status": "applied"
+    },
+    {
+      "id": 25889,
+      "sku": "10009854",
+      "old_price": 4725,
+      "new_price": 7288.65,
+      "status": "applied"
+    },
+    {
+      "id": 25893,
+      "sku": "10008032",
+      "old_price": 1267.65,
+      "new_price": 1821.15,
+      "status": "applied"
+    },
+    {
+      "id": 25894,
+      "sku": "10009426",
+      "old_price": 1323,
+      "new_price": 1686.15,
+      "status": "applied"
+    },
+    {
+      "id": 25895,
+      "sku": "10008029",
+      "old_price": 741.15,
+      "new_price": 1024.65,
+      "status": "applied"
+    },
+    {
+      "id": 25896,
+      "sku": "10002677",
+      "old_price": 1186.65,
+      "new_price": 1718.55,
+      "status": "applied"
+    },
+    {
+      "id": 25897,
+      "sku": "10006254",
+      "old_price": 1214,
+      "new_price": 1902.15,
+      "status": "applied"
+    },
+    {
+      "id": 25901,
+      "sku": "10002682",
+      "old_price": 1321.65,
+      "new_price": 2118.15,
+      "status": "applied"
+    },
+    {
+      "id": 25902,
+      "sku": "10007848",
+      "old_price": 835.65,
+      "new_price": 1132.65,
+      "status": "applied"
+    },
+    {
+      "id": 25904,
+      "sku": "10005727",
+      "old_price": 795.15,
+      "new_price": 1198.8,
+      "status": "applied"
+    },
+    {
+      "id": 25905,
+      "sku": "10009434",
+      "old_price": 1267.65,
+      "new_price": 1686.15,
+      "status": "applied"
+    },
+    {
+      "id": 25906,
+      "sku": "10012979",
+      "old_price": 1321.65,
+      "new_price": 1686.15,
+      "status": "applied"
+    },
+    {
+      "id": 25907,
+      "sku": "10008070",
+      "old_price": 660.15,
+      "new_price": 1024.65,
+      "status": "applied"
+    },
+    {
+      "id": 25908,
+      "sku": "10006286",
+      "old_price": 700.65,
+      "new_price": 1132.65,
+      "status": "applied"
+    },
+    {
+      "id": 25909,
+      "sku": "10009817",
+      "old_price": 1065.15,
+      "new_price": 1591.65,
+      "status": "applied"
+    },
+    {
+      "id": 25910,
+      "sku": "10007842",
+      "old_price": 930.15,
+      "new_price": 1524.15,
+      "status": "applied"
+    },
+    {
+      "id": 25912,
+      "sku": "10011369",
+      "old_price": 1591.65,
+      "new_price": 2658.15,
+      "status": "applied"
+    },
+    {
+      "id": 25913,
+      "sku": "10009830",
+      "old_price": 1011,
+      "new_price": 1456.65,
+      "status": "applied"
+    },
+    {
+      "id": 25914,
+      "sku": "10009833",
+      "old_price": 930.15,
+      "new_price": 1221.75,
+      "status": "applied"
+    },
+    {
+      "id": 25915,
+      "sku": "10007869",
+      "old_price": 1456.65,
+      "new_price": 2131.65,
+      "status": "applied"
+    },
+    {
+      "id": 25916,
+      "sku": "10007915",
+      "old_price": 1009.8,
+      "new_price": 1443.15,
+      "status": "applied"
+    },
+    {
+      "id": 25917,
+      "sku": "10002705",
+      "old_price": 1349,
+      "new_price": 1969.65,
+      "status": "applied"
+    },
+    {
+      "id": 25918,
+      "sku": "10002707",
+      "old_price": 1213.65,
+      "new_price": 1524.15,
+      "status": "applied"
+    },
+    {
+      "id": 25919,
+      "sku": "10009831",
+      "old_price": 1079,
+      "new_price": 1456.65,
+      "status": "applied"
+    },
+    {
+      "id": 25920,
+      "sku": "10009832",
+      "old_price": 1011,
+      "new_price": 1456.65,
+      "status": "applied"
+    },
+    {
+      "id": 25921,
+      "sku": "10009835",
+      "old_price": 944,
+      "new_price": 1290.6,
+      "status": "applied"
+    },
+    {
+      "id": 25922,
+      "sku": "10009838",
+      "old_price": 1667.25,
+      "new_price": 2779.65,
+      "status": "applied"
+    },
+    {
+      "id": 25923,
+      "sku": "10007872",
+      "old_price": 1079,
+      "new_price": 1456.65,
+      "status": "applied"
+    },
+    {
+      "id": 25924,
+      "sku": "10007873",
+      "old_price": 1200.15,
+      "new_price": 1572.75,
+      "status": "applied"
+    },
+    {
+      "id": 25927,
+      "sku": "10011374",
+      "old_price": 1335.15,
+      "new_price": 2226.15,
+      "status": "applied"
+    },
+    {
+      "id": 25928,
+      "sku": "10012661",
+      "old_price": 1267.65,
+      "new_price": 1659.15,
+      "status": "applied"
+    },
+    {
+      "id": 25929,
+      "sku": "10002720",
+      "old_price": 1591.65,
+      "new_price": 2080.35,
+      "status": "applied"
+    },
+    {
+      "id": 25930,
+      "sku": "10007881",
+      "old_price": 889.65,
+      "new_price": 1335.15,
+      "status": "applied"
+    },
+    {
+      "id": 25931,
+      "sku": "10011997",
+      "old_price": 1484,
+      "new_price": 1807.65,
+      "status": "applied"
+    },
+    {
+      "id": 25932,
+      "sku": "10009843",
+      "old_price": 1146,
+      "new_price": 1518.75,
+      "status": "applied"
+    },
+    {
+      "id": 25933,
+      "sku": "10011356",
+      "old_price": 1591.65,
+      "new_price": 2658.15,
+      "status": "applied"
+    },
+    {
+      "id": 25935,
+      "sku": "10005390",
+      "old_price": 1011,
+      "new_price": 1335.15,
+      "status": "applied"
+    },
+    {
+      "id": 25939,
+      "sku": "10009815",
+      "old_price": 741.15,
+      "new_price": 1198.8,
+      "status": "applied"
+    },
+    {
+      "id": 25951,
+      "sku": "10007490",
+      "old_price": 324.39,
+      "new_price": 333.45,
+      "status": "applied"
+    },
+    {
+      "id": 25984,
+      "sku": "10010210",
+      "old_price": 568.29,
+      "new_price": 585.9,
+      "status": "applied"
+    },
+    {
+      "id": 26056,
+      "sku": "10013230",
+      "old_price": 324.3902,
+      "new_price": 330.75,
+      "status": "applied"
+    },
+    {
+      "id": 26097,
+      "sku": "10005374",
+      "old_price": 930.15,
+      "new_price": 1146.15,
+      "status": "applied"
+    },
+    {
+      "id": 26098,
+      "sku": "10009440",
+      "old_price": 1065.15,
+      "new_price": 1456.65,
+      "status": "applied"
+    },
+    {
+      "id": 26099,
+      "sku": "10002729",
+      "old_price": 970.65,
+      "new_price": 1270.35,
+      "status": "applied"
+    },
+    {
+      "id": 35910,
+      "sku": "10002741",
+      "old_price": 1051.65,
+      "new_price": 1335.15,
+      "status": "applied"
+    },
+    {
+      "id": 35911,
+      "sku": "10002745",
+      "old_price": 849,
+      "new_price": 1132.65,
+      "status": "applied"
+    },
+    {
+      "id": 35912,
+      "sku": "10002754",
+      "old_price": 930.15,
+      "new_price": 1343.25,
+      "status": "applied"
+    },
+    {
+      "id": 35913,
+      "sku": "10009827",
+      "old_price": 1146,
+      "new_price": 1605.15,
+      "status": "applied"
+    },
+    {
+      "id": 35915,
+      "sku": "10005369",
+      "old_price": 727.65,
+      "new_price": 1051.65,
+      "status": "applied"
+    },
+    {
+      "id": 35916,
+      "sku": "10005368",
+      "old_price": 835.65,
+      "new_price": 1132.65,
+      "status": "applied"
+    },
+    {
+      "id": 35917,
+      "sku": "10005376",
+      "old_price": 727.65,
+      "new_price": 1059.75,
+      "status": "applied"
+    },
+    {
+      "id": 35918,
+      "sku": "10009834",
+      "old_price": 997.65,
+      "new_price": 1456.65,
+      "status": "applied"
+    },
+    {
+      "id": 37022,
+      "sku": "10005750",
+      "old_price": 862.65,
+      "new_price": 1198.8,
+      "status": "applied"
+    },
+    {
+      "id": 37023,
+      "sku": "10009692",
+      "old_price": 1132.65,
+      "new_price": 1518.75,
+      "status": "applied"
+    },
+    {
+      "id": 37024,
+      "sku": "10002715",
+      "old_price": 862.65,
+      "new_price": 1146.15,
+      "status": "applied"
+    },
+    {
+      "id": 37025,
+      "sku": "10007847",
+      "old_price": 498.15,
+      "new_price": 630.45,
+      "status": "applied"
+    },
+    {
+      "id": 37026,
+      "sku": "10009826",
+      "old_price": 1065.15,
+      "new_price": 1524.15,
+      "status": "applied"
+    },
+    {
+      "id": 37027,
+      "sku": "10009448",
+      "old_price": 943.65,
+      "new_price": 1335.15,
+      "status": "applied"
+    },
+    {
+      "id": 37028,
+      "sku": "10005745",
+      "old_price": 997.65,
+      "new_price": 1335.15,
+      "status": "applied"
+    }
+  ]
+}

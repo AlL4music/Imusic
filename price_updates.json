@@ -1,0 +1,794 @@
+[
+{
+"id": 17084,
+"sku": "10002871",
+"old": 160.65,
+"new": 201.15,
+"dealer": 149.0,
+"name": "LTD CBBASSFF B BASS FF CASE"
+},
+{
+"id": 17161,
+"sku": "10011367",
+"old": 1294.65,
+"new": 1618.65,
+"dealer": 1199.0,
+"name": "LTD LEC1000BLKF EC-1000 BLACK FLUENCE"
+},
+{
+"id": 17171,
+"sku": "10011994",
+"old": 1470.15,
+"new": 1983.15,
+"dealer": 1469.0,
+"name": "LTD LEC1007BETBLK EC-1007B EVERTUNE BLACK"
+},
+{
+"id": 17186,
+"sku": "10012669",
+"old": 1213.65,
+"new": 1559.25,
+"dealer": 1155.0,
+"name": "LTD LM1000MBLK M-1000 MAPLE BLACK"
+},
+{
+"id": 17201,
+"sku": "10011372",
+"old": 1213.65,
+"new": 1537.65,
+"dealer": 1139.0,
+"name": "LTD LMH1000ETFMCHB MH-1000 EVERTUNE CHARCOAL BURST"
+},
+{
+"id": 17215,
+"sku": "10012721",
+"old": 189.0,
+"new": 249.75,
+"dealer": 185.0,
+"name": "LTD LXMT130SKBLU MT-130 SKY BLUE"
+},
+{
+"id": 17227,
+"sku": "10011354",
+"old": 1335.15,
+"new": 2307.15,
+"dealer": 1709.0,
+"name": "LTD LMLB4BLKBLAST MLB-4 Black BLAST MIKE LEON"
+},
+{
+"id": 17251,
+"sku": "10002685",
+"old": 1186.65,
+"new": 1780.65,
+"dealer": 1319.0,
+"name": "LTD LGH600BLK GH-600 Black GARY HOLT"
+},
+{
+"id": 17261,
+"sku": "10009330",
+"old": 1753.65,
+"new": 2355.75,
+"dealer": 1745.0,
+"name": "LTD LJC4DGMS JC-4 DARK GREY METALLIC SATIN JOHN CAMPBELL"
+},
+{
+"id": 17263,
+"sku": "10009586",
+"old": 1282.5,
+"new": 1618.65,
+"dealer": 1199.0,
+"name": "LTD LVULTUREOW VULTURE OW JAMES HETFIELD"
+},
+{
+"id": 17266,
+"sku": "10012679",
+"old": 1348.65,
+"new": 1780.65,
+"dealer": 1319.0,
+"name": "LTD LJMIQMDBLM JOSH MIDDLETON JM-I DEEP BLOOD MOON"
+},
+{
+"id": 17272,
+"sku": "10002704",
+"old": 1335.15,
+"new": 1780.65,
+"dealer": 1319.0,
+"name": "LTD LKHWZ KH-WZ KIRK HAMMETT"
+},
+{
+"id": 17291,
+"sku": "10024173",
+"old": 1605.15,
+"new": 1780.65,
+"dealer": 1319.0,
+"name": "LTD LSN1000FRCARS SN-1000 FR CANDY APPLE Red SATIN"
+},
+{
+"id": 17299,
+"sku": "10011998",
+"old": 1348.65,
+"new": 1780.65,
+"dealer": 1319.0,
+"name": "LTD LTEDECBLK TED-EC Black"
+},
+{
+"id": 17306,
+"sku": "10011376",
+"old": 1316.25,
+"new": 1653.75,
+"dealer": 1225.0,
+"name": "LTD LSN1BHTBLK SN-1 BARITONE HT BLACK"
+},
+{
+"id": 17310,
+"sku": "10011375",
+"old": 1348.65,
+"new": 1780.65,
+"dealer": 1319.0,
+"name": "LTD LSN1007BHTFIREBLAST SN-1007 BARITONE HT FIREBLAST"
+},
+{
+"id": 17311,
+"sku": "10012673",
+"old": 1282.5,
+"new": 1653.75,
+"dealer": 1225.0,
+"name": "LTD LSN1HTBLKBLAST1 SN-1 HT BLACK BLAST"
+},
+{
+"id": 17312,
+"sku": "10012686",
+"old": 384.75,
+"new": 518.4,
+"dealer": 384.0,
+"name": "LTD LSN201HTBLK SN-201HT BLACK"
+},
+{
+"id": 17324,
+"sku": "10011377",
+"old": 997.65,
+"new": 1559.25,
+"dealer": 1155.0,
+"name": "LTD LVIPER1000VB VIPER-1000 VINTAGE BLACK"
+},
+{
+"id": 17325,
+"sku": "10011362",
+"old": 459.0,
+"new": 579.15,
+"dealer": 429.0,
+"name": "LTD LVIPER256OW VIPER-256 OLYMPIC WHITE"
+},
+{
+"id": 17412,
+"sku": "10007904",
+"old": 2428.65,
+"new": 3086.1,
+"dealer": 2286.0,
+"name": "E-II SN-2 NBLKB"
+},
+{
+"id": 17430,
+"sku": "10009994",
+"old": 3103.65,
+"new": 4899.15,
+"dealer": 3629.0,
+"name": "ESP Original ARROW NT BLACK"
+},
+{
+"id": 17438,
+"sku": "10009982",
+"old": 3643.65,
+"new": 5668.65,
+"dealer": 4199.0,
+"name": "ESP ORIGINAL ECLIPSE CTM BLACK SATIN"
+},
+{
+"id": 17443,
+"sku": "10009986",
+"old": 4858.65,
+"new": 7369.65,
+"dealer": 5459.0,
+"name": "ESP Original ECLIPSE-CTM/FM TIGER EYE SUNBURST"
+},
+{
+"id": 17573,
+"sku": "10009412",
+"old": 3643.65,
+"new": 5636.25,
+"dealer": 4175.0,
+"name": "ESP EALEXIHEXED ORIGINAL Alexi Hexed Sawtooth"
+},
+{
+"id": 17575,
+"sku": "10009411",
+"old": 3238.65,
+"new": 5803.65,
+"dealer": 4299.0,
+"name": "ESP EALEXIRIPPED ORIGINAL Alexi Ripped Sawtooth"
+},
+{
+"id": 17578,
+"sku": "10012098",
+"old": 4845.15,
+"new": 6924.15,
+"dealer": 5129.0,
+"name": "ESP EGLDESERTEAGLE George Lynch Desert Eagle"
+},
+{
+"id": 17599,
+"sku": "10000703",
+"old": 4251.15,
+"new": 7761.15,
+"dealer": 5749.0,
+"name": "ESP ERZKII ORIGINAL RZK-II BURNT RICHARD ZK"
+},
+{
+"id": 17611,
+"sku": "10009484",
+"old": 2800.0,
+"new": 4518.45,
+"dealer": 3347.0,
+"name": "ESP USA M-II HARDTAIL - Jaap O. Pearl White"
+},
+{
+"id": 17625,
+"sku": "10010689",
+"old": 3500.0,
+"new": 4711.5,
+"dealer": 3490.0,
+"name": "ESP USA M-II NTB NT - Aron Z. Black Cherry Sunburst"
+},
+{
+"id": 25858,
+"sku": "10005377",
+"old": 674.0,
+"new": 1057.05,
+"dealer": 783.0,
+"name": "LTD LM1CTM87DMB M-1 CUSTOM '87 DMB DARK METALLIC BLUE"
+},
+{
+"id": 25860,
+"sku": "10002983",
+"old": 660.15,
+"new": 1254.15,
+"dealer": 929.0,
+"name": "LTD LSTREAM1005FMHN STREAM-1005 FM HN"
+},
+{
+"id": 25865,
+"sku": "20009064",
+"old": 1888.65,
+"new": 3179.25,
+"dealer": 2355.0,
+"name": "E-II EIIALEXIRIPPED-B ALEXI RIPPED - B-STOCK"
+},
+{
+"id": 25866,
+"sku": "20005378",
+"old": 1065.15,
+"new": 1591.65,
+"dealer": 1179.0,
+"name": "LTD LM1007MSFMSTBLKS-B M-1007 MULTI-SCALE STBLKS SEE THRU BL"
+},
+{
+"id": 25867,
+"sku": "10005378",
+"old": 1065.15,
+"new": 1591.65,
+"dealer": 1179.0,
+"name": "LTD LM1007MSFMSTBLKS M-1007 MULTI-SCALE STBLKS SEE THRU BLAC"
+},
+{
+"id": 25868,
+"sku": "10002706",
+"old": 1186.65,
+"new": 1969.65,
+"dealer": 1459.0,
+"name": "LTD LKSM7ETMS KS M-7 EVERTUNE MS KEN SUSI SIGNATURE - Incl. "
+},
+{
+"id": 25869,
+"sku": "20002706",
+"old": 1078.65,
+"new": 1969.65,
+"dealer": 1459.0,
+"name": "LTD LKSM7ETMS-B KS M-7 EVERTUNE MS KEN SUSI SIGNATURE - Incl"
+},
+{
+"id": 25875,
+"sku": "10009990",
+"old": 2700.0,
+"new": 4436.1,
+"dealer": 3286.0,
+"name": "ESP M-Seven Maple Deep Candy Apple Red"
+},
+{
+"id": 25876,
+"sku": "10009988",
+"old": 2700.0,
+"new": 4436.1,
+"dealer": 3286.0,
+"name": "ESP M-Seven Titan Metal"
+},
+{
+"id": 25877,
+"sku": "10009989",
+"old": 2700.0,
+"new": 4436.1,
+"dealer": 3286.0,
+"name": "ESP 10009989 M-Seven Maple Black"
+},
+{
+"id": 25878,
+"sku": "10006782",
+"old": 3103.65,
+"new": 4777.65,
+"dealer": 3539.0,
+"name": "ESP SNAPPER CTM M NPPB SNAPPER CTM MAPLE NEBULA PINK PURPLE "
+},
+{
+"id": 25889,
+"sku": "10009854",
+"old": 4725.0,
+"new": 7288.65,
+"dealer": 5399.0,
+"name": "ESP ORIGINAL SNAKEBYTE CAMO JAMES HETFIELD"
+},
+{
+"id": 25893,
+"sku": "10008032",
+"old": 1267.65,
+"new": 1821.15,
+"dealer": 1349.0,
+"name": "LTD LALEXIRIPPED Alexi Ripped Sawtooth"
+},
+{
+"id": 25894,
+"sku": "10009426",
+"old": 1323.0,
+"new": 1686.15,
+"dealer": 1249.0,
+"name": "LTD LARROW1000QMCHBS ARROW-1000 CHBS CHARCOAL BURST SATIN"
+},
+{
+"id": 25895,
+"sku": "10008029",
+"old": 741.15,
+"new": 1024.65,
+"dealer": 759.0,
+"name": "LTD ARROW-NT LH BLACK METAL BLKS BLACK SATIN"
+},
+{
+"id": 25896,
+"sku": "10002677",
+"old": 1186.65,
+"new": 1718.55,
+"dealer": 1273.0,
+"name": "LTD LAS1FRFMBLKAQSB AS-1FR BLKAQSB ALEX SKOLNICK"
+},
+{
+"id": 25897,
+"sku": "10006254",
+"old": 1214.0,
+"new": 1902.15,
+"dealer": 1409.0,
+"name": "LTD LAW7BOGBLK AW-7 BARITONE ALEX WADE"
+},
+{
+"id": 25901,
+"sku": "10002682",
+"old": 1321.65,
+"new": 2118.15,
+"dealer": 1569.0,
+"name": "LTD LBW1FMETSTBLKF BW-1 EVERTUNE STBLKF BEN WEINMAN"
+},
+{
+"id": 25902,
+"sku": "10007848",
+"old": 835.65,
+"new": 1132.65,
+"dealer": 839.0,
+"name": "LTD LEC1000BPBLUNFDLH EC-1000 BLUNFD LH BLUE NATURAL FADE"
+},
+{
+"id": 25904,
+"sku": "10005727",
+"old": 795.15,
+"new": 1198.8,
+"dealer": 888.0,
+"name": "LTD LEC1000SBLKFLH EC-1000S FLUENCE BLK LH BLACK"
+},
+{
+"id": 25905,
+"sku": "10009434",
+"old": 1267.65,
+"new": 1686.15,
+"dealer": 1249.0,
+"name": "LTD LEC1000TCTMETBLK EC-1000T CTM EVERTUNE BLK BLACK"
+},
+{
+"id": 25906,
+"sku": "10012979",
+"old": 1321.65,
+"new": 1686.15,
+"dealer": 1249.0,
+"name": "LTD LEC2025MGO EC-2025 50TH ANNIVERSARY METALLIC GOLD"
+},
+{
+"id": 25907,
+"sku": "10008070",
+"old": 660.15,
+"new": 1024.65,
+"dealer": 759.0,
+"name": "LTD LECFRBKMBLKSLH EC-FR BLACK METAL LH BLKS BLACK SATIN"
+},
+{
+"id": 25908,
+"sku": "10006286",
+"old": 700.65,
+"new": 1132.65,
+"dealer": 839.0,
+"name": "LTD LECLIPSE87BLKLH ECLIPSE '87 BLK LH"
+},
+{
+"id": 25909,
+"sku": "10009817",
+"old": 1065.15,
+"new": 1591.65,
+"dealer": 1179.0,
+"name": "LTD LGB4VLANDS GB-4 VIOLET ANDROMEDA SATIN"
+},
+{
+"id": 25910,
+"sku": "10007842",
+"old": 930.15,
+"new": 1524.15,
+"dealer": 1129.0,
+"name": "LTD LGB4VW GB-4 VW VINTAGE WHITE"
+},
+{
+"id": 25912,
+"sku": "10011369",
+"old": 1591.65,
+"new": 2658.15,
+"dealer": 1969.0,
+"name": "LTD LH31000FRMS H3-1000FR METALLIC SILVER"
+},
+{
+"id": 25913,
+"sku": "10009830",
+"old": 1011.0,
+"new": 1456.65,
+"dealer": 1079.0,
+"name": "LTD H3-1000FR SW SNOW WHITE LH"
+},
+{
+"id": 25914,
+"sku": "10009833",
+"old": 930.15,
+"new": 1221.75,
+"dealer": 905.0,
+"name": "LTD LH31007BFMSTBLKSBLH H3-1007 BARITONE STBLKSB SEE THRU BL"
+},
+{
+"id": 25915,
+"sku": "10007869",
+"old": 1456.65,
+"new": 2131.65,
+"dealer": 1579.0,
+"name": "LTD LJR7QMFBSB JR-7 FBSB FADED BLUE SUNBURST"
+},
+{
+"id": 25916,
+"sku": "10007915",
+"old": 1009.8,
+"new": 1443.15,
+"dealer": 1069.0,
+"name": "LTD KH-3 SPIDER LH KIRK HAMMETT"
+},
+{
+"id": 25917,
+"sku": "10002705",
+"old": 1349.0,
+"new": 1969.65,
+"dealer": 1459.0,
+"name": "LTD KS M-6 EVERTUNE MS KEN SUSI"
+},
+{
+"id": 25918,
+"sku": "10002707",
+"old": 1213.65,
+"new": 1524.15,
+"dealer": 1129.0,
+"name": "LTD LLK600BLK LK-600 BLK LUKE KILPATRICK"
+},
+{
+"id": 25919,
+"sku": "10009831",
+"old": 1079.0,
+"new": 1456.65,
+"dealer": 1079.0,
+"name": "LTD M-1000 SW SNOW WHITE LH"
+},
+{
+"id": 25920,
+"sku": "10009832",
+"old": 1011.0,
+"new": 1456.65,
+"dealer": 1079.0,
+"name": "LTD LM1004BLK M-1004 BLACK"
+},
+{
+"id": 25921,
+"sku": "10009835",
+"old": 944.0,
+"new": 1290.6,
+"dealer": 956.0,
+"name": "LTD LM4ARMSWS M-4 ARCTIC METAL SNOW WHITE SATIN"
+},
+{
+"id": 25922,
+"sku": "10009838",
+"old": 1667.25,
+"new": 2779.65,
+"dealer": 2059.0,
+"name": "LTD LMH1000ETCARS MH-1000 EVERTUNE CARS"
+},
+{
+"id": 25923,
+"sku": "10007872",
+"old": 1079.0,
+"new": 1456.65,
+"dealer": 1079.0,
+"name": "LTD LMH1000ETFMDBSB MH-1000 EVERTUNE DBSB EVERTUNE DARK BROW"
+},
+{
+"id": 25924,
+"sku": "10007873",
+"old": 1200.15,
+"new": 1572.75,
+"dealer": 1165.0,
+"name": "LTD LMH1000ETSW MH-1000 EVERTUNE SW EVERTUNE SNOW WHITE"
+},
+{
+"id": 25927,
+"sku": "10011374",
+"old": 1335.15,
+"new": 2226.15,
+"dealer": 1649.0,
+"name": "LTD LPHOENIX1001QMTSB PHOENIX-1001 TOBACCO SUNBURST"
+},
+{
+"id": 25928,
+"sku": "10012661",
+"old": 1267.65,
+"new": 1659.15,
+"dealer": 1229.0,
+"name": "LTD SC-608 BARITONE YEL LIMITED EDITION LIMITED EDITION"
+},
+{
+"id": 25929,
+"sku": "10002720",
+"old": 1591.65,
+"new": 2080.35,
+"dealer": 1541.0,
+"name": "LTD SH-7 EVERTUNE STP BRIAN WELCH"
+},
+{
+"id": 25930,
+"sku": "10007881",
+"old": 889.65,
+"new": 1335.15,
+"dealer": 989.0,
+"name": "LTD LSN1HTBLKBLAST SN-1 HT BLKBLAST BLACK BLAST"
+},
+{
+"id": 25931,
+"sku": "10011997",
+"old": 1484.0,
+"new": 1807.65,
+"dealer": 1339.0,
+"name": "LTD SN-1000 EVERTUNE KOA NATURAL SATIN"
+},
+{
+"id": 25932,
+"sku": "10009843",
+"old": 1146.0,
+"new": 1518.75,
+"dealer": 1125.0,
+"name": "LTD SN-1000HT FIRE BLAST LH"
+},
+{
+"id": 25933,
+"sku": "10011356",
+"old": 1591.65,
+"new": 2658.15,
+"dealer": 1969.0,
+"name": "LTD LTE1000ETBPCHB TE-1000 EVERTUNE BPCHB"
+},
+{
+"id": 25935,
+"sku": "10005390",
+"old": 1011.0,
+"new": 1335.15,
+"dealer": 989.0,
+"name": "LTD LVIPER1000ETQMSTBCS VIPER-1000 EVERTUNE STBCS SEE THRU B"
+},
+{
+"id": 25939,
+"sku": "10009815",
+"old": 741.15,
+"new": 1198.8,
+"dealer": 888.0,
+"name": "LTD LAP4CARS AP-4 CANDY APPLE RED SATIN"
+},
+{
+"id": 25951,
+"sku": "10007490",
+"old": 324.39,
+"new": 333.45,
+"dealer": 247.0,
+"name": "Markbass MBC105026 MICROMARK 801"
+},
+{
+"id": 25984,
+"sku": "10010210",
+"old": 568.29,
+"new": 585.9,
+"dealer": 434.0,
+"name": "Markbass MBL100113 MB58R 102 ENERGY - 4"
+},
+{
+"id": 26056,
+"sku": "10013230",
+"old": 324.39,
+"new": 330.75,
+"dealer": 245.0,
+"name": "Markbass MBB148059 MB Blue Sky JB"
+},
+{
+"id": 26097,
+"sku": "10005374",
+"old": 930.15,
+"new": 1146.15,
+"dealer": 849.0,
+"name": "LTD H-1001 QM STBLK SEE THRU BLACK"
+},
+{
+"id": 26098,
+"sku": "10009440",
+"old": 1065.15,
+"new": 1456.65,
+"dealer": 1079.0,
+"name": "LTD LH31000FRSW H3-1000FR SW SNOW WHITELTD H3-1000FR SW SNOW"
+},
+{
+"id": 26099,
+"sku": "10002729",
+"old": 970.65,
+"new": 1270.35,
+"dealer": 941.0,
+"name": "LTD LTED600TSW TED-600T SW TED AGUILAR SIGNATURE - Incl. Cas"
+},
+{
+"id": 35910,
+"sku": "10002741",
+"old": 1051.65,
+"new": 1335.15,
+"dealer": 989.0,
+"name": "LTD EC-1000 EVERTUNE STBLK SEE THRU BLACK"
+},
+{
+"id": 35911,
+"sku": "10002745",
+"old": 849.0,
+"new": 1132.65,
+"dealer": 839.0,
+"name": "LTD EC-1000 STP SEE THRU PURPLE"
+},
+{
+"id": 35912,
+"sku": "10002754",
+"old": 930.15,
+"new": 1343.25,
+"dealer": 995.0,
+"name": "LTD EC-1000T HBS HONEY BURST SATIN"
+},
+{
+"id": 35913,
+"sku": "10009827",
+"old": 1146.0,
+"new": 1605.15,
+"dealer": 1189.0,
+"name": "LTD F-1005 SEE THRU BLACK CHERRY SUNBURST"
+},
+{
+"id": 35915,
+"sku": "10005369",
+"old": 727.65,
+"new": 1051.65,
+"dealer": 779.0,
+"name": "LTD ECLIPSE '87 NT PW PEARL WHITE"
+},
+{
+"id": 35916,
+"sku": "10005368",
+"old": 835.65,
+"new": 1132.65,
+"dealer": 839.0,
+"name": "LTD ECLIPSE '87 PW PEARL WHITE"
+},
+{
+"id": 35917,
+"sku": "10005376",
+"old": 727.65,
+"new": 1059.75,
+"dealer": 785.0,
+"name": "LTD M-1 CUSTOM '87 BLK BLACK"
+},
+{
+"id": 35918,
+"sku": "10009834",
+"old": 997.65,
+"new": 1456.65,
+"dealer": 1079.0,
+"name": "LTD M-1000 CARS"
+},
+{
+"id": 37022,
+"sku": "10005750",
+"old": 862.65,
+"new": 1198.8,
+"dealer": 888.0,
+"name": "LTD SN-1000HT PURPBLAST PURPLE BLAST"
+},
+{
+"id": 37023,
+"sku": "10009692",
+"old": 1132.65,
+"new": 1518.75,
+"dealer": 1125.0,
+"name": "LTD SN-1000 EVERTUNE CHARCOAL METALLIC SATIN"
+},
+{
+"id": 37024,
+"sku": "10002715",
+"old": 862.65,
+"new": 1146.15,
+"dealer": 849.0,
+"name": "LTD RON WOOD BLK SIGNATURE - Incl. Case"
+},
+{
+"id": 37025,
+"sku": "10007847",
+"old": 498.15,
+"new": 630.45,
+"dealer": 467.0,
+"name": "LTD PS-1 VW VINTAGE WHITE"
+},
+{
+"id": 37026,
+"sku": "10009826",
+"old": 1065.15,
+"new": 1524.15,
+"dealer": 1129.0,
+"name": "LTD F-1004 SEE-THRU BLACK CHERRY SUNBURST"
+},
+{
+"id": 37027,
+"sku": "10009448",
+"old": 943.65,
+"new": 1335.15,
+"dealer": 989.0,
+"name": "LTD MIRAGE DELUXE '87 MGO METALLIC GOLD"
+},
+{
+"id": 37028,
+"sku": "10005745",
+"old": 997.65,
+"new": 1335.15,
+"dealer": 989.0,
+"name": "LTD MIRAGE DELUXE '87 TURQ TURQUOISE"
+}
+]

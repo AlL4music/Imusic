@@ -1,0 +1,49 @@
+name: Apply Price Updates
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (no writes to DB)'
+        type: boolean
+        default: true
+
+jobs:
+  apply-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install mysql2
+
+      - name: Apply price updates
+        env:
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DRY_RUN: ${{ inputs.dry_run == true && '1' || '0' }}
+        run: node apply_price_updates.js
+
+      - name: Commit price backup
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/price_backup_*.json
+          if git diff --staged --quiet; then
+            echo "No backup file to commit."
+          else
+            git commit -m "Price backup (run ${{ github.run_id }})"
+            git pull --rebase -X ours origin main || true
+            git push origin main
+          fi

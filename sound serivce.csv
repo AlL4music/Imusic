@@ -141,8 +141,8 @@
 20006780,ESP,[B-Stock] ESP ORIGINAL SNAPPER CTM MAPLE NEBULA BLUE BURST Original Series,0,3539,,"2027-06-14 00:00:00",0
 10006786,ESP,ESP ORIGINAL SNAPPER CTM BURLED POPLAR RW PINK PURPLE BURST Original Series,0,"3699.00",,"2027-06-14 00:00:00",0
 20006786,ESP,[B-Stock] ESP ORIGINAL SNAPPER CTM BURLED POPLAR RW PINK PURPLE BURST Original Series,0,3699,,"2027-06-14 00:00:00",0
-10000694,ESP,ESP ORIGINAL GEORGE LYNCH SUNBURST TIGER Signature Series,0,"4489.00",840248001632,"2027-07-14 00:00:00",0
-20000694,ESP,[B-Stock] ESP ORIGINAL GEORGE LYNCH SUNBURST TIGER Signature Series,0,4489,840248001632,"2027-07-14 00:00:00",0
+10000694,ESP,ESP ORIGINAL GEORGE LYNCH SUNBURST TIGER Signature Series,0,"4489.00",840248001632,"2027-07-17 00:00:00",0
+20000694,ESP,[B-Stock] ESP ORIGINAL GEORGE LYNCH SUNBURST TIGER Signature Series,0,4489,840248001632,"2027-07-17 00:00:00",0
 10000701,ESP,ESP ORIGINAL ALEXI LAIHO GREENY BLACK w/ GRAPHIC Signature Series,0,"4399.00",840248026352,"2026-07-28 00:00:00",0
 20000701,ESP,[B-Stock] ESP ORIGINAL ALEXI LAIHO GREENY BLACK w/ GRAPHIC Signature Series,0,4399,840248026352,"2026-07-28 00:00:00",0
 10000705,ESP,ESP ORIGINAL JAMES HETFIELD IRON CROSS SNOW WHITE Signature Series,0,"4875.00",840248006811,"2026-07-28 00:00:00",0
@@ -1561,8 +1561,8 @@
 20009432,LTD,[B-Stock] LTD EC-1000 BARITONE CHMS CHARCOAL METALLIC SATIN EC Series Guitars,0,1019,719710614437,"2026-10-28 00:00:00",0
 10009433,LTD,LTD EC-1000 QM STPSB SEE THRU PURPLE SB EC Series Guitars,1,"1019.00",719710614468,,0
 20009433,LTD,[B-Stock] LTD EC-1000 QM STPSB SEE THRU PURPLE SB EC Series Guitars,0,1019,719710614468,,0
-10009447,LTD,LTD MH-1000 QMBLKOC BLACK OCEAN MH Series Guitars,1,"1155.00",719710614604,,0
-20009447,LTD,[B-Stock] LTD MH-1000 QMBLKOC BLACK OCEAN MH Series Guitars,0,1155,719710614604,,0
+10009447,LTD,LTD MH-1000 QMBLKOC BLACK OCEAN MH Series Guitars,0,"1155.00",719710614604,"2026-07-28 00:00:00",0
+20009447,LTD,[B-Stock] LTD MH-1000 QMBLKOC BLACK OCEAN MH Series Guitars,0,1155,719710614604,"2026-07-28 00:00:00",0
 10009457,LTD,LTD VIPER-1000 EVERTUNE CHMS CHARCOAL METALLIC SATIN Viper Series Guitars,0,"956.00",719710614710,,0
 20009457,LTD,[B-Stock] LTD VIPER-1000 EVERTUNE CHMS CHARCOAL METALLIC SATIN Viper Series Guitars,0,956,719710614710,,0
 10009534,LTD,LTD KH-V BLKSP KIRK HAMMETT SIGNATURE BLACK SPARKLE,0,"1273.00",719710616813,,1
@@ -2165,8 +2165,8 @@
 20006813,Zoom,[B-Stock] Zoom SCU-20 Universal Soft Shell Case (Small size),0,16,4515260020553,"2026-08-23 00:00:00",0
 10006816,Zoom,"Zoom SGH-6 (UK) Shotgun Mic Capsule for H5, H6, Q8, F4, F8,…",1,"69.00",4515260013692,,0
 20006816,Zoom,"[B-Stock] Zoom SGH-6 (UK) Shotgun Mic Capsule for H5, H6, Q8, F4, F8,…",0,69,4515260013692,,0
-10006847,Zoom,Zoom WSU-1 Universal Windscreen for Handy Recorders,1,"21.00",4515260012817,,0
-20006847,Zoom,[B-Stock] Zoom WSU-1 Universal Windscreen for Handy Recorders,2,18.9,4515260012817,,0
+10006847,Zoom,Zoom WSU-1 Universal Windscreen for Handy Recorders,0,"21.00",4515260012817,"2026-08-23 00:00:00",0
+20006847,Zoom,[B-Stock] Zoom WSU-1 Universal Windscreen for Handy Recorders,2,18.9,4515260012817,"2026-08-23 00:00:00",0
 10006814,Zoom,Zoom SCU-40 Universal Soft Shell Case (Large size),1,"27.00",4515260020577,,0
 20006814,Zoom,[B-Stock] Zoom SCU-40 Universal Soft Shell Case (Large size),3,24.3,4515260020577,,0
 10006832,Zoom,Zoom TXF-8 TA3 to XLR Cable for F8/F8n,1,"41.00",4515260019397,,0
@@ -2287,7 +2287,7 @@
 20010182,Zoom,[B-Stock] Zoom B6 (UK) Multi-Effects Processor for Bass,0,293,4515260027880,,0
 10008919,Zoom,Zoom iQ7 MS Stereo Microphone,1,"82.00",4515260024469,,0
 20008919,Zoom,[B-Stock] Zoom iQ7 MS Stereo Microphone,0,82,4515260024469,,0
-10008920,Zoom,Zoom XLR-6c XLR Color ID Ring,0,"8.40",4515260024407,,1
+10008920,Zoom,Zoom XLR-6c XLR Color ID Ring,1,"8.40",4515260024407,,1
 20008920,Zoom,[B-Stock] Zoom XLR-6c XLR Color ID Ring,0,8.4,4515260024407,,1
 10009324,Zoom,Zoom XLR-4C/CP XLR Mic Cables with Color ID Rings,1,"34.00",4515260025503,,1
 20009324,Zoom,[B-Stock] Zoom XLR-4C/CP XLR Mic Cables with Color ID Rings,0,34,4515260025503,,1
@@ -2865,10 +2865,10 @@
 20023152,DV Mark,[B-Stock] DV Mark DV Mark Lanyard,0,0.5,,,0
 10024052,DV Mark,DV Mark DV CAB 112/60 Pre-Power Amp Module,0,"1000.00",,,0
 20024052,DV Mark,[B-Stock] DV Mark DV CAB 112/60 Pre-Power Amp Module,0,1000,,,0
-10007490,Markbass,"Markbass Micromark 801 1 x 8"" Bass Combo",1,"247.00",8033829131282,,0
-20007490,Markbass,"[B-Stock] Markbass Micromark 801 1 x 8"" Bass Combo",0,247,8033829131282,,0
-10007534,Markbass,"Markbass Standard 104 HR - 4 Ohm 4 x 10"" Bass Cabinet",0,"587.00",8033829130544,"2026-10-20 00:00:00",0
-20007534,Markbass,"[B-Stock] Markbass Standard 104 HR - 4 Ohm 4 x 10"" Bass Cabinet",0,587,8033829130544,"2026-10-20 00:00:00",0
+10007490,Markbass,"Markbass Micromark 801 1 x 8"" Bass Combo",1,"247.00",8033829131152,,0
+20007490,Markbass,"[B-Stock] Markbass Micromark 801 1 x 8"" Bass Combo",0,247,8033829131152,,0
+10007534,Markbass,"Markbass Standard 104 HR - 4 Ohm 4 x 10"" Bass Cabinet",1,"587.00",8033829130544,,0
+20007534,Markbass,"[B-Stock] Markbass Standard 104 HR - 4 Ohm 4 x 10"" Bass Cabinet",0,587,8033829130544,,0
 10007550,Markbass,Markbass MB Octaver Raw Series Bass Pedal,1,"74.00",8033829131947,,0
 20007550,Markbass,[B-Stock] Markbass MB Octaver Raw Series Bass Pedal,0,74,8033829131947,,0
 10007552,Markbass,Markbass MB Instrument Pre Bass Accessory,1,"92.40",8033829131855,,0
@@ -2965,8 +2965,8 @@
 20007596,Markbass,[B-Stock] Markbass Markworld Footswitch Single Amp Footswitch,0,18.5,8033829131305,,0
 10007604,Markbass,Markbass Cover Mini CMD 121 P Cabinet Cover,0,"37.30",8033829132128,"2026-08-10 00:00:00",0
 20007604,Markbass,[B-Stock] Markbass Cover Mini CMD 121 P Cabinet Cover,0,37.3,8033829132128,"2026-08-10 00:00:00",0
-10007605,Markbass,Markbass Cover Traveler 102 P Cabinet Cover,0,"37.30",8033829132142,"2026-08-10 00:00:00",0
-20007605,Markbass,[B-Stock] Markbass Cover Traveler 102 P Cabinet Cover,0,37.3,8033829132142,"2026-08-10 00:00:00",0
+10007605,Markbass,Markbass Cover Traveler 102 P Cabinet Cover,1,"37.30",8033829132142,,0
+20007605,Markbass,[B-Stock] Markbass Cover Traveler 102 P Cabinet Cover,0,37.3,8033829132142,,0
 10007624,Markbass,Markbass Energy Series 045 - 105 SS,1,"14.99",8033829138809,,0
 20007624,Markbass,[B-Stock] Markbass Energy Series 045 - 105 SS,0,14.99,8033829138809,,0
 10007636,Markbass,Markbass Ultimate Series 030 - 130 NS Soft Touch,1,"23.99",8033829131480,,0
@@ -2991,8 +2991,8 @@
 20007770,Markbass,[B-Stock] Markbass Contra Series 3/4 Nylon Flat Wound,0,113.4,8033829138939,,0
 10008016,Markbass,Markbass MB Instrument Pre P Bass Accessory,1,"154.40",8059307421348,,0
 20008016,Markbass,[B-Stock] Markbass MB Instrument Pre P Bass Accessory,0,154.4,8059307421348,,0
-10007496,Markbass,"Markbass CMD JB Players School 1 x 15"" Bass Combo 1 x 15"" Bass Combo",0,"434.00",8033829131169,"2026-08-10 00:00:00",0
-20007496,Markbass,"[B-Stock] Markbass CMD JB Players School 1 x 15"" Bass Combo 1 x 15"" Bass Combo",0,434,8033829131169,"2026-08-10 00:00:00",0
+10007496,Markbass,"Markbass CMD JB Players School 1 x 15"" Bass Combo 1 x 15"" Bass Combo",1,"434.00",8033829131169,,0
+20007496,Markbass,"[B-Stock] Markbass CMD JB Players School 1 x 15"" Bass Combo 1 x 15"" Bass Combo",0,434,8033829131169,,0
 10007508,Markbass,Markbass Little Mark Tube 800 800w Tube Bass Amplifier,1,"495.00",8033829130186,,0
 20007508,Markbass,[B-Stock] Markbass Little Mark Tube 800 800w Tube Bass Amplifier,0,495,8033829130186,,0
 10007529,Markbass,"Markbass Standard 102 HF - 8 Ohm 2 x 10"" Bass Cabinet",0,"419.40",8033829130551,"2026-10-17 00:00:00",0
@@ -4437,14 +4437,14 @@
 20003850,Dixon,[B-Stock] Dixon PPB-F1-HP Bass Drum Beater Force Pad Dual Surfaces,0,9,4718981410102,"2026-09-09 00:00:00",0
 10003855,Dixon,Dixon PPB-9290CP-HP Cajon Beater Soft Blue,0,"6.35",4718981455936,"2026-11-16 00:00:00",0
 20003855,Dixon,[B-Stock] Dixon PPB-9290CP-HP Cajon Beater Soft Blue,0,6.35,4718981455936,"2026-11-16 00:00:00",0
-10003864,Dixon,Dixon PA-HCM-SP Hoop Cymbal Mount,0,"17.50",4718981403623,"2026-08-05 00:00:00",0
-20003864,Dixon,[B-Stock] Dixon PA-HCM-SP Hoop Cymbal Mount,0,17.5,4718981403623,"2026-08-05 00:00:00",0
+10003864,Dixon,Dixon PA-HCM-SP Hoop Cymbal Mount,0,"17.50",4718981403623,"2026-08-13 00:00:00",0
+20003864,Dixon,[B-Stock] Dixon PA-HCM-SP Hoop Cymbal Mount,0,17.5,4718981403623,"2026-08-13 00:00:00",0
 10003870,Dixon,Dixon G-SDH-HP Soft Drink Holder,0,"9.51",4718981403340,,0
 20003870,Dixon,[B-Stock] Dixon G-SDH-HP Soft Drink Holder,0,9.51,4718981403340,,0
 10003871,Dixon,Dixon PRCBH268R-SP Bass Drum Hoop Cowbell Holder,0,"7.48",4718981402510,"2026-09-09 00:00:00",0
 20003871,Dixon,[B-Stock] Dixon PRCBH268R-SP Bass Drum Hoop Cowbell Holder,0,7.48,4718981402510,"2026-09-09 00:00:00",0
-10003879,Dixon,Dixon PDTH764TB Clip Type Tom Bracket,0,"8.38",4718981412519,"2026-08-11 00:00:00",0
-20003879,Dixon,[B-Stock] Dixon PDTH764TB Clip Type Tom Bracket,0,8.38,4718981412519,"2026-08-11 00:00:00",0
+10003879,Dixon,Dixon PDTH764TB Clip Type Tom Bracket,0,"8.38",4718981412519,"2026-08-13 00:00:00",0
+20003879,Dixon,[B-Stock] Dixon PDTH764TB Clip Type Tom Bracket,0,8.38,4718981412519,"2026-08-13 00:00:00",0
 10003899,Dixon,"Dixon PKT108-4-HP 8"" Regular Hoop Chrome 4 Ears, 1,6mm Batter Side",1,"7.65",4718981425960,,0
 20003899,Dixon,"[B-Stock] Dixon PKT108-4-HP 8"" Regular Hoop Chrome 4 Ears, 1,6mm Batter Side",0,7.65,4718981425960,,0
 10003901,Dixon,"Dixon PKT108-6-HP 8"" Regular Hoop Chrome 6 Ears, 1.6mm Batter Side",1,"7.65",4718981436478,,0
@@ -4483,14 +4483,14 @@
 20004038,Dixon,[B-Stock] Dixon PDSM-61 Snare Throw-off,0,14.9,4718981428930,"2026-09-09 00:00:00",0
 10004043,Dixon,"Dixon PDSW216A Snappy Snare For 12"" Drums , 16 Strands",1,"5.40",4718981415305,,0
 20004043,Dixon,"[B-Stock] Dixon PDSW216A Snappy Snare For 12"" Drums , 16 Strands",0,5.4,4718981415305,,0
-10004078,Dixon,Dixon PDSB-35 Snare Butt End,0,"1.70",4718981427643,"2026-11-16 00:00:00",0
-20004078,Dixon,[B-Stock] Dixon PDSB-35 Snare Butt End,0,1.7,4718981427643,"2026-11-16 00:00:00",0
+10004078,Dixon,Dixon PDSB-35 Snare Butt End,0,"1.70",4718981427643,"2026-11-19 00:00:00",0
+20004078,Dixon,[B-Stock] Dixon PDSB-35 Snare Butt End,0,1.7,4718981427643,"2026-11-19 00:00:00",0
 10005475,Dixon,"Dixon PDTH788TB Tom Bracket 9,5mm / 52mm hole distance",1,"7.26",4718981425632,,0
 20005475,Dixon,"[B-Stock] Dixon PDTH788TB Tom Bracket 9,5mm / 52mm hole distance",0,7.26,4718981425632,,0
 10005586,Dixon,Dixon PODCSTM422-01-PB Cornerstone Maple Shellset 4pc Piano Black Gloss,0,"828.00",4718981476047,"2026-11-16 00:00:00",0
 20005586,Dixon,[B-Stock] Dixon PODCSTM422-01-PB Cornerstone Maple Shellset 4pc Piano Black Gloss,0,828,4718981476047,"2026-11-16 00:00:00",0
-10005614,Dixon,Dixon PA-AM4-BP Accessory Mount (4),0,"24.00",4718981419167,"2026-08-05 00:00:00",0
-20005614,Dixon,[B-Stock] Dixon PA-AM4-BP Accessory Mount (4),0,24,4718981419167,"2026-08-05 00:00:00",0
+10005614,Dixon,Dixon PA-AM4-BP Accessory Mount (4),0,"24.00",4718981419167,"2026-08-13 00:00:00",0
+20005614,Dixon,[B-Stock] Dixon PA-AM4-BP Accessory Mount (4),0,24,4718981419167,"2026-08-13 00:00:00",0
 10005936,Dixon,Dixon GTC112 Endkappe für Rack-Rohre,1,"8.94",4718981428961,,0
 20005936,Dixon,[B-Stock] Dixon GTC112 Endkappe für Rack-Rohre,0,8.94,4718981428961,,0
 10006120,Dixon,Dixon PDSM-23 Snare Throw-off,1,"12.50",4718981495826,,0
@@ -4499,8 +4499,8 @@
 20006159,Dixon,[B-Stock] Dixon PDTL-1R Spannböckchen f. March BD,0,2.53,4718981437086,,1
 10006314,Dixon,Dixon PA-SSW-HP Black Nylon Washer 10pc/pack,1,"2.80",4718981439349,,0
 20006314,Dixon,[B-Stock] Dixon PA-SSW-HP Black Nylon Washer 10pc/pack,0,2.8,4718981439349,,0
-10006547,Dixon,Dixon PODL520BKC Little Roomer Shellset 5pc Satin Black Coal Lacquer,0,"405.00",4718981478812,"2026-08-11 00:00:00",0
-20006547,Dixon,[B-Stock] Dixon PODL520BKC Little Roomer Shellset 5pc Satin Black Coal Lacquer,0,405,4718981478812,"2026-08-11 00:00:00",0
+10006547,Dixon,Dixon PODL520BKC Little Roomer Shellset 5pc Satin Black Coal Lacquer,0,"405.00",4718981478812,"2026-08-13 00:00:00",0
+20006547,Dixon,[B-Stock] Dixon PODL520BKC Little Roomer Shellset 5pc Satin Black Coal Lacquer,0,405,4718981478812,"2026-08-13 00:00:00",0
 10006554,Dixon,Dixon PODCSTH422-01-NM Cornerstone Hybrid Shellset 4pc Satin Neo-Mint,0,"785.00",4718981484523,"2026-11-30 00:00:00",0
 20006554,Dixon,[B-Stock] Dixon PODCSTH422-01-NM Cornerstone Hybrid Shellset 4pc Satin Neo-Mint,0,785,4718981484523,"2026-11-30 00:00:00",0
 10006566,Dixon,Dixon PDSAN654BNG Artisan 14x6.5 Snare Red Silkwood / Zebrawood Shell,1,"349.00",4718981480181,,0
@@ -4513,8 +4513,8 @@
 20006579,Dixon,[B-Stock] Dixon PSN-8 Round Throne,0,57.5,4718981480709,,0
 10006585,Dixon,Dixon PSN-13RW Motorcycle Throne,1,"115.40",4718981480631,,0
 20006585,Dixon,[B-Stock] Dixon PSN-13RW Motorcycle Throne,0,115.4,4718981480631,,0
-10006591,Dixon,Dixon PSN-11ST Round Throne,0,"101.00",4718981480679,"2026-08-05 00:00:00",0
-20006591,Dixon,[B-Stock] Dixon PSN-11ST Round Throne,0,101,4718981480679,"2026-08-05 00:00:00",0
+10006591,Dixon,Dixon PSN-11ST Round Throne,0,"101.00",4718981480679,"2026-08-13 00:00:00",0
+20006591,Dixon,[B-Stock] Dixon PSN-11ST Round Throne,0,101,4718981480679,"2026-08-13 00:00:00",0
 10006621,Dixon,Dixon PSR500 Percussion Table,1,"187.00",4718981406013,,0
 20006621,Dixon,[B-Stock] Dixon PSR500 Percussion Table,0,187,4718981406013,,0
 10006624,Dixon,Dixon PSY9804C Concert Cymbal Stand,1,"60.00",4718981405481,,0
@@ -4561,8 +4561,8 @@
 20007324,Dixon,[B-Stock] Dixon PAWS-9A/4-HP Hi-Hat Cup Felt 4pc/pack,0,2.2,4718981484554,,0
 10003778,Dixon,Dixon PSY-K900I-KS Premium Cymbal Boom Stand,0,"90.90",4718981450641,,0
 20003778,Dixon,[B-Stock] Dixon PSY-K900I-KS Premium Cymbal Boom Stand,0,90.9,4718981450641,,0
-10003824,Dixon,Dixon PYH-MX-SP Short Boom Cymbal Holder,0,"22.80",4718981441236,"2026-08-05 00:00:00",0
-20003824,Dixon,[B-Stock] Dixon PYH-MX-SP Short Boom Cymbal Holder,0,22.8,4718981441236,"2026-08-05 00:00:00",0
+10003824,Dixon,Dixon PYH-MX-SP Short Boom Cymbal Holder,0,"22.80",4718981441236,"2026-08-13 00:00:00",0
+20003824,Dixon,[B-Stock] Dixon PYH-MX-SP Short Boom Cymbal Holder,0,22.8,4718981441236,"2026-08-13 00:00:00",0
 10003829,Dixon,Dixon PSYV-19C-HP Cymbal Sleeve 8mm short 4pc/pack with seat,1,"2.25",4718981428473,,0
 20003829,Dixon,[B-Stock] Dixon PSYV-19C-HP Cymbal Sleeve 8mm short 4pc/pack with seat,0,2.25,4718981428473,,0
 10003830,Dixon,Dixon PSYV-19D-HP Cymbal Sleeve 8mm long 4pc/pack with seat,0,"2.45",4718981435310,"2026-12-10 00:00:00",0
@@ -4573,8 +4573,8 @@
 20003836,Dixon,[B-Stock] Dixon PAWN-CT8-HP Plastic Cym. Topper 8mm 4Pcs,0,1.99,4718981452102,,0
 10003852,Dixon,Dixon PPB-2-HP Bass Drum Beater Felt,1,"4.54",4718981412755,,0
 20003852,Dixon,[B-Stock] Dixon PPB-2-HP Bass Drum Beater Felt,0,4.54,4718981412755,,0
-10003854,Dixon,Dixon PPB-6-HP Bass Drum Beater Felt,0,"8.10",4718981412342,"2026-08-05 00:00:00",0
-20003854,Dixon,[B-Stock] Dixon PPB-6-HP Bass Drum Beater Felt,0,8.1,4718981412342,"2026-08-05 00:00:00",0
+10003854,Dixon,Dixon PPB-6-HP Bass Drum Beater Felt,0,"8.10",4718981412342,"2026-08-13 00:00:00",0
+20003854,Dixon,[B-Stock] Dixon PPB-6-HP Bass Drum Beater Felt,0,8.1,4718981412342,"2026-08-13 00:00:00",0
 10003863,Dixon,Dixon PA-CCM-HP Percussion Mount,1,"15.30",4718981406150,,0
 20003863,Dixon,[B-Stock] Dixon PA-CCM-HP Percussion Mount,0,15.3,4718981406150,,0
 10003866,Dixon,Dixon PA-HMM-SP Hoop Microphone Mount,1,"14.50",4718981402473,,0
@@ -4627,8 +4627,8 @@
 20004006,Dixon,[B-Stock] Dixon PDSAN654GBS Artisan 14x6.5 Snare Gregg Bissonette Signature / 1mm Steel Shell,0,175,4718981475583,,0
 10004008,Dixon,"Dixon PDSCL354SWM Classic 14x3.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",1,"108.00",4718981475323,,0
 20004008,Dixon,"[B-Stock] Dixon PDSCL354SWM Classic 14x3.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",0,108,4718981475323,,0
-10004020,Dixon,Dixon PAKL274-SP Multi Clamp,0,"16.80",4718981425427,"2026-08-05 00:00:00",0
-20004020,Dixon,[B-Stock] Dixon PAKL274-SP Multi Clamp,0,16.8,4718981425427,"2026-08-05 00:00:00",0
+10004020,Dixon,Dixon PAKL274-SP Multi Clamp,0,"16.80",4718981425427,"2026-08-13 00:00:00",0
+20004020,Dixon,[B-Stock] Dixon PAKL274-SP Multi Clamp,0,16.8,4718981425427,"2026-08-13 00:00:00",0
 10004021,Dixon,Dixon PDCP0606DX 6X6 Concert Tom Black with Clip type bracket,1,"50.00",4718981428770,,0
 20004021,Dixon,[B-Stock] Dixon PDCP0606DX 6X6 Concert Tom Black with Clip type bracket,0,50,4718981428770,,0
 10004022,Dixon,Dixon PDCP0808DX 8X8 Concert Tom Black with Clip type bracket,0,"56.00",4718981428787,"2026-12-10 00:00:00",0
@@ -4665,8 +4665,8 @@
 20003924,Dixon,[B-Stock] Dixon PCB-DKS Hardware Carrying Bag Black,0,22,4718981424987,,0
 10003929,Dixon,Dixon PSO-70 Wing Rack With T Leg,1,"88.00",4718981402466,,0
 20003929,Dixon,[B-Stock] Dixon PSO-70 Wing Rack With T Leg,0,88,4718981402466,,0
-10003947,Dixon,Dixon PAKL1845-SP Aluminium Holder Clamp,0,"14.00",4718981406426,"2026-08-05 00:00:00",0
-20003947,Dixon,[B-Stock] Dixon PAKL1845-SP Aluminium Holder Clamp,0,14,4718981406426,"2026-08-05 00:00:00",0
+10003947,Dixon,Dixon PAKL1845-SP Aluminium Holder Clamp,0,"14.00",4718981406426,"2026-08-13 00:00:00",0
+20003947,Dixon,[B-Stock] Dixon PAKL1845-SP Aluminium Holder Clamp,0,14,4718981406426,"2026-08-13 00:00:00",0
 10004035,Dixon,Dixon PA-AM-SP Accessory Mount (1),0,"12.70",4718981403005,"2026-09-09 00:00:00",0
 20004035,Dixon,[B-Stock] Dixon PA-AM-SP Accessory Mount (1),0,12.7,4718981403005,"2026-09-09 00:00:00",0
 10004055,Dixon,Dixon PATS-4V/4-HP Tension Rod w. Washer 106mm 4pcs.,0,"3.65",4718981449324,"2026-12-10 00:00:00",0
@@ -4683,8 +4683,8 @@
 20003962,Dixon,"[B-Stock] Dixon PSOB-TLA Flex Rack T Leg 24""",0,20.4,4718981422648,,0
 10004001,Dixon,Dixon PDSAN613CBRG Artisan 13x6 Snare Chris Brady 9-ply Australian Rose Gum Gloss Reverse Burst,1,"339.00",4718981475088,,0
 20004001,Dixon,[B-Stock] Dixon PDSAN613CBRG Artisan 13x6 Snare Chris Brady 9-ply Australian Rose Gum Gloss Reverse Burst,0,339,4718981475088,,0
-10004007,Dixon,"Dixon PDSCL654SWM Classic 14x6.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",0,"135.00",4718981475125,"2026-08-11 00:00:00",0
-20004007,Dixon,"[B-Stock] Dixon PDSCL654SWM Classic 14x6.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",0,135,4718981475125,"2026-08-11 00:00:00",0
+10004007,Dixon,"Dixon PDSCL654SWM Classic 14x6.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",0,"135.00",4718981475125,"2026-08-13 00:00:00",0
+20004007,Dixon,"[B-Stock] Dixon PDSCL654SWM Classic 14x6.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",0,135,4718981475125,"2026-08-13 00:00:00",0
 10004011,Dixon,"Dixon PDSCL510MA Classic 10x5 Snare Marble Apex, Maple Formula Shell",1,"95.90",4718981475330,,0
 20004011,Dixon,"[B-Stock] Dixon PDSCL510MA Classic 10x5 Snare Marble Apex, Maple Formula Shell",0,95.9,4718981475330,,0
 10004013,Dixon,"Dixon PDSCL512ST Classic 12x5 Snare Steel, 1mm Thickness Steel Shell",1,"87.00",4718981475354,,0
@@ -4739,10 +4739,10 @@
 20003828,Dixon,[B-Stock] Dixon PSY-CSA-SP Stackable Cymbal Holder,0,21,4718981404101,,0
 10003837,Dixon,Dixon PAWS-CFL-HP Cymbal Felt Large 4pc/pack,1,"3.55",4718981412052,,0
 20003837,Dixon,[B-Stock] Dixon PAWS-CFL-HP Cymbal Felt Large 4pc/pack,0,3.55,4718981412052,,0
-10003856,Dixon,Dixon PAKL174-SP Universal Clamp,0,"21.35",4718981406235,"2026-08-05 00:00:00",0
-20003856,Dixon,[B-Stock] Dixon PAKL174-SP Universal Clamp,0,21.35,4718981406235,"2026-08-05 00:00:00",0
-10003867,Dixon,Dixon PA-HPM-SP Hoop Percussion Mount,0,"16.50",4718981404064,"2026-08-05 00:00:00",0
-20003867,Dixon,[B-Stock] Dixon PA-HPM-SP Hoop Percussion Mount,0,16.5,4718981404064,"2026-08-05 00:00:00",0
+10003856,Dixon,Dixon PAKL174-SP Universal Clamp,0,"21.35",4718981406235,"2026-08-13 00:00:00",0
+20003856,Dixon,[B-Stock] Dixon PAKL174-SP Universal Clamp,0,21.35,4718981406235,"2026-08-13 00:00:00",0
+10003867,Dixon,Dixon PA-HPM-SP Hoop Percussion Mount,0,"16.50",4718981404064,"2026-08-13 00:00:00",0
+20003867,Dixon,[B-Stock] Dixon PA-HPM-SP Hoop Percussion Mount,0,16.5,4718981404064,"2026-08-13 00:00:00",0
 10003869,Dixon,Dixon PX-AH1-HP Drumstick/Beater Holder,0,"9.50",4718981488422,"2026-12-10 00:00:00",0
 20003869,Dixon,[B-Stock] Dixon PX-AH1-HP Drumstick/Beater Holder,0,9.5,4718981488422,"2026-12-10 00:00:00",0
 10003873,Dixon,"Dixon PAEA100-SP Extension Arm 1"" Tube",0,"21.45",4718981406198,"2026-11-16 00:00:00",0
@@ -4857,10 +4857,10 @@
 20006658,Dixon,[B-Stock] Dixon PKS014SB-HP 14'' Maple Hoop Satin Brown Snare Side,0,31.1,4718981479499,,0
 10006666,Dixon,Dixon PDSB-57-SP Snare Butt End,1,"11.35",4718981483526,,0
 20006666,Dixon,[B-Stock] Dixon PDSB-57-SP Snare Butt End,0,11.35,4718981483526,,0
-10006680,Dixon,Dixon PPB-DX-HP Bass Drum Beater Dual Surface Blue,0,"7.20",4718981484547,"2026-08-05 00:00:00",0
-20006680,Dixon,[B-Stock] Dixon PPB-DX-HP Bass Drum Beater Dual Surface Blue,0,7.2,4718981484547,"2026-08-05 00:00:00",0
-10006695,Dixon,"Dixon PHT108MSBK-DIX1 8"" Mesh Drumhead Black single layer",0,"3.80",4718981485230,"2026-08-11 00:00:00",0
-20006695,Dixon,"[B-Stock] Dixon PHT108MSBK-DIX1 8"" Mesh Drumhead Black single layer",0,3.8,4718981485230,"2026-08-11 00:00:00",0
+10006680,Dixon,Dixon PPB-DX-HP Bass Drum Beater Dual Surface Blue,0,"7.20",4718981484547,"2026-08-13 00:00:00",0
+20006680,Dixon,[B-Stock] Dixon PPB-DX-HP Bass Drum Beater Dual Surface Blue,0,7.2,4718981484547,"2026-08-13 00:00:00",0
+10006695,Dixon,"Dixon PHT108MSBK-DIX1 8"" Mesh Drumhead Black single layer",0,"3.80",4718981485230,"2026-08-13 00:00:00",0
+20006695,Dixon,"[B-Stock] Dixon PHT108MSBK-DIX1 8"" Mesh Drumhead Black single layer",0,3.8,4718981485230,"2026-08-13 00:00:00",0
 10006697,Dixon,Dixon PST-K953T-KS K Series Tom/Cymbal Stand with 12.7 mm Rod,0,"120.00",4718981450696,"2026-11-16 00:00:00",0
 20006697,Dixon,[B-Stock] Dixon PST-K953T-KS K Series Tom/Cymbal Stand with 12.7 mm Rod,0,120,4718981450696,"2026-11-16 00:00:00",0
 10006706,Dixon,"Dixon PKZC22MA-BX 22"" Bass Drum Hoop Maple Natural",1,"41.60",4718981438267,,0
@@ -4875,8 +4875,8 @@
 20006721,Dixon,"[B-Stock] Dixon PKS314-8-HP 14"" Power Hoop Chrome 8 Ears, 2,3mm Snare Side",0,9.2,4718981426035,,0
 10006732,Dixon,Dixon PAWS-9B/4-HP Cymbal Felt 4pc/pack,1,"2.25",4718981449386,,0
 20006732,Dixon,[B-Stock] Dixon PAWS-9B/4-HP Cymbal Felt 4pc/pack,0,2.25,4718981449386,,0
-10006745,Dixon,Dixon PAKL171-HP Hi-Hat Attachment Clamp Set,0,"15.40",4718981439363,"2026-08-05 00:00:00",0
-20006745,Dixon,[B-Stock] Dixon PAKL171-HP Hi-Hat Attachment Clamp Set,0,15.4,4718981439363,"2026-08-05 00:00:00",0
+10006745,Dixon,Dixon PAKL171-HP Hi-Hat Attachment Clamp Set,0,"15.40",4718981439363,"2026-08-13 00:00:00",0
+20006745,Dixon,[B-Stock] Dixon PAKL171-HP Hi-Hat Attachment Clamp Set,0,15.4,4718981439363,"2026-08-13 00:00:00",0
 10005955,Dixon,Dixon PAKL-LB-HP Leg Brace for Flexrack Beinstrebe,1,"8.15",4718981410935,,0
 20005955,Dixon,[B-Stock] Dixon PAKL-LB-HP Leg Brace for Flexrack Beinstrebe,0,8.15,4718981410935,,0
 10006093,Dixon,Dixon PDSB-52 Snare Butt End,0,"3.09",4718981407430,"2026-12-10 00:00:00",0
@@ -4887,8 +4887,8 @@
 20006231,Dixon,[B-Stock] Dixon PSY-CW K-Series Weight Boom Arm,0,17.34,,,0
 10006560,Dixon,Dixon PDSCST654DTW Cornerstone 14x6.5 Snare N. American Maple/Poplar Shell/Satin Dark Teal,1,"227.50",4718981484530,,0
 20006560,Dixon,[B-Stock] Dixon PDSCST654DTW Cornerstone 14x6.5 Snare N. American Maple/Poplar Shell/Satin Dark Teal,0,227.5,4718981484530,,0
-10006565,Dixon,Dixon PDSAN654EAB Artisan 14x6.5 Snare Enchanted Ash / 5mm Thickness Ash Shell,0,"374.00",4718981478966,"2026-08-05 00:00:00",0
-20006565,Dixon,[B-Stock] Dixon PDSAN654EAB Artisan 14x6.5 Snare Enchanted Ash / 5mm Thickness Ash Shell,0,374,4718981478966,"2026-08-05 00:00:00",0
+10006565,Dixon,Dixon PDSAN654EAB Artisan 14x6.5 Snare Enchanted Ash / 5mm Thickness Ash Shell,0,"374.00",4718981478966,"2026-08-13 00:00:00",0
+20006565,Dixon,[B-Stock] Dixon PDSAN654EAB Artisan 14x6.5 Snare Enchanted Ash / 5mm Thickness Ash Shell,0,374,4718981478966,"2026-08-13 00:00:00",0
 10006570,Dixon,Dixon PSY-P2I Cymbal Boom Stand Medium,1,"50.50",4718981480730,,0
 20006570,Dixon,[B-Stock] Dixon PSY-P2I Cymbal Boom Stand Medium,0,50.5,4718981480730,,0
 10006576,Dixon,Dixon PSS-P1 Standard Snare Stand,1,"39.50",4718981481331,,0
@@ -4909,8 +4909,8 @@
 20006605,Dixon,[B-Stock] Dixon PP-P2D Double Pedal Double Chain Drive,0,140,4718981480556,,1
 10006635,Dixon,Dixon PAKL180-SP Multi Clamp,1,"17.30",4718981406242,,0
 20006635,Dixon,[B-Stock] Dixon PAKL180-SP Multi Clamp,0,17.3,4718981406242,,0
-10006636,Dixon,Dixon PAKL179LR-HP Multi Clamp,0,"12.20",4718981449232,"2026-08-05 00:00:00",0
-20006636,Dixon,[B-Stock] Dixon PAKL179LR-HP Multi Clamp,0,12.2,4718981449232,"2026-08-05 00:00:00",0
+10006636,Dixon,Dixon PAKL179LR-HP Multi Clamp,0,"12.20",4718981449232,"2026-08-13 00:00:00",0
+20006636,Dixon,[B-Stock] Dixon PAKL179LR-HP Multi Clamp,0,12.2,4718981449232,"2026-08-13 00:00:00",0
 10006637,Dixon,"Dixon PKT14TCR1-BX 14"" TMS Tom Suspension 4 Ear for 8-lug hoops - 10,5mm Rod",0,"30.30",4718981477228,,1
 20006637,Dixon,"[B-Stock] Dixon PKT14TCR1-BX 14"" TMS Tom Suspension 4 Ear for 8-lug hoops - 10,5mm Rod",0,30.3,4718981477228,,1
 10006649,Dixon,"Dixon PAKL-PH1-TMS-BX Smart Phone Holder 6""",1,"12.64",4718981477297,,0
@@ -4947,8 +4947,8 @@
 20006734,Dixon,[B-Stock] Dixon PAWN-IVEZ-HP EZ Cymbal Topper Quick release cymbal topper,0,2.95,4718981446804,,0
 10006740,Dixon,Dixon PRCBH270-SP Bass Drum Hoop Cowbell Holder,1,"15.85",4718981418740,,0
 20006740,Dixon,[B-Stock] Dixon PRCBH270-SP Bass Drum Hoop Cowbell Holder,0,15.85,4718981418740,,0
-10007299,Dixon,"Dixon PDSCST654BTS Cornerstone 14''x6,5'' Snare 1mm Hammered Steel Shell / Blue Titanium Plated",0,"249.00",4718981482628,"2026-08-05 00:00:00",0
-20007299,Dixon,"[B-Stock] Dixon PDSCST654BTS Cornerstone 14''x6,5'' Snare 1mm Hammered Steel Shell / Blue Titanium Plated",0,249,4718981482628,"2026-08-05 00:00:00",0
+10007299,Dixon,"Dixon PDSCST654BTS Cornerstone 14''x6,5'' Snare 1mm Hammered Steel Shell / Blue Titanium Plated",0,"249.00",4718981482628,"2026-08-13 00:00:00",0
+20007299,Dixon,"[B-Stock] Dixon PDSCST654BTS Cornerstone 14''x6,5'' Snare 1mm Hammered Steel Shell / Blue Titanium Plated",0,249,4718981482628,"2026-08-13 00:00:00",0
 10007300,Dixon,Dixon PODCSTH422-01-SCG Cornerstone Hybrid Shellset 4pc Satin Cement Grey,1,"785.00",4718981486169,,0
 20007300,Dixon,[B-Stock] Dixon PODCSTH422-01-SCG Cornerstone Hybrid Shellset 4pc Satin Cement Grey,0,785,4718981486169,,0
 10007301,Dixon,Dixon PODCSTM422-01-SCG Cornerstone Maple Shellset 4pc Satin Cement Grey,1,"828.00",4718981485742,,0
@@ -4965,8 +4965,8 @@
 20006590,Dixon,[B-Stock] Dixon PSN-12 Motorcycle Throne,0,116.6,4718981480655,,0
 10006598,Dixon,Dixon PP-PK K Series Single Pedal Double Chain Drive,0,"89.90",4718981480501,,0
 20006598,Dixon,[B-Stock] Dixon PP-PK K Series Single Pedal Double Chain Drive,0,89.9,4718981480501,,0
-10006601,Dixon,Dixon PP-PCPD1D Precision Coil Double Pedal Direct Drive with Bag,0,"308.00",4718981481935,"2026-08-05 00:00:00",0
-20006601,Dixon,[B-Stock] Dixon PP-PCPD1D Precision Coil Double Pedal Direct Drive with Bag,0,308,4718981481935,"2026-08-05 00:00:00",0
+10006601,Dixon,Dixon PP-PCPD1D Precision Coil Double Pedal Direct Drive with Bag,0,"308.00",4718981481935,"2026-08-13 00:00:00",0
+20006601,Dixon,[B-Stock] Dixon PP-PCPD1D Precision Coil Double Pedal Direct Drive with Bag,0,308,4718981481935,"2026-08-13 00:00:00",0
 10006608,Dixon,Dixon PP-P1 Single Pedal Single Chain Drive,0,"47.00",4718981480525,,0
 20006608,Dixon,[B-Stock] Dixon PP-P1 Single Pedal Single Chain Drive,0,47,4718981480525,,0
 10006613,Dixon,"Dixon PDP481-HP Practice Pad 6""",1,"14.50",4718981494133,,0
@@ -4987,16 +4987,16 @@
 20006663,Dixon,"[B-Stock] Dixon PDSW220A Snappy Snare For 12"" Drums, 20 Strands",0,5.4,4718981405092,,0
 10006665,Dixon,Dixon PDSM-DX-SP Flip-Drop Snare Throw-off,1,"24.40",4718981483519,,0
 20006665,Dixon,[B-Stock] Dixon PDSM-DX-SP Flip-Drop Snare Throw-off,0,24.4,4718981483519,,0
-10006669,Dixon,Dixon PAMF1623-SP Muffler Square,0,"8.00",4718981402657,"2026-08-05 00:00:00",0
-20006669,Dixon,[B-Stock] Dixon PAMF1623-SP Muffler Square,0,8,4718981402657,"2026-08-05 00:00:00",0
+10006669,Dixon,Dixon PAMF1623-SP Muffler Square,0,"8.00",4718981402657,"2026-08-13 00:00:00",0
+20006669,Dixon,[B-Stock] Dixon PAMF1623-SP Muffler Square,0,8,4718981402657,"2026-08-13 00:00:00",0
 10006677,Dixon,Dixon PPSJ-K1-SP Double Pedal Linkage,0,"38.50",4718981483502,"2026-09-30 00:00:00",0
 20006677,Dixon,[B-Stock] Dixon PPSJ-K1-SP Double Pedal Linkage,0,38.5,4718981483502,"2026-09-30 00:00:00",0
 10006678,Dixon,Dixon PPSJ-91-SP Double Pedal Linkage,1,"36.50",4718981403159,,0
 20006678,Dixon,[B-Stock] Dixon PPSJ-91-SP Double Pedal Linkage,0,36.5,4718981403159,,0
 10006691,Dixon,"Dixon PHT114MSBK-DIX1 14"" Mesh Drumhead Black single layer",1,"5.50",4718981484264,,0
 20006691,Dixon,"[B-Stock] Dixon PHT114MSBK-DIX1 14"" Mesh Drumhead Black single layer",0,5.5,4718981484264,,0
-10006692,Dixon,"Dixon PHT113MSBK-DIX1 13"" Mesh Drumhead Black single layer",0,"5.25",4718981485247,"2026-08-11 00:00:00",0
-20006692,Dixon,"[B-Stock] Dixon PHT113MSBK-DIX1 13"" Mesh Drumhead Black single layer",0,5.25,4718981485247,"2026-08-11 00:00:00",0
+10006692,Dixon,"Dixon PHT113MSBK-DIX1 13"" Mesh Drumhead Black single layer",0,"5.25",4718981485247,"2026-08-13 00:00:00",0
+20006692,Dixon,"[B-Stock] Dixon PHT113MSBK-DIX1 13"" Mesh Drumhead Black single layer",0,5.25,4718981485247,"2026-08-13 00:00:00",0
 10006701,Dixon,Dixon PAWN-DIX01-6/2-HP Wing Nut M6 2pc/pack,0,"2.35",4718981456704,"2026-11-16 00:00:00",0
 20006701,Dixon,[B-Stock] Dixon PAWN-DIX01-6/2-HP Wing Nut M6 2pc/pack,0,2.35,4718981456704,"2026-11-16 00:00:00",0
 10006703,Dixon,Dixon PAK-T1-HP Drum Tech Kit,1,"7.30",4718981449263,,0
@@ -5033,8 +5033,8 @@
 20007345,Dixon,[B-Stock] Dixon PCB-L520BAG Little Roomer Bag Set,0,105,4718981485940,,0
 10003791,Dixon,Dixon PSH-K900-KS Premium Hi-Hat Stand,0,"130.50",4718981450658,,0
 20003791,Dixon,[B-Stock] Dixon PSH-K900-KS Premium Hi-Hat Stand,0,130.5,4718981450658,,0
-10003827,Dixon,"Dixon PYH-MCSA6-HP Cymbal Stacker 6""",0,"5.40",4718981440512,"2026-08-05 00:00:00",0
-20003827,Dixon,"[B-Stock] Dixon PYH-MCSA6-HP Cymbal Stacker 6""",0,5.4,4718981440512,"2026-08-05 00:00:00",0
+10003827,Dixon,"Dixon PYH-MCSA6-HP Cymbal Stacker 6""",0,"5.40",4718981440512,"2026-08-13 00:00:00",0
+20003827,Dixon,"[B-Stock] Dixon PYH-MCSA6-HP Cymbal Stacker 6""",0,5.4,4718981440512,"2026-08-13 00:00:00",0
 10003831,Dixon,Dixon PSYV-T1-HP Cymbal Sleeve 8mm 4pc/pack Black,1,"1.25",4718981449454,,0
 20003831,Dixon,[B-Stock] Dixon PSYV-T1-HP Cymbal Sleeve 8mm 4pc/pack Black,0,1.25,4718981449454,,0
 10003832,Dixon,Dixon PSYV-T2-HP Cymbal Sleeve 6mm 4pc/pack White,1,"1.50",4718981442868,,0
@@ -5061,8 +5061,8 @@
 20003908,Dixon,"[B-Stock] Dixon PKT116-8-HP 16"" Regular Hoop Chrome 8 Ears , 1,6mm Batter Side",0,10.1,4718981436492,,0
 10003914,Dixon,"Dixon PKT312-6-HP 12"" Power Hoop Chrome 6 Ears, 2,3mm Batter Side",0,"8.95",4718981426363,"2026-12-10 00:00:00",0
 20003914,Dixon,"[B-Stock] Dixon PKT312-6-HP 12"" Power Hoop Chrome 6 Ears, 2,3mm Batter Side",0,8.95,4718981426363,"2026-12-10 00:00:00",0
-10003941,Dixon,Dixon PAKL1829N-CR Chrome Tube Clamp Winkelklammer,0,"16.80",4718981455035,"2026-08-05 00:00:00",0
-20003941,Dixon,[B-Stock] Dixon PAKL1829N-CR Chrome Tube Clamp Winkelklammer,0,16.8,4718981455035,"2026-08-05 00:00:00",0
+10003941,Dixon,Dixon PAKL1829N-CR Chrome Tube Clamp Winkelklammer,0,"16.80",4718981455035,"2026-08-13 00:00:00",0
+20003941,Dixon,[B-Stock] Dixon PAKL1829N-CR Chrome Tube Clamp Winkelklammer,0,16.8,4718981455035,"2026-08-13 00:00:00",0
 10003948,Dixon,"Dixon PSOB-24 Flex Rack Leg Angle Tube 24""",1,"25.50",4718981402961,,0
 20003948,Dixon,"[B-Stock] Dixon PSOB-24 Flex Rack Leg Angle Tube 24""",0,25.5,4718981402961,,0
 10003955,Dixon,Dixon PSOB-36CB Flex Rack Curved Extension Bar 36'',1,"15.20",4718981420866,,0
@@ -5075,8 +5075,8 @@
 20004003,Dixon,[B-Stock] Dixon PDSAN654CBRG Artisan 14x6.5 Snare Chris Brady 9-ply Australian Rose Gum Gloss Vintage Burst,0,360,4718981480181,,0
 10004012,Dixon,"Dixon PDSCL554ST Classic 14x5.5 Snare Steel, 1mm Thickness Steel Shell",1,"95.00",4718981475347,,0
 20004012,Dixon,"[B-Stock] Dixon PDSCL554ST Classic 14x5.5 Snare Steel, 1mm Thickness Steel Shell",0,95,4718981475347,,0
-10004016,Dixon,Dixon PDSCST654PTS Cornerstone Snare 14x6.5 1mm Steel Shell / Purple Titanium,0,"249.00",4718981469087,"2026-08-05 00:00:00",0
-20004016,Dixon,[B-Stock] Dixon PDSCST654PTS Cornerstone Snare 14x6.5 1mm Steel Shell / Purple Titanium,0,249,4718981469087,"2026-08-05 00:00:00",0
+10004016,Dixon,Dixon PDSCST654PTS Cornerstone Snare 14x6.5 1mm Steel Shell / Purple Titanium,0,"249.00",4718981469087,"2026-08-13 00:00:00",0
+20004016,Dixon,[B-Stock] Dixon PDSCST654PTS Cornerstone Snare 14x6.5 1mm Steel Shell / Purple Titanium,0,249,4718981469087,"2026-08-13 00:00:00",0
 10004027,Dixon,Dixon PDSCST654N Cornerstone Snare 14x6.5 Natural,0,"149.40",4718981469094,"2026-11-16 00:00:00",0
 20004027,Dixon,[B-Stock] Dixon PDSCST654N Cornerstone Snare 14x6.5 Natural,0,149.4,4718981469094,"2026-11-16 00:00:00",0
 10004031,Dixon,"Dixon PKS314-0-HP 14"" Power Hoop Chrome 10 Ears, 2,3mm Snare Side",1,"9.20",4718981411161,,0
@@ -5107,8 +5107,8 @@
 20006178,Dixon,"[B-Stock] Dixon PKS112-6-HP 12"" Regular Hoop Chrome 6 Ears, 1.6mm Snare Side",0,8.25,4718981436546,,0
 10006179,Dixon,"Dixon PKS112-8-HP12"" Regular Hoop Chrome 8 Ears, 1,6mm Snare Side",1,"8.25",4718981438427,,0
 20006179,Dixon,"[B-Stock] Dixon PKS112-8-HP12"" Regular Hoop Chrome 8 Ears, 1,6mm Snare Side",0,8.25,4718981438427,,0
-10006183,Dixon,"Dixon PKS310-6-HP 10"" Power Hoop Chrome 6 Ears, 2,3mm Snare Side",0,"8.10",4718981426387,"2026-08-11 00:00:00",0
-20006183,Dixon,"[B-Stock] Dixon PKS310-6-HP 10"" Power Hoop Chrome 6 Ears, 2,3mm Snare Side",0,8.1,4718981426387,"2026-08-11 00:00:00",0
+10006183,Dixon,"Dixon PKS310-6-HP 10"" Power Hoop Chrome 6 Ears, 2,3mm Snare Side",0,"8.10",4718981426387,"2026-08-13 00:00:00",0
+20006183,Dixon,"[B-Stock] Dixon PKS310-6-HP 10"" Power Hoop Chrome 6 Ears, 2,3mm Snare Side",0,8.1,4718981426387,"2026-08-13 00:00:00",0
 10006553,Dixon,Dixon PODCSTM422-01-NM Cornerstone Maple Shellset 4pc Satin Neo-Mint,0,"828.00",4718981480341,"2026-11-16 00:00:00",0
 20006553,Dixon,[B-Stock] Dixon PODCSTM422-01-NM Cornerstone Maple Shellset 4pc Satin Neo-Mint,0,828,4718981480341,"2026-11-16 00:00:00",0
 10006558,Dixon,"Dixon PDSL412BKC Little Roomer 12x4 Snare Black Coal, Mahogany Shell",1,"84.00",4718981478829,,0
@@ -5149,10 +5149,10 @@
 20006681,Dixon,[B-Stock] Dixon PPA-PCDDA-SP Precision Coil Pedal Direct Drive CAM Assembly,0,16.55,4718981483489,,0
 10006685,Dixon,Dixon PASP-15C-HP Bass Drum Pedal Spring 2pc/pack,1,"1.60",4718981411918,,0
 20006685,Dixon,[B-Stock] Dixon PASP-15C-HP Bass Drum Pedal Spring 2pc/pack,0,1.6,4718981411918,,0
-10006686,Dixon,"Dixon PHT122MSBK-DIX1 22"" Mesh Drumhead Black single layer",0,"13.35",4718981484226,"2026-08-11 00:00:00",0
-20006686,Dixon,"[B-Stock] Dixon PHT122MSBK-DIX1 22"" Mesh Drumhead Black single layer",0,13.35,4718981484226,"2026-08-11 00:00:00",0
-10006694,Dixon,"Dixon PHT110MSBK-DIX1 10"" Mesh Drumhead Black single layer",0,"4.50",4718981484288,"2026-08-11 00:00:00",0
-20006694,Dixon,"[B-Stock] Dixon PHT110MSBK-DIX1 10"" Mesh Drumhead Black single layer",0,4.5,4718981484288,"2026-08-11 00:00:00",0
+10006686,Dixon,"Dixon PHT122MSBK-DIX1 22"" Mesh Drumhead Black single layer",0,"13.35",4718981484226,"2026-08-13 00:00:00",0
+20006686,Dixon,"[B-Stock] Dixon PHT122MSBK-DIX1 22"" Mesh Drumhead Black single layer",0,13.35,4718981484226,"2026-08-13 00:00:00",0
+10006694,Dixon,"Dixon PHT110MSBK-DIX1 10"" Mesh Drumhead Black single layer",0,"4.50",4718981484288,"2026-08-13 00:00:00",0
+20006694,Dixon,"[B-Stock] Dixon PHT110MSBK-DIX1 10"" Mesh Drumhead Black single layer",0,4.5,4718981484288,"2026-08-13 00:00:00",0
 10006698,Dixon,Dixon PST-K952T-KS Double Tom Stand K Series with 12.7 mm L-Rods,1,"105.00",4718981450689,,0
 20006698,Dixon,[B-Stock] Dixon PST-K952T-KS Double Tom Stand K Series with 12.7 mm L-Rods,0,105,4718981450689,,0
 10006699,Dixon,"Dixon PHT106MSBK-DIX1 6"" Mesh Drumhead Black single layer",1,"3.40",4718981488170,,0
@@ -5177,8 +5177,8 @@
 20008055,Dixon,[B-Stock] Dixon PSN-802 Round Throne Gold Camo Top,0,63,4718981486626,,0
 10003784,Dixon,Dixon PSY-K900-KS Premium Cymbal Stand,0,"74.50",4718981450825,,0
 20003784,Dixon,[B-Stock] Dixon PSY-K900-KS Premium Cymbal Stand,0,74.5,4718981450825,,0
-10003816,Dixon,Dixon PSHX-1-SP Auxiliary Hi-Hat,0,"30.80",4718981402985,"2026-08-05 00:00:00",0
-20003816,Dixon,[B-Stock] Dixon PSHX-1-SP Auxiliary Hi-Hat,0,30.8,4718981402985,"2026-08-05 00:00:00",0
+10003816,Dixon,Dixon PSHX-1-SP Auxiliary Hi-Hat,0,"30.80",4718981402985,"2026-08-13 00:00:00",0
+20003816,Dixon,[B-Stock] Dixon PSHX-1-SP Auxiliary Hi-Hat,0,30.8,4718981402985,"2026-08-13 00:00:00",0
 10003817,Dixon,"Dixon PSHX-2-SP Aux-Hat 7/8"" Clutch",1,"31.14",4718981447597,,0
 20003817,Dixon,"[B-Stock] Dixon PSHX-2-SP Aux-Hat 7/8"" Clutch",0,31.14,4718981447597,,0
 10003825,Dixon,Dixon PYH-C-SP Cymbal Holder Long Arm w/ Clamp,0,"23.50",4718981403654,"2026-12-10 00:00:00",0
@@ -5223,8 +5223,8 @@
 20004025,Dixon,[B-Stock] Dixon PDCP1013DX 13''X10'' Concert Tom Black with Clip type bracket,0,74,4718981435242,,0
 10004028,Dixon,Dixon PDSCST654PB Cornerstone Snare 14x6.5 Piano Black,1,"149.40",4718981469100,,0
 20004028,Dixon,[B-Stock] Dixon PDSCST654PB Cornerstone Snare 14x6.5 Piano Black,0,149.4,4718981469100,,0
-10004036,Dixon,Dixon PA-BDPM-SP Bass Drum Platform,0,"14.20",4718981406136,"2026-08-05 00:00:00",0
-20004036,Dixon,[B-Stock] Dixon PA-BDPM-SP Bass Drum Platform,0,14.2,4718981406136,"2026-08-05 00:00:00",0
+10004036,Dixon,Dixon PA-BDPM-SP Bass Drum Platform,0,"14.20",4718981406136,"2026-08-13 00:00:00",0
+20004036,Dixon,[B-Stock] Dixon PA-BDPM-SP Bass Drum Platform,0,14.2,4718981406136,"2026-08-13 00:00:00",0
 10004040,Dixon,Dixon PDSM-60 Snare Throw-off,1,"11.70",4718981427957,,0
 20004040,Dixon,[B-Stock] Dixon PDSM-60 Snare Throw-off,0,11.7,4718981427957,,0
 10004042,Dixon,"Dixon PDSW416A Snappy Snare For 14"" Drums,16 Strands",1,"5.70",4718981412496,,0
@@ -5313,18 +5313,18 @@
 20006672,Dixon,[B-Stock] Dixon PRCBH-PB-BX Cowbell Pedal Mount,0,25,4718981416999,,0
 10006675,Dixon,Dixon PA-BM-SP Adjustable Table,1,"15.30",4718981439059,,0
 20006675,Dixon,[B-Stock] Dixon PA-BM-SP Adjustable Table,0,15.3,4718981439059,,0
-10006679,Dixon,Dixon PPB-P1-HP Bass Drum Beater Precision Coil,0,"9.55",4718981456193,"2026-08-05 00:00:00",0
-20006679,Dixon,[B-Stock] Dixon PPB-P1-HP Bass Drum Beater Precision Coil,0,9.55,4718981456193,"2026-08-05 00:00:00",0
+10006679,Dixon,Dixon PPB-P1-HP Bass Drum Beater Precision Coil,0,"9.55",4718981456193,"2026-08-13 00:00:00",0
+20006679,Dixon,[B-Stock] Dixon PPB-P1-HP Bass Drum Beater Precision Coil,0,9.55,4718981456193,"2026-08-13 00:00:00",0
 10006683,Dixon,Dixon PPA-1-SP Bass Drum Pedal Anchor,1,"12.75",4718981440475,,0
 20006683,Dixon,[B-Stock] Dixon PPA-1-SP Bass Drum Pedal Anchor,0,12.75,4718981440475,,0
-10006684,Dixon,Dixon PASP-PCP1-SP Precision Coil Pedal Spring Assembly,0,"9.30",4718981483496,"2026-08-05 00:00:00",0
-20006684,Dixon,[B-Stock] Dixon PASP-PCP1-SP Precision Coil Pedal Spring Assembly,0,9.3,4718981483496,"2026-08-05 00:00:00",0
-10006687,Dixon,"Dixon PHT120MSBK-DIX1 20"" Mesh Drumhead Black single layer",0,"12.15",4718981484233,"2026-08-11 00:00:00",0
-20006687,Dixon,"[B-Stock] Dixon PHT120MSBK-DIX1 20"" Mesh Drumhead Black single layer",0,12.15,4718981484233,"2026-08-11 00:00:00",0
-10006689,Dixon,"Dixon PHT116MSBK-DIX1 16"" Mesh Drumhead Black single layer",0,"6.80",4718981484257,"2026-08-11 00:00:00",0
-20006689,Dixon,"[B-Stock] Dixon PHT116MSBK-DIX1 16"" Mesh Drumhead Black single layer",0,6.8,4718981484257,"2026-08-11 00:00:00",0
-10006693,Dixon,"Dixon PHT112MSBK-DIX1 12"" Mesh Drumhead Black single layer",0,"4.95",4718981484271,"2026-08-11 00:00:00",0
-20006693,Dixon,"[B-Stock] Dixon PHT112MSBK-DIX1 12"" Mesh Drumhead Black single layer",0,4.95,4718981484271,"2026-08-11 00:00:00",0
+10006684,Dixon,Dixon PASP-PCP1-SP Precision Coil Pedal Spring Assembly,0,"9.30",4718981483496,"2026-08-13 00:00:00",0
+20006684,Dixon,[B-Stock] Dixon PASP-PCP1-SP Precision Coil Pedal Spring Assembly,0,9.3,4718981483496,"2026-08-13 00:00:00",0
+10006687,Dixon,"Dixon PHT120MSBK-DIX1 20"" Mesh Drumhead Black single layer",0,"12.15",4718981484233,"2026-08-13 00:00:00",0
+20006687,Dixon,"[B-Stock] Dixon PHT120MSBK-DIX1 20"" Mesh Drumhead Black single layer",0,12.15,4718981484233,"2026-08-13 00:00:00",0
+10006689,Dixon,"Dixon PHT116MSBK-DIX1 16"" Mesh Drumhead Black single layer",0,"6.80",4718981484257,"2026-08-13 00:00:00",0
+20006689,Dixon,"[B-Stock] Dixon PHT116MSBK-DIX1 16"" Mesh Drumhead Black single layer",0,6.8,4718981484257,"2026-08-13 00:00:00",0
+10006693,Dixon,"Dixon PHT112MSBK-DIX1 12"" Mesh Drumhead Black single layer",0,"4.95",4718981484271,"2026-08-13 00:00:00",0
+20006693,Dixon,"[B-Stock] Dixon PHT112MSBK-DIX1 12"" Mesh Drumhead Black single layer",0,4.95,4718981484271,"2026-08-13 00:00:00",0
 10006709,Dixon,"Dixon PKZC18MA-BX 18"" Bass Drum Hoop Maple Natural",1,"35.50",4718981435235,,0
 20006709,Dixon,"[B-Stock] Dixon PKZC18MA-BX 18"" Bass Drum Hoop Maple Natural",0,35.5,4718981435235,,0
 10006716,Dixon,"Dixon PKT313-8-HP 13"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",1,"9.10",4718981438403,,0
@@ -5379,8 +5379,8 @@
 20010188,Dixon,"[B-Stock] Dixon PKT1408PC-HP 14"" / 4 ear Vibra-Hoop Suspension Set for 8-lug drums",0,27,4718981425915,,0
 10010311,Dixon,Dixon PODL520BK1-WB Little Roomer 5pc with Bags Gloss Black / Yellow Bass Hoop,0,"469.00",4718981488255,"2026-11-16 00:00:00",0
 20010311,Dixon,[B-Stock] Dixon PODL520BK1-WB Little Roomer 5pc with Bags Gloss Black / Yellow Bass Hoop,0,469,4718981488255,"2026-11-16 00:00:00",0
-10008084,Dixon,"Dixon PDCP1216DX 16""X12"" Concert Tom Black with Clip type bracket",0,"92.50",4718981491309,"2026-08-11 00:00:00",0
-20008084,Dixon,"[B-Stock] Dixon PDCP1216DX 16""X12"" Concert Tom Black with Clip type bracket",0,92.5,4718981491309,"2026-08-11 00:00:00",0
+10008084,Dixon,"Dixon PDCP1216DX 16""X12"" Concert Tom Black with Clip type bracket",0,"92.50",4718981491309,"2026-08-13 00:00:00",0
+20008084,Dixon,"[B-Stock] Dixon PDCP1216DX 16""X12"" Concert Tom Black with Clip type bracket",0,92.5,4718981491309,"2026-08-13 00:00:00",0
 10009307,Dixon,Dixon PAWS-ORPK1-HP Cymbal Felt Pack Orange 7pc/pack,1,"3.70",4718981486930,,0
 20009307,Dixon,[B-Stock] Dixon PAWS-ORPK1-HP Cymbal Felt Pack Orange 7pc/pack,0,3.7,4718981486930,,0
 10009312,Dixon,Dixon PAWS-9H1/4-HP Hi-Hat Clutch Felts Orange 4pc/pack,1,"2.25",4718981490012,,0
@@ -5651,8 +5651,8 @@
 20012276,Dixon,[B-Stock] Dixon PCK-BKMBB1-CR Drummers Cask PMT Black Burst 8''x6'',0,44,4718981501008,,0
 10012312,Dixon,"Dixon PDML26CF 6"" Tambourine Little Roomer  - Cerulean Frost",0,"15.20",4718981496533,"2026-11-16 00:00:00",0
 20012312,Dixon,"[B-Stock] Dixon PDML26CF 6"" Tambourine Little Roomer  - Cerulean Frost",0,15.2,4718981496533,"2026-11-16 00:00:00",0
-10012315,Dixon,"Dixon PDC1216BK 12""x16"" Boom Tom Black Clip Style (PDTH764TB)",0,"98.00",4718981486190,"2026-08-11 00:00:00",0
-20012315,Dixon,"[B-Stock] Dixon PDC1216BK 12""x16"" Boom Tom Black Clip Style (PDTH764TB)",0,98,4718981486190,"2026-08-11 00:00:00",0
+10012315,Dixon,"Dixon PDC1216BK 12""x16"" Boom Tom Black Clip Style (PDTH764TB)",0,"98.00",4718981486190,"2026-08-13 00:00:00",0
+20012315,Dixon,"[B-Stock] Dixon PDC1216BK 12""x16"" Boom Tom Black Clip Style (PDTH764TB)",0,98,4718981486190,"2026-08-13 00:00:00",0
 10012321,Dixon,"Dixon PDZCSTM1418N Cornerstone 18''x14'' Bass Drum Virgin, Natural Maple Gloss",0,"370.69",4718981501343,"2026-11-16 00:00:00",0
 20012321,Dixon,"[B-Stock] Dixon PDZCSTM1418N Cornerstone 18''x14'' Bass Drum Virgin, Natural Maple Gloss",0,370.69,4718981501343,"2026-11-16 00:00:00",0
 10012323,Dixon,Dixon PDTCSTM0810N Cornerstone 10''x8'' Tom Natural Maple Gloss,0,"155.00",4718981501367,"2026-11-16 00:00:00",0
@@ -5679,8 +5679,8 @@
 20012300,Dixon,[B-Stock] Dixon PODSK522S1BK Spark 5pc 6tlg. HW + 3 Cym. Black,0,377.4,4718981501626,"2026-11-16 00:00:00",0
 10012322,Dixon,"Dixon PDZCSTM1420N Cornerstone 20''x14'' Bass Drum Virgin, Natural Maple Gloss",0,"410.06",4718981501350,"2026-11-16 00:00:00",0
 20012322,Dixon,"[B-Stock] Dixon PDZCSTM1420N Cornerstone 20''x14'' Bass Drum Virgin, Natural Maple Gloss",0,410.06,4718981501350,"2026-11-16 00:00:00",0
-10012326,Dixon,"Dixon PODCSTC520-01-SB Cornerstone Classic 20x14/10x8/12x8TT/14x14FT/14x5,5SN Satin Black",0,"975.00",4718981500827,"2026-08-05 00:00:00",0
-20012326,Dixon,"[B-Stock] Dixon PODCSTC520-01-SB Cornerstone Classic 20x14/10x8/12x8TT/14x14FT/14x5,5SN Satin Black",0,975,4718981500827,"2026-08-05 00:00:00",0
+10012326,Dixon,"Dixon PODCSTC520-01-SB Cornerstone Classic 20x14/10x8/12x8TT/14x14FT/14x5,5SN Satin Black",0,"975.00",4718981500827,"2026-08-13 00:00:00",0
+20012326,Dixon,"[B-Stock] Dixon PODCSTC520-01-SB Cornerstone Classic 20x14/10x8/12x8TT/14x14FT/14x5,5SN Satin Black",0,975,4718981500827,"2026-08-13 00:00:00",0
 10012428,Dixon,"Dixon PODAX420-04-NM-CR Artisan Ultra Maple Shell Set 20x14BD/10x8/12x9/16x16FT 2,3mm Steel Hoop",0,"1699.00",,"2026-11-16 00:00:00",0
 20012428,Dixon,"[B-Stock] Dixon PODAX420-04-NM-CR Artisan Ultra Maple Shell Set 20x14BD/10x8/12x9/16x16FT 2,3mm Steel Hoop",0,1699,,"2026-11-16 00:00:00",0
 10012598,Dixon,Dixon PCB-SB1M Single Pedal Carry Bag Metallic,1,"23.90",4718981501848,,0
@@ -5853,24 +5853,24 @@
 20024102,Dixon,"[B-Stock] Dixon Artisan Maple 7ply Blue Burst Sparkle Chrome HW 22x18/10x8/12x9/14x14/16x16FT/14x6,5SN",0,1240,,"2026-11-16 00:00:00",0
 10024187,Dixon,Dixon PODL320HRG Little Roomer Select Shellset 3pc Heirloom Grey,0,"549.00",4718981505969,"2026-09-09 00:00:00",0
 20024187,Dixon,[B-Stock] Dixon PODL320HRG Little Roomer Select Shellset 3pc Heirloom Grey,0,549,4718981505969,"2026-09-09 00:00:00",0
-10024188,Dixon,Dixon PP-P3 Single Pedal Double Chain Drive with Metallic Bag,0,"94.00",4718981505860,"2026-08-05 00:00:00",0
-20024188,Dixon,[B-Stock] Dixon PP-P3 Single Pedal Double Chain Drive with Metallic Bag,0,94,4718981505860,"2026-08-05 00:00:00",0
-10024189,Dixon,Dixon PP-P3D Double Pedal Double Chain Drive with Metallic Bag,0,"195.00",4718981505877,"2026-08-05 00:00:00",0
-20024189,Dixon,[B-Stock] Dixon PP-P3D Double Pedal Double Chain Drive with Metallic Bag,0,195,4718981505877,"2026-08-05 00:00:00",0
+10024188,Dixon,Dixon PP-P3 Single Pedal Double Chain Drive with Metallic Bag,0,"94.00",4718981505860,"2026-08-13 00:00:00",0
+20024188,Dixon,[B-Stock] Dixon PP-P3 Single Pedal Double Chain Drive with Metallic Bag,0,94,4718981505860,"2026-08-13 00:00:00",0
+10024189,Dixon,Dixon PP-P3D Double Pedal Double Chain Drive with Metallic Bag,0,"195.00",4718981505877,"2026-08-13 00:00:00",0
+20024189,Dixon,[B-Stock] Dixon PP-P3D Double Pedal Double Chain Drive with Metallic Bag,0,195,4718981505877,"2026-08-13 00:00:00",0
 10024190,Dixon,Dixon PSY-P3I Cymbal Boom Stand Heavy Duty,1,"66.50",4718981505907,,0
 20024190,Dixon,[B-Stock] Dixon PSY-P3I Cymbal Boom Stand Heavy Duty,0,66.5,4718981505907,,0
-10024191,Dixon,Dixon PSY-P3 Cymbal Stand Heavy Duty,0,"56.50",4718981505914,"2026-08-05 00:00:00",0
-20024191,Dixon,[B-Stock] Dixon PSY-P3 Cymbal Stand Heavy Duty,0,56.5,4718981505914,"2026-08-05 00:00:00",0
-10024192,Dixon,Dixon PSH-P3 Hi-Hat Stand Heavy Duty,0,"95.00",4718981505891,"2026-08-05 00:00:00",0
-20024192,Dixon,[B-Stock] Dixon PSH-P3 Hi-Hat Stand Heavy Duty,0,95,4718981505891,"2026-08-05 00:00:00",0
+10024191,Dixon,Dixon PSY-P3 Cymbal Stand Heavy Duty,0,"56.50",4718981505914,"2026-08-13 00:00:00",0
+20024191,Dixon,[B-Stock] Dixon PSY-P3 Cymbal Stand Heavy Duty,0,56.5,4718981505914,"2026-08-13 00:00:00",0
+10024192,Dixon,Dixon PSH-P3 Hi-Hat Stand Heavy Duty,0,"95.00",4718981505891,"2026-08-13 00:00:00",0
+20024192,Dixon,[B-Stock] Dixon PSH-P3 Hi-Hat Stand Heavy Duty,0,95,4718981505891,"2026-08-13 00:00:00",0
 10024193,Dixon,Dixon PSS-P3 Heavy Duty Snare Stand,1,"61.00",4718981505884,,0
 20024193,Dixon,[B-Stock] Dixon PSS-P3 Heavy Duty Snare Stand,0,61,4718981505884,,0
 10024194,Dixon,Dixon PPB-6BL-HP Bass Drum Beater Felt Blue Plate,0,"8.70",4718981505822,"2026-09-09 00:00:00",0
 20024194,Dixon,[B-Stock] Dixon PPB-6BL-HP Bass Drum Beater Felt Blue Plate,0,8.7,4718981505822,"2026-09-09 00:00:00",0
 10024195,Dixon,Dixon PCK-PO-SMGN1 Drummers' Storage 6'' Satin Green w/ Natural Wood,1,"19.50",4718981505730,,0
 20024195,Dixon,[B-Stock] Dixon PCK-PO-SMGN1 Drummers' Storage 6'' Satin Green w/ Natural Wood,0,19.5,4718981505730,,0
-10024300,Dixon,Dixon PARF-K Rubber feet PSN-12 (1pcs) Gummifuß,0,"2.50",4718981459057,"2026-08-05 00:00:00",0
-20024300,Dixon,[B-Stock] Dixon PARF-K Rubber feet PSN-12 (1pcs) Gummifuß,0,2.5,4718981459057,"2026-08-05 00:00:00",0
+10024300,Dixon,Dixon PARF-K Rubber feet PSN-12 (1pcs) Gummifuß,0,"2.50",4718981459057,"2026-08-13 00:00:00",0
+20024300,Dixon,[B-Stock] Dixon PARF-K Rubber feet PSN-12 (1pcs) Gummifuß,0,2.5,4718981459057,"2026-08-13 00:00:00",0
 10024324,Dixon,Dixon Air Vent,1,"0.55",,,0
 20024324,Dixon,[B-Stock] Dixon Air Vent,0,0.55,,,0
 10024398,Dixon,Dixon PDZS-A3 Bass Drum Spurs (Set),0,"33.75",4718981483557,"2026-12-10 00:00:00",0
@@ -5978,7 +5978,7 @@
 10000715,E-II,E-II FRX RDB Reindeer Blue,0,"2217.00",840248007054,"2027-03-28 00:00:00",0
 20000715,E-II,[B-Stock] E-II FRX RDB Reindeer Blue,0,2217,840248007054,"2027-03-28 00:00:00",0
 10000738,E-II,E-II ECLIPSE BB BLKS Black Satin,0,"1884.00",799493254839,"2026-10-28 00:00:00",0
-20000738,E-II,[B-Stock] E-II ECLIPSE BB BLKS Black Satin,1,1695.6,799493254839,"2026-10-28 00:00:00",0
+20000738,E-II,[B-Stock] E-II ECLIPSE BB BLKS Black Satin,0,1884,799493254839,"2026-10-28 00:00:00",0
 10000742,E-II,E-II VIPER BARITONE CHMS Charcoal Metallic Satin,1,"1856.00",799493254938,,0
 20000742,E-II,[B-Stock] E-II VIPER BARITONE CHMS Charcoal Metallic Satin,0,1856,799493254938,,0
 10000747,E-II,E-II HORIZON NT-7B HIPSHOT BLKS Black Satin,0,"1939.00",799493259063,"2027-02-28 00:00:00",0
@@ -5992,7 +5992,7 @@
 10000778,E-II,E-II M-II 7 NT PNF Purple Natural Fade,1,"2480.00",799493265170,,0
 20000778,E-II,[B-Stock] E-II M-II 7 NT PNF Purple Natural Fade,0,2480,799493265170,,0
 10000714,E-II,E-II ECLIPSE DB VB Vintage Black Vintage Black,0,"1884.00",840248009157,"2026-07-28 00:00:00",0
-20000714,E-II,[B-Stock] E-II ECLIPSE DB VB Vintage Black Vintage Black,2,1695.6,840248009157,"2026-07-28 00:00:00",0
+20000714,E-II,[B-Stock] E-II ECLIPSE DB VB Vintage Black Vintage Black,1,1695.6,840248009157,"2026-07-28 00:00:00",0
 10000719,E-II,E-II HORIZON FR RDB Reindeer Blue,0,"1967.00",840248007184,"2027-03-28 00:00:00",0
 20000719,E-II,[B-Stock] E-II HORIZON FR RDB Reindeer Blue,0,1967,840248007184,"2027-03-28 00:00:00",0
 10000741,E-II,E-II HORIZON NT-II STBLKSB See Thru Black Sunburst,0,"2009.00",799493254785,"2026-10-28 00:00:00",0
@@ -6039,8 +6039,8 @@
 20000779,E-II,[B-Stock] E-II M-II NT BLKNFD Black Natural Fade,0,2286,799493265163,,0
 10002323,E-II,E-II M-II STBLK LEFTHAND See Thru Black,0,"1981.00",840248008983,"2026-10-28 00:00:00",0
 20002323,E-II,[B-Stock] E-II M-II STBLK LEFTHAND See Thru Black,0,1981,840248008983,"2026-10-28 00:00:00",0
-10000700,E-II,E-II M-I THRU NT BKS Black Satin,0,"1648.00",840248010597,"2026-09-28 00:00:00",0
-20000700,E-II,[B-Stock] E-II M-I THRU NT BKS Black Satin,0,1648,840248010597,"2026-09-28 00:00:00",0
+10000700,E-II,E-II M-I THRU NT BKS Black Satin,1,"1648.00",840248010597,,0
+20000700,E-II,[B-Stock] E-II M-I THRU NT BKS Black Satin,0,1648,840248010597,,0
 10000717,E-II,E-II HORIZON-III RDB LEFTHAND Reindeer Blue,1,"1799.00",840248008914,,0
 20000717,E-II,[B-Stock] E-II HORIZON-III RDB LEFTHAND Reindeer Blue,0,1799,840248008914,,0
 10000725,E-II,E-II ARROW BLK Black,0,"1981.00",799493248371,"2026-09-28 00:00:00",0
@@ -6132,7 +6132,7 @@
 10009876,E-II,E-II ECLIPSE FT EVERTUNE BLK Black,0,"2369.00",719710616714,"2028-02-28 00:00:00",0
 20009876,E-II,[B-Stock] E-II ECLIPSE FT EVERTUNE BLK Black,0,2369,719710616714,"2028-02-28 00:00:00",0
 10009880,E-II,E-II M-II NECK THRU SW Snow White,0,"1981.00",719710616752,"2026-09-28 00:00:00",0
-20009880,E-II,[B-Stock] E-II M-II NECK THRU SW Snow White,1,1782.9,719710616752,"2026-09-28 00:00:00",0
+20009880,E-II,[B-Stock] E-II M-II NECK THRU SW Snow White,0,1981,719710616752,"2026-09-28 00:00:00",0
 10009881,E-II,E-II SN-III HT Tiger Eye Sunburst,0,"2286.00",719710616783,"2027-10-28 00:00:00",0
 20009881,E-II,[B-Stock] E-II SN-III HT Tiger Eye Sunburst,0,2286,719710616783,"2027-10-28 00:00:00",0
 10009867,E-II,E-II M-I THRU NT QM/STBLKSB See Thru Black Sunburst,1,"1884.00",719710620865,,0
@@ -6541,8 +6541,8 @@
 20010903,Gator,[B-Stock] Gator G-ICONELECTRIC ICON Series Bag for Electric Guitars,0,120,716408558431,,0
 10010904,Gator,Gator GB-4G-ACOUELECT 4G Series Gig Bag for Elec. and Acoustic Guitar,1,"54.90",716408544090,,0
 20010904,Gator,[B-Stock] Gator GB-4G-ACOUELECT 4G Series Gig Bag for Elec. and Acoustic Guitar,0,54.9,716408544090,,0
-10010907,Gator,Gator GB-4G-BASSX2 4G Series Gig Bag for 2 Bass Guitars,1,"52.00",716408534329,,0
-20010907,Gator,[B-Stock] Gator GB-4G-BASSX2 4G Series Gig Bag for 2 Bass Guitars,0,52,716408534329,,0
+10010907,Gator,Gator GB-4G-BASSX2 4G Series Gig Bag for 2 Bass Guitars,0,"52.00",716408534329,"2026-08-07 00:00:00",0
+20010907,Gator,[B-Stock] Gator GB-4G-BASSX2 4G Series Gig Bag for 2 Bass Guitars,0,52,716408534329,"2026-08-07 00:00:00",0
 10010918,Gator,Gator GPX-ACOUSTIC GPX Acoustic Gig Bag Black,1,"87.00",716408544038,,0
 20010918,Gator,[B-Stock] Gator GPX-ACOUSTIC GPX Acoustic Gig Bag Black,0,87,716408544038,,0
 10010919,Gator,Gator GPX-BASS GPX Bass Gig Bag Black,1,"84.00",716408544045,,0
@@ -6737,8 +6737,8 @@
 20010801,Gator,[B-Stock] Gator GKC-1540 76 Keys Keyboard Cover,0,11.3,716408502960,,0
 10010816,Gator,Gator GK-88 SLXL 88 Keys Lightweight Keyboard Case Slim Extra Long,1,"160.00",716408529653,,0
 20010816,Gator,[B-Stock] Gator GK-88 SLXL 88 Keys Lightweight Keyboard Case Slim Extra Long,0,160,716408529653,,0
-10010817,Gator,Gator GTSA-GTRBASS TSA Polyethylene Case for J- and P-Bass,1,"113.00",716408539706,,0
-20010817,Gator,[B-Stock] Gator GTSA-GTRBASS TSA Polyethylene Case for J- and P-Bass,0,113,716408539706,,0
+10010817,Gator,Gator GTSA-GTRBASS TSA Polyethylene Case for J- and P-Bass,0,"113.00",716408539706,"2026-07-24 00:00:00",0
+20010817,Gator,[B-Stock] Gator GTSA-GTRBASS TSA Polyethylene Case for J- and P-Bass,0,113,716408539706,"2026-07-24 00:00:00",0
 10010821,Gator,Gator GK-76 76 Keys Lightweight Keyboard Case,0,"123.00",716408501437,"2026-11-06 00:00:00",0
 20010821,Gator,[B-Stock] Gator GK-76 76 Keys Lightweight Keyboard Case,0,123,716408501437,"2026-11-06 00:00:00",0
 10010822,Gator,Gator GTSA-GTRDREAD TSA Polyethylene Case for Dreadnought style AC,0,"109.00",716408539720,"2026-08-07 00:00:00",0
@@ -10783,8 +10783,8 @@
 20002585,DiMarzio,[B-Stock] DiMarzio DP 425RD Satch Track neck red,0,83.7,663334044302,"2026-10-17 00:00:00",0
 10001547,DiMarzio,DiMarzio DP 159CC Evolution Bridge,0,"122.40",663334026179,"2026-10-17 00:00:00",0
 20001547,DiMarzio,[B-Stock] DiMarzio DP 159CC Evolution Bridge,0,122.4,663334026179,"2026-10-17 00:00:00",0
-10001557,DiMarzio,"DiMarzio DM 2000BK Vintage Strat® Pickup Cover, Black",0,"6.00",663334000902,"2026-10-18 00:00:00",0
-20001557,DiMarzio,"[B-Stock] DiMarzio DM 2000BK Vintage Strat® Pickup Cover, Black",0,6,663334000902,"2026-10-18 00:00:00",0
+10001557,DiMarzio,"DiMarzio DM 2000BK Vintage Strat® Pickup Cover, Black",0,"6.00",663334000902,"2026-10-21 00:00:00",0
+20001557,DiMarzio,"[B-Stock] DiMarzio DM 2000BK Vintage Strat® Pickup Cover, Black",0,6,663334000902,"2026-10-21 00:00:00",0
 10001558,DiMarzio,DiMarzio DP 207FCR D Sonic,0,"71.00",,"2026-10-17 00:00:00",0
 20001558,DiMarzio,[B-Stock] DiMarzio DP 207FCR D Sonic,0,71,,"2026-10-17 00:00:00",0
 10001577,DiMarzio,DiMarzio EP 1710SSY Overbraid Cable 10-ft Yellow,0,"18.60",663334034587,"2026-10-17 00:00:00",0
@@ -12415,8 +12415,8 @@
 20007178,DiMarzio,[B-Stock] DiMarzio DP 756KK+N Illuminator 7 Neck Black Metal Cover/Nickel Pole Pieces,0,111.8,663334042292,,0
 10007181,DiMarzio,DiMarzio DP 296GB RELENTLESS Middle Black Metal Cover,0,"91.70",663334171725,"2026-08-28 00:00:00",0
 20007181,DiMarzio,[B-Stock] DiMarzio DP 296GB RELENTLESS Middle Black Metal Cover,0,91.7,663334171725,"2026-08-28 00:00:00",0
-10007276,DiMarzio,DiMarzio DD 2251 Steve Vai ClipLock Utopia White & Gold,1,"22.10",663334170834,,0
-20007276,DiMarzio,[B-Stock] DiMarzio DD 2251 Steve Vai ClipLock Utopia White & Gold,0,22.1,663334170834,,0
+10007276,DiMarzio,DiMarzio DD 2251 Steve Vai ClipLock Utopia White & Gold,0,"22.10",663334170834,"2026-10-28 00:00:00",0
+20007276,DiMarzio,[B-Stock] DiMarzio DD 2251 Steve Vai ClipLock Utopia White & Gold,0,22.1,663334170834,"2026-10-28 00:00:00",0
 10007312,DiMarzio,DiMarzio DP 180PK Air Norton S Pink,0,"70.70",663334183360,"2026-10-17 00:00:00",0
 20007312,DiMarzio,[B-Stock] DiMarzio DP 180PK Air Norton S Pink,0,70.7,663334183360,"2026-10-17 00:00:00",0
 10007350,DiMarzio,DiMarzio DP 177BK True Velvet T Neck Black Metal Cover,0,"57.00",663334040670,"2026-10-17 00:00:00",0
@@ -32947,6 +32947,10 @@ John Petrucci Signature Model",0,83.7,,"2026-10-17 00:00:00",0
 20023507,DiMarzio,"[B-Stock] DiMarzio DP 432KK Colossal™ Set Neck+Bridge 5-String Bass, Black Metal Cover",0,207,663334205680,,0
 10023508,DiMarzio,"DiMarzio DP 432G Colossal™ Set Neck+Bridge 5-String Bass, Gold Cover",0,"219.00",663334205673,,0
 20023508,DiMarzio,"[B-Stock] DiMarzio DP 432G Colossal™ Set Neck+Bridge 5-String Bass, Gold Cover",0,219,663334205673,,0
+10024665,DiMarzio,DiMarzio DP 425BK+N (no logo) Satch Track Neck Black / Nickel Pole Pieces,0,"92.10",,"2026-10-20 00:00:00",0
+20024665,DiMarzio,[B-Stock] DiMarzio DP 425BK+N (no logo) Satch Track Neck Black / Nickel Pole Pieces,0,92.1,,"2026-10-20 00:00:00",0
+10024666,DiMarzio,DiMarzio DP 214FBK Virtual Hot PAF F-Spaced,0,"65.00",,"2026-10-20 00:00:00",0
+20024666,DiMarzio,[B-Stock] DiMarzio DP 214FBK Virtual Hot PAF F-Spaced,0,65,,"2026-10-20 00:00:00",0
 10012437,Thalia,Thalia Gibson by THALIA Hummingbird/ Black Chrome Officially licensed Gibson Series,0,"65.00",686186799589,"2026-09-22 00:00:00",0
 20012437,Thalia,[B-Stock] Thalia Gibson by THALIA Hummingbird/ Black Chrome Officially licensed Gibson Series,0,65,686186799589,"2026-09-22 00:00:00",0
 10012438,Thalia,"Thalia Rubber Fret Pad Kit - 0"" 2pc Set - Standard/ High Tension",1,"5.00",686186795352,,0

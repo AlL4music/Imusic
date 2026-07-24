@@ -1396,7 +1396,7 @@
 10002674,LTD,LTD ALEXI-200 BLK ALEXI LAIHO SIGNATURE BLACK,0,"565.00",840248016964,"2026-07-24 00:00:00",0
 20002674,LTD,[B-Stock] LTD ALEXI-200 BLK ALEXI LAIHO SIGNATURE BLACK,0,565,840248016964,"2026-07-24 00:00:00",0
 10002684,LTD,LTD GH-200 BLK GARY HOLT SIGNATURE BLACK,0,"565.00",799493249040,"2026-08-28 00:00:00",0
-20002684,LTD,[B-Stock] LTD GH-200 BLK GARY HOLT SIGNATURE BLACK,1,508.5,799493249040,"2026-08-28 00:00:00",0
+20002684,LTD,[B-Stock] LTD GH-200 BLK GARY HOLT SIGNATURE BLACK,0,565,799493249040,"2026-08-28 00:00:00",0
 10002686,LTD,LTD GH-600 SW GARY HOLT SIGNATURE - Incl. Case SNOW WHITE,0,"1273.00",799493265606,,1
 20002686,LTD,[B-Stock] LTD GH-600 SW GARY HOLT SIGNATURE - Incl. Case SNOW WHITE,0,1273,799493265606,,1
 10002699,LTD,LTD KH-602 BLK KIRK HAMMETT SIGNATURE - Incl. Case BLACK,1,"1079.00",840248009843,,0
@@ -2027,18 +2027,18 @@
 20024184,LTD,[B-Stock] LTD CST1XLFFLH - ST-1 XL LH FORM FIT CASE ESP / LTD Form Fit Case,0,167,719710622722,,0
 10024185,LTD,LTD CST8FFLH - ST 8-STRING LH FORM FIT CASE ESP / LTD Form Fit Case,0,"174.00",799493276534,,0
 20024185,LTD,[B-Stock] LTD CST8FFLH - ST 8-STRING LH FORM FIT CASE ESP / LTD Form Fit Case,0,174,799493276534,,0
-10024382,LTD,LTD ARROW BLACK METAL II (EMBARGO) Arrow Series Guitars,0,"1105.00",719710629059,,0
-20024382,LTD,[B-Stock] LTD ARROW BLACK METAL II (EMBARGO) Arrow Series Guitars,0,1105,719710629059,,0
-10024383,LTD,LTD M-7HT BARITONE BLACK METAL II (EMBARGO) M Series Guitars,0,"1105.00",719710629172,,0
-20024383,LTD,[B-Stock] LTD M-7HT BARITONE BLACK METAL II (EMBARGO) M Series Guitars,0,1105,719710629172,,0
-10024384,LTD,LTD EXL- 7B BLACK METAL II (EMBARGO) EX Series Guitars,0,"1019.00",719710629134,,0
-20024384,LTD,[B-Stock] LTD EXL- 7B BLACK METAL II (EMBARGO) EX Series Guitars,0,1019,719710629134,,0
-10024385,LTD,LTD EXL BLACK METAL II (EMBARGO) EX Series Guitars,0,"1019.00",719710629127,,0
-20024385,LTD,[B-Stock] LTD EXL BLACK METAL II (EMBARGO) EX Series Guitars,0,1019,719710629127,,0
-10024386,LTD,LTD PHOENIX 7B BLACK METAL II (EMBARGO) Phoenix Series Guitars,0,"1019.00",719710629257,,0
-20024386,LTD,[B-Stock] LTD PHOENIX 7B BLACK METAL II (EMBARGO) Phoenix Series Guitars,0,1019,719710629257,,0
-10024387,LTD,LTD M B ET BLACK METAL II (EMBARGO) M Series Guitars,0,"1155.00",719710629165,,0
-20024387,LTD,[B-Stock] LTD M B ET BLACK METAL II (EMBARGO) M Series Guitars,0,1155,719710629165,,0
+10024382,LTD,LTD ARROW BLACK METAL II Arrow Series Guitars,0,"1105.00",719710629059,,0
+20024382,LTD,[B-Stock] LTD ARROW BLACK METAL II Arrow Series Guitars,0,1105,719710629059,,0
+10024383,LTD,LTD M-7HT BARITONE BLACK METAL II M Series Guitars,0,"1105.00",719710629172,,0
+20024383,LTD,[B-Stock] LTD M-7HT BARITONE BLACK METAL II M Series Guitars,0,1105,719710629172,,0
+10024384,LTD,LTD EXL- 7B BLACK METAL II EX Series Guitars,0,"1019.00",719710629134,,0
+20024384,LTD,[B-Stock] LTD EXL- 7B BLACK METAL II EX Series Guitars,0,1019,719710629134,,0
+10024385,LTD,LTD EXL BLACK METAL II EX Series Guitars,0,"1019.00",719710629127,,0
+20024385,LTD,[B-Stock] LTD EXL BLACK METAL II EX Series Guitars,0,1019,719710629127,,0
+10024386,LTD,LTD PHOENIX 7B BLACK METAL II Phoenix Series Guitars,0,"1019.00",719710629257,,0
+20024386,LTD,[B-Stock] LTD PHOENIX 7B BLACK METAL II Phoenix Series Guitars,0,1019,719710629257,,0
+10024387,LTD,"LTD M-6 30"" EVERTUNE BLACK METAL II M Series Guitars",0,"1155.00",719710629165,,0
+20024387,LTD,"[B-Stock] LTD M-6 30"" EVERTUNE BLACK METAL II M Series Guitars",0,1155,719710629165,,0
 10024571,LTD,"LTD EC-BK BLK Guitar Pack Black Incl. Tuner, Amp, Bag, Strap, Picks, Cable",0,"226.00",799493253719,"2026-10-28 00:00:00",0
 20024571,LTD,"[B-Stock] LTD EC-BK BLK Guitar Pack Black Incl. Tuner, Amp, Bag, Strap, Picks, Cable",0,226,799493253719,"2026-10-28 00:00:00",0
 10024572,LTD,"LTD EC-BL Guitar Pack Blue Incl. Tuner, Amp, Bag, Strap, Picks, Cable",0,"226.00",799493253702,"2026-08-28 00:00:00",0
@@ -2063,6 +2063,12 @@
 20024608,LTD,"[B-Stock] LTD B-BASS BLKS Bass Pack Black Satin Lefthand Incl. Tuner, Amp, Bag, Strap, Picks, Cable",0,226,,"2026-08-28 00:00:00",0
 10024613,LTD,LTD EC-1000 BLACK FLUENCE LH,0,"1199.00",,"2026-08-28 00:00:00",0
 20024613,LTD,[B-Stock] LTD EC-1000 BLACK FLUENCE LH,0,1199,,"2026-08-28 00:00:00",0
+10024668,LTD,LTD M-207B DX CRIMSON SATIN M Series Basses,0,"384.00",719710630222,,0
+20024668,LTD,[B-Stock] LTD M-207B DX CRIMSON SATIN M Series Basses,0,384,719710630222,,0
+10024669,LTD,LTD M-207B DX SEE THRU BLACK SATIN M Series Basses,0,"384.00",719710630215,,0
+20024669,LTD,[B-Stock] LTD M-207B DX SEE THRU BLACK SATIN M Series Basses,0,384,719710630215,,0
+10024670,LTD,LTD BB-200 BARITONE QM STBLKSB SATIN Signature Series Guitars,0,"499.00",719710629387,,0
+20024670,LTD,[B-Stock] LTD BB-200 BARITONE QM STBLKSB SATIN Signature Series Guitars,0,499,719710629387,,0
 10001835,Zoom,Zoom ACM-1 Action Camera Mount,1,"12.00",4515260020478,,1
 20001835,Zoom,[B-Stock] Zoom ACM-1 Action Camera Mount,0,12,4515260020478,,1
 10001891,Zoom,"Zoom AD-14E (EU) AC Adapter for H4n, H4nPro, R16, R24",1,"16.00",4515260007905,,0
@@ -2071,8 +2077,8 @@
 20004731,Zoom,[B-Stock] Zoom BTA-1 Bluetooth Adaptor,0,29,4515260018024,,0
 10004742,Zoom,Zoom CBF-1LP Carrying Bag for F1-LP,1,"22.00",4515260019311,,1
 20004742,Zoom,[B-Stock] Zoom CBF-1LP Carrying Bag for F1-LP,0,22,4515260019311,,1
-10004746,Zoom,Zoom CBL-20 Carrying Bag for L-20/L-12/L12next,0,"69.00",4515260019359,"2026-08-23 00:00:00",0
-20004746,Zoom,[B-Stock] Zoom CBL-20 Carrying Bag for L-20/L-12/L12next,0,69,4515260019359,"2026-08-23 00:00:00",0
+10004746,Zoom,Zoom CBL-20 Carrying Bag for L-20/L-12/L12next,0,"69.00",4515260019359,"2026-07-30 00:00:00",0
+20004746,Zoom,[B-Stock] Zoom CBL-20 Carrying Bag for L-20/L-12/L12next,0,69,4515260019359,"2026-07-30 00:00:00",0
 10004747,Zoom,Zoom CBR-16,1,"57.00",4515260020454,,0
 20004747,Zoom,[B-Stock] Zoom CBR-16,0,57,4515260020454,,0
 10004754,Zoom,Zoom ECM-6 Extension cable for Mic Capsule options,1,"76.00",4515260015900,,0
@@ -2161,12 +2167,12 @@
 20005697,Zoom,[B-Stock] Zoom LMF-2 Lavalier Microphone for F1,0,34,4515260019182,,1
 10005728,Zoom,Zoom PCF-8n Protective Case for F8n,1,"63.00",4515260019298,,0
 20005728,Zoom,[B-Stock] Zoom PCF-8n Protective Case for F8n,0,63,4515260019298,,0
-10006813,Zoom,Zoom SCU-20 Universal Soft Shell Case (Small size),0,"16.00",4515260020553,"2026-08-23 00:00:00",0
-20006813,Zoom,[B-Stock] Zoom SCU-20 Universal Soft Shell Case (Small size),0,16,4515260020553,"2026-08-23 00:00:00",0
+10006813,Zoom,Zoom SCU-20 Universal Soft Shell Case (Small size),0,"16.00",4515260020553,"2026-07-30 00:00:00",0
+20006813,Zoom,[B-Stock] Zoom SCU-20 Universal Soft Shell Case (Small size),0,16,4515260020553,"2026-07-30 00:00:00",0
 10006816,Zoom,"Zoom SGH-6 (UK) Shotgun Mic Capsule for H5, H6, Q8, F4, F8,…",1,"69.00",4515260013692,,0
 20006816,Zoom,"[B-Stock] Zoom SGH-6 (UK) Shotgun Mic Capsule for H5, H6, Q8, F4, F8,…",0,69,4515260013692,,0
-10006847,Zoom,Zoom WSU-1 Universal Windscreen for Handy Recorders,0,"21.00",4515260012817,"2026-08-23 00:00:00",0
-20006847,Zoom,[B-Stock] Zoom WSU-1 Universal Windscreen for Handy Recorders,2,18.9,4515260012817,"2026-08-23 00:00:00",0
+10006847,Zoom,Zoom WSU-1 Universal Windscreen for Handy Recorders,0,"21.00",4515260012817,"2026-07-30 00:00:00",0
+20006847,Zoom,[B-Stock] Zoom WSU-1 Universal Windscreen for Handy Recorders,2,18.9,4515260012817,"2026-07-30 00:00:00",0
 10006814,Zoom,Zoom SCU-40 Universal Soft Shell Case (Large size),1,"27.00",4515260020577,,0
 20006814,Zoom,[B-Stock] Zoom SCU-40 Universal Soft Shell Case (Large size),3,24.3,4515260020577,,0
 10006832,Zoom,Zoom TXF-8 TA3 to XLR Cable for F8/F8n,1,"41.00",4515260019397,,0
@@ -2243,16 +2249,16 @@
 20004702,Zoom,[B-Stock] Zoom APH-5 Accessory Pack for H5,0,42,4515260013968,,0
 10004727,Zoom,Zoom BCQ-2n Battery Case for Q2n / Q2n-4K,0,"34.00",4515260019939,,0
 20004727,Zoom,[B-Stock] Zoom BCQ-2n Battery Case for Q2n / Q2n-4K,0,34,4515260019939,,0
-10004803,Zoom,Zoom GHM-1 Guitar Head Mount for action cams,0,"27.00",4515260014019,"2026-08-23 00:00:00",0
-20004803,Zoom,[B-Stock] Zoom GHM-1 Guitar Head Mount for action cams,0,27,4515260014019,"2026-08-23 00:00:00",0
+10004803,Zoom,Zoom GHM-1 Guitar Head Mount for action cams,0,"27.00",4515260014019,"2026-07-30 00:00:00",0
+20004803,Zoom,[B-Stock] Zoom GHM-1 Guitar Head Mount for action cams,0,27,4515260014019,"2026-07-30 00:00:00",0
 10005671,Zoom,Zoom HS-1 Hot Shoe Mount for Handy Recorders,1,"13.00",4515260009657,,0
 20005671,Zoom,[B-Stock] Zoom HS-1 Hot Shoe Mount for Handy Recorders,0,13,4515260009657,,0
 10005694,Zoom,"Zoom LBC-1 (UK) Lithium Battery Charger for BT-02, BT-03",1,"34.00",4515260014866,,0
 20005694,Zoom,"[B-Stock] Zoom LBC-1 (UK) Lithium Battery Charger for BT-02, BT-03",0,34,4515260014866,,0
 10006815,Zoom,"Zoom SGH-6 - EU Version Shotgun Mic Capsule for H5, H6, Q8, F4, F8, U-44",1,"69.00",4515260013708,,0
 20006815,Zoom,"[B-Stock] Zoom SGH-6 - EU Version Shotgun Mic Capsule for H5, H6, Q8, F4, F8, U-44",0,69,4515260013708,,0
-10006817,Zoom,Zoom SMC-1 Stereo Mini Cable,0,"7.00",4515260019243,"2026-09-19 00:00:00",0
-20006817,Zoom,[B-Stock] Zoom SMC-1 Stereo Mini Cable,0,7,4515260019243,"2026-09-19 00:00:00",0
+10006817,Zoom,Zoom SMC-1 Stereo Mini Cable,0,"7.00",4515260019243,"2026-07-30 00:00:00",0
+20006817,Zoom,[B-Stock] Zoom SMC-1 Stereo Mini Cable,0,7,4515260019243,"2026-07-30 00:00:00",0
 10006825,Zoom,Zoom T-Shirt Creator Blue Size XL,1,"10.00",,,1
 20006825,Zoom,[B-Stock] Zoom T-Shirt Creator Blue Size XL,0,10,,,1
 10006826,Zoom,Zoom T-Shirt Creator Blue Size XXL,1,"10.00",,,1
@@ -2291,8 +2297,8 @@
 20008920,Zoom,[B-Stock] Zoom XLR-6c XLR Color ID Ring,0,8.4,4515260024407,,1
 10009324,Zoom,Zoom XLR-4C/CP XLR Mic Cables with Color ID Rings,1,"34.00",4515260025503,,1
 20009324,Zoom,[B-Stock] Zoom XLR-4C/CP XLR Mic Cables with Color ID Rings,0,34,4515260025503,,1
-10009575,Zoom,Zoom R20 MultiTrak (EU) Multi Track Recorder,0,"339.00",4515260025862,"2026-08-23 00:00:00",0
-20009575,Zoom,[B-Stock] Zoom R20 MultiTrak (EU) Multi Track Recorder,0,339,4515260025862,"2026-08-23 00:00:00",0
+10009575,Zoom,Zoom R20 MultiTrak (EU) Multi Track Recorder,0,"339.00",4515260025862,"2026-07-30 00:00:00",0
+20009575,Zoom,[B-Stock] Zoom R20 MultiTrak (EU) Multi Track Recorder,0,339,4515260025862,"2026-07-30 00:00:00",0
 10008918,Zoom,Zoom iQ6 XY Stereo Microphone,1,"82.00",4515260024438,,0
 20008918,Zoom,[B-Stock] Zoom iQ6 XY Stereo Microphone,0,82,4515260024438,,0
 10009325,Zoom,Zoom PCH-8 Protective Case for H8,1,"27.00",4515260024339,,0
@@ -2397,8 +2403,8 @@
 20012617,Zoom,[B-Stock] Zoom H2essential Multi-Mic Handy Recorder,0,134,4515260029884,,0
 10011601,Zoom,Zoom G1 FOUR Guitar Multi-Effects Pedal,1,"73.00",4515260020188,,0
 20011601,Zoom,[B-Stock] Zoom G1 FOUR Guitar Multi-Effects Pedal,0,73,4515260020188,,0
-10011846,Zoom,Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,"109.00",4515260029273,"2026-09-19 00:00:00",0
-20011846,Zoom,[B-Stock] Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,109,4515260029273,"2026-09-19 00:00:00",0
+10011846,Zoom,Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,"109.00",4515260029273,"2026-07-30 00:00:00",0
+20011846,Zoom,[B-Stock] Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,109,4515260029273,"2026-07-30 00:00:00",0
 10012929,Zoom,"Zoom ZDM-1, ZUM-2 Mikrofonhalterung",1,"6.00",,,0
 20012929,Zoom,"[B-Stock] Zoom ZDM-1, ZUM-2 Mikrofonhalterung",0,6,,,0
 10013047,Zoom,Zoom H5studio Handy Recorder,1,"264.00",4515260030170,,0
@@ -2415,8 +2421,8 @@
 20013048,Zoom,[B-Stock] Zoom PodTrak P2 Podcast Recorder,0,63,4515260029945,,0
 10012069,Zoom,Zoom H6essential Handy Recorder,1,"235.00",4515260029204,,0
 20012069,Zoom,[B-Stock] Zoom H6essential Handy Recorder,0,235,4515260029204,,0
-10012264,Zoom,Zoom APH-4e (EU) Accessory Pack for H4essential,0,"42.00",4515260029754,"2026-08-23 00:00:00",0
-20012264,Zoom,[B-Stock] Zoom APH-4e (EU) Accessory Pack for H4essential,0,42,4515260029754,"2026-08-23 00:00:00",0
+10012264,Zoom,Zoom APH-4e (EU) Accessory Pack for H4essential,0,"42.00",4515260029754,"2026-08-30 00:00:00",0
+20012264,Zoom,[B-Stock] Zoom APH-4e (EU) Accessory Pack for H4essential,0,42,4515260029754,"2026-08-30 00:00:00",0
 10012334,Zoom,Zoom APH-4e (UK) Accessory Pack for H4essential,0,"42.00",4515260029785,"2026-10-17 00:00:00",0
 20012334,Zoom,[B-Stock] Zoom APH-4e (UK) Accessory Pack for H4essential,0,42,4515260029785,"2026-10-17 00:00:00",0
 10012622,Zoom,Zoom APH-2e (EU) Accessory Pack for H2essential,1,"32.00",4515260030125,,0
@@ -2433,8 +2439,8 @@
 20012263,Zoom,[B-Stock] Zoom APH-1e (UK) Accessory Pack for H1essential,0,28,4515260029730,"2026-10-17 00:00:00",0
 10012265,Zoom,Zoom APH-6e (EU) Accessory Pack for H6essential,1,"39.00",4515260029808,,0
 20012265,Zoom,[B-Stock] Zoom APH-6e (EU) Accessory Pack for H6essential,0,39,4515260029808,,0
-10012284,Zoom,Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,"99.00",4515260029358,"2026-09-19 00:00:00",0
-20012284,Zoom,[B-Stock] Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,99,4515260029358,"2026-09-19 00:00:00",0
+10012284,Zoom,Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,"99.00",4515260029358,"2026-08-23 00:00:00",0
+20012284,Zoom,[B-Stock] Zoom MS-70CDR+ Multistomp Chorus / Delay / Reverb Pedal,0,99,4515260029358,"2026-08-23 00:00:00",0
 10012618,Zoom,Zoom LiveTrak L6 (EU) 10-Channel Mixer & Recorder,1,"179.00",4515260030163,,0
 20012618,Zoom,[B-Stock] Zoom LiveTrak L6 (EU) 10-Channel Mixer & Recorder,0,179,4515260030163,,0
 10023493,Zoom,Zoom H6studio Handy Recorder,1,"294.00",4515260030385,,0
@@ -2447,8 +2453,8 @@
 20022879,Zoom,[B-Stock] Zoom APH-5s (UK) Accessory Pack for H5studio,0,39,4515260030248,"2026-10-17 00:00:00",0
 10023617,Zoom,Zoom APH-6st (UK) Accessory Pack for H6studio,0,"39.00",4515260030569,"2026-10-17 00:00:00",0
 20023617,Zoom,[B-Stock] Zoom APH-6st (UK) Accessory Pack for H6studio,0,39,4515260030569,"2026-10-17 00:00:00",0
-10023495,Zoom,Zoom PodTrak P4next 4-Track Podcast Recorder,0,"134.00",4515260030392,"2026-08-23 00:00:00",0
-20023495,Zoom,[B-Stock] Zoom PodTrak P4next 4-Track Podcast Recorder,0,134,4515260030392,"2026-08-23 00:00:00",0
+10023495,Zoom,Zoom PodTrak P4next 4-Track Podcast Recorder,0,"134.00",4515260030392,"2026-07-30 00:00:00",0
+20023495,Zoom,[B-Stock] Zoom PodTrak P4next 4-Track Podcast Recorder,0,134,4515260030392,"2026-07-30 00:00:00",0
 10023562,Zoom,Zoom APH-6st (EU) Accessory Pack for H6studio,1,"39.00",4515260030538,,0
 20023562,Zoom,[B-Stock] Zoom APH-6st (EU) Accessory Pack for H6studio,0,39,4515260030538,,0
 10023496,Zoom,Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,1,"529.00",4515260030514,,0
@@ -4435,8 +4441,8 @@
 20003844,Dixon,[B-Stock] Dixon PDSM-A01 Snare Throw-off and butt end,0,9.45,4718981428763,"2026-12-10 00:00:00",0
 10003850,Dixon,Dixon PPB-F1-HP Bass Drum Beater Force Pad Dual Surfaces,0,"9.00",4718981410102,"2026-09-09 00:00:00",0
 20003850,Dixon,[B-Stock] Dixon PPB-F1-HP Bass Drum Beater Force Pad Dual Surfaces,0,9,4718981410102,"2026-09-09 00:00:00",0
-10003855,Dixon,Dixon PPB-9290CP-HP Cajon Beater Soft Blue,0,"6.35",4718981455936,"2026-11-16 00:00:00",0
-20003855,Dixon,[B-Stock] Dixon PPB-9290CP-HP Cajon Beater Soft Blue,0,6.35,4718981455936,"2026-11-16 00:00:00",0
+10003855,Dixon,Dixon PPB-9290CP-HP Cajon Beater Soft Blue,0,"6.35",4718981455936,"2026-11-20 00:00:00",0
+20003855,Dixon,[B-Stock] Dixon PPB-9290CP-HP Cajon Beater Soft Blue,0,6.35,4718981455936,"2026-11-20 00:00:00",0
 10003864,Dixon,Dixon PA-HCM-SP Hoop Cymbal Mount,0,"17.50",4718981403623,"2026-08-13 00:00:00",0
 20003864,Dixon,[B-Stock] Dixon PA-HCM-SP Hoop Cymbal Mount,0,17.5,4718981403623,"2026-08-13 00:00:00",0
 10003870,Dixon,Dixon G-SDH-HP Soft Drink Holder,0,"9.51",4718981403340,,0
@@ -4829,8 +4835,8 @@
 20006592,Dixon,[B-Stock] Dixon PSN-11 Round Throne,0,79.9,4718981480686,,0
 10006594,Dixon,Dixon PSH-P2 Hi-Hat Stand Medium,1,"63.00",4718981480785,,0
 20006594,Dixon,[B-Stock] Dixon PSH-P2 Hi-Hat Stand Medium,0,63,4718981480785,,0
-10006603,Dixon,Dixon PP-PCP1D Precision Coil Single Pedal Direct Drive with Bag,0,"125.00",4718981481928,"2026-11-16 00:00:00",0
-20006603,Dixon,[B-Stock] Dixon PP-PCP1D Precision Coil Single Pedal Direct Drive with Bag,0,125,4718981481928,"2026-11-16 00:00:00",0
+10006603,Dixon,Dixon PP-PCP1D Precision Coil Single Pedal Direct Drive with Bag,0,"125.00",4718981481928,"2026-11-20 00:00:00",0
+20006603,Dixon,[B-Stock] Dixon PP-PCP1D Precision Coil Single Pedal Direct Drive with Bag,0,125,4718981481928,"2026-11-20 00:00:00",0
 10006604,Dixon,Dixon PP-PCP1 Precision Coil Single Pedal Double Chain with Bag,1,"125.00",4718981477273,,0
 20006604,Dixon,[B-Stock] Dixon PP-PCP1 Precision Coil Single Pedal Double Chain with Bag,0,125,4718981477273,,0
 10006606,Dixon,Dixon PP-P2 Single Pedal Double Chain Drive,0,"63.00",4718981480518,,0
@@ -4863,8 +4869,8 @@
 20006695,Dixon,"[B-Stock] Dixon PHT108MSBK-DIX1 8"" Mesh Drumhead Black single layer",0,3.8,4718981485230,"2026-08-13 00:00:00",0
 10006697,Dixon,Dixon PST-K953T-KS K Series Tom/Cymbal Stand with 12.7 mm Rod,0,"120.00",4718981450696,"2026-11-16 00:00:00",0
 20006697,Dixon,[B-Stock] Dixon PST-K953T-KS K Series Tom/Cymbal Stand with 12.7 mm Rod,0,120,4718981450696,"2026-11-16 00:00:00",0
-10006706,Dixon,"Dixon PKZC22MA-BX 22"" Bass Drum Hoop Maple Natural",1,"41.60",4718981438267,,0
-20006706,Dixon,"[B-Stock] Dixon PKZC22MA-BX 22"" Bass Drum Hoop Maple Natural",0,41.6,4718981438267,,0
+10006706,Dixon,"Dixon PKZC22MA-BX 22"" Bass Drum Hoop Maple Natural",0,"41.60",4718981438267,"2026-08-13 00:00:00",0
+20006706,Dixon,"[B-Stock] Dixon PKZC22MA-BX 22"" Bass Drum Hoop Maple Natural",0,41.6,4718981438267,"2026-08-13 00:00:00",0
 10006708,Dixon,"Dixon PKZC20BK-BX 20"" Bass Drum Hoop Maple Satin Black",1,"38.50",4718981438250,,0
 20006708,Dixon,"[B-Stock] Dixon PKZC20BK-BX 20"" Bass Drum Hoop Maple Satin Black",0,38.5,4718981438250,,0
 10006711,Dixon,"Dixon PDSCL413ST Classic 13x4 Snare Steel, 1mm Thickness Steel Shell",1,"103.00",4718981475835,,0
@@ -4977,8 +4983,8 @@
 20006631,Dixon,[B-Stock] Dixon PAWS-11V-HP Metal washer for tension rod 12pc/pk,0,1.42,4718981449362,,0
 10006632,Dixon,Dixon PAKL272-SP Multi Clamp,1,"22.00",4718981403029,,0
 20006632,Dixon,[B-Stock] Dixon PAKL272-SP Multi Clamp,0,22,4718981403029,,0
-10006633,Dixon,Dixon PAKL190-SP Multi Clamp,1,"25.90",4718981468035,,0
-20006633,Dixon,[B-Stock] Dixon PAKL190-SP Multi Clamp,0,25.9,4718981468035,,0
+10006633,Dixon,Dixon PAKL190-SP Multi Clamp,0,"25.90",4718981468035,"2026-08-13 00:00:00",0
+20006633,Dixon,[B-Stock] Dixon PAKL190-SP Multi Clamp,0,25.9,4718981468035,"2026-08-13 00:00:00",0
 10006641,Dixon,"Dixon PKT12TCR1-BX 12"" TMS Tom Suspension 4 Ear for 6-lug hoops 10,5mm Rod",0,"28.20",4718981477204,"2026-11-16 00:00:00",0
 20006641,Dixon,"[B-Stock] Dixon PKT12TCR1-BX 12"" TMS Tom Suspension 4 Ear for 6-lug hoops 10,5mm Rod",0,28.2,4718981477204,"2026-11-16 00:00:00",0
 10006655,Dixon,Dixon PKT014SB-HP 14'' Maple Hoop Satin Brown Batter Side,1,"31.10",4718981479475,,0
@@ -5129,8 +5135,8 @@
 20006611,Dixon,"[B-Stock] Dixon PYH-PS1-BX Pro Workout Pad with Mounting Arm 6""",0,35,4718981469902,"2026-11-16 00:00:00",0
 10006614,Dixon,"Dixon PDP-PSC1 Practice Pad w/ Stand 6""",1,"41.90",4718981467106,,0
 20006614,Dixon,"[B-Stock] Dixon PDP-PSC1 Practice Pad w/ Stand 6""",0,41.9,4718981467106,,0
-10006617,Dixon,"Dixon PDP-C81-SP Practice Pad w/ Strap 6""",0,"16.59",4718981494157,"2026-12-10 00:00:00",0
-20006617,Dixon,"[B-Stock] Dixon PDP-C81-SP Practice Pad w/ Strap 6""",0,16.59,4718981494157,"2026-12-10 00:00:00",0
+10006617,Dixon,"Dixon PDP-C81-SP Practice Pad w/ Strap 6""",0,"16.59",4718981494157,"2026-11-20 00:00:00",0
+20006617,Dixon,"[B-Stock] Dixon PDP-C81-SP Practice Pad w/ Strap 6""",0,16.59,4718981494157,"2026-11-20 00:00:00",0
 10006627,Dixon,Dixon PDTH977BL Tom Holder,1,"19.80",4718981425809,,0
 20006627,Dixon,[B-Stock] Dixon PDTH977BL Tom Holder,0,19.8,4718981425809,,0
 10006629,Dixon,Dixon PDTH970HAL Tom Holder,1,"16.80",4718981412526,,0
@@ -6527,8 +6533,8 @@
 20010828,Gator,[B-Stock] Gator GW-SG-BROWN Gibson SG Guitar Deluxe Wood Case Brown,0,74,716408506517,,0
 10010843,Gator,Gator GWE-UKE-TEN Hardshell Wood Case Tenor Ukulele,1,"51.00",716408536453,,0
 20010843,Gator,[B-Stock] Gator GWE-UKE-TEN Hardshell Wood Case Tenor Ukulele,0,51,716408536453,,0
-10010853,Gator,Gator GWE-EXTREME Hardshell Wood Case Extreme Shaped Guitars,0,"87.00",716408543338,"2026-07-24 00:00:00",0
-20010853,Gator,[B-Stock] Gator GWE-EXTREME Hardshell Wood Case Extreme Shaped Guitars,0,87,716408543338,"2026-07-24 00:00:00",0
+10010853,Gator,Gator GWE-EXTREME Hardshell Wood Case Extreme Shaped Guitars,0,"87.00",716408543338,"2026-08-07 00:00:00",0
+20010853,Gator,[B-Stock] Gator GWE-EXTREME Hardshell Wood Case Extreme Shaped Guitars,0,87,716408543338,"2026-08-07 00:00:00",0
 10010854,Gator,Gator GWE-DREAD12 Hardshell Wood Case 12 String Dreadnought Guitar,0,"59.90",716408504599,"2026-08-07 00:00:00",0
 20010854,Gator,[B-Stock] Gator GWE-DREAD12 Hardshell Wood Case 12 String Dreadnought Guitar,0,59.9,716408504599,"2026-08-07 00:00:00",0
 10010886,Gator,"Gator G-TOUR PEDALBOARD-XLGW Tour Pedal Board 32""x15"" Surface",1,"267.00",716408546032,,0
@@ -6645,8 +6651,8 @@
 20010665,Gator,[B-Stock] Gator GC-APX APX-Style Guitar Case,0,83,716408501925,"2026-07-24 00:00:00",0
 10010671,Gator,Gator GC-DREAD-12-4PK 12-String Dreadnought Guitar Case,1,"89.00",716408501918,,0
 20010671,Gator,[B-Stock] Gator GC-DREAD-12-4PK 12-String Dreadnought Guitar Case,0,89,716408501918,,0
-10010672,Gator,Gator GC-ELECTRIC-A Electric Guitar Case,0,"75.00",716408500140,"2026-07-24 00:00:00",0
-20010672,Gator,[B-Stock] Gator GC-ELECTRIC-A Electric Guitar Case,0,75,716408500140,"2026-07-24 00:00:00",0
+10010672,Gator,Gator GC-ELECTRIC-A Electric Guitar Case,0,"75.00",716408500140,"2026-08-07 00:00:00",0
+20010672,Gator,[B-Stock] Gator GC-ELECTRIC-A Electric Guitar Case,0,75,716408500140,"2026-08-07 00:00:00",0
 10010678,Gator,Gator GC-ELECTRIC-LED Electric Guitar Case w/LED Illumination,0,"93.00",716408545820,"2026-09-10 00:00:00",0
 20010678,Gator,[B-Stock] Gator GC-ELECTRIC-LED Electric Guitar Case w/LED Illumination,0,93,716408545820,"2026-09-10 00:00:00",0
 10010682,Gator,Gator GC-LPS Gibson Les Paul Guitar Case,0,"68.00",716408500775,"2026-09-10 00:00:00",0
@@ -6753,8 +6759,8 @@
 20010842,Gator,[B-Stock] Gator GW-EXTREME Non-Standard Guitar Cases Black,0,125,716408503257,,0
 10010850,Gator,Gator GWE-BASS Hardshell Wood Case Bass Guitar,1,"64.50",716408501512,,0
 20010850,Gator,[B-Stock] Gator GWE-BASS Hardshell Wood Case Bass Guitar,0,64.5,716408501512,,0
-10010855,Gator,Gator GWE-ELEC Hardshell Wood Case Electric Guitar,1,"59.00",716408504575,,0
-20010855,Gator,[B-Stock] Gator GWE-ELEC Hardshell Wood Case Electric Guitar,0,59,716408504575,,0
+10010855,Gator,Gator GWE-ELEC Hardshell Wood Case Electric Guitar,0,"59.00",716408504575,"2026-07-24 00:00:00",0
+20010855,Gator,[B-Stock] Gator GWE-ELEC Hardshell Wood Case Electric Guitar,0,59,716408504575,"2026-07-24 00:00:00",0
 10010856,Gator,Gator GWE-ELEC-WIDE Hardshell Wood Case PRS Style&Wide Body Electric,0,"67.00",716408527987,"2026-09-10 00:00:00",0
 20010856,Gator,[B-Stock] Gator GWE-ELEC-WIDE Hardshell Wood Case PRS Style&Wide Body Electric,0,67,716408527987,"2026-09-10 00:00:00",0
 10011838,Gator,"Gator GPA-CVR8 Nylon Speaker Cover Compact 8"" Speaker Cabinets",1,"15.30",716408543406,,0
@@ -7843,8 +7849,8 @@
 20010491,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITEGTRHNGSTD-BLK Elite Guitar Furniture Hanging Stand - Black,0,50,716408558714,,0
 10010500,Gator Frameworks,Gator Frameworks GFW-ELITERK-2U-MPL Elite Series Furniture Desktop 2U Studio Rack MPL,1,"73.60",716408559889,,0
 20010500,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITERK-2U-MPL Elite Series Furniture Desktop 2U Studio Rack MPL,0,73.6,716408559889,,0
-10010501,Gator Frameworks,Gator Frameworks GFW-ELITERK-4U-BLK Elite Series Furniture Desktop 4U Studio Rack BLK,0,"81.00",716408561004,"2027-01-27 00:00:00",0
-20010501,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITERK-4U-BLK Elite Series Furniture Desktop 4U Studio Rack BLK,0,81,716408561004,"2027-01-27 00:00:00",0
+10010501,Gator Frameworks,Gator Frameworks GFW-ELITERK-4U-BLK Elite Series Furniture Desktop 4U Studio Rack BLK,0,"81.00",716408561004,"2027-01-30 00:00:00",0
+20010501,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITERK-4U-BLK Elite Series Furniture Desktop 4U Studio Rack BLK,0,81,716408561004,"2027-01-30 00:00:00",0
 10010502,Gator Frameworks,Gator Frameworks GFW-ELITERK-4U-BRN Elite Series Furniture Desktop 4U Studio Rack BRN,1,"81.00",716408559896,,0
 20010502,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITERK-4U-BRN Elite Series Furniture Desktop 4U Studio Rack BRN,0,81,716408559896,,0
 10010503,Gator Frameworks,Gator Frameworks GFW-ELITERK-4U-GRY Elite Series Furniture Desktop 4U Studio Rack GRY,1,"81.00",716408559902,,0
@@ -7975,8 +7981,8 @@
 20010490,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITEGTR5RK-GRY Elite Five Electric/Acoustic Guitar Rack - GRY,0,199,716408561714,"2027-01-25 00:00:00",0
 10010492,Gator Frameworks,Gator Frameworks GFW-ELITEGTRHNGSTD-GRY Elite Guitar Furniture Hanging Stand - Grey,1,"50.00",716408558721,,0
 20010492,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITEGTRHNGSTD-GRY Elite Guitar Furniture Hanging Stand - Grey,0,50,716408558721,,0
-10010497,Gator Frameworks,Gator Frameworks GFW-ELITERK-2U-BLK Elite Series Furniture Desktop 2U Studio Rack BLK,0,"73.60",716408560991,"2027-01-27 00:00:00",0
-20010497,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITERK-2U-BLK Elite Series Furniture Desktop 2U Studio Rack BLK,0,73.6,716408560991,"2027-01-27 00:00:00",0
+10010497,Gator Frameworks,Gator Frameworks GFW-ELITERK-2U-BLK Elite Series Furniture Desktop 2U Studio Rack BLK,0,"73.60",716408560991,"2027-01-30 00:00:00",0
+20010497,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITERK-2U-BLK Elite Series Furniture Desktop 2U Studio Rack BLK,0,73.6,716408560991,"2027-01-30 00:00:00",0
 10010509,Gator Frameworks,Gator Frameworks GFW-DESK-MAIN Content Furniture Desk - BLK,1,"158.00",716408556116,,0
 20010509,Gator Frameworks,[B-Stock] Gator Frameworks GFW-DESK-MAIN Content Furniture Desk - BLK,0,158,716408556116,,0
 10010521,Gator Frameworks,"Gator Frameworks GTR-PWR-5-F Pedal Board Power Supply 5 Outputs (EU, RUS, KOR)",1,"64.00",716408553481,,0
@@ -8869,8 +8875,8 @@
 20000576,DiMarzio,[B-Stock] DiMarzio DP 241 Vintage Minibucker Bridge,0,71,663334037052,"2026-10-17 00:00:00",0
 10000577,DiMarzio,DiMarzio DP 819BK D Activator 8 Neck black,1,"79.00",663334037069,,0
 20000577,DiMarzio,[B-Stock] DiMarzio DP 819BK D Activator 8 Neck black,0,79,663334037069,,0
-10000585,DiMarzio,DiMarzio FG2108WA8 Pre-wired ST Billy Corgan Setu,0,"277.00",663334033306,"2026-10-17 00:00:00",0
-20000585,DiMarzio,[B-Stock] DiMarzio FG2108WA8 Pre-wired ST Billy Corgan Setu,0,277,663334033306,"2026-10-17 00:00:00",0
+10000585,DiMarzio,DiMarzio FG2108WA8 Pre-wired ST Billy Corgan Setu,0,"277.00",663334033306,"2026-10-21 00:00:00",0
+20000585,DiMarzio,[B-Stock] DiMarzio FG2108WA8 Pre-wired ST Billy Corgan Setu,0,277,663334033306,"2026-10-21 00:00:00",0
 10000593,DiMarzio,DiMarzio FB2100WA2BK Pre-wired Bass Split P Set,1,"129.00",663334035348,,0
 20000593,DiMarzio,[B-Stock] DiMarzio FB2100WA2BK Pre-wired Bass Split P Set,0,129,663334035348,,0
 10000594,DiMarzio,DiMarzio FB2200CA1BK Pre-wired Bass Model J Set,1,"154.00",663334035355,,0
@@ -9183,8 +9189,8 @@
 20000518,DiMarzio,[B-Stock] DiMarzio DP 221BK D Activator X Neck,0,71,663334029354,"2026-09-28 00:00:00",0
 10000525,DiMarzio,DiMarzio DP 176BK True Velvet Bridge,0,"52.00",663334029583,"2026-10-17 00:00:00",0
 20000525,DiMarzio,[B-Stock] DiMarzio DP 176BK True Velvet Bridge,0,52,663334029583,"2026-10-17 00:00:00",0
-10000537,DiMarzio,DiMarzio DP 223FBK PAF Bridge,0,"71.00",663334029644,"2026-09-28 00:00:00",0
-20000537,DiMarzio,[B-Stock] DiMarzio DP 223FBK PAF Bridge,0,71,663334029644,"2026-09-28 00:00:00",0
+10000537,DiMarzio,DiMarzio DP 223FBK PAF Bridge,0,"71.00",663334029644,"2026-10-21 00:00:00",0
+20000537,DiMarzio,[B-Stock] DiMarzio DP 223FBK PAF Bridge,0,71,663334029644,"2026-10-21 00:00:00",0
 10000538,DiMarzio,DiMarzio DP 174SBK Red Velvet reversed,0,"57.70",663334010208,"2026-10-17 00:00:00",0
 20000538,DiMarzio,[B-Stock] DiMarzio DP 174SBK Red Velvet reversed,0,57.7,663334010208,"2026-10-17 00:00:00",0
 10000539,DiMarzio,DiMarzio DP 172G Twang King Neck,0,"61.00",663334025356,"2026-08-28 00:00:00",0
@@ -9343,8 +9349,8 @@
 20000379,DiMarzio,[B-Stock] DiMarzio DP 162CR DLX Plus Neck,0,78,663334009219,"2026-10-17 00:00:00",0
 10000382,DiMarzio,DiMarzio DP 152FCR Super 3,0,"65.00",663334006195,"2026-10-28 00:00:00",0
 20000382,DiMarzio,[B-Stock] DiMarzio DP 152FCR Super 3,0,65,663334006195,"2026-10-28 00:00:00",0
-10000388,DiMarzio,DiMarzio DP 156CR Humbucker From Hell,0,"65.00",663334007314,"2026-10-17 00:00:00",0
-20000388,DiMarzio,[B-Stock] DiMarzio DP 156CR Humbucker From Hell,0,65,663334007314,"2026-10-17 00:00:00",0
+10000388,DiMarzio,DiMarzio DP 156CR Humbucker From Hell,0,"65.00",663334007314,"2026-10-21 00:00:00",0
+20000388,DiMarzio,[B-Stock] DiMarzio DP 156CR Humbucker From Hell,0,65,663334007314,"2026-10-21 00:00:00",0
 10000399,DiMarzio,DiMarzio DP 161CR Steve's Special,0,"65.00",663334008885,"2026-10-17 00:00:00",0
 20000399,DiMarzio,[B-Stock] DiMarzio DP 161CR Steve's Special,0,65,663334008885,"2026-10-17 00:00:00",0
 10000404,DiMarzio,DiMarzio DP 169BK Virtual P-90,1,"71.00",663334017528,,0
@@ -9611,8 +9617,8 @@
 20000591,DiMarzio,[B-Stock] DiMarzio GG2101A3BK Modern Metal Set Pre-wired Replacement Set,0,222,663334035324,,0
 10000599,DiMarzio,DiMarzio DP 244FBK Dominion Neck,0,"78.00",663334039605,"2026-10-17 00:00:00",0
 20000599,DiMarzio,[B-Stock] DiMarzio DP 244FBK Dominion Neck,0,78,663334039605,"2026-10-17 00:00:00",0
-10000618,DiMarzio,DiMarzio DP 223FCR PAF Bridge creme,1,"71.00",663334029651,,0
-20000618,DiMarzio,[B-Stock] DiMarzio DP 223FCR PAF Bridge creme,0,71,663334029651,,0
+10000618,DiMarzio,DiMarzio DP 223FCR PAF Bridge creme,0,"71.00",663334029651,"2026-10-21 00:00:00",0
+20000618,DiMarzio,[B-Stock] DiMarzio DP 223FCR PAF Bridge creme,0,71,663334029651,"2026-10-21 00:00:00",0
 10000623,DiMarzio,DiMarzio DP 257FBK Illuminator Bridge black,0,"78.00",663334041899,"2026-10-17 00:00:00",0
 20000623,DiMarzio,[B-Stock] DiMarzio DP 257FBK Illuminator Bridge black,0,78,663334041899,"2026-10-17 00:00:00",0
 10000624,DiMarzio,DiMarzio DP 257BK Illuminator Bridge black,0,"78.00",663334041882,"2026-10-17 00:00:00",0
@@ -9779,8 +9785,8 @@
 20001002,DiMarzio,[B-Stock] DiMarzio DP 165PK The Breed Neck,0,72.7,663334009561,"2026-10-17 00:00:00",0
 10001016,DiMarzio,DiMarzio DP 213FW PAF Joe,0,"83.70",663334024380,"2026-10-17 00:00:00",0
 20001016,DiMarzio,[B-Stock] DiMarzio DP 213FW PAF Joe,0,83.7,663334024380,"2026-10-17 00:00:00",0
-10001017,DiMarzio,DiMarzio DD 2200OR Nylon ClipLock Strap Neon Orange,0,"17.90",663334034747,"2026-10-17 00:00:00",0
-20001017,DiMarzio,[B-Stock] DiMarzio DD 2200OR Nylon ClipLock Strap Neon Orange,0,17.9,663334034747,"2026-10-17 00:00:00",0
+10001017,DiMarzio,DiMarzio DD 2200OR Nylon ClipLock Strap Neon Orange,0,"17.90",663334034747,"2026-10-21 00:00:00",0
+20001017,DiMarzio,[B-Stock] DiMarzio DD 2200OR Nylon ClipLock Strap Neon Orange,0,17.9,663334034747,"2026-10-21 00:00:00",0
 10001024,DiMarzio,DiMarzio DP 103PKY PAF,0,"76.70",,"2026-10-17 00:00:00",0
 20001024,DiMarzio,[B-Stock] DiMarzio DP 103PKY PAF,0,76.7,,"2026-10-17 00:00:00",0
 10001030,DiMarzio,DiMarzio DP 100FRD Super Distortion,0,"70.70",663334002043,"2026-10-17 00:00:00",0
@@ -10193,8 +10199,8 @@
 20001572,DiMarzio,[B-Stock] DiMarzio EP 1718SV Steve Vai Signature Cable,0,71.4,663334027794,"2026-10-17 00:00:00",0
 10001575,DiMarzio,DiMarzio EP 1710SSPK Overbraid Cable 10-ft Pink,0,"18.60",663334034563,"2026-10-17 00:00:00",0
 20001575,DiMarzio,[B-Stock] DiMarzio EP 1710SSPK Overbraid Cable 10-ft Pink,0,18.6,663334034563,"2026-10-17 00:00:00",0
-10001603,DiMarzio,DiMarzio DP 103FW PAF,0,"76.70",663334003095,"2026-10-17 00:00:00",0
-20001603,DiMarzio,[B-Stock] DiMarzio DP 103FW PAF,0,76.7,663334003095,"2026-10-17 00:00:00",0
+10001603,DiMarzio,DiMarzio DP 103FW PAF,0,"76.70",663334003095,"2026-10-21 00:00:00",0
+20001603,DiMarzio,[B-Stock] DiMarzio DP 103FW PAF,0,76.7,663334003095,"2026-10-21 00:00:00",0
 10001627,DiMarzio,DiMarzio EP 1200PP Poti 250K Push-Pull,1,"8.00",663334013681,,0
 20001627,DiMarzio,[B-Stock] DiMarzio EP 1200PP Poti 250K Push-Pull,0,8,663334013681,,0
 10001628,DiMarzio,DiMarzio EP 1201PP 500K Push/Pull Potentiometer,1,"8.00",663334013704,,0
@@ -10433,8 +10439,8 @@
 20000550,DiMarzio,[B-Stock] DiMarzio DP 226W BC-2 Bridge,0,78,663334033283,"2026-10-28 00:00:00",0
 10000554,DiMarzio,DiMarzio DP 227BK LiquiFire,0,"78.00",663334034068,"2026-09-28 00:00:00",0
 20000554,DiMarzio,[B-Stock] DiMarzio DP 227BK LiquiFire,0,78,663334034068,"2026-09-28 00:00:00",0
-10000568,DiMarzio,DiMarzio DP 228FBC Crunch Lab,0,"78.00",663334034419,"2026-07-28 00:00:00",0
-20000568,DiMarzio,[B-Stock] DiMarzio DP 228FBC Crunch Lab,0,78,663334034419,"2026-07-28 00:00:00",0
+10000568,DiMarzio,DiMarzio DP 228FBC Crunch Lab,0,"78.00",663334034419,"2026-08-28 00:00:00",0
+20000568,DiMarzio,[B-Stock] DiMarzio DP 228FBC Crunch Lab,0,78,663334034419,"2026-08-28 00:00:00",0
 10000573,DiMarzio,DiMarzio DP 423BK Injector Bridge,0,"78.00",663334036680,"2026-07-28 00:00:00",0
 20000573,DiMarzio,[B-Stock] DiMarzio DP 423BK Injector Bridge,0,78,663334036680,"2026-07-28 00:00:00",0
 10000580,DiMarzio,DiMarzio DP 231 The Angel Active,1,"119.00",663334035386,,1
@@ -11973,8 +11979,8 @@
 20005167,DiMarzio,[B-Stock] DiMarzio DP 220FBKV D Activator Bridge bk/purple,0,72.7,,"2026-10-17 00:00:00",0
 10005169,DiMarzio,DiMarzio DP 261BC PAF Master Bridge Black/Cream,0,"65.00",,"2026-10-17 00:00:00",0
 20005169,DiMarzio,[B-Stock] DiMarzio DP 261BC PAF Master Bridge Black/Cream,0,65,,"2026-10-17 00:00:00",0
-10005174,DiMarzio,"DiMarzio EP 1102 Switchcraft Toggle, straight/short, Knobs",1,"21.00",663334042711,,0
-20005174,DiMarzio,"[B-Stock] DiMarzio EP 1102 Switchcraft Toggle, straight/short, Knobs",0,21,663334042711,,0
+10005174,DiMarzio,"DiMarzio EP 1102 Switchcraft Toggle, straight/short, Knobs",0,"21.00",663334042711,"2026-10-22 00:00:00",0
+20005174,DiMarzio,"[B-Stock] DiMarzio EP 1102 Switchcraft Toggle, straight/short, Knobs",0,21,663334042711,"2026-10-22 00:00:00",0
 10005176,DiMarzio,"DiMarzio EP 1114 CRL-Style 5way switch Strat, B/W Knobs",0,"16.80",663334042681,"2026-07-28 00:00:00",0
 20005176,DiMarzio,"[B-Stock] DiMarzio EP 1114 CRL-Style 5way switch Strat, B/W Knobs",0,16.8,663334042681,"2026-07-28 00:00:00",0
 10005180,DiMarzio,DiMarzio DP 151FGN PAF Pro green,0,"70.70",,"2026-10-17 00:00:00",0
@@ -13369,8 +13375,8 @@ John Petrucci Signature Model",0,83.7,,"2026-10-17 00:00:00",0
 20012610,DiMarzio,[B-Stock] DiMarzio DP 161FBV+G Steve´s Special,0,79.1,,"2026-10-17 00:00:00",0
 10012638,DiMarzio,DiMarzio DP 252FGN+BK Gravity Storm Neck green,0,"92.10",663334186194,"2026-10-17 00:00:00",0
 20012638,DiMarzio,[B-Stock] DiMarzio DP 252FGN+BK Gravity Storm Neck green,0,92.1,663334186194,"2026-10-17 00:00:00",0
-10012646,DiMarzio,DiMarzio DP 290BK+BK Fortitude Bridge Black,0,"86.40",,"2026-10-20 00:00:00",0
-20012646,DiMarzio,[B-Stock] DiMarzio DP 290BK+BK Fortitude Bridge Black,0,86.4,,"2026-10-20 00:00:00",0
+10012646,DiMarzio,DiMarzio DP 290BK+BK Fortitude Bridge Black,0,"86.40",,"2026-10-21 00:00:00",0
+20012646,DiMarzio,[B-Stock] DiMarzio DP 290BK+BK Fortitude Bridge Black,0,86.4,,"2026-10-21 00:00:00",0
 10012688,DiMarzio,DiMarzio DP 166GN+BK The Breed Bridge,0,"81.10",663334009950,"2026-10-17 00:00:00",0
 20012688,DiMarzio,[B-Stock] DiMarzio DP 166GN+BK The Breed Bridge,0,81.1,663334009950,"2026-10-17 00:00:00",0
 10012689,DiMarzio,DiMarzio DP 165GN+BK The Breed Neck,0,"81.10",663334009585,"2026-10-17 00:00:00",0
@@ -33663,8 +33669,8 @@ John Petrucci Signature Model",0,83.7,,"2026-10-17 00:00:00",0
 20023821,Samson,[B-Stock] Samson SRK21 21U Rackmount Case w/Wheels,0,119,809164004745,"2026-08-31 00:00:00",0
 10023822,Samson,Samson Expedition Express+ Portable PA with Bluetooth,1,"169.00",809164025276,,0
 20023822,Samson,[B-Stock] Samson Expedition Express+ Portable PA with Bluetooth,0,169,809164025276,,0
-10023823,Samson,Samson Expedition  XP800 Portable PA with Bluetooth,1,"479.00",809164018650,,0
-20023823,Samson,[B-Stock] Samson Expedition  XP800 Portable PA with Bluetooth,0,479,809164018650,,0
+10023823,Samson,Samson Expedition XP800 Portable PA with Bluetooth,1,"479.00",809164018650,,0
+20023823,Samson,[B-Stock] Samson Expedition XP800 Portable PA with Bluetooth,0,479,809164018650,,0
 10023824,Samson,Samson C02 (single) Pencil Condenser Mic,0,"44.00",809164003939,"2026-09-20 00:00:00",0
 20023824,Samson,[B-Stock] Samson C02 (single) Pencil Condenser Mic,0,44,809164003939,"2026-09-20 00:00:00",0
 10023825,Samson,Samson C03 Multi-Pattern Condenser Mic,0,"74.00",809164003397,,0

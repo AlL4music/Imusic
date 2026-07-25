@@ -1,0 +1,24 @@
+name: Reverb probe (push-triggered)
+
+on:
+  push:
+    branches: [claude/ibanez-product-import-5bd9an]
+    paths: ['.reverb-trigger']
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install mysql2
+      - name: Probe
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+        run: node reverb_probe.js --sku "LECLIPSE87BLKLH"

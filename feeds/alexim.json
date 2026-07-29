@@ -9,6 +9,6 @@
     "name": "Nazov",
     "url": "URL"
   },
-  "match_by": "old_shop_sku",
+  "match_by": "sku",
   "warehouse_id": 2
 }

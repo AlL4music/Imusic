@@ -1,0 +1,24 @@
+name: Alexim coverage check (push-triggered)
+
+on:
+  push:
+    branches: [claude/ibanez-product-import-5bd9an]
+    paths: ['.cov-trigger']
+
+jobs:
+  cov:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install mysql2
+      - name: Coverage
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+        run: node alexim_coverage.js

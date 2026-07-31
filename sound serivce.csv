@@ -1265,7 +1265,7 @@
 20002691,LTD,[B-Stock] LTD IRON CROSS SW LH JAMES HETFIELD - Incl. Case SNOW WHITE - LEFTHAND,0,1139,799493247688,,0
 10002693,LTD,LTD JH-600 BLK JEFF HANNEMAN SIGNATURE - Incl. Case BLACK,0,"1037.00",840248011976,,1
 20002693,LTD,[B-Stock] LTD JH-600 BLK JEFF HANNEMAN SIGNATURE - Incl. Case BLACK,0,1037,840248011976,,1
-10002694,LTD,LTD JL-600 BLKS JEFF LING SIGNATURE - Incl. Case BLACK SATIN,0,"1199.00",799493257038,,1
+10002694,LTD,LTD JL-600 BLKS JEFF LING SIGNATURE - Incl. Case BLACK SATIN,1,"1199.00",799493257038,,1
 20002694,LTD,[B-Stock] LTD JL-600 BLKS JEFF LING SIGNATURE - Incl. Case BLACK SATIN,0,1199,799493257038,,1
 10002731,LTD,LTD VULTURE BLKS JAMES HETFIELD - Incl. Case BLACK SATIN,0,"1199.00",799493256420,"2026-09-28 00:00:00",0
 20002731,LTD,[B-Stock] LTD VULTURE BLKS JAMES HETFIELD - Incl. Case BLACK SATIN,0,1199,799493256420,"2026-09-28 00:00:00",0
@@ -1809,8 +1809,8 @@
 20012977,LTD,[B-Stock] LTD GEORGE LYNCH BURNT TIGER SIGNATURE LIMITED EDITION 2016,0,491,,,1
 10012979,LTD,LTD EC-2025 50TH ANNIVERSARY METALLIC GOLD LIMITED EDITION,1,"1249.00",719710628274,,1
 20012979,LTD,[B-Stock] LTD EC-2025 50TH ANNIVERSARY METALLIC GOLD LIMITED EDITION,0,1249,719710628274,,1
-10012980,LTD,LTD MT-I MICK THOMSON SIGNATURE OBSIDIAN METALLIC,0,"1225.00",719710628144,"2026-07-28 00:00:00",0
-20012980,LTD,[B-Stock] LTD MT-I MICK THOMSON SIGNATURE OBSIDIAN METALLIC,0,1225,719710628144,"2026-07-28 00:00:00",0
+10012980,LTD,LTD MT-I MICK THOMSON SIGNATURE OBSIDIAN METALLIC,0,"1225.00",719710628144,"2026-09-28 00:00:00",0
+20012980,LTD,[B-Stock] LTD MT-I MICK THOMSON SIGNATURE OBSIDIAN METALLIC,0,1225,719710628144,"2026-09-28 00:00:00",0
 10013029,LTD,LTD EC-01 FT CHARCOAL BURST SATIN,0,"899.00",719710627734,,1
 20013029,LTD,[B-Stock] LTD EC-01 FT CHARCOAL BURST SATIN,0,899,719710627734,,1
 10011342,LTD,LTD GH-SV-200 BLK Gary Holt,0,"565.00",719710619883,"2026-08-28 00:00:00",0
@@ -1899,8 +1899,8 @@
 20024039,LTD,[B-Stock] LTD SURVEYOR-204DX BLACK BURST Surveyor Bass Series,0,384,719710629004,,0
 10024040,LTD,LTD SURVEYOR-204DX RED BURST Surveyor Bass Series,0,"384.00",719710629011,"2026-08-28 00:00:00",0
 20024040,LTD,[B-Stock] LTD SURVEYOR-204DX RED BURST Surveyor Bass Series,0,384,719710629011,"2026-08-28 00:00:00",0
-10024088,LTD,LTD ARROW-400 CHARCOAL METALLIC Arrow Series Guitars,0,"655.00",719710629028,"2026-07-28 00:00:00",0
-20024088,LTD,[B-Stock] LTD ARROW-400 CHARCOAL METALLIC Arrow Series Guitars,0,655,719710629028,"2026-07-28 00:00:00",0
+10024088,LTD,LTD ARROW-400 CHARCOAL METALLIC Arrow Series Guitars,0,"655.00",719710629028,"2026-09-28 00:00:00",0
+20024088,LTD,[B-Stock] LTD ARROW-400 CHARCOAL METALLIC Arrow Series Guitars,0,655,719710629028,"2026-09-28 00:00:00",0
 10024089,LTD,LTD ARROW-400 SCARLET METALLIC Arrow Series Guitars,0,"655.00",719710629035,"2026-10-28 00:00:00",0
 20024089,LTD,[B-Stock] LTD ARROW-400 SCARLET METALLIC Arrow Series Guitars,0,655,719710629035,"2026-10-28 00:00:00",0
 10024090,LTD,LTD EC-400 QM SEE THRU BLACK SUNBURST EC Series Guitars,0,"599.00",719710629066,"2026-08-28 00:00:00",0
@@ -2195,8 +2195,8 @@
 20007193,Zoom,[B-Stock] Zoom SGV-6 Vocal Mic for V3 and V6,0,95,4515260023530,,0
 10007255,Zoom,Zoom CBL-8 Carrying Bag for L-8,1,"41.00",4515260022878,,0
 20007255,Zoom,[B-Stock] Zoom CBL-8 Carrying Bag for L-8,0,41,4515260022878,,0
-10001096,Zoom,Zoom A1X FOUR Acoustic Instruments Multi-Effects Pedal,0,"119.00",4515260022106,"2026-07-30 00:00:00",0
-20001096,Zoom,[B-Stock] Zoom A1X FOUR Acoustic Instruments Multi-Effects Pedal,0,119,4515260022106,"2026-07-30 00:00:00",0
+10001096,Zoom,Zoom A1X FOUR Acoustic Instruments Multi-Effects Pedal,0,"119.00",4515260022106,"2026-08-11 00:00:00",0
+20001096,Zoom,[B-Stock] Zoom A1X FOUR Acoustic Instruments Multi-Effects Pedal,0,119,4515260022106,"2026-08-11 00:00:00",0
 10001651,Zoom,Zoom AC-2 Acoustic Creator,1,"133.00",4515260017720,,0
 20001651,Zoom,[B-Stock] Zoom AC-2 Acoustic Creator,0,133,4515260017720,,0
 10002029,Zoom,Zoom AD-16E (EU) AC Adapter DC 9 V / 500 mA,1,"14.00",4515260008742,,0
@@ -2405,8 +2405,8 @@
 20012617,Zoom,[B-Stock] Zoom H2essential Multi-Mic Handy Recorder,0,134,4515260029884,,0
 10011601,Zoom,Zoom G1 FOUR Guitar Multi-Effects Pedal,1,"73.00",4515260020188,,0
 20011601,Zoom,[B-Stock] Zoom G1 FOUR Guitar Multi-Effects Pedal,0,73,4515260020188,,0
-10011846,Zoom,Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,"109.00",4515260029273,"2026-07-30 00:00:00",0
-20011846,Zoom,[B-Stock] Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,109,4515260029273,"2026-07-30 00:00:00",0
+10011846,Zoom,Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,"109.00",4515260029273,"2026-08-11 00:00:00",0
+20011846,Zoom,[B-Stock] Zoom R4 MultiTrak Handheld 4-Track Recorder with 32-Bit Float Audio,0,109,4515260029273,"2026-08-11 00:00:00",0
 10012929,Zoom,"Zoom ZDM-1, ZUM-2 Mikrofonhalterung",1,"6.00",,,0
 20012929,Zoom,"[B-Stock] Zoom ZDM-1, ZUM-2 Mikrofonhalterung",0,6,,,0
 10013047,Zoom,Zoom H5studio Handy Recorder,1,"264.00",4515260030170,,0
@@ -2455,8 +2455,8 @@
 20022879,Zoom,[B-Stock] Zoom APH-5s (UK) Accessory Pack for H5studio,0,39,4515260030248,"2026-10-24 00:00:00",0
 10023617,Zoom,Zoom APH-6st (UK) Accessory Pack for H6studio,0,"39.00",4515260030569,"2026-10-24 00:00:00",0
 20023617,Zoom,[B-Stock] Zoom APH-6st (UK) Accessory Pack for H6studio,0,39,4515260030569,"2026-10-24 00:00:00",0
-10023495,Zoom,Zoom PodTrak P4next 4-Track Podcast Recorder,0,"134.00",4515260030392,"2026-07-30 00:00:00",0
-20023495,Zoom,[B-Stock] Zoom PodTrak P4next 4-Track Podcast Recorder,0,134,4515260030392,"2026-07-30 00:00:00",0
+10023495,Zoom,Zoom PodTrak P4next 4-Track Podcast Recorder,0,"134.00",4515260030392,"2026-08-11 00:00:00",0
+20023495,Zoom,[B-Stock] Zoom PodTrak P4next 4-Track Podcast Recorder,0,134,4515260030392,"2026-08-11 00:00:00",0
 10023562,Zoom,Zoom APH-6st (EU) Accessory Pack for H6studio,1,"39.00",4515260030538,,0
 20023562,Zoom,[B-Stock] Zoom APH-6st (EU) Accessory Pack for H6studio,0,39,4515260030538,,0
 10023496,Zoom,Zoom LiveTrak L12next (EU) Digital Mixer and Recorder,1,"529.00",4515260030514,,0
@@ -2795,8 +2795,8 @@
 20007561,DV Mark,[B-Stock] DV Mark DV Little GH 250 Tube 250w Guitar Amplifier,0,375,8033829134818,,0
 10007570,DV Mark,"DV Mark DV Neoclassic 212 2 x 12"" Guitar Cabinet",0,"383.40",8033829136805,,0
 20007570,DV Mark,"[B-Stock] DV Mark DV Neoclassic 212 2 x 12"" Guitar Cabinet",0,383.4,8033829136805,,0
-10007579,DV Mark,"DV Mark DV Gold 212V 2 x 12"" Guitar Cabinet",0,"381.00",8033829136966,"2026-10-28 00:00:00",0
-20007579,DV Mark,"[B-Stock] DV Mark DV Gold 212V 2 x 12"" Guitar Cabinet",0,381,8033829136966,"2026-10-28 00:00:00",0
+10007579,DV Mark,"DV Mark DV Gold 212V 2 x 12"" Guitar Cabinet",1,"381.00",8033829136966,,0
+20007579,DV Mark,"[B-Stock] DV Mark DV Gold 212V 2 x 12"" Guitar Cabinet",0,381,8033829136966,,0
 10007560,DV Mark,DV Mark DV Little GH 250 250w Guitar Amplifier,1,"314.00",8033829134795,,0
 20007560,DV Mark,[B-Stock] DV Mark DV Little GH 250 250w Guitar Amplifier,0,314,8033829134795,,0
 10007586,DV Mark,"DV Mark DV Jazz 12 1 x 12"" Guitar Combo",1,"383.40",8033829137178,,0
@@ -4483,8 +4483,8 @@
 20003987,Dixon,[B-Stock] Dixon PODJ516OS Jet Set Plus Shellset 5pc Orange Sparkle,0,435,4718981482956,,0
 10004009,Dixon,"Dixon PDSCL654MA Classic 14x6.5 Snare Marble Apex, Maple Formula Shell",1,"112.50",4718981475132,,0
 20004009,Dixon,"[B-Stock] Dixon PDSCL654MA Classic 14x6.5 Snare Marble Apex, Maple Formula Shell",0,112.5,4718981475132,,0
-10004010,Dixon,"Dixon PDSCL354MA Classic 14x3.5 Snare Marble Apex, Maple Formula Shell",1,"99.00",4718981475149,,0
-20004010,Dixon,"[B-Stock] Dixon PDSCL354MA Classic 14x3.5 Snare Marble Apex, Maple Formula Shell",0,99,4718981475149,,0
+10004010,Dixon,"Dixon PDSCL354MA Classic 14x3.5 Snare Marble Apex, Maple Formula Shell",0,"99.00",4718981475149,"2026-11-27 00:00:00",0
+20004010,Dixon,"[B-Stock] Dixon PDSCL354MA Classic 14x3.5 Snare Marble Apex, Maple Formula Shell",0,99,4718981475149,"2026-11-27 00:00:00",0
 10004018,Dixon,"Dixon PDSCST654ST Cornerstone Snare 14x6.5 Steel, 1mm Thickness Steel Shell",1,"130.00",4718981474708,,0
 20004018,Dixon,"[B-Stock] Dixon PDSCST654ST Cornerstone Snare 14x6.5 Steel, 1mm Thickness Steel Shell",0,130,4718981474708,,0
 10004038,Dixon,Dixon PDSM-61 Snare Throw-off,0,"14.90",4718981428930,"2026-09-09 00:00:00",0
@@ -5859,8 +5859,8 @@
 20024087,Dixon,[B-Stock] Dixon PDTL-2US-BK Snare/Tom Lug black,0,3.1,4718981505723,,0
 10024102,Dixon,"Dixon Artisan Maple 7ply Blue Burst Sparkle Chrome HW 22x18/10x8/12x9/14x14/16x16FT/14x6,5SN",0,"1240.00",,"2026-11-23 00:00:00",0
 20024102,Dixon,"[B-Stock] Dixon Artisan Maple 7ply Blue Burst Sparkle Chrome HW 22x18/10x8/12x9/14x14/16x16FT/14x6,5SN",0,1240,,"2026-11-23 00:00:00",0
-10024187,Dixon,Dixon PODL320HRG Little Roomer Select Shellset 3pc Heirloom Grey,0,"549.00",4718981505969,"2026-09-09 00:00:00",0
-20024187,Dixon,[B-Stock] Dixon PODL320HRG Little Roomer Select Shellset 3pc Heirloom Grey,0,549,4718981505969,"2026-09-09 00:00:00",0
+10024187,Dixon,Dixon PODL320HRG Little Roomer Select Shellset 3pc Heirloom Grey,0,"549.00",4718981505969,"2026-11-30 00:00:00",0
+20024187,Dixon,[B-Stock] Dixon PODL320HRG Little Roomer Select Shellset 3pc Heirloom Grey,0,549,4718981505969,"2026-11-30 00:00:00",0
 10024188,Dixon,Dixon PP-P3 Single Pedal Double Chain Drive with Metallic Bag,0,"94.00",4718981505860,"2026-08-13 00:00:00",0
 20024188,Dixon,[B-Stock] Dixon PP-P3 Single Pedal Double Chain Drive with Metallic Bag,0,94,4718981505860,"2026-08-13 00:00:00",0
 10024189,Dixon,Dixon PP-P3D Double Pedal Double Chain Drive with Metallic Bag,0,"195.00",4718981505877,"2026-08-13 00:00:00",0
@@ -6006,7 +6006,7 @@
 10000741,E-II,E-II HORIZON NT-II STBLKSB See Thru Black Sunburst,0,"2009.00",799493254785,"2026-10-28 00:00:00",0
 20000741,E-II,[B-Stock] E-II HORIZON NT-II STBLKSB See Thru Black Sunburst,0,2009,799493254785,"2026-10-28 00:00:00",0
 10000746,E-II,E-II ECLIPSE EVERTUNE BLKS Black Satin Black Satin,1,"2217.00",799493259070,,0
-20000746,E-II,[B-Stock] E-II ECLIPSE EVERTUNE BLKS Black Satin Black Satin,0,2217,799493259070,,0
+20000746,E-II,[B-Stock] E-II ECLIPSE EVERTUNE BLKS Black Satin Black Satin,1,1995.3,799493259070,,0
 10000755,E-II,E-II GB-5 BLK Black,0,"1847.00",799493262544,,1
 20000755,E-II,[B-Stock] E-II GB-5 BLK Black,0,1847,799493262544,,1
 10000776,E-II,E-II HORIZON FR BLKNB Black Natural Burst,1,"1967.00",799493265156,,0
@@ -6021,8 +6021,8 @@
 20000718,E-II,[B-Stock] E-II HORIZON FR-7 BLK Black,0,2120,840248010610,,0
 10000720,E-II,E-II HORIZON FM NT DBSB,0,"1595.00",840248007177,,1
 20000720,E-II,[B-Stock] E-II HORIZON FM NT DBSB,0,1595,840248007177,,1
-10000721,E-II,E-II M-II STBLK See Thru Black,0,"1967.00",840248008976,"2026-07-28 00:00:00",0
-20000721,E-II,[B-Stock] E-II M-II STBLK See Thru Black,0,1967,840248008976,"2026-07-28 00:00:00",0
+10000721,E-II,E-II M-II STBLK See Thru Black,0,"1967.00",840248008976,"2026-08-28 00:00:00",0
+20000721,E-II,[B-Stock] E-II M-II STBLK See Thru Black,0,1967,840248008976,"2026-08-28 00:00:00",0
 10000772,E-II,E-II ECLIPSE BLUNFD BLUE NATURAL FADE Blue Natural Fade,1,"2036.00",799493265101,,0
 20000772,E-II,[B-Stock] E-II ECLIPSE BLUNFD BLUE NATURAL FADE Blue Natural Fade,0,2036,799493265101,,0
 10000781,E-II,E-II VIPER BLK Black,0,"1704.00",799493265187,"2026-08-28 00:00:00",0
@@ -6615,8 +6615,8 @@
 20010661,Gator,[B-Stock] Gator GBE-ELECT Gig Bag Electric with fixed Backpack Straps,0,18.8,716408504483,,0
 10010664,Gator,Gator GC-335 Semi-Hollow Style Guitar Case,0,"89.00",716408501574,"2026-09-10 00:00:00",0
 20010664,Gator,[B-Stock] Gator GC-335 Semi-Hollow Style Guitar Case,0,89,716408501574,"2026-09-10 00:00:00",0
-10010717,Gator,Gator GL-DREAD-12 12 String Dreadnought Guitar Lightweight Case,0,"70.00",716408501901,"2027-02-03 00:00:00",0
-20010717,Gator,[B-Stock] Gator GL-DREAD-12 12 String Dreadnought Guitar Lightweight Case,0,70,716408501901,"2027-02-03 00:00:00",0
+10010717,Gator,Gator GL-DREAD-12 12 String Dreadnought Guitar Lightweight Case,0,"70.00",716408501901,"2027-02-06 00:00:00",0
+20010717,Gator,[B-Stock] Gator GL-DREAD-12 12 String Dreadnought Guitar Lightweight Case,0,70,716408501901,"2027-02-06 00:00:00",0
 10010720,Gator,"Gator GTSA-MIX203006 Polyethylene Plastic Case 20x30x6""",1,"165.00",716408539652,,1
 20010720,Gator,"[B-Stock] Gator GTSA-MIX203006 Polyethylene Plastic Case 20x30x6""",0,165,716408539652,,1
 10010730,Gator,Gator GL-JUMBO Jumbo Acoustic Guitar Lightweight Case,1,"68.00",716408502069,,0
@@ -6897,8 +6897,8 @@
 20011859,Gator,[B-Stock] Gator GP-PE1408SD Snare Drum Case; Elite Air Series;  14''x8'',0,89.4,673021117967,,0
 10011871,Gator,Gator GKBE-49 49 Keys Economy Keyboard Gig Bag,1,"20.50",716408522012,,0
 20011871,Gator,[B-Stock] Gator GKBE-49 49 Keys Economy Keyboard Gig Bag,0,20.5,716408522012,,0
-10011873,Gator,"Gator GP-007A Nylon, Fur-Lined Stick Bag",0,"11.90",716408504605,"2027-02-04 00:00:00",0
-20011873,Gator,"[B-Stock] Gator GP-007A Nylon, Fur-Lined Stick Bag",0,11.9,716408504605,"2027-02-04 00:00:00",0
+10011873,Gator,"Gator GP-007A Nylon, Fur-Lined Stick Bag",0,"11.90",716408504605,"2027-02-05 00:00:00",0
+20011873,Gator,"[B-Stock] Gator GP-007A Nylon, Fur-Lined Stick Bag",0,11.9,716408504605,"2027-02-05 00:00:00",0
 10011879,Gator,"Gator G-TOUR 14U CAST 14U, Standard Audio Road Rack Case w/ Casters",1,"360.00",716408506623,,0
 20011879,Gator,"[B-Stock] Gator G-TOUR 14U CAST 14U, Standard Audio Road Rack Case w/ Casters",0,360,716408506623,,0
 10011884,Gator,Gator G-TOURTRK302212 Truck Pack Utility ATA Flight Case; 30” x 22” x 22,1,"339.00",716408526003,,0
@@ -7015,8 +7015,8 @@
 20010808,Gator,[B-Stock] Gator GTR-FRETMUTESM-1BK Guitar Fret Mute 1 Pack Black - Size Sm.,0,4.35,716408558073,,0
 10010810,Gator,Gator GKB-76 76 Keys Keyboard Gig Bag,1,"65.00",716408503677,,0
 20010810,Gator,[B-Stock] Gator GKB-76 76 Keys Keyboard Gig Bag,0,65,716408503677,,0
-10010819,Gator,Gator GK-88 88 Keys Lightweight Keyboard Case,1,"142.50",716408502526,,0
-20010819,Gator,[B-Stock] Gator GK-88 88 Keys Lightweight Keyboard Case,0,142.5,716408502526,,0
+10010819,Gator,Gator GK-88 88 Keys Lightweight Keyboard Case,0,"142.50",716408502526,"2026-09-10 00:00:00",0
+20010819,Gator,[B-Stock] Gator GK-88 88 Keys Lightweight Keyboard Case,0,142.5,716408502526,"2026-09-10 00:00:00",0
 10010826,Gator,Gator GK-2110 Micro Keyboard / Controler Bag,1,"21.90",716408502809,,0
 20010826,Gator,[B-Stock] Gator GK-2110 Micro Keyboard / Controler Bag,0,21.9,716408502809,,0
 10010830,Gator,Gator GW-LP-BROWN Gibson Les Paul Guitar Deluxe Wood Case Brown,1,"75.00",716408504001,,0
@@ -7787,8 +7787,8 @@
 20011866,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITEDESK-BLK Content Furniture Desk - BLK,0,290,716408560793,,0
 10011870,Gator Frameworks,Gator Frameworks GFW-MICSTDBAG Frameworks Bag to carry 6 Tripod Mic Stands,0,"36.60",716408546506,"2027-02-01 00:00:00",0
 20011870,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MICSTDBAG Frameworks Bag to carry 6 Tripod Mic Stands,0,36.6,716408546506,"2027-02-01 00:00:00",0
-10010409,Gator Frameworks,Gator Frameworks GFW-CABLEHANGER Wall Mountable Cable Hanger And Organizer,0,"11.90",716408551265,"2026-09-27 00:00:00",0
-20010409,Gator Frameworks,[B-Stock] Gator Frameworks GFW-CABLEHANGER Wall Mountable Cable Hanger And Organizer,0,11.9,716408551265,"2026-09-27 00:00:00",0
+10010409,Gator Frameworks,Gator Frameworks GFW-CABLEHANGER Wall Mountable Cable Hanger And Organizer,1,"11.90",716408551265,,0
+20010409,Gator Frameworks,[B-Stock] Gator Frameworks GFW-CABLEHANGER Wall Mountable Cable Hanger And Organizer,0,11.9,716408551265,,0
 10010417,Gator Frameworks,Gator Frameworks GFW-GTR-AMP Combo Amp Stand,1,"23.90",716408532561,,0
 20010417,Gator Frameworks,[B-Stock] Gator Frameworks GFW-GTR-AMP Combo Amp Stand,0,23.9,716408532561,,0
 10010419,Gator Frameworks,Gator Frameworks GFW-GTR-HNGRCHR Cherry Wall Mount Guitar Hanger,1,"7.40",716408540061,,0
@@ -7797,8 +7797,8 @@
 20010443,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ISOPAD-SM Studio Monitor Isolation Pads - Small,0,9.95,716408551364,,0
 10010445,Gator Frameworks,Gator Frameworks GFW-KEY-BNCH-1 Standard Black Keyboard Bench,1,"38.50",716408532936,,0
 20010445,Gator Frameworks,[B-Stock] Gator Frameworks GFW-KEY-BNCH-1 Standard Black Keyboard Bench,0,38.5,716408532936,,0
-10010448,Gator Frameworks,Gator Frameworks GFW-MIC-0501 Round Base Desktop Mic Stand,0,"12.40",716408555805,"2027-02-04 00:00:00",0
-20010448,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-0501 Round Base Desktop Mic Stand,0,12.4,716408555805,"2027-02-04 00:00:00",0
+10010448,Gator Frameworks,Gator Frameworks GFW-MIC-0501 Round Base Desktop Mic Stand,1,"12.40",716408555805,,0
+20010448,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-0501 Round Base Desktop Mic Stand,0,12.4,716408555805,,0
 10010450,Gator Frameworks,Gator Frameworks GFW-MIC-0601 Desktop Mic Stand with Round Base & Twist Clutch,1,"16.00",716408532721,,0
 20010450,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-0601 Desktop Mic Stand with Round Base & Twist Clutch,0,16,716408532721,,0
 10010457,Gator Frameworks,Gator Frameworks GFWMICBCBM1000 Desk-Mounted Broadcast/Podcast Boom Mic Stand,1,"39.00",716408549040,,0
@@ -7823,8 +7823,8 @@
 20010505,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITESTUDIORK12-BLK Elite Series Angled Studio Rack - 12U BLK,0,172.9,716408560854,,0
 10010507,Gator Frameworks,Gator Frameworks GFW-ELITESTUDIORK12-GRY Elite Series Angled Studio Rack - 12U GRY,1,"172.90",716408560830,,0
 20010507,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITESTUDIORK12-GRY Elite Series Angled Studio Rack - 12U GRY,0,172.9,716408560830,,0
-10010515,Gator Frameworks,Gator Frameworks GFW-MIC-6TRAY Tray to hold 6 mics on top of a mic stand,0,"15.20",716408548005,"2027-02-04 00:00:00",0
-20010515,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-6TRAY Tray to hold 6 mics on top of a mic stand,0,15.2,716408548005,"2027-02-04 00:00:00",0
+10010515,Gator Frameworks,Gator Frameworks GFW-MIC-6TRAY Tray to hold 6 mics on top of a mic stand,1,"15.20",716408548005,,0
+20010515,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-6TRAY Tray to hold 6 mics on top of a mic stand,0,15.2,716408548005,,0
 10010518,Gator Frameworks,"Gator Frameworks GTR-PWR-12-F Pedal Board Power Supply 12 Outputs (EU, RUS, KOR)",1,"109.50",716408555041,,0
 20010518,Gator Frameworks,"[B-Stock] Gator Frameworks GTR-PWR-12-F Pedal Board Power Supply 12 Outputs (EU, RUS, KOR)",0,109.5,716408555041,,0
 10010520,Gator Frameworks,Gator Frameworks GTR-PWR-2XVOLTAGE Power Supply Voltage Doubler Cable,1,"2.00",716408556345,,0
@@ -9239,8 +9239,8 @@
 20000661,DiMarzio,[B-Stock] DiMarzio DP 272FBK Imperium 6 Bridge black,0,78,663334047228,"2026-10-24 00:00:00",0
 10000662,DiMarzio,DiMarzio DP 715BK Imperium 7 Neck black,0,"83.00",663334047235,"2026-10-24 00:00:00",0
 20000662,DiMarzio,[B-Stock] DiMarzio DP 715BK Imperium 7 Neck black,0,83,663334047235,"2026-10-24 00:00:00",0
-10000273,DiMarzio,DiMarzio DP 103BC PAF,1,"71.00",663334002845,,0
-20000273,DiMarzio,[B-Stock] DiMarzio DP 103BC PAF,0,71,663334002845,,0
+10000273,DiMarzio,DiMarzio DP 103BC PAF,0,"71.00",663334002845,"2026-10-29 00:00:00",0
+20000273,DiMarzio,[B-Stock] DiMarzio DP 103BC PAF,0,71,663334002845,"2026-10-29 00:00:00",0
 10000279,DiMarzio,DiMarzio DP 104FBK Super 2,0,"65.00",663334003323,"2026-10-24 00:00:00",0
 20000279,DiMarzio,[B-Stock] DiMarzio DP 104FBK Super 2,0,65,663334003323,"2026-10-24 00:00:00",0
 10000280,DiMarzio,DiMarzio DP 110BK FS-1,0,"52.00",663334003972,"2026-10-28 00:00:00",0
@@ -12449,8 +12449,8 @@
 20007431,DiMarzio,[B-Stock] DiMarzio DP 102W+N X2N White/Nickel Pole Pieces,0,85.1,663334174405,"2026-10-24 00:00:00",0
 10007479,DiMarzio,DiMarzio DP 820BW+BK D Activator 8 Bridge Black/White / Black Pole Pieces,0,"93.10",663334186705,"2026-10-24 00:00:00",0
 20007479,DiMarzio,[B-Stock] DiMarzio DP 820BW+BK D Activator 8 Bridge Black/White / Black Pole Pieces,0,93.1,663334186705,"2026-10-24 00:00:00",0
-10007482,DiMarzio,DiMarzio DP 290BK Fortitude Bridge Black,1,"78.00",663334171039,,0
-20007482,DiMarzio,[B-Stock] DiMarzio DP 290BK Fortitude Bridge Black,0,78,663334171039,,0
+10007482,DiMarzio,DiMarzio DP 290BK Fortitude Bridge Black,0,"78.00",663334171039,"2026-10-28 00:00:00",0
+20007482,DiMarzio,[B-Stock] DiMarzio DP 290BK Fortitude Bridge Black,0,78,663334171039,"2026-10-28 00:00:00",0
 10007077,DiMarzio,DiMarzio DP 255BK+G Transition Bridge Black/Gold Pole Pieces,0,"86.40",,"2026-10-24 00:00:00",0
 20007077,DiMarzio,[B-Stock] DiMarzio DP 255BK+G Transition Bridge Black/Gold Pole Pieces,0,86.4,,"2026-10-24 00:00:00",0
 10007137,DiMarzio,DiMarzio DP 714W+G Titan 7 Bridge White/Gold Polepieces,0,"97.10",663334205925,"2026-10-25 00:00:00",0
@@ -18147,8 +18147,8 @@ John Petrucci Signature Model",0,83.7,,"2026-10-24 00:00:00",0
 20015416,DiMarzio,"[B-Stock] DiMarzio DP 188V+N Pro Track Purple, Nickel Pole Pieces",0,79.1,,"2026-10-24 00:00:00",0
 10015417,DiMarzio,"DiMarzio DP 188W+G Pro Track White, Gold Pole Pieces",0,"73.40",,"2026-10-24 00:00:00",0
 20015417,DiMarzio,"[B-Stock] DiMarzio DP 188W+G Pro Track White, Gold Pole Pieces",0,73.4,,"2026-10-24 00:00:00",0
-10015430,DiMarzio,"DiMarzio DP 189CR+N The Tone Zone S Cream, Nickel Pole Pieces",0,"73.40",663334199286,"2026-10-24 00:00:00",0
-20015430,DiMarzio,"[B-Stock] DiMarzio DP 189CR+N The Tone Zone S Cream, Nickel Pole Pieces",0,73.4,663334199286,"2026-10-24 00:00:00",0
+10015430,DiMarzio,"DiMarzio DP 189CR+N The Tone Zone S Cream, Nickel Pole Pieces",0,"73.40",663334199286,"2026-10-28 00:00:00",0
+20015430,DiMarzio,"[B-Stock] DiMarzio DP 189CR+N The Tone Zone S Cream, Nickel Pole Pieces",0,73.4,663334199286,"2026-10-28 00:00:00",0
 10015444,DiMarzio,DiMarzio DP 189V The Tone Zone S Purple,0,"70.70",663334024601,"2026-10-24 00:00:00",0
 20015444,DiMarzio,[B-Stock] DiMarzio DP 189V The Tone Zone S Purple,0,70.7,663334024601,"2026-10-24 00:00:00",0
 10015447,DiMarzio,"DiMarzio DP 189W+G The Tone Zone S White, Gold Pole Pieces",0,"73.40",663334185043,"2026-10-24 00:00:00",0

@@ -7,6 +7,9 @@ on:
         description: 'Product ID to check (default 39052 = Ibanez ICWH727)'
         required: false
         default: '39052'
+  push:
+    branches:
+      - 'claude/icwh727-customer-views-*'
 
 jobs:
   customer-views:

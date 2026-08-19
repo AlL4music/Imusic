@@ -1,0 +1,34 @@
+name: Customer Views
+
+on:
+  workflow_dispatch:
+    inputs:
+      product_id:
+        description: 'Product ID to check (default 39052 = Ibanez ICWH727)'
+        required: false
+        default: '39052'
+
+jobs:
+  customer-views:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install mysql2
+
+      - name: Check current viewers
+        env:
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          PRODUCT_ID: ${{ github.event.inputs.product_id }}
+        run: node customer_views.js

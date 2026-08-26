@@ -18,11 +18,25 @@ class ScraperMusicPark(BaseScraper):
         return [url for url in urls if '/produkt/' in url]
 
     def parse_product(self, soup: BeautifulSoup, url: str):
-        # 1. SKU
+        # 1. SKU — find by the ASCII class name, NOT by the accented "Obj. kód:" text.
+        # Since ~Aug 2026 music-park.sk serves mixed/mis-declared encoding, so the
+        # accented text mangles differently per decode and a literal regex never
+        # matches. The wrapper <div class='obj_kod'> is encoding-proof.
         kod = None
-        sku_div = soup.find('div', string=re.compile(r'Obj\. kód:'))
-        if sku_div:
-            kod = sku_div.get_text(strip=True).split(':')[-1].strip().replace('\xa0', '')
+        wrap = soup.find('div', class_='obj_kod')
+        if wrap:
+            first = wrap.find('div')
+            txt = (first.get_text(strip=True) if first else wrap.get_text(strip=True)).replace('\xa0', ' ')
+            # "Obj. k?d: EK06216500" — tolerate any mangling of the accented character
+            m = re.search(r'Obj\. k.{1,3}d:\s*(\S+)', txt)
+            if m:
+                kod = m.group(1).strip()
+
+        # legacy fallback (pre-Aug-2026 markup)
+        if not kod:
+            sku_div = soup.find('div', string=re.compile(r'Obj\. kód:'))
+            if sku_div:
+                kod = sku_div.get_text(strip=True).split(':')[-1].strip().replace('\xa0', '')
 
         if not kod:
             return None

@@ -52,7 +52,8 @@ jobs:
           run "Eprodance"                 python -u eprodance.py
           run "iMusic Network"            python -u imusic.py
           run "Kytary"                    python -u kytary.py
-          run "Music Park"                python -u musicpark.py
+          # Music Park moved to local PC scheduled task (run_and_push.py) - site blocks GH Actions IPs since ~Aug 2026, runner wasted ~1.5h/day finding 0 products
+          # run "Music Park"                python -u musicpark.py
           run "Muziker"                   python -u muziker.py
           run "PMC"                       python -u pmc.py
           run "Music Trade"               python -u musictrade.py

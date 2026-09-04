@@ -30,7 +30,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Pridáme výsledné CSV
-          git add basys_sklad.csv
+          git add stock/basys_sklad.csv
           
           # Skontrolujeme, či sú nejaké zmeny na commitnutie
           if git diff --staged --quiet; then

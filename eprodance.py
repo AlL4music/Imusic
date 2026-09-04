@@ -49,7 +49,7 @@ class ScraperEprodance(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.eprodance.cz/sitemap.xml',
-        output_file='eprodance_sklad.csv',
+        output_file='stock/eprodance_sklad.csv',
         max_workers=10,
         url_blacklist=['/znacka/', '/clanky/', '/blog/', '/vyrobce/', '/kontakt', '/o-nas', '/kosik', '/zakaznik']
     )

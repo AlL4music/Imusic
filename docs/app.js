@@ -89,7 +89,7 @@ async function loadFeeds() {
 
 async function loadCsvFiles() {
   try {
-    const contents = await ghGet('');
+    const contents = await ghGet('stock');
     csvFiles = contents
       .filter(f => f.name.endsWith('_sklad.csv') || f.name.endsWith('.csv'))
       .map(f => ({

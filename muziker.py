@@ -14,7 +14,7 @@ import time
 import requests
 
 CSV_URL = "https://pyfeed.muzmuz.tech/feeds/output/bjfifkwodvbba3124emkhfpzf.csv"
-OUTPUT_FILE = "muziker_sklad.csv"
+OUTPUT_FILE = "stock/muziker_sklad.csv"
 
 
 def fetch_csv(url, timeout=120):

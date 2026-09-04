@@ -18,7 +18,7 @@ const PASSWORD_MD5 = 'cb41e5098579086e4a9d30c6cddc220e';
 const BRAND_UNIT = '9'; // MUSIK MEYER Central Europe
 const ENDPOINT = 'https://extra.musik-meyer.net/ws/services/MMGCustomizedItems';
 const AVAILABILITY_BATCH_SIZE = 200; // how many articles per availability request
-const OUTPUT_FILE = path.join(__dirname, 'MM.csv');
+const OUTPUT_FILE = path.join(__dirname, 'stock', 'MM.csv');
 
 // --- SOAP Templates ---
 

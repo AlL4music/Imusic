@@ -42,7 +42,7 @@ class ScraperIMusicNetwork(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.i-musicnetwork.com/sitemap/salesChannel-4b8b064817284071a04cc1a2c7a1d55e-2fbb5fe2e29a4d70aa5854ce7ce3e20b/4b8b064817284071a04cc1a2c7a1d55e-d20bc771d63049b889561b51db39b535-sitemap-www-i-musicnetwork-com-1.xml.gz',
-        output_file='imusicnetwork_sklad.csv',
+        output_file='stock/imusicnetwork_sklad.csv',
         max_workers=10,
         delay=0.1,
         url_blacklist=[]

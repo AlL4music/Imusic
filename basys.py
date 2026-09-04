@@ -58,7 +58,7 @@ class ScraperBasys(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.basys.sk/sitemap.xml',  # fallback ak lokalny neexistuje
-        output_file='basys_sklad.csv',
+        output_file='stock/basys_sklad.csv',
         max_workers=5,  # Basys je citlivy
         delay=0.3,      # 300ms medzi requestami
         url_blacklist=['/c/']

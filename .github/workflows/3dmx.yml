@@ -30,7 +30,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Pridáme všetky CSV súbory, ktoré skript vytvoril
-          git add *.csv
+          git add stock/*.csv
           
           # Commitne zmeny len ak nejaké sú, aby workflow nepadol na chybe "nothing to commit"
           if git diff --staged --quiet; then

@@ -42,7 +42,7 @@ class Scraper3DMX(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.3dmx.cz/sitemap/sitemap_cs.xml',
-        output_file='3dmx_sklad.csv',
+        output_file='stock/3dmx_sklad.csv',
         max_workers=15,
         url_blacklist=['/c/', '/vyr/']  # kategorie a vyrobcovia
     )

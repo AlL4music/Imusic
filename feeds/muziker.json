@@ -1,7 +1,7 @@
 {
   "name": "Muziker",
   "enabled": true,
-  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/muziker_sklad.csv",
+  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/stock/muziker_sklad.csv",
   "delimiter": ";",
   "columns": {
     "sku": "Code",

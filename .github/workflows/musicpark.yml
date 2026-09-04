@@ -32,6 +32,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           # Pridáme -f (force) alebo kontrolu existencie, aby to nepadlo
-          git add musicpark_sklad.csv
+          git add stock/musicpark_sklad.csv
           git commit -m "Aktualizácia dát: $(date)" || echo "Žiadne zmeny na commit"
           git push

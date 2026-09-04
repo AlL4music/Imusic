@@ -63,7 +63,7 @@ class ScraperMusicTrade(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.musictrade.cz/sitemap.xml',
-        output_file='musictrade_sklad.csv',
+        output_file='stock/musictrade_sklad.csv',
         max_workers=20,
         url_blacklist=['/znacka/', '/kategorie/']
     )

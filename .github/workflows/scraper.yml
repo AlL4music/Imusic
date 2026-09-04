@@ -47,7 +47,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Pridáme všetky vytvorené alebo upravené CSV súbory
-          git add *.csv
+          git add stock/*.csv
           
           # Commit a push len ak nastali zmeny
           if git diff --staged --quiet; then

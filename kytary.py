@@ -20,7 +20,7 @@ XML_URL = (
     "&instanceCode=B2B_SK&mode=full"
 )
 
-OUTPUT_FILE = "kytary_sklad.csv"
+OUTPUT_FILE = "stock/kytary_sklad.csv"
 
 
 def fetch_xml(url, timeout=300):

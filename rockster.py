@@ -51,7 +51,7 @@ class ScraperRockster(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.rockster.cz/sitemap-product-1.xml',
-        output_file='rockster_sklad.csv',
+        output_file='stock/rockster_sklad.csv',
         max_workers=5,
         delay=0.2,  # 200ms medzi requestami
         url_blacklist=[]

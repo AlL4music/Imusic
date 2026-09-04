@@ -31,7 +31,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Pridáme vytvorený CSV súbor
-          git add eprodance_sklad.csv
+          git add stock/eprodance_sklad.csv
           
           if git diff --staged --quiet; then
             echo "No changes to commit"

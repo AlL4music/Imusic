@@ -16,7 +16,7 @@ import requests
 from xml.etree import ElementTree as ET
 
 XML_URL = "http://b2b.pmc.cz/xml/XML_PMCOS.xml"
-OUTPUT_FILE = "pmc_sklad.csv"
+OUTPUT_FILE = "stock/pmc_sklad.csv"
 
 
 def fetch_xml(url, timeout=120):

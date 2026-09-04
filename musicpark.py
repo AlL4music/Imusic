@@ -61,7 +61,7 @@ class ScraperMusicPark(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.music-park.sk/sitemap.xml',
-        output_file='musicpark_sklad.csv',
+        output_file='stock/musicpark_sklad.csv',
         max_workers=5,
         url_blacklist=[]  # filtrujeme v get_sitemap_urls
     )

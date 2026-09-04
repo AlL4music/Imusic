@@ -40,7 +40,7 @@ class ScraperAlexim(BaseScraper):
 if __name__ == "__main__":
     config = ScraperConfig(
         sitemap_url='https://www.alexim.cz/sitemap.xml',
-        output_file='alexim_sklad.csv',
+        output_file='stock/alexim_sklad.csv',
         max_workers=15,
         csv_separator=';',  # zjednotene na ;
         url_blacklist=['/c/', '/v/', '/clanky/', '/images/', '/p/', '.jpg', '.png', '.pdf']

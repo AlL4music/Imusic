@@ -1,6 +1,7 @@
 {
   "name": "HDT",
-  "enabled": true,
+  "enabled": false,
+  "_note": "disabled 2026-09-10: cenik stale since March, matched only a false-positive (Sonor 51913901); HDT products now created from shop.hdt.cz crawl, stock synced by re-crawl (sku = HDT code). Re-enable with match_by sku when a fresh cenik lands in stock/cenik-hdt.csv.",
   "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/stock/cenik-hdt.csv",
   "delimiter": ";",
   "columns": {
@@ -8,6 +9,6 @@
     "quantity": "SkladManufacturer",
     "brand": "Značka"
   },
-  "match_by": "model",
+  "match_by": "sku",
   "warehouse_id": 2
 }

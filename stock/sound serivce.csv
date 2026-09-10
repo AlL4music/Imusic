@@ -1461,8 +1461,8 @@
 20003028,LTD,[B-Stock] LTD EC-1000S FM Special Edition STBLK,0,599,840248003124,,1
 10007854,LTD,LTD ARROW-NT BLACK METAL BLKS BLACK SATIN Arrow Series Guitars,0,"699.00",799493273212,,1
 20007854,LTD,[B-Stock] LTD ARROW-NT BLACK METAL BLKS BLACK SATIN Arrow Series Guitars,0,699,799493273212,,1
-10007855,LTD,LTD EC-1000 EVERTUNE BB BLKS BLACK SATIN EC Series Guitars,0,"1075.00",799493273298,"2026-10-15 00:00:00",0
-20007855,LTD,[B-Stock] LTD EC-1000 EVERTUNE BB BLKS BLACK SATIN EC Series Guitars,0,1075,799493273298,"2026-10-15 00:00:00",0
+10007855,LTD,LTD EC-1000 EVERTUNE BB BLKS BLACK SATIN EC Series Guitars,0,"1075.00",799493273298,"2026-11-03 00:00:00",0
+20007855,LTD,[B-Stock] LTD EC-1000 EVERTUNE BB BLKS BLACK SATIN EC Series Guitars,0,1075,799493273298,"2026-11-03 00:00:00",0
 10007866,LTD,LTD H-1001 VLANDS VIOLET ANDROMEDA SATIN H Series Guitars,0,"949.00",799493273311,,1
 20007866,LTD,[B-Stock] LTD H-1001 VLANDS VIOLET ANDROMEDA SATIN H Series Guitars,0,949,799493273311,,1
 10007868,LTD,LTD JM-II JOSH MIDDLETON SIGNATURE - Incl. Case BLACK SHADOW BURST,1,"1199.00",799493269574,,0
@@ -1509,7 +1509,7 @@
 20007869,LTD,[B-Stock] LTD JR-7 QM FBSB JAVIER REYES SIGNATURE - Incl. Case FADED BLUE SUNBURST,1,1421.1,799493274219,,1
 10007872,LTD,LTD MH-1000 EVERTUNE DBSB DARK BROWN SUNBURST MH Series Guitars,0,"1079.00",799493273335,,1
 20007872,LTD,[B-Stock] LTD MH-1000 EVERTUNE DBSB DARK BROWN SUNBURST MH Series Guitars,0,1079,799493273335,,1
-10007881,LTD,LTD SN-1 HT BLKBLAST BLACK BLAST SN Series Guitars,1,"989.00",799493273380,,1
+10007881,LTD,LTD SN-1 HT BLKBLAST BLACK BLAST SN Series Guitars,0,"989.00",799493273380,,1
 20007881,LTD,[B-Stock] LTD SN-1 HT BLKBLAST BLACK BLAST SN Series Guitars,0,989,799493273380,,1
 10007886,LTD,LTD AA-1 BLKS ALAN ASHBY SIGNATURE - Incl. Case BLACK SATIN,1,"1069.00",799493274202,,0
 20007886,LTD,[B-Stock] LTD AA-1 BLKS ALAN ASHBY SIGNATURE - Incl. Case BLACK SATIN,0,1069,799493274202,,0
@@ -2065,12 +2065,12 @@
 20024608,LTD,"[B-Stock] LTD B-BASS BLKS Bass Pack Black Satin Lefthand Incl. Tuner, Amp, Bag, Strap, Picks, Cable",0,226,,"2026-09-18 00:00:00",0
 10024613,LTD,LTD EC-1000 BLACK FLUENCE LH,0,"1199.00",,"2026-12-05 00:00:00",0
 20024613,LTD,[B-Stock] LTD EC-1000 BLACK FLUENCE LH,0,1199,,"2026-12-05 00:00:00",0
-10024668,LTD,LTD M-207B DX CRIMSON SATIN M Series Guitars,0,"379.00",719710630222,"2026-12-05 00:00:00",0
-20024668,LTD,[B-Stock] LTD M-207B DX CRIMSON SATIN M Series Guitars,0,379,719710630222,"2026-12-05 00:00:00",0
-10024669,LTD,LTD M-207B DX SEE THRU BLACK SATIN M Series Basses,0,"379.00",719710630215,"2026-12-05 00:00:00",0
-20024669,LTD,[B-Stock] LTD M-207B DX SEE THRU BLACK SATIN M Series Basses,0,379,719710630215,"2026-12-05 00:00:00",0
-10024670,LTD,LTD BB-200 BARITONE QM STBLKSB SATIN Signature Series Guitars,0,"489.00",719710629387,"2026-12-07 00:00:00",0
-20024670,LTD,[B-Stock] LTD BB-200 BARITONE QM STBLKSB SATIN Signature Series Guitars,0,489,719710629387,"2026-12-07 00:00:00",0
+10024668,LTD,LTD M-207B DX CRIMSON SATIN M Series Guitars,0,"379.00",719710630222,"2026-12-09 00:00:00",0
+20024668,LTD,[B-Stock] LTD M-207B DX CRIMSON SATIN M Series Guitars,0,379,719710630222,"2026-12-09 00:00:00",0
+10024669,LTD,LTD M-207B DX SEE THRU BLACK SATIN M Series Basses,0,"379.00",719710630215,"2026-12-08 00:00:00",0
+20024669,LTD,[B-Stock] LTD M-207B DX SEE THRU BLACK SATIN M Series Basses,0,379,719710630215,"2026-12-08 00:00:00",0
+10024670,LTD,LTD BB-200 BARITONE QM STBLKSB SATIN Signature Series Guitars,0,"489.00",719710629387,"2026-12-08 00:00:00",0
+20024670,LTD,[B-Stock] LTD BB-200 BARITONE QM STBLKSB SATIN Signature Series Guitars,0,489,719710629387,"2026-12-08 00:00:00",0
 10002797,LTD,LTD TE-1000 EVERTUNE BLKNB BLACK NATURAL BURST TE Series Guitars,0,"947.00",799493264807,,0
 20002797,LTD,[B-Stock] LTD TE-1000 EVERTUNE BLKNB BLACK NATURAL BURST TE Series Guitars,0,947,799493264807,,0
 10024671,LTD,LTD M-200FR BLK M Series Guitars,0,"0.00",719710629417,,0
@@ -2279,8 +2279,8 @@
 20010180,Zoom,[B-Stock] Zoom V6-SP (UK) Vocal Processor,0,254,4515260027903,,0
 10010293,Zoom,Zoom M3 MicTrak Stereo Shotgun Recorder,1,"125.00",4515260027675,,0
 20010293,Zoom,[B-Stock] Zoom M3 MicTrak Stereo Shotgun Recorder,1,112.5,4515260027675,,0
-10010294,Zoom,Zoom M4 MicTrak 4-Channel Field & Music Recorder,0,"99.50",4515260027705,"2026-12-07 00:00:00",0
-20010294,Zoom,[B-Stock] Zoom M4 MicTrak 4-Channel Field & Music Recorder,8,89.55,4515260027705,"2026-12-07 00:00:00",0
+10010294,Zoom,Zoom M4 MicTrak 4-Channel Field & Music Recorder,0,"99.50",4515260027705,"2026-12-09 00:00:00",0
+20010294,Zoom,[B-Stock] Zoom M4 MicTrak 4-Channel Field & Music Recorder,8,89.55,4515260027705,"2026-12-09 00:00:00",0
 10009573,Zoom,Zoom CBP-8 Carrying Bag for P8,1,"57.00",4515260025527,,1
 20009573,Zoom,[B-Stock] Zoom CBP-8 Carrying Bag for P8,0,57,4515260025527,,1
 10009574,Zoom,Zoom EXH-8 Expander Module for H8,1,"109.00",4515260026890,,0
@@ -2359,8 +2359,8 @@
 20010040,Zoom,[B-Stock] Zoom AMS-22 Audio Interface for Music & Streaming,1,56.7,4515260025916,"2026-09-19 00:00:00",0
 10010041,Zoom,Zoom AMS-24 Audio Interface for Music & Streaming,0,"92.00",4515260025947,"2026-09-19 00:00:00",0
 20010041,Zoom,[B-Stock] Zoom AMS-24 Audio Interface for Music & Streaming,0,92,4515260025947,"2026-09-19 00:00:00",0
-10009888,Zoom,Zoom F3 MultiTrack Field Recorder,0,"242.00",4515260026005,"2026-09-19 00:00:00",0
-20009888,Zoom,[B-Stock] Zoom F3 MultiTrack Field Recorder,0,242,4515260026005,"2026-09-19 00:00:00",0
+10009888,Zoom,Zoom F3 MultiTrack Field Recorder,0,"242.00",4515260026005,"2026-09-30 00:00:00",0
+20009888,Zoom,[B-Stock] Zoom F3 MultiTrack Field Recorder,0,242,4515260026005,"2026-09-30 00:00:00",0
 10009706,Zoom,Zoom T-Shirt Creators Panel Grey Size M,1,"10.00",,,0
 20009706,Zoom,[B-Stock] Zoom T-Shirt Creators Panel Grey Size M,0,10,,,0
 10010896,Zoom,Zoom G2 FOUR (UK) Guitar Multi-Effects Pedal,1,"89.00",4515260027958,,0
@@ -4085,8 +4085,8 @@
 20012389,ESP USA,[B-Stock] ESP USA HORIZON II EMG ALIEN BLOOD SPLATTER EMG 57/66,0,4229,,"2027-08-02 00:00:00",0
 10022884,ESP USA,"ESP USA VIPER SC ADAMANTIUM BH FL Fluence Modern Set, Satin Finish",0,"3925.00",,"2027-08-02 00:00:00",0
 20022884,ESP USA,"[B-Stock] ESP USA VIPER SC ADAMANTIUM BH FL Fluence Modern Set, Satin Finish",0,3925,,"2027-08-02 00:00:00",0
-10022937,ESP USA,ESP USA V-II FR GH SD DISCO PINK SPARKLE GLOSS AlNiCo II Pro Set,0,"4477.00",,"2027-08-02 00:00:00",0
-20022937,ESP USA,[B-Stock] ESP USA V-II FR GH SD DISCO PINK SPARKLE GLOSS AlNiCo II Pro Set,0,4477,,"2027-08-02 00:00:00",0
+10022937,ESP USA,ESP USA V-II FR GH SD DISCO PINK SPARKLE GLOSS AlNiCo II Pro Set,0,"4477.00",,"2027-08-06 00:00:00",0
+20022937,ESP USA,[B-Stock] ESP USA V-II FR GH SD DISCO PINK SPARKLE GLOSS AlNiCo II Pro Set,0,4477,,"2027-08-06 00:00:00",0
 10022941,ESP USA,ESP USA ECLIPSE FR GH RUSTIC COPPER SPK SD ASlNiCo II Pro Set,0,"4477.00",,"2027-08-02 00:00:00",0
 20022941,ESP USA,[B-Stock] ESP USA ECLIPSE FR GH RUSTIC COPPER SPK SD ASlNiCo II Pro Set,0,4477,,"2027-08-02 00:00:00",0
 10012634,ESP USA,ESP USA VIPER FM BH STBLKSB EMG EMG 81-X/ 85-X,0,"3539.00",,"2027-08-02 00:00:00",0
@@ -4685,8 +4685,8 @@
 20003929,Dixon,[B-Stock] Dixon PSO-70 Wing Rack With T Leg,0,88,4718981402466,,0
 10003947,Dixon,Dixon PAKL1845-SP Aluminium Holder Clamp,1,"14.00",4718981406426,,0
 20003947,Dixon,[B-Stock] Dixon PAKL1845-SP Aluminium Holder Clamp,0,14,4718981406426,,0
-10004035,Dixon,Dixon PA-AM-SP Accessory Mount (1),0,"12.70",4718981403005,"2026-09-09 00:00:00",0
-20004035,Dixon,[B-Stock] Dixon PA-AM-SP Accessory Mount (1),0,12.7,4718981403005,"2026-09-09 00:00:00",0
+10004035,Dixon,Dixon PA-AM-SP Accessory Mount (1),0,"12.70",4718981403005,"2026-09-30 00:00:00",0
+20004035,Dixon,[B-Stock] Dixon PA-AM-SP Accessory Mount (1),0,12.7,4718981403005,"2026-09-30 00:00:00",0
 10004055,Dixon,Dixon PATS-4V/4-HP Tension Rod w. Washer 106mm 4pcs.,0,"3.65",4718981449324,"2026-12-10 00:00:00",0
 20004055,Dixon,[B-Stock] Dixon PATS-4V/4-HP Tension Rod w. Washer 106mm 4pcs.,0,3.65,4718981449324,"2026-12-10 00:00:00",0
 10004077,Dixon,Dixon PDZA277-SP Bass Drum Anchor,1,"11.55",4718981402671,,0
@@ -4703,8 +4703,8 @@
 20004001,Dixon,[B-Stock] Dixon PDSAN613CBRG Artisan 13x6 Snare Chris Brady 9-ply Australian Rose Gum Gloss Reverse Burst,0,339,4718981475088,,0
 10004007,Dixon,"Dixon PDSCL654SWM Classic 14x6.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",1,"135.00",4718981475125,,0
 20004007,Dixon,"[B-Stock] Dixon PDSCL654SWM Classic 14x6.5 Snare Sub Zero White Maple Hoop, Maple Formula Shell",0,135,4718981475125,,0
-10004011,Dixon,"Dixon PDSCL510MA Classic 10x5 Snare Marble Apex, Maple Formula Shell",1,"95.90",4718981475330,,0
-20004011,Dixon,"[B-Stock] Dixon PDSCL510MA Classic 10x5 Snare Marble Apex, Maple Formula Shell",0,95.9,4718981475330,,0
+10004011,Dixon,"Dixon PDSCL510MA Classic 10x5 Snare Marble Apex, Maple Formula Shell",0,"95.90",4718981475330,"2026-12-10 00:00:00",0
+20004011,Dixon,"[B-Stock] Dixon PDSCL510MA Classic 10x5 Snare Marble Apex, Maple Formula Shell",0,95.9,4718981475330,"2026-12-10 00:00:00",0
 10004013,Dixon,"Dixon PDSCL512ST Classic 12x5 Snare Steel, 1mm Thickness Steel Shell",1,"87.00",4718981475354,,0
 20004013,Dixon,"[B-Stock] Dixon PDSCL512ST Classic 12x5 Snare Steel, 1mm Thickness Steel Shell",0,87,4718981475354,,0
 10004019,Dixon,Dixon PDSCST654AL Cornerstone Snare 14x6.5 1.2mm Thickness Aluminum Shell,1,"199.00",4718981474715,,0
@@ -6387,8 +6387,8 @@
 20010733,Gator,[B-Stock] Gator GRR-4L 4U Audio Rack; Rolling,0,119,716408500959,"2026-09-18 00:00:00",0
 10010741,Gator,Gator GR-6S 6U Audio Rack; Shallow,1,"92.00",716408501352,,0
 20010741,Gator,[B-Stock] Gator GR-6S 6U Audio Rack; Shallow,0,92,716408501352,,0
-10010748,Gator,Gator GR-2S 2U Audio Rack; Shallow,1,"72.90",716408507767,,0
-20010748,Gator,[B-Stock] Gator GR-2S 2U Audio Rack; Shallow,0,72.9,716408507767,,0
+10010748,Gator,Gator GR-2S 2U Audio Rack; Shallow,0,"72.90",716408507767,"2026-12-07 00:00:00",0
+20010748,Gator,[B-Stock] Gator GR-2S 2U Audio Rack; Shallow,0,72.9,716408507767,"2026-12-07 00:00:00",0
 10010749,Gator,Gator GR-2L 2U Audio Rack; Standard,1,"91.00",716408500409,,0
 20010749,Gator,[B-Stock] Gator GR-2L 2U Audio Rack; Standard,0,91,716408500409,,0
 10010759,Gator,Gator GPA-712SM Rolling Speaker Bag for Small Format 12'' Speakers,0,"87.50",716408528953,"2026-09-10 00:00:00",0
@@ -6679,8 +6679,8 @@
 20011476,Gator,[B-Stock] Gator G-ICON335-GRY ICON Series Bag for 335 Style Guitars Grey,0,133,716408561370,,0
 10011512,Gator,Gator GP-1414 Floor Tom Bag 14''x14'',1,"18.00",716408507491,,0
 20011512,Gator,[B-Stock] Gator GP-1414 Floor Tom Bag 14''x14'',0,18,716408507491,,0
-10011515,Gator,"Gator GP-1305.5SD Snare Bag 13"" x 5,5""",1,"13.50",716408507460,,0
-20011515,Gator,"[B-Stock] Gator GP-1305.5SD Snare Bag 13"" x 5,5""",0,13.5,716408507460,,0
+10011515,Gator,"Gator GP-1305.5SD Snare Bag 13"" x 5,5""",0,"13.50",716408507460,"2026-12-07 00:00:00",0
+20011515,Gator,"[B-Stock] Gator GP-1305.5SD Snare Bag 13"" x 5,5""",0,13.5,716408507460,"2026-12-07 00:00:00",0
 10011517,Gator,"Gator GP-2418BD Bass Drum Bag 24"" x 18""",0,"32.90",716408525662,"2026-12-07 00:00:00",0
 20011517,Gator,"[B-Stock] Gator GP-2418BD Bass Drum Bag 24"" x 18""",0,32.9,716408525662,"2026-12-07 00:00:00",0
 10011575,Gator,Gator GT-ACOUSTIC-GRY Transit Series Bag for Acoustic Guitars,1,"64.00",716408544243,,0
@@ -6753,8 +6753,8 @@
 20010775,Gator,"[B-Stock] Gator G-MIX 20X25 20"" x 25"" ATA Mixer Case w/Wheels",0,126,716408508573,,0
 10010776,Gator,"Gator G-MIX 17X18 17"" x 18"" ATA Mixer Case",1,"96.00",716408505909,,0
 20010776,Gator,"[B-Stock] Gator G-MIX 17X18 17"" x 18"" ATA Mixer Case",0,96,716408505909,,0
-10010783,Gator,Gator GM-1WEVAA Wireless System Lightweight Case,0,"37.50",716408520926,"2027-03-15 00:00:00",0
-20010783,Gator,[B-Stock] Gator GM-1WEVAA Wireless System Lightweight Case,0,37.5,716408520926,"2027-03-15 00:00:00",0
+10010783,Gator,Gator GM-1WEVAA Wireless System Lightweight Case,0,"37.50",716408520926,"2027-03-19 00:00:00",0
+20010783,Gator,[B-Stock] Gator GM-1WEVAA Wireless System Lightweight Case,0,37.5,716408520926,"2027-03-19 00:00:00",0
 10010790,Gator,Gator GTSA-KEY88SLXL 88 Keys Polethylen TSA Lock Case XL,1,"243.00",716408539560,,0
 20010790,Gator,[B-Stock] Gator GTSA-KEY88SLXL 88 Keys Polethylen TSA Lock Case XL,0,243,716408539560,,0
 10010801,Gator,Gator GKC-1540 76 Keys Keyboard Cover,1,"11.30",716408502960,,0
@@ -6849,8 +6849,8 @@
 20010905,Gator,[B-Stock] Gator GB-4G-ACOUSTIC 4G Series Gig Bag for Acoustic Guitar,0,41,716408534305,,0
 10010908,Gator,Gator GB-4G-ELECTRIC 4G Series Gig Bag for Electric Guitars,1,"37.50",716408534336,,0
 20010908,Gator,[B-Stock] Gator GB-4G-ELECTRIC 4G Series Gig Bag for Electric Guitars,0,37.5,716408534336,,0
-10010911,Gator,Gator G-PG ACOUSTIC ProGo Series Ultimate Gig Bag for Acoustic,1,"105.00",716408534466,,0
-20010911,Gator,[B-Stock] Gator G-PG ACOUSTIC ProGo Series Ultimate Gig Bag for Acoustic,0,105,716408534466,,0
+10010911,Gator,Gator G-PG ACOUSTIC ProGo Series Ultimate Gig Bag for Acoustic,0,"105.00",716408534466,"2026-09-10 00:00:00",0
+20010911,Gator,[B-Stock] Gator G-PG ACOUSTIC ProGo Series Ultimate Gig Bag for Acoustic,0,105,716408534466,"2026-09-10 00:00:00",0
 10010921,Gator,Gator GT-ACOUSTIC-TAN Transit Series Bag for Acoustic Guitars,0,"64.00",716408543321,"2026-09-10 00:00:00",0
 20010921,Gator,[B-Stock] Gator GT-ACOUSTIC-TAN Transit Series Bag for Acoustic Guitars,0,64,716408543321,"2026-09-10 00:00:00",0
 10010923,Gator,Gator GT-BASS-GRY Transit Series Bag for Bass Guitars Grey,1,"71.00",716408544250,,0
@@ -7791,8 +7791,8 @@
 20010440,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ID-CTVESAMNT Creator Tree VESA Mount for Main Tower,0,43.6,716408559964,,0
 10010446,Gator Frameworks,Gator Frameworks GFW-MIC-0250 Wired Mic Mini Tripod Desktop Stand,0,"4.95",716408532691,"2026-09-27 00:00:00",0
 20010446,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-0250 Wired Mic Mini Tripod Desktop Stand,0,4.95,716408532691,"2026-09-27 00:00:00",0
-10010451,Gator Frameworks,Gator Frameworks GFW-MIC-0821 Compact Base Bass Drum and Amp Mic Stand,1,"26.90",716408533087,,0
-20010451,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-0821 Compact Base Bass Drum and Amp Mic Stand,0,26.9,716408533087,,0
+10010451,Gator Frameworks,Gator Frameworks GFW-MIC-0821 Compact Base Bass Drum and Amp Mic Stand,0,"26.90",716408533087,"2027-01-29 00:00:00",0
+20010451,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-0821 Compact Base Bass Drum and Amp Mic Stand,0,26.9,716408533087,"2027-01-29 00:00:00",0
 10010456,Gator Frameworks,Gator Frameworks GFW-MICACCTRAY Mic Stand Accessory Tray with Drink Holder,0,"10.90",716408538167,"2027-03-15 00:00:00",0
 20010456,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MICACCTRAY Mic Stand Accessory Tray with Drink Holder,0,10.9,716408538167,"2027-03-15 00:00:00",0
 10010461,Gator Frameworks,Gator Frameworks GFW-MIC-CLIPW Wireless Microphone Clip,1,"1.65",716408533025,,0
@@ -10311,8 +10311,8 @@
 20001127,DiMarzio,[B-Stock] DiMarzio DP 166BW The Breed Bridge,0,72.7,,"2026-12-05 00:00:00",0
 10001144,DiMarzio,DiMarzio DP 192FBL Air Zone,0,"70.70",,"2026-12-05 00:00:00",0
 20001144,DiMarzio,[B-Stock] DiMarzio DP 192FBL Air Zone,0,70.7,,"2026-12-05 00:00:00",0
-10001186,DiMarzio,DiMarzio DP 160CR Norton creme,0,"65.00",663334008526,"2026-12-05 00:00:00",0
-20001186,DiMarzio,[B-Stock] DiMarzio DP 160CR Norton creme,0,65,663334008526,"2026-12-05 00:00:00",0
+10001186,DiMarzio,DiMarzio DP 160CR Norton creme,0,"65.00",663334008526,"2026-12-08 00:00:00",0
+20001186,DiMarzio,[B-Stock] DiMarzio DP 160CR Norton creme,0,65,663334008526,"2026-12-08 00:00:00",0
 10001190,DiMarzio,DiMarzio DP 207GN D Sonic,0,"76.70",,"2026-12-05 00:00:00",0
 20001190,DiMarzio,[B-Stock] DiMarzio DP 207GN D Sonic,0,76.7,,"2026-12-05 00:00:00",0
 10001197,DiMarzio,DiMarzio DP 215CC EVO 2 Bridge,0,"122.40",,"2026-12-05 00:00:00",0
@@ -10813,8 +10813,8 @@
 20002367,DiMarzio,"[B-Stock] DiMarzio EP 1112 Five-Way Switch multipole, incl. B/W Knobs",0,18,663334021624,,0
 10002376,DiMarzio,DiMarzio DP 227FPK LiquiFire pink,0,"83.70",,"2026-12-05 00:00:00",0
 20002376,DiMarzio,[B-Stock] DiMarzio DP 227FPK LiquiFire pink,0,83.7,,"2026-12-05 00:00:00",0
-10002378,DiMarzio,DiMarzio EP 1022 Capacitor .022 Microfarad,1,"0.90",663334013551,,0
-20002378,DiMarzio,[B-Stock] DiMarzio EP 1022 Capacitor .022 Microfarad,0,0.9,663334013551,,0
+10002378,DiMarzio,DiMarzio EP 1022 Capacitor .022 Microfarad,0,"0.90",663334013551,"2026-12-28 00:00:00",0
+20002378,DiMarzio,[B-Stock] DiMarzio EP 1022 Capacitor .022 Microfarad,0,0.9,663334013551,"2026-12-28 00:00:00",0
 10002384,DiMarzio,DiMarzio DP 259FG Titan Bridge gold cover,0,"97.20",663334042520,"2026-12-05 00:00:00",0
 20002384,DiMarzio,[B-Stock] DiMarzio DP 259FG Titan Bridge gold cover,0,97.2,663334042520,"2026-12-05 00:00:00",0
 10002404,DiMarzio,"DiMarzio FG 1000GR Guitar Nut for Fender®, Graphite",1,"4.00",663334016040,,0
@@ -10869,8 +10869,8 @@
 20001694,DiMarzio,[B-Stock] DiMarzio DP 215BKGN EVO 2 Bridge,0,83.7,663334025691,"2027-01-04 00:00:00",0
 10001701,DiMarzio,DiMarzio DP 155FPK The Tone Zone,0,"70.70",,"2026-12-05 00:00:00",0
 20001701,DiMarzio,[B-Stock] DiMarzio DP 155FPK The Tone Zone,0,70.7,,"2026-12-05 00:00:00",0
-10001705,DiMarzio,DiMarzio DP 158W Evolution Neck,1,"83.70",663334007994,,0
-20001705,DiMarzio,[B-Stock] DiMarzio DP 158W Evolution Neck,0,83.7,663334007994,,0
+10001705,DiMarzio,DiMarzio DP 158W Evolution Neck,0,"83.70",663334007994,"2026-12-09 00:00:00",0
+20001705,DiMarzio,[B-Stock] DiMarzio DP 158W Evolution Neck,0,83.7,663334007994,"2026-12-09 00:00:00",0
 10001712,DiMarzio,DiMarzio EP 17J06RRGN Jumper Cable,1,"11.40",663334034860,,1
 20001712,DiMarzio,[B-Stock] DiMarzio EP 17J06RRGN Jumper Cable,0,11.4,663334034860,,1
 10001713,DiMarzio,DiMarzio DP 188CR Pro Track,0,"65.00",663334010819,"2026-12-05 00:00:00",0
@@ -12163,8 +12163,8 @@
 20005450,DiMarzio,[B-Stock] DiMarzio DP 216FBK+BK Mo Joe F-spaced,0,86.4,663334179035,"2026-12-05 00:00:00",0
 10005451,DiMarzio,DiMarzio DP 213FBK+BK PAF Joe F-Spaced,0,"86.40",663334024939,"2026-12-05 00:00:00",0
 20005451,DiMarzio,[B-Stock] DiMarzio DP 213FBK+BK PAF Joe F-Spaced,0,86.4,663334024939,"2026-12-05 00:00:00",0
-10006761,DiMarzio,DiMarzio DD 3150 Steve Vai Utopia Black & Gold,1,"17.90",663334171312,,0
-20006761,DiMarzio,[B-Stock] DiMarzio DD 3150 Steve Vai Utopia Black & Gold,0,17.9,663334171312,,0
+10006761,DiMarzio,DiMarzio DD 3150 Steve Vai Utopia Black & Gold,0,"17.90",663334171312,"2026-12-09 00:00:00",0
+20006761,DiMarzio,[B-Stock] DiMarzio DD 3150 Steve Vai Utopia Black & Gold,0,17.9,663334171312,"2026-12-09 00:00:00",0
 10006762,DiMarzio,DiMarzio DD 3151 Steve Vai Utopia White & Gold,0,"17.90",663334170865,"2026-09-28 00:00:00",0
 20006762,DiMarzio,[B-Stock] DiMarzio DD 3151 Steve Vai Utopia White & Gold,0,17.9,663334170865,"2026-09-28 00:00:00",0
 10006768,DiMarzio,DiMarzio DP 216KK Mo Joe Black Metal Cover,0,"90.60",663334039346,"2026-12-05 00:00:00",0
@@ -15863,8 +15863,8 @@ John Petrucci Signature Model",0,83.7,,"2026-12-05 00:00:00",0
 20014536,DiMarzio,"[B-Stock] DiMarzio DP 158CC+G Evolution Neck Chrome Tops, Gold Pole Pieces",0,130.8,,"2026-12-05 00:00:00",0
 10014537,DiMarzio,"DiMarzio DP 158CR+G Evolution Neck Cream, Gold Pole Pieces",0,"86.40",,"2026-12-05 00:00:00",0
 20014537,DiMarzio,"[B-Stock] DiMarzio DP 158CR+G Evolution Neck Cream, Gold Pole Pieces",0,86.4,,"2026-12-05 00:00:00",0
-10014541,DiMarzio,"DiMarzio DP 158FBB+N Evolution Neck F-spaced, Black/Blue, Nickel Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
-20014541,DiMarzio,"[B-Stock] DiMarzio DP 158FBB+N Evolution Neck F-spaced, Black/Blue, Nickel Pole Pieces",0,92.1,,"2026-12-05 00:00:00",0
+10014541,DiMarzio,"DiMarzio DP 158FBB+N Evolution Neck F-spaced, Black/Blue, Nickel Pole Pieces",0,"92.10",,"2026-12-09 00:00:00",0
+20014541,DiMarzio,"[B-Stock] DiMarzio DP 158FBB+N Evolution Neck F-spaced, Black/Blue, Nickel Pole Pieces",0,92.1,,"2026-12-09 00:00:00",0
 10014553,DiMarzio,"DiMarzio DP 158FBR+G Evolution Neck F-spaced, Black/Red, Gold Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
 20014553,DiMarzio,"[B-Stock] DiMarzio DP 158FBR+G Evolution Neck F-spaced, Black/Red, Gold Pole Pieces",0,92.1,,"2026-12-05 00:00:00",0
 10014556,DiMarzio,"DiMarzio DP 158FBV+G Evolution Neck F-spaced, Black/Purple, Gold Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
@@ -16215,8 +16215,8 @@ John Petrucci Signature Model",0,83.7,,"2026-12-05 00:00:00",0
 20014642,DiMarzio,"[B-Stock] DiMarzio DP 159BV+N Evolution Bridge Black/Purple, Nickel Pole Pieces",0,92.1,,"2026-12-05 00:00:00",0
 10014643,DiMarzio,"DiMarzio DP 159BW+G Evolution Bridge Black/White, Gold Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
 20014643,DiMarzio,"[B-Stock] DiMarzio DP 159BW+G Evolution Bridge Black/White, Gold Pole Pieces",0,92.1,,"2026-12-05 00:00:00",0
-10014653,DiMarzio,"DiMarzio DP 159FBB+N Evolution Bridge F-spaced, Black/Blue, Nickel Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
-20014653,DiMarzio,"[B-Stock] DiMarzio DP 159FBB+N Evolution Bridge F-spaced, Black/Blue, Nickel Pole Pieces",0,92.1,,"2026-12-05 00:00:00",0
+10014653,DiMarzio,"DiMarzio DP 159FBB+N Evolution Bridge F-spaced, Black/Blue, Nickel Pole Pieces",0,"92.10",,"2026-12-09 00:00:00",0
+20014653,DiMarzio,"[B-Stock] DiMarzio DP 159FBB+N Evolution Bridge F-spaced, Black/Blue, Nickel Pole Pieces",0,92.1,,"2026-12-09 00:00:00",0
 10014657,DiMarzio,"DiMarzio DP 159FBG+G Evolution Bridge F-spaced, Black/Green, Gold Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
 20014657,DiMarzio,"[B-Stock] DiMarzio DP 159FBG+G Evolution Bridge F-spaced, Black/Green, Gold Pole Pieces",0,92.1,,"2026-12-05 00:00:00",0
 10014662,DiMarzio,"DiMarzio DP 159FBP+N Evolution Bridge F-spaced, Black/Pink, Nickel Pole Pieces",0,"92.10",,"2026-12-05 00:00:00",0
@@ -33547,12 +33547,12 @@ John Petrucci Signature Model",0,83.7,,"2026-12-05 00:00:00",0
 20023719,Samson,[B-Stock] Samson AH7/QE- Ch.E2 Airline 77 Transmitter+Microphone Only,0,159,809164221869,"2026-10-15 00:00:00",0
 10023720,Samson,Samson AH7/QE- Ch.E3 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221876,"2026-10-15 00:00:00",0
 20023720,Samson,[B-Stock] Samson AH7/QE- Ch.E3 Airline 77 Transmitter+Microphone Only,0,159,809164221876,"2026-10-15 00:00:00",0
-10023721,Samson,Samson AH7/QE- Ch.K1 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221791,"2026-11-15 00:00:00",0
-20023721,Samson,[B-Stock] Samson AH7/QE- Ch.K1 Airline 77 Transmitter+Microphone Only,0,159,809164221791,"2026-11-15 00:00:00",0
-10023722,Samson,Samson AH7/QE- Ch.K2 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221807,"2026-11-15 00:00:00",0
-20023722,Samson,[B-Stock] Samson AH7/QE- Ch.K2 Airline 77 Transmitter+Microphone Only,0,159,809164221807,"2026-11-15 00:00:00",0
-10023723,Samson,Samson AH7/QE- Ch.K3 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221814,"2026-11-15 00:00:00",0
-20023723,Samson,[B-Stock] Samson AH7/QE- Ch.K3 Airline 77 Transmitter+Microphone Only,0,159,809164221814,"2026-11-15 00:00:00",0
+10023721,Samson,Samson AH7/QE- Ch.K1 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221791,"2027-01-15 00:00:00",0
+20023721,Samson,[B-Stock] Samson AH7/QE- Ch.K1 Airline 77 Transmitter+Microphone Only,0,159,809164221791,"2027-01-15 00:00:00",0
+10023722,Samson,Samson AH7/QE- Ch.K2 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221807,"2027-01-15 00:00:00",0
+20023722,Samson,[B-Stock] Samson AH7/QE- Ch.K2 Airline 77 Transmitter+Microphone Only,0,159,809164221807,"2027-01-15 00:00:00",0
+10023723,Samson,Samson AH7/QE- Ch.K3 Airline 77 Transmitter+Microphone Only,0,"159.00",809164221814,"2027-01-15 00:00:00",0
+20023723,Samson,[B-Stock] Samson AH7/QE- Ch.K3 Airline 77 Transmitter+Microphone Only,0,159,809164221814,"2027-01-15 00:00:00",0
 10023724,Samson,Samson AH7/DE10x - Ch.E1 Airline 77 Transmitter+Microphone Only,0,"159.00",809164224969,"2027-01-04 00:00:00",0
 20023724,Samson,[B-Stock] Samson AH7/DE10x - Ch.E1 Airline 77 Transmitter+Microphone Only,0,159,809164224969,"2027-01-04 00:00:00",0
 10023725,Samson,Samson AH7/DE10x - Ch.E2 Airline 77 Transmitter+Microphone Only,0,"159.00",809164224976,"2026-10-15 00:00:00",0
@@ -33643,8 +33643,8 @@ John Petrucci Signature Model",0,83.7,,"2026-12-05 00:00:00",0
 20023767,Samson,[B-Stock] Samson GO MIC VIDEO USB Microphone/Camera,0,89,809164027416,,0
 10023768,Samson,Samson Meteor USB Microphone,1,"64.00",809164012733,,0
 20023768,Samson,[B-Stock] Samson Meteor USB Microphone,0,64,809164012733,,0
-10023769,Samson,Samson Q2U Recording and Podcasting Pack Dynamic Microphone w/Accesory Pack,0,"69.00",809164009665,"2027-01-06 00:00:00",0
-20023769,Samson,[B-Stock] Samson Q2U Recording and Podcasting Pack Dynamic Microphone w/Accesory Pack,0,69,809164009665,"2027-01-06 00:00:00",0
+10023769,Samson,Samson Q2U Recording and Podcasting Pack Dynamic Microphone w/Accesory Pack,0,"69.00",809164009665,"2026-09-17 00:00:00",0
+20023769,Samson,[B-Stock] Samson Q2U Recording and Podcasting Pack Dynamic Microphone w/Accesory Pack,0,69,809164009665,"2026-09-17 00:00:00",0
 10023770,Samson,Samson LMU1 Lavalier Mic w/ USB Adapter,0,"44.00",809164026709,"2026-09-20 00:00:00",0
 20023770,Samson,[B-Stock] Samson LMU1 Lavalier Mic w/ USB Adapter,0,44,809164026709,"2026-09-20 00:00:00",0
 10023771,Samson,Samson QEx Mic Pack Fitness Headset,1,"69.00",809164024866,,0
@@ -33997,8 +33997,8 @@ John Petrucci Signature Model",0,83.7,,"2026-12-05 00:00:00",0
 20024376,Samson,[B-Stock] Samson Airline XD Digital Wireless Fitness USB System,0,179,809164226499,,0
 10024378,Samson,Samson C01U Pro Podcasting Pack USB Condenser Mic w/Accesories,1,"139.00",809164019831,,0
 20024378,Samson,[B-Stock] Samson C01U Pro Podcasting Pack USB Condenser Mic w/Accesories,0,139,809164019831,,0
-10024484,Samson,Samson XPX Plug-In Wireless System Handheld Digital Wireless Mic System,0,"99.00",809164227502,"2026-11-30 00:00:00",0
-20024484,Samson,[B-Stock] Samson XPX Plug-In Wireless System Handheld Digital Wireless Mic System,0,99,809164227502,"2026-11-30 00:00:00",0
+10024484,Samson,Samson XPX Plug-In Wireless System Handheld Digital Wireless Mic System,0,"99.00",809164227502,"2027-01-15 00:00:00",0
+20024484,Samson,[B-Stock] Samson XPX Plug-In Wireless System Handheld Digital Wireless Mic System,0,99,809164227502,"2027-01-15 00:00:00",0
 10024564,Samson,Samson Airline 99m Fitness Headset System - K-band Wireless Fitness Headset System,1,"299.00",809164222200,,0
 20024564,Samson,[B-Stock] Samson Airline 99m Fitness Headset System - K-band Wireless Fitness Headset System,0,299,809164222200,,0
 10024570,Samson,Samson R21S 3-pack Dynamic Mic w/ Switch 3-pack,1,"39.00",809164003380,,0

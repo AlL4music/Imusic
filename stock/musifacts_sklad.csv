@@ -14,8 +14,9 @@ SWG-0026;Colombian Leather Strap Brown (Suhr);1;https://codots.app/availability-
 CST-COLB;Colosseum Black LTD (Cornerstone);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 DUO-17-GM;DUO-17 Pedalboard - Gunmetal (Temple) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-DAD-0005;Dark Discovery (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+CST-GL3;Gladio Mk3 (Cornerstone);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-GSC;Gladio SC (Cornerstone) [expected 2026-09-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-02-H50-0007;Hedgehog Amplifier Head 50W, 230V (Suhr) [expected 2026-09-09];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-H50-0007;Hedgehog Amplifier Head 50W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 FT-N2O;N2O Micro Boost (Fortin) [expected 2026-09-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-NER;Nero (Cornerstone) [expected 2026-09-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-NUC;Nucleo (Cornerstone) [expected 2026-09-27];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -29,7 +30,6 @@ RBX-2B;RBX - Double Bass Guitar Gig Bag (Reunion Blues);1;https://codots.app/ava
 RBX-2E;RBX - Double Electric Guitar Gig Bag (Reunion Blues) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-A2;RBX - Dreadnought Guitar Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-B4;RBX - Electric Bass Guitar Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-RBX-E1;RBX - Electric Guitar Gig Bag (Reunion Blues);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-335;RBX - Semi/Hollow Guitar Gig Bag (Reunion Blues) [expected 2026-09-15];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBXOB4;RBX Oxford - Bass Guitar Gig Bag (Reunion Blues);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBXOC3;RBX Oxford - Classical Guitar Gig Bag (Reunion Blues);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -82,6 +82,7 @@ RBC23SKS;Expedition - Sidekick add on bag, Small (Reunion Blues) [expected 2026-
 RBC23C3;Expedition - Small Body Acoustic Case (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CON-MIDI;MIDI Micro Module 5-PIN (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-BP;RBX - Back Pack (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+RBX-E1;RBX - Electric Guitar Gig Bag (Reunion Blues);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-LP;RBX - LP Style Guitar Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SOLO-18-HC;SOLO 18 Flight Case (Temple);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SOLO-18-GM;SOLO-18 Pedalboard - Gunmetal (Temple) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -92,9 +93,8 @@ SOLO-18-SC;SOLO-18 Soft Case (Temple) [expected 2026-09-30];0;https://codots.app
 TRIO-21-HC;TRIO-21 Flight Case (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-21-GM;TRIO-21 Pedalboard - Gunmetal (Temple) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-21-TR;TRIO-21 Pedalboard - Temple Red (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TRIO-21-VW;TRIO-21 Pedalboard - Vintage White (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-28-GM;TRIO-28 Pedalboard - Gunmetal (Temple) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TRIO-28-TR;TRIO-28 Pedalboard - Temple Red (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TRIO-28-TR;TRIO-28 Pedalboard - Temple Red (Temple) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-28-VW;TRIO-28 Pedalboard - Vintage White (Temple);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-43-GM;TRIO-43 Pedalboard - Gunmetal (Temple) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-43-TR;TRIO-43 Pedalboard - Temple Red (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -106,8 +106,8 @@ MOD-4X;4-Way Jack Patch Module (Temple) [expected 2026-08-20];0;https://codots.a
 101008;Atlacoya (Silver Coin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101002;Atlaua (Silver Coin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-C5;CIOKS AC Mains Micro Module (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-101010;Chantico (Silver Coin);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-101005;Cocomama (Silver Coin);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+101010;Chantico (Silver Coin) [expected 2026-09-11];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+101005;Cocomama (Silver Coin) [expected 2026-09-11];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TQR-DUO;DUO Mounting Bracket (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101007;Ekkeko (Silver Coin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-HI5L;Hi5 Power Supply Module, incl cables (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -127,7 +127,7 @@ MOD-MOPP;Micro Module Punched Plate (Temple) [expected 2026-08-20];0;https://cod
 MOD-MIPP;Mini Module Punched Plate (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101009;Oxomoco (Silver Coin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101003;Pacha Camac (Silver Coin);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-101012;Pacha Nero (Silver Coin);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+101012;Pacha Nero (Silver Coin) [expected 2026-09-11];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-DI;Passive DI Module (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TQR-VLMB;Pedal Power Mounting Bracket (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-PCON;PowerCon AC Mains Power Connector (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -149,8 +149,8 @@ TRIO-43-SC;TRIO-43 Soft Case (Temple) [expected 2026-09-30];0;https://codots.app
 MOD-XLRFF;XLR Module, Female/Female (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-XLRMF;XLR Module, Male/Female (Temple);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-XLRMM;XLR Module, Male/Male (Temple) [expected 2026-08-20];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-101013;Atlanero (Silver Coin);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-03-BUF-0001;Buffer (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+101013;Atlanero (Silver Coin) [expected 2026-09-11];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+03-BUF-0001;Buffer (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8710;Concept 2.9 Dreadnought Molded Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8710-CSB;Concept 2.9 Dreadnought Molded Case - Slate Blue (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8720;Concept 2.9 Jumbo 6 / 12 String Molded Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -189,7 +189,7 @@ TKL7930;Performer Rectangular Strat® Style Hardshell Case (TKL);1;https://codot
 TKL7931;Performer Rectangular Tele®-Style Hardshell case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL7926;Performer SG-Style Guitar Hardshell Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL7925;Performer Single Cut / LP-Style Hardshell Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-03-RIO-0006;Riot Distortion™, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+03-RIO-0006;Riot Distortion™, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-RIO-0007;Riot Mini Distortion, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-RUF-0004;Rufus Fuzz, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-SHI-0001;Shiba Drive (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -200,7 +200,7 @@ VTR-236;Vectra Stealth 2.6 IPX Double Electric Bass Soft Case (TKL);1;https://co
 VTR-136-STH;Vectra Stealth 2.6 IPX Electric Bass Soft Case (TKL);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-WSC-0001;Woodshed Comp, Andy Wood Signature (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0051;1x12 Badger Cabinet, Graphite, Silver Grill, Veteran 30 (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-05-SUR-0050;1x12 Bella Cabinet, Graphite, Silver grill, V-Type (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+05-SUR-0050;1x12 Bella Cabinet, Graphite, Silver grill, V-Type (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-112;1x12" Extension Cabinet, Black, Vintage 30 (Revv);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-112NB;1x12" Extension Cabinet, Navy Blue, Vintage 30 (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-112SF;1x12" Extension Cabinet, Seafoam, Vintage 30 (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -208,10 +208,10 @@ RV-212V-RV30;2x12" Cabinet 120-watt, Vertical Extension Cabinet - RV30 (Revv) [e
 RV-212-RV30;2x12" Extension Cabinet, Black - RV30 (Revv) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-412-RV30;4x12" Extension Cabinet, Black - RV30 (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-B18-0025;Badger 18, Amplifier Head 15W (UK), 240V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-02-B18-0024;Badger 18, Amplifier Head 15W, 230V (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-B18-0024;Badger 18, Amplifier Head 15W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-B30-0025;Badger 30, Amplifier Head 25W (UK), 240V (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-B30-0019;Badger 30, Amplifier Head 25W,  Cream, 230V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-02-B30-0024;Badger 30, Amplifier Head 25W, 230V (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-B30-0024;Badger 30, Amplifier Head 25W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-B30-0014;Badger 30, Amplifier Head 25W, Original, 230V (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-B35-0025;Badger 35, Amplifier Head 30W (UK), 240V (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-B35-0024;Badger 35, Amplifier Head 30W, 230V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -224,7 +224,7 @@ RV-412-RV30;4x12" Extension Cabinet, Black - RV30 (Revv);1;https://codots.app/av
 07-FSW-0006;Bella Reverb Two-Button Foot Switch (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-BEL-0027;Bella Reverb. Hand-Wired Combo 44W, 230V (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-BEL-0032;Bella Reverb. Hand-Wired Head 44W (UK), 240V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-02-BEL-0019;Bella. Hand-Wired Combo 44W, 230V (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-BEL-0019;Bella. Hand-Wired Combo 44W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-BEL-0024;Bella. Hand-Wired Head 44W (UK), 240V (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-BEL-0023;Bella. Hand-Wired Head 44W, 230V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D25BB;D25, 1x12 Combo Amplifier, Baby Blue (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -324,9 +324,9 @@ H8SS;GTR: Hype Shark 8-string Sunset (Ormsby) [expected 2023-10-31];0;https://co
 02-PT1-0004;PT-100. Pete Thorn Signature 100W, 230V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-PT1-0005;PT-100. Pete Thorn Signature, 100W (UK), 240V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-PT2-0005;PT-15 I.R. Pete Thorn Signature, 15W (UK), 240V (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-02-PT2-0004;PT-15 I.R. Pete Thorn Signature, 15W, 230V (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-PT2-0004;PT-15 I.R. Pete Thorn Signature, 15W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-PT3-0004;PT-15. Pete Thorn Signature, 15W (UK), 240V (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-02-PT3-0003;PT-15. Pete Thorn Signature, 15W, 230V (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-PT3-0003;PT-15. Pete Thorn Signature, 15W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0004;Pickup. V63+. Single Coil. Bridge. White (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 H6R16IC;RUN16: Hype 6-string Icy Cool (Ormsby) [expected 2023-03-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 H7R16IC;RUN16: Hype 7-string Icy Cool (Ormsby);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -352,23 +352,23 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-7HT-0001;Pickup. 7 Hot, 7-String Humbucker, Bridge, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-7HT-0005;Pickup. 7 Hot, 7-String Humbucker, Neck, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-7PL-0001;Pickup. 7 Plus, 7-String Humbucker, Bridge, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-ALD-0001;Pickup. Aldrich Humbucker, Bridge 50mm, Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-ALD-0001;Pickup. Aldrich Humbucker, Bridge 50mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0002;Pickup. Aldrich Humbucker, Bridge 50mm, Gold (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0003;Pickup. Aldrich Humbucker, Bridge 50mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0004;Pickup. Aldrich Humbucker, Bridge 50mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0005;Pickup. Aldrich Humbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0008;Pickup. Aldrich Humbucker, Bridge 50mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-ALD-0009;Pickup. Aldrich Humbucker, Bridge 53mm, Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-ALD-0009;Pickup. Aldrich Humbucker, Bridge 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0010;Pickup. Aldrich Humbucker, Bridge 53mm, Gold (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0011;Pickup. Aldrich Humbucker, Bridge 53mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0012;Pickup. Aldrich Humbucker, Bridge 53mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-ALD-0013;Pickup. Aldrich Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-ALD-0013;Pickup. Aldrich Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0014;Pickup. Aldrich Humbucker, Bridge 53mm, Reverse Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0016;Pickup. Aldrich Humbucker, Bridge 53mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0017;Pickup. Aldrich Humbucker, Neck 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0018;Pickup. Aldrich Humbucker, Neck 50mm, Gold (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0019;Pickup. Aldrich Humbucker, Neck 50mm, Nickel Chrome (Suhr);3;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-ALD-0021;Pickup. Aldrich Humbucker, Neck 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-ALD-0021;Pickup. Aldrich Humbucker, Neck 50mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0024;Pickup. Aldrich Humbucker, Neck 50mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ASA-0008;Pickup. Asatobucker, Bridge 50mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ASA-0011;Pickup. Asatobucker, Bridge 53mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -378,42 +378,42 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-CLJ-0003;Pickup. Classic J Vintage Bass, Bridge, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLJ-0004;Pickup. Classic J Vintage Bass, Neck, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLP-0001;Pickup. Classic P Vintage Bass, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-CLT-0001;Pickup. Classic T, Single Coil, Bridge. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-CLT-0001;Pickup. Classic T, Single Coil, Bridge. Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLT-0002;Pickup. Classic T, Single Coil, Neck, Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLT-0003;Pickup. Classic T, Single Coil, Neck, Gold (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-DSP-0006;Pickup. DSV Plus, Vintage Humbucker, Bridge, 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-DSV-0001;Pickup. DSV, Vintage Humbucker, Bridge, 50mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-DSV-0005;Pickup. DSV, Vintage Humbucker, Bridge, 50mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-DSP-0006;Pickup. DSV Plus, Vintage Humbucker, Bridge, 53mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-DSV-0001;Pickup. DSV, Vintage Humbucker, Bridge, 50mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-DSV-0005;Pickup. DSV, Vintage Humbucker, Bridge, 50mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-DSV-0006;Pickup. DSV, Vintage Humbucker, Bridge, 53mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-DSV-0007;Pickup. DSV, Vintage Humbucker, Bridge, 53mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-DSV-0011;Pickup. DSV, Vintage Humbucker, Neck, 50mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-DSV-0007;Pickup. DSV, Vintage Humbucker, Bridge, 53mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-DSV-0011;Pickup. DSV, Vintage Humbucker, Neck, 50mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-DSV-0015;Pickup. DSV, Vintage Humbucker, Neck, 50mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-MAT-0001;Pickup. M.A.T. Single Coil T-Style, Bridge, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-MAT-0003;Pickup. M.A.T. Single Coil T-Style, Neck, Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-MAT-0001;Pickup. M.A.T. Single Coil T-Style, Bridge, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-MAT-0003;Pickup. M.A.T. Single Coil T-Style, Neck, Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-MAT-0002;Pickup. M.A.T. Single Coil T-Style, Neck, Gold (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0002;Pickup. V63+. Single Coil. Bridge. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0002;Pickup. V63+. Single Coil. Bridge. Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0003;Pickup. V63+. Single Coil. Bridge. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0006;Pickup. V63+. Single Coil. Middle. Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0007;Pickup. V63+. Single Coil. Middle. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0006;Pickup. V63+. Single Coil. Middle. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0007;Pickup. V63+. Single Coil. Middle. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0008;Pickup. V63+. Single Coil. Middle. White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0010;Pickup. V63+. Single Coil. Neck. Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0011;Pickup. V63+. Single Coil. Neck. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0010;Pickup. V63+. Single Coil. Neck. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0011;Pickup. V63+. Single Coil. Neck. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0012;Pickup. V63+. Single Coil. Neck. White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-MLS-0004;Pickup. ML Standard. Single Coil. Bridge. White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-S90-0002;Pickup. S90, Single Coil, Bridge, Cream (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-S90-0002;Pickup. S90, Single Coil, Bridge, Cream (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-S90-0004;Pickup. S90, Single Coil, Middle, Cream (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-S90-0008;Pickup. S90, Single Coil, Neck (Non-RWRP), Cream (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-S90-0005;Pickup. S90, Single Coil, Neck, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-S90-0005;Pickup. S90, Single Coil, Neck, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-S90-0006;Pickup. S90, Single Coil, Neck, Cream (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SHP-0001;Pickup. SSH+, Hot Humbucker, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SHP-0005;Pickup. SSH+, Hot Humbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SHP-0005;Pickup. SSH+, Hot Humbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SHP-0007;Pickup. SSH+, Hot Humbucker, Bridge 50mm, White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SHP-0009;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SHP-0011;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SHP-0009;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SHP-0011;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SHP-0013;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SHP-0015;Pickup. SSH+, Hot Humbucker, Bridge 53mm, White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SHP-0016;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SHP-0012;Pickup. SSH+, Humbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SHP-0016;Pickup. SSH+, Hot Humbucker, Bridge 53mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SHP-0012;Pickup. SSH+, Humbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSH-0001;Pickup. SSH, Hot Humbucker, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSH-0004;Pickup. SSH, Hot Humbucker, Bridge 50mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSH-0009;Pickup. SSH, Hot Humbucker, Bridge 53mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -421,67 +421,67 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-SSH-0012;Pickup. SSH, Hot Humbucker, Bridge 53mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSH-0013;Pickup. SSH, Hot Humbucker, Bridge 53mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSH-0015;Pickup. SSH, Hot Humbucker, Bridge 53mm, White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSH-0016;Pickup. SSH, Hot Humbucker, Bridge 53mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSH-0016;Pickup. SSH, Hot Humbucker, Bridge 53mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SVP-0005;Pickup. SSV+, Humbucker, Bridge 50mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SVP-0009;Pickup. SSV+, Humbucker, Bridge 53mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SVP-0010;Pickup. SSV+, Humbucker, Bridge 53mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SVP-0011;Pickup. SSV+, Humbucker, Bridge 53mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SVP-0013;Pickup. SSV+, Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SVP-0010;Pickup. SSV+, Humbucker, Bridge 53mm, Gold (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SVP-0011;Pickup. SSV+, Humbucker, Bridge 53mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SVP-0013;Pickup. SSV+, Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SVP-0015;Pickup. SSV+, Humbucker, Bridge 53mm, White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0001;Pickup. SSV, Humbucker, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0003;Pickup. SSV, Humbucker, Bridge 50mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0004;Pickup. SSV, Humbucker, Bridge 50mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0009;Pickup. SSV, Humbucker, Bridge 53mm, Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0011;Pickup. SSV, Humbucker, Bridge 53mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0012;Pickup. SSV, Humbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0013;Pickup. SSV, Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0015;Pickup. SSV, Humbucker, Bridge 53mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0012;Pickup. SSV, Humbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0013;Pickup. SSV, Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0015;Pickup. SSV, Humbucker, Bridge 53mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0016;Pickup. SSV, Humbucker, Bridge 53mm, Zebra (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0017;Pickup. SSV, Humbucker, Neck 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0019;Pickup. SSV, Humbucker, Neck 50mm, Nickel Chrome (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0020;Pickup. SSV, Humbucker, Neck 50mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0020;Pickup. SSV, Humbucker, Neck 50mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0021;Pickup. SSV, Humbucker, Neck 50mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0023;Pickup. SSV, Humbucker, Neck 50mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0023;Pickup. SSV, Humbucker, Neck 50mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0024;Pickup. SSV, Humbucker, Neck 50mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0001;Pickup. Thornbucker II, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0002;Pickup. Thornbucker II, Bridge 50mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0003;Pickup. Thornbucker II, Bridge 50mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0002;Pickup. Thornbucker II, Bridge 50mm, Gold (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0003;Pickup. Thornbucker II, Bridge 50mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0004;Pickup. Thornbucker II, Bridge 50mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0005;Pickup. Thornbucker II, Bridge 50mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0006;Pickup. Thornbucker II, Bridge 50mm, Reverse Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0007;Pickup. Thornbucker II, Bridge 50mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0006;Pickup. Thornbucker II, Bridge 50mm, Reverse Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0007;Pickup. Thornbucker II, Bridge 50mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0008;Pickup. Thornbucker II, Bridge 50mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0009;Pickup. Thornbucker II, Bridge 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0010;Pickup. Thornbucker II, Bridge 53mm, Gold (Suhr) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0009;Pickup. Thornbucker II, Bridge 53mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0010;Pickup. Thornbucker II, Bridge 53mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0011;Pickup. Thornbucker II, Bridge 53mm, Nickel Chrome (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0012;Pickup. Thornbucker II, Bridge 53mm, Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0013;Pickup. Thornbucker II, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0012;Pickup. Thornbucker II, Bridge 53mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0013;Pickup. Thornbucker II, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0014;Pickup. Thornbucker II, Bridge 53mm, Reverse Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0015;Pickup. Thornbucker II, Bridge 53mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0015;Pickup. Thornbucker II, Bridge 53mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0016;Pickup. Thornbucker II, Bridge 53mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBP-0001;Pickup. Thornbucker+, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBP-0005;Pickup. Thornbucker+, Bridge 50mm, Raw Nickel (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBP-0009;Pickup. Thornbucker+, Bridge 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBP-0005;Pickup. Thornbucker+, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBP-0009;Pickup. Thornbucker+, Bridge 53mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBP-0010;Pickup. Thornbucker+, Bridge 53mm, Gold (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBP-0012;Pickup. Thornbucker+, Bridge 53mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBP-0013;Pickup. Thornbucker+, Bridge 53mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBP-0014;Pickup. Thornbucker+, Bridge 53mm, Reverse Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBP-0015;Pickup. Thornbucker+, Bridge 53mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBP-0016;Pickup. Thornbucker+, Bridge 53mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBP-0014;Pickup. Thornbucker+, Bridge 53mm, Reverse Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBP-0015;Pickup. Thornbucker+, Bridge 53mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBP-0016;Pickup. Thornbucker+, Bridge 53mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0001;Pickup. Thornbucker, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0005;Pickup. Thornbucker, Bridge 50mm, Raw Nickel (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBK-0007;Pickup. Thornbucker, Bridge 50mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBK-0007;Pickup. Thornbucker, Bridge 50mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0008;Pickup. Thornbucker, Bridge 50mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0009;Pickup. Thornbucker, Bridge 53mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBK-0010;Pickup. Thornbucker, Bridge 53mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBK-0010;Pickup. Thornbucker, Bridge 53mm, Gold (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0011;Pickup. Thornbucker, Bridge 53mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBK-0012;Pickup. Thornbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBK-0012;Pickup. Thornbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0013;Pickup. Thornbucker, Bridge 53mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0015;Pickup. Thornbucker, Bridge 53mm, White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0016;Pickup. Thornbucker, Bridge 53mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0017;Pickup. Thornbucker, Neck 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBK-0019;Pickup. Thornbucker, Neck 50mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TBK-0021;Pickup. Thornbucker, Neck 50mm, Raw Nickel (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBK-0019;Pickup. Thornbucker, Neck 50mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TBK-0021;Pickup. Thornbucker, Neck 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0023;Pickup. Thornbucker, Neck 50mm, White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0024;Pickup. Thornbucker, Neck 50mm, Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V60-0003;Pickup. V60. Single Coil Pickup. Bridge. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -490,15 +490,15 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-V60-0010;Pickup. V60. Single Coil Pickup. Neck. Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V60-0012;Pickup. V60. Single Coil Pickup. Neck. White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V60-0007;Pickup. V60. Single Coil. Middle. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V60-0011;Pickup. V60. Single Coil. Neck. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V60-0011;Pickup. V60. Single Coil. Neck. Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0002;Pickup. V63 Single Coil. Bridge. Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0003;Pickup. V63 Single Coil. Bridge. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0006;Pickup. V63 Single Coil. Middle. Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0007;Pickup. V63 Single Coil. Middle. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V63-0008;Pickup. V63 Single Coil. Middle. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V63-0008;Pickup. V63 Single Coil. Middle. White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0010;Pickup. V63 Single Coil. Neck. Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0011;Pickup. V63 Single Coil. Neck. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V63-0012;Pickup. V63 Single Coil. Neck. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V63-0012;Pickup. V63 Single Coil. Neck. White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0052;1x12 Badger Cabinet. Graphite, Black/Silver Grill, V30 (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0019;1x12 Cabinet, Black, Gold Grill, No speaker (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0046;2x12 Cabinet, Black, Black Grill, No speaker (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -515,36 +515,36 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-VLP-0011;Pickup. V60 LP. Single Coil. Neck. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V70-0003;Pickup. V70. Single Coil. Bridge. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V70-0004;Pickup. V70. Single Coil. Bridge. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V70-0006;Pickup. V70. Single Coil. Middle. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V70-0007;Pickup. V70. Single Coil. Middle. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V70-0006;Pickup. V70. Single Coil. Middle. Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V70-0007;Pickup. V70. Single Coil. Middle. Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V70-0008;Pickup. V70. Single Coil. Middle. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V70-0010;Pickup. V70. Single Coil. Neck. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-V70-0011;Pickup. V70. Single Coil. Neck. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V70-0010;Pickup. V70. Single Coil. Neck. Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-V70-0011;Pickup. V70. Single Coil. Neck. Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V70-0012;Pickup. V70. Single Coil. Neck. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-WBK-0001;Pickup. Woodbucker, Bridge 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0002;Pickup. Woodbucker, Bridge 50mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0003;Pickup. Woodbucker, Bridge 50mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0004;Pickup. Woodbucker, Bridge 50mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0005;Pickup. Woodbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0006;Pickup. Woodbucker, Bridge 50mm, Reverse Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0007;Pickup. Woodbucker, Bridge 50mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0008;Pickup. Woodbucker, Bridge 50mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0002;Pickup. Woodbucker, Bridge 50mm, Gold (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0003;Pickup. Woodbucker, Bridge 50mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0004;Pickup. Woodbucker, Bridge 50mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0005;Pickup. Woodbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0006;Pickup. Woodbucker, Bridge 50mm, Reverse Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0007;Pickup. Woodbucker, Bridge 50mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0008;Pickup. Woodbucker, Bridge 50mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-WBK-0009;Pickup. Woodbucker, Bridge 53mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0010;Pickup. Woodbucker, Bridge 53mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0011;Pickup. Woodbucker, Bridge 53mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0012;Pickup. Woodbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0013;Pickup. Woodbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0014;Pickup. Woodbucker, Bridge 53mm, Reverse Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0015;Pickup. Woodbucker, Bridge 53mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0016;Pickup. Woodbucker, Bridge 53mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0010;Pickup. Woodbucker, Bridge 53mm, Gold (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0011;Pickup. Woodbucker, Bridge 53mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0012;Pickup. Woodbucker, Bridge 53mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0013;Pickup. Woodbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0014;Pickup. Woodbucker, Bridge 53mm, Reverse Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0015;Pickup. Woodbucker, Bridge 53mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0016;Pickup. Woodbucker, Bridge 53mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-WBK-0017;Pickup. Woodbucker, Neck 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0018;Pickup. Woodbucker, Neck 50mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0019;Pickup. Woodbucker, Neck 50mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0020;Pickup. Woodbucker, Neck 50mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0021;Pickup. Woodbucker, Neck 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0022;Pickup. Woodbucker, Neck 50mm, Reverse Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0023;Pickup. Woodbucker, Neck 50mm, White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-WBK-0024;Pickup. Woodbucker, Neck 50mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0018;Pickup. Woodbucker, Neck 50mm, Gold (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0019;Pickup. Woodbucker, Neck 50mm, Nickel Chrome (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0020;Pickup. Woodbucker, Neck 50mm, Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0021;Pickup. Woodbucker, Neck 50mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0022;Pickup. Woodbucker, Neck 50mm, Reverse Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0023;Pickup. Woodbucker, Neck 50mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-WBK-0024;Pickup. Woodbucker, Neck 50mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-WSH-0001;Pickup. Woodshed, Single Coil T-Style, Bridge, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-WSH-0002;Pickup. Woodshed, Single Coil T-Style, Neck, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SWG-0003;T-Shirt, Mens Crew, Logo, Black (L) (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -568,7 +568,7 @@ RS-E8;ELIS.8 Passive (Red Sound);1;https://codots.app/availability-by-product/bu
 SWG-0052;Flexfit Delta Cap (S/M) (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 06-CAS-0019;Hardshell Case Black, Classic T (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 06-CAS-0022;Hardshell Case Black, Modern (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-06-CAS-0025;Hardshell Case Black, Standard Plus (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+06-CAS-0025;Hardshell Case Black, Standard Plus (Suhr) [expected 2026-12-18];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 06-CAS-0026;Hardshell Case Black, Standard Plus, Lefty (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 07-SLP-0007;Hedgehog Amp Head Cover, Black Nylon (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 07-ILO-0001;ISO Line Out Box (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -584,7 +584,7 @@ MP-XX30;Performer 600, Microphone 30 ft. XLR (600571) (Monster);1;https://codots
 MP-XX5;Performer 600, Microphone 5 ft. XLR (600568) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MP-XX50;Performer 600, Microphone 50 ft. XLR (60014) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SPG-BAKE;Pickguard, Painted Bakelite, Classic T, HH/SSS/HSH (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SPG-PEARL;Pickguard, Pearloid, Classic S, HH/SSS/HSH (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SPG-PEARL;Pickguard, Pearloid, Classic S, HH/SSS/HSH (Suhr) [expected 2026-12-18];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SPG-SOLID;Pickguard, Solid Color, HH/SSS/HSH (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SPG-TORT;Pickguard, Tortoise, HH/SSS/HSH (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RS-RK8;RK8 Stage Cab (Red Sound);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -630,7 +630,7 @@ MP-SP6F;Performer 600, Speaker 6 ft. - Faston (60007) (Monster);1;https://codots
 MP-SP6S;Performer 600, Speaker 6 ft. - Speak-On (600509) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MP-SP6;Performer 600, Speaker 6 ft. - straight 1/4" plugs (600582) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MP-SP3F;Performer 600, Speakon 3 ft. - Faston (600510) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SHP-0008;Pickup. SSH+, Hot Humbucker, Bridge 50mm, Zebra (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SHP-0008;Pickup. SSH+, Hot Humbucker, Bridge 50mm, Zebra (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MR-SS21;Rock 21 ft. - straight 1/4” plugs (600542) (Monster);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MR-SS3;Rock 3 ft. - straight 1/4” plugs (600625) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MR-SS6;Rock 6 ft. - straight 1/4” plugs (600626) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -745,7 +745,7 @@ SL0015;Haida - Grey (GS0090BK04BK) (Souldier);0;https://codots.app/availability-
 SL0016;Haida - Pink (GS0091BK04BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0017;Houndstooth - Black (GS0229BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0018;Knievel (GS1096RD04WH) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0019;Lightning Bolt - Navy (GS0119NV04NV) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0019;Lightning Bolt - Navy (GS0119NV04NV) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0020;Lummi (GS0110BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0021;Madrid - Burgundy (GS0816BD04BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0265;Regal - Maroon (GS0065BD04BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -868,7 +868,7 @@ SL0331;Torpedo Pillar - Burgundy (TGS1271MH02MH) (Souldier) [expected 2026-08-22
 SL0336;Torpedo Pillar - Gold (TGS1270TN02TN) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0332;Torpedo Regal - Maroon (TGS0065MH02MH) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0369;Torpedo Rustic Pebble Leather - Black (TGTPEBLBK00BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0370;Torpedo Rustic Pebble Leather - Brown (TGTPEBLBR00BR) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0370;Torpedo Rustic Pebble Leather - Brown (TGTPEBLBR00BR) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0335;Torpedo Tuscan Rose (TGS1000TN02TN) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0178;Ukulele Strap Abbey (DUKA1030BK04BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0179;Ukulele Strap Anchor (DUKA0566BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -1005,7 +1005,7 @@ RV-112JL;1x12" Extension Cabinet, Joey Landreth (Revv) [expected 2026-09-17];0;h
 05-SUR-0075;2x12 Hedgehog Cabinet, Vertical, Black, G12-65 (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-412-CS;4x12 Extension Cabinet, Custom Shop (Revv) [expected 2026-02-27];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 FT-ART;Artery (Fortin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-03-BTB-0001;Brighton Treble Booster (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+03-BTB-0001;Brighton Treble Booster (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D20TS-BC;D20 20/4-Watt Tube Headshell - Black Carbon (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D20MK2;D20 MK2 - 20/4W Tube Head, Black (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D20JL;D20 MK2 Joey Landreth Edition, Brown Face (Revv);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -1033,7 +1033,7 @@ PG-04;Pickguard Classic T Shorty, Solid Color, HH (Suhr);0;https://codots.app/av
 KNG-0018;Pickup Selector Switch Tip, Plastic Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLJ-0001;Pickup. Classic J Humphrey Bass Pickup, Bridge, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLJ-0002;Pickup. Classic J Humphrey Bass Pickup, Neck, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-DHP-0006;Pickup. DHP Plus, Vintage Humbucker, Bridge, 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-DHP-0006;Pickup. DHP Plus, Vintage Humbucker, Bridge, 53mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0005;Pickup. V63+, Single Coil, Middle, Aged Green (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0009;Pickup. V63+. Single Coil. Neck. Aged Green (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 06-CAS-0046;Premium Soft Case (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -1053,13 +1053,14 @@ RV-112-CS;1x12" Extension Cabinet - Custom Shop (Revv);0;https://codots.app/avai
 RV-112-RV30;1x12" Extension Cabinet, Black, RV30 (Revv) [expected 2026-09-17];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-212V-CS;2x12" Cabinet 120-watt, Vertical Extension Cabinet - Custom Shop (Revv);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-212VSL-CS;2x12" Extension Cabinet, Vertical Slanted - CS (Revv);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-RV-212VSL-RV30;2x12" Extension Cabinet, Vertical Slanted, Black, Black Grill - RV30 (Revv) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+RV-212VSL-RV30;2x12" Extension Cabinet, Vertical Slanted, Black, Black Grill - RV30 (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-212VSL-RV90;2x12" Extension Cabinet, Vertical Slanted, Black, RV90 (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-CEN;Centurio (Cornerstone) [expected 2026-09-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D25JLBF;D25, 1x12 Combo, Joey Landreth Edition, Limited Edition - Brown Face (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-G25;G25 - Tube Head (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-G25-CS;G25 - Tube Head Custom Tolex (Revv);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-G8-WP;G8 - Noise Gate Pedal - White Pearl (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+02-HOM-LTD1;Hombre. Tube Combo 18W, Limited Edition Sonic Blue, 230V (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 FT-NABKT;NATAS Blackout LTD (Fortin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 HWG-0022;Neck Screw, 1,75", Gold Plated (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 HWG-0018;Neck Screws, 1,5", Gold Plated (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv

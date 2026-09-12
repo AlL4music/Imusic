@@ -1,0 +1,13 @@
+{
+  "name": "Ludwig",
+  "enabled": true,
+  "csv_url": "https://raw.githubusercontent.com/AlL4music/Imusic/main/stock/Ludwig.csv",
+  "delimiter": ";",
+  "columns": {
+    "sku": "SKU",
+    "quantity": "Pocet_ks",
+    "name": "Nazov"
+  },
+  "match_by": "model",
+  "warehouse_id": 2
+}

@@ -46,7 +46,7 @@ KRARODYRV3K;KORG ARP Odyssey FS Rev3;0;https://www.music-park.sk/produkt/analogo
 KRARPODYSREV1;KORG ARP Odyssey Rev1;0;https://www.music-park.sk/produkt/analogove-syntezatory/105/arp-odyssey-rev1
 KREK50;KORG EK-50;15;https://www.music-park.sk/produkt/aranzery/106/ek-50
 KRMP10;KORG MP-10 Pro;0;https://www.music-park.sk/produkt/aranzery/107/mp-10-pro
-KRPA1000;KORG Pa1000;5;https://www.music-park.sk/produkt/aranzery/108/pa1000
+KRPA1000;KORG Pa1000;10;https://www.music-park.sk/produkt/aranzery/108/pa1000
 KRPA300;KORG Pa300;0;https://www.music-park.sk/produkt/aranzery/112/pa300
 KRPA3X61;KORG Pa3X-61;0;https://www.music-park.sk/produkt/aranzery/113/pa3x-61
 KRPA3X76;KORG Pa3X-76;0;https://www.music-park.sk/produkt/aranzery/114/pa3x-76
@@ -458,8 +458,7 @@ VXAC15H1TV;VOX AC15H1TV;0;https://www.music-park.sk/produkt/kytarova-komba/705/a
 VXAC15HW1;VOX AC15HW1;0;https://www.music-park.sk/produkt/kytarova-komba/706/ac15hw1
 VXAC15HW1X;VOX AC15HW1X;0;https://www.music-park.sk/produkt/kytarova-komba/707/ac15hw1x
 VXAC15HW60;VOX AC15HW60;0;https://www.music-park.sk/produkt/kytarova-komba/708/ac15hw60
-MBA195017;Markbass Cover Traveler 102P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1415/cover-traveler-102p
-MBA195018;Markbass Cover CMD 102P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1416/cover-cmd-102p
+VXAC15VR;VOX AC15VR;0;https://www.music-park.sk/produkt/kytarova-komba/709/ac15vr
 MBA195065;Markbass Nano Amp Bag;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/1418/nano-amp-bag
 MBA195046;Markbass Markworld Bag S;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1420/markworld-bag-s
 MBA195048;Markbass Cover Standard 102HF;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1421/cover-standard-102hf
@@ -984,7 +983,9 @@ VXVBCV90CR;VOX Bobcat V90 CR;1;https://www.music-park.sk/produkt/elektricke-kyta
 VXVALVENERGYME;VOX Mystic Edge;0;https://www.music-park.sk/produkt/kytarove-efekty/2121/mystic-edge
 VXVALVENERGYCE;VOX Cutting Edge;0;https://www.music-park.sk/produkt/kytarove-efekty/2122/cutting-edge
 VXVALVENERGYSD;VOX Silk Drive;0;https://www.music-park.sk/produkt/kytarove-efekty/2123/silk-drive
-VXAC15VR;VOX AC15VR;0;https://www.music-park.sk/produkt/kytarova-komba/709/ac15vr
+VXVALVENERGYCD;VOX Copperhead Drive;0;https://www.music-park.sk/produkt/kytarove-efekty/2124/copperhead-drive
+VXTELSTAR;VOX Telstar 2020;0;https://www.music-park.sk/produkt/bici-soupravy/2125/telstar-2020
+ASSTUDIOJNR;Ashdown Studio Junior;0;https://www.music-park.sk/produkt/baskytarova-komba/2126/studio-junior
 VXAC1RV;VOX AC1 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/710/ac1-rhythmvox
 VXAC2RV;VOX AC2 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/711/ac2-rhythmvox
 VXAC30C2;VOX AC30C2;0;https://www.music-park.sk/produkt/kytarova-komba/712/ac30c2
@@ -1541,10 +1542,8 @@ MBA195008;Markbass Markworld Bag L;0;https://www.music-park.sk/produkt/obaly-na-
 MBA195013;Markbass Cover Mini CMD 121P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1412/cover-mini-cmd-121p
 MBA195015;Markbass Cover Standard 104HF - 151HF;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1413/cover-standard-104hf-151hf
 MBA195016;Markbass Cover Standard 104HR - 151HR;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1414/cover-standard-104hr-151hr
-AGSL1108CB;Aguilar SL 110 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/2830/sl-110-cb
-AGSL1108F;Aguilar SL 110 Fawn;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/2831/sl-110-fawn
-GLFDJB-PPB-MP;G&L USA Fullerton Deluxe JB - Purpleburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2832/usa-fullerton-deluxe-jb-purpleburst
-GLFDJB-3TS-CR-L;G&L USA Fullerton Deluxe JB Lefty - 3-Tone Sunburst;1;https://www.music-park.sk/produkt/elektricke-baskytary/2833/usa-fullerton-deluxe-jb-lefty-3-tone-sunburst
+MBA195017;Markbass Cover Traveler 102P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1415/cover-traveler-102p
+MBA195018;Markbass Cover CMD 102P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1416/cover-cmd-102p
 GLFDASATB-JTB-CR;G&L USA Fullerton Deluxe ASAT Bass - Jet Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/2834/usa-fullerton-deluxe-asat-bass-jet-black
 GLFDLGY-JTB-MP-L;G&L USA Fullerton Deluxe Legacy Lefty - Jet Black;1;https://www.music-park.sk/produkt/elektricke-kytary/2835/usa-fullerton-deluxe-legacy-lefty-jet-black
 GLFDDOH-HIM-CR;G&L USA Fullerton Deluxe Doheny - Himalayan Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2837/usa-fullerton-deluxe-doheny-himalayan-blue
@@ -2117,9 +2116,6 @@ DR2DDT113PK;DR Strings Drop-Down Tuning DDT-11 3-Pack;0;https://www.music-park.s
 DXCOVER73BL;Dexibell DX Cover 73 BL;1;https://www.music-park.sk/produkt/obaly-na-klavesy/3530/dx-cover-73-bl
 DXCOVER76BL;Dexibell DX Cover 76 BL;0;https://www.music-park.sk/produkt/obaly-na-klavesy/3531/dx-cover-76-bl
 DXCOVER88BL;Dexibell DX Cover 88 BL;3;https://www.music-park.sk/produkt/obaly-na-klavesy/3532/dx-cover-88-bl
-VXVALVENERGYCD;VOX Copperhead Drive;0;https://www.music-park.sk/produkt/kytarove-efekty/2124/copperhead-drive
-VXTELSTAR;VOX Telstar 2020;0;https://www.music-park.sk/produkt/bici-soupravy/2125/telstar-2020
-ASSTUDIOJNR;Ashdown Studio Junior;0;https://www.music-park.sk/produkt/baskytarova-komba/2126/studio-junior
 ASSTUDIO8;Ashdown Studio 8;5;https://www.music-park.sk/produkt/baskytarova-komba/2127/studio-8
 ASSTUDIO10;Ashdown Studio 10;5;https://www.music-park.sk/produkt/baskytarova-komba/2128/studio-10
 ASSTUDIO12;Ashdown Studio 12;4;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
@@ -2230,7 +2226,7 @@ MBA195113;Markbass Bass Mute Strings - Black;0;https://www.music-park.sk/produkt
 KRARP2600M25;KORG ARP 2600 M;0;https://www.music-park.sk/produkt/analogove-syntezatory/2274/arp-2600-m
 QL10.00974;Quik Lok WS/422;5;https://www.music-park.sk/produkt/klavesove-stojany/2276/ws-422
 QL10.00777;Quik Lok WS/420;3;https://www.music-park.sk/produkt/klavesove-stojany/2277/ws-420
-QL10.01083;Quik Lok GS/438-BB;2;https://www.music-park.sk/produkt/kytarove-stojany/2278/gs-438-bb
+QL10.01083;Quik Lok GS/438-BB;3;https://www.music-park.sk/produkt/kytarove-stojany/2278/gs-438-bb
 QL30.00781;Quik Lok CM/186-4,5PN BK;1;https://www.music-park.sk/produkt/mikrofonni-kabely/2279/cm-186-45pn-bk
 QL30.01647;Quik Lok S/160-6AM BK;20;https://www.music-park.sk/produkt/nastrojove-kabely/2280/s-160-6am-bk
 QL30.02239;Quik Lok S/193K-3BK;15;https://www.music-park.sk/produkt/nastrojove-kabely/2281/s-193k-3bk
@@ -2761,3 +2757,7 @@ KRNTS2;KORG NTS-2;10;https://www.music-park.sk/produkt/produkcni-nastroje/2822/n
 GLFDS500-ELB-CR;G&L USA Fullerton Deluxe S-500 - Electric Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2824/usa-fullerton-deluxe-s-500-electric-blue
 KRWAVESTATEMK2;KORG Wavestate mk II;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2825/wavestate-mk-ii
 GLFDL2500-SPC-MP;G&L USA Fullerton Deluxe L-2500 - Spanish Copper;0;https://www.music-park.sk/produkt/elektricke-baskytary/2827/usa-fullerton-deluxe-l-2500-spanish-copper
+AGSL1108CB;Aguilar SL 110 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/2830/sl-110-cb
+AGSL1108F;Aguilar SL 110 Fawn;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/2831/sl-110-fawn
+GLFDJB-PPB-MP;G&L USA Fullerton Deluxe JB - Purpleburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2832/usa-fullerton-deluxe-jb-purpleburst
+GLFDJB-3TS-CR-L;G&L USA Fullerton Deluxe JB Lefty - 3-Tone Sunburst;1;https://www.music-park.sk/produkt/elektricke-baskytary/2833/usa-fullerton-deluxe-jb-lefty-3-tone-sunburst

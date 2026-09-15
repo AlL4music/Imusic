@@ -289,7 +289,7 @@ KRB1SPBK;KORG B1SP-BK;0;https://www.music-park.sk/produkt/digitalni-piana/402/b1
 KRB1SPWH;KORG B1SP-WH;0;https://www.music-park.sk/produkt/digitalni-piana/403/b1sp-wh
 KRB1WH;KORG B1-WH;0;https://www.music-park.sk/produkt/digitalni-piana/404/b1-wh
 KRC1AIRBK;KORG C1 Air BK;3;https://www.music-park.sk/produkt/digitalni-piana/405/c1-air-bk
-KRC1AIRBR;KORG C1 Air BR;3;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
+KRC1AIRBR;KORG C1 Air BR;1;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
 KRC1AIRWH;KORG C1 Air WH;0;https://www.music-park.sk/produkt/digitalni-piana/407/c1-air-wh
 KRHAVIAN30;KORG Havian 30;0;https://www.music-park.sk/produkt/digitalni-piana/418/havian-30
 KRLP180WH;KORG LP-180 WH;4;https://www.music-park.sk/produkt/digitalni-piana/420/lp-180-wh
@@ -688,7 +688,7 @@ KRKRON261SE;KORG KRONOS2-61 SE;0;https://www.music-park.sk/produkt/workstation/1
 KRKRON273SE;KORG KRONOS2-73 SE;0;https://www.music-park.sk/produkt/workstation/1744/kronos2-73-se
 KRKRON288SE;KORG KRONOS2-88 SE;0;https://www.music-park.sk/produkt/workstation/1745/kronos2-88-se
 VXAC15C1G12C;VOX AC15C1-G12C;0;https://www.music-park.sk/produkt/kytarova-komba/1750/ac15c1-g12c
-KRPC300BR;KORG PC-300BR;5;https://www.music-park.sk/produkt/stolicky-a-lavice/1751/pc-300br
+KRPC300BR;KORG PC-300BR;3;https://www.music-park.sk/produkt/stolicky-a-lavice/1751/pc-300br
 KRMINILOGUEXD;KORG Minilogue XD;0;https://www.music-park.sk/produkt/digitalni-syntezatory/1752/minilogue-xd
 KRVOLCADRUM;KORG Volca Drum;4;https://www.music-park.sk/produkt/produkcni-nastroje/1753/volca-drum
 VXVX15GT;VOX VX15-GT;0;https://www.music-park.sk/produkt/kytarova-komba/1754/vx15-gt
@@ -923,7 +923,7 @@ KRSV288;KORG SV2-88;5;https://www.music-park.sk/produkt/stage-piana/2043/sv2-88
 KRSV273;KORG SV2-73;0;https://www.music-park.sk/produkt/stage-piana/2044/sv2-73
 VXV847C;VOX Wah 847-C;0;https://www.music-park.sk/produkt/kytarove-efekty/2045/wah-847-c
 KRI3MB;KORG i3 MB;3;https://www.music-park.sk/produkt/workstation/2046/i3-mb
-KREK50L;KORG EK-50 Limitless;20;https://www.music-park.sk/produkt/aranzery/2047/ek-50-limitless
+KREK50L;KORG EK-50 Limitless;15;https://www.music-park.sk/produkt/aranzery/2047/ek-50-limitless
 KRODS;KORG OD-S;10;https://www.music-park.sk/produkt/kytarove-efekty/2048/od-s
 KRI3MS;KORG i3 MS;2;https://www.music-park.sk/produkt/workstation/2049/i3-ms
 KRWAVESTATE;KORG Wavestate;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2050/wavestate
@@ -1514,7 +1514,7 @@ MBA292009;Markbass MB EVO1 Controller;0;https://www.music-park.sk/produkt/nozni-
 DVA134027;Markbass Markworld Bag XLT;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1383/markworld-bag-xlt
 QL10.00982;Quik Lok SKS/303;2;https://www.music-park.sk/produkt/klavesove-stojany/1384/sks-303
 DVA134030;DV Mark Cover DV AC101;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1386/cover-dv-ac101
-DVA134031;Markbass Cover 801;1;https://www.music-park.sk/produkt/obaly-na-aparaty/1387/cover-801
+DVA134031;Markbass Cover 801;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1387/cover-801
 DVA134032;DV Mark Cover DV Jazz 12;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1388/cover-dv-jazz-12
 AGCBAG700;Aguilar AG700 Bag;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1389/ag700-bag
 AGCBTH350;Aguilar TH350 Bag;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1390/th350-bag

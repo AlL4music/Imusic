@@ -16,11 +16,11 @@ DUO-17-GM;DUO-17 Pedalboard - Gunmetal (Temple) [expected 2026-08-31];0;https://
 03-DAD-0005;Dark Discovery (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-GL3;Gladio Mk3 (Cornerstone) [expected 2026-09-25];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-GL3-LTD;Gladio Mk3 Limited (Cornerstone) [expected 2026-09-25];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-CST-GSC;Gladio SC (Cornerstone);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+CST-GSC;Gladio SC (Cornerstone) [expected 2026-09-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-H50-0007;Hedgehog Amplifier Head 50W, 230V (Suhr) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 FT-N2O;N2O Micro Boost (Fortin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-NER;Nero (Cornerstone);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-CST-NUC;Nucleo (Cornerstone);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+CST-NUC;Nucleo (Cornerstone);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TBK-0018;Pickup. Thornbucker, Neck 50mm, Gold (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TQR-M;Quick Release Pedal Plate - Medium (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-ASX;RBX - Alto Sax Case (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -300,7 +300,7 @@ G8R17SS;RUN17: Goliath 8 'Kris Xen Signature' Strawberry Storm (Ormsby) [expecte
 G8R17BS;RUN17: Goliath 8 Blue Sparkle (Ormsby) [expected 2025-10-02];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 G8R17RS;RUN17: Goliath 8 Red Sparkle (Ormsby) [expected 2024-01-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0062;1x12 PT-15 Cabinet, Black, Black grill, Creamback (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-05-SUR-0071;2x12 Hombre Cabinet, Palomino Brown, Tan grill, V30 (Suhr) [expected 2026-07-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+05-SUR-0071;2x12 Hombre Cabinet, Palomino Brown, Tan grill, V30 (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0060;2x12 PT-15 Cabinet, Black, Black grill, Celestion (Suhr) [expected 2026-09-08];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 H8EU2SF;EU Ltd: Hype 8, Sky Fall (Ormsby) [expected 2023-03-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 T6EU1BB;EU Ltd: TX Exotic 6-string, Blood Bath (Ormsby);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -391,7 +391,7 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-MAT-0001;Pickup. M.A.T. Single Coil T-Style, Bridge, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-MAT-0002;Pickup. M.A.T. Single Coil T-Style, Neck, Gold (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0002;Pickup. V63+. Single Coil. Bridge. Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0003;Pickup. V63+. Single Coil. Bridge. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0003;Pickup. V63+. Single Coil. Bridge. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0004;Pickup. V63+. Single Coil. Bridge. White (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0006;Pickup. V63+. Single Coil. Middle. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0007;Pickup. V63+. Single Coil. Middle. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -455,7 +455,7 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-TB2-0009;Pickup. Thornbucker II, Bridge 53mm, Black (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0010;Pickup. Thornbucker II, Bridge 53mm, Gold (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0011;Pickup. Thornbucker II, Bridge 53mm, Nickel Chrome (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-TB2-0012;Pickup. Thornbucker II, Bridge 53mm, Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-TB2-0012;Pickup. Thornbucker II, Bridge 53mm, Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0013;Pickup. Thornbucker II, Bridge 53mm, Raw Nickel (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0014;Pickup. Thornbucker II, Bridge 53mm, Reverse Zebra (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-TB2-0015;Pickup. Thornbucker II, Bridge 53mm, White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -590,7 +590,7 @@ SPG-TORT;Pickguard, Tortoise, HH/SSS/HSH (Suhr);1;https://codots.app/availabilit
 RS-RK8;RK8 Stage Cab (Red Sound);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RS-RS12P;RS 12 PRO/M (Red Sound);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 07-RCL-0001;Reactive Load Box. Recording Interface (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-07-RCL-0003;Reactive Load IR (Suhr) [expected 2026-07-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+07-RCL-0003;Reactive Load IR (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MS-XX10;Studio Pro 2000, Microphone 10 ft. XLR (600573) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MS-XX100;Studio Pro 2000, Microphone 100 ft. XLR (60017) (Monster);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MS-XX20;Studio Pro 2000, Microphone 20 ft. XLR (60002) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -679,7 +679,7 @@ SL0070;Owls - Navy (GS0012NV02NV) (Souldier) [expected 2026-08-22];0;https://cod
 SL0071;Owls - Olive (GS0151OD02OL) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0039;Paisley - Brown (GS1116NM05WB) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0040;Paisley - Magenta (GS1117BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0041;Paisley - Navy/Purple (GS1114NV04TQ) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0041;Paisley - Navy/Purple (GS1114NV04TQ) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0072;Peace Dove - Black (GS0343BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0042;Persian - Black (GS0112BK05BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0043;Persian - Gold (GS0075BK01BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -743,11 +743,11 @@ SL0014;Ellington - Black/Tan (GS0870BK04BK) (Souldier);0;https://codots.app/avai
 SL0015;Haida - Grey (GS0090BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0016;Haida - Pink (GS0091BK04BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0017;Houndstooth - Black (GS0229BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0018;Knievel (GS1096RD04WH) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0018;Knievel (GS1096RD04WH) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0019;Lightning Bolt - Navy (GS0119NV04NV) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0020;Lummi (GS0110BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0021;Madrid - Burgundy (GS0816BD04BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0022;Madrid - Orange (GS0817CH04BK) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0022;Madrid - Orange (GS0817CH04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0265;Regal - Maroon (GS0065BD04BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0097;Bass Strap Black (GT0000BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0110;Bass Strap El Paso - Gold/Brown (GT1181BK02BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -929,7 +929,7 @@ SL0356;Johnny Marr - Signature (JMGS1439BK02BK) (Souldier) [expected 2026-08-22]
 SL0305;Lightning Bolt - Silver (GS0856BK04BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0297;Lotus - Light Blue/White/Black (GS0885BK02BK) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0284;Lovebirds Black (GS1313BK02BK) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0285;Lovebirds Blue (GS1314NV02NV) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0285;Lovebirds Blue (GS1314NV02NV) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0283;Lovebirds Brown (GS1315NM02WB) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0299;Lovebirds Grey (GS1316BK02BK) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0286;Lovebirds White (GS1312BD02BD) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -962,7 +962,7 @@ SL0383;Crop Circles Brown (GS0029BR04WB) (Souldier);0;https://codots.app/availab
 RV-D25JLB;D25, 1x12 Combo, Joey Landreth Edition, Black (Revv);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D25JLG;D25, 1x12 Combo, Joey Landreth Edition, Gold (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-D40CS;D40 10/40-Watt Tube Head - Custom (Revv) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0393;Daisy - Nutmeg (GS0661BR02DB) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0393;Daisy - Nutmeg (GS0661BR02DB) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0405;Daisy - Olive (vinyl tabs) (GS0210OD02OLV) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0381;Ellington - Burgundy (GS0871BD04BD) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0062;Fillmore - Blue/Yellow (GS0738BK02BK) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv

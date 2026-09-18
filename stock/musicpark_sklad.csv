@@ -61,7 +61,7 @@ KRPA50SD;KORG Pa50SD;0;https://www.music-park.sk/produkt/aranzery/124/pa50sd
 KRPA588;KORG PA588;0;https://www.music-park.sk/produkt/aranzery/125/pa588
 KRPA600;KORG Pa600;0;https://www.music-park.sk/produkt/aranzery/127/pa600
 KRPA700;KORG Pa700;0;https://www.music-park.sk/produkt/aranzery/128/pa700
-KRPA700OR;KORG Pa700 Oriental;1;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
+KRPA700OR;KORG Pa700 Oriental;0;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
 KRPA800;KORG PA800;0;https://www.music-park.sk/produkt/aranzery/131/pa800
 KRPA900;KORG Pa900;0;https://www.music-park.sk/produkt/aranzery/132/pa900
 KRPALIVERP;KORG Liverpool;0;https://www.music-park.sk/produkt/aranzery/133/liverpool
@@ -738,7 +738,7 @@ DVA134073;DV Mark DV Little Guitar Bag;0;https://www.music-park.sk/produkt/obaly
 KRKROSS288MB;KORG Kross 2-88 MB;10;https://www.music-park.sk/produkt/workstation/1810/kross-2-88-mb
 KRD1WH;KORG D1-WH;4;https://www.music-park.sk/produkt/digitalni-piana/1811/d1-wh
 VXMSB50BA;VOX Mini SuperBeetle Bass;1;https://www.music-park.sk/produkt/baskytarova-komba/1812/mini-superbeetle-bass
-KRTUPC2+;KORG Pitchclip 2+;5;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1813/pitchclip-2
+KRTUPC2+;KORG Pitchclip 2+;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1813/pitchclip-2
 KRTUPR01;KORG PuttRhythm;20;https://www.music-park.sk/produkt/metronomy/1814/puttrhythm
 DVH130053;DV Mark FG Little 250 Amplitude;0;https://www.music-park.sk/produkt/kytarove-zesilovace/1815/fg-little-250-amplitude
 DVC132040;DV Mark Powered Cab 112/60;0;https://www.music-park.sk/produkt/kytarove-reproboxy/1816/powered-cab-112-60
@@ -1303,7 +1303,7 @@ KRMICRK249;KORG microKEY2-49;10;https://www.music-park.sk/produkt/midi-kontroler
 KRMICRK249A;KORG microKEY Air-49;3;https://www.music-park.sk/produkt/midi-kontrolery/1145/microkey-air-49
 KRMICRK261;KORG microKEY2-61;3;https://www.music-park.sk/produkt/midi-kontrolery/1146/microkey2-61
 KRMICRK261A;KORG microKEY Air-61;3;https://www.music-park.sk/produkt/midi-kontrolery/1147/microkey-air-61
-KRMICROK25;KORG microKEY-25;3;https://www.music-park.sk/produkt/midi-kontrolery/1148/microkey-25
+KRMICROK25;KORG microKEY-25;0;https://www.music-park.sk/produkt/midi-kontrolery/1148/microkey-25
 KRNANOK2B;KORG nanoKEY2-BK;10;https://www.music-park.sk/produkt/midi-kontrolery/1160/nanokey2-bk
 KRNANOK2BLYL;KORG NanoKEY2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1161/nanokey2-blyl
 KRNANOK2ORGR;KORG NanoKEY2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1162/nanokey2-orgr
@@ -1311,7 +1311,7 @@ KRNANOK2W;KORG nanoKEY2-WH;5;https://www.music-park.sk/produkt/midi-kontrolery/1
 KRNANOKO2B;KORG nanoKONTROL2-BK;20;https://www.music-park.sk/produkt/midi-kontrolery/1164/nanokontrol2-bk
 KRNANOKO2BLYL;KORG NanoKONTROL2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1165/nanokontrol2-blyl
 KRNANOKO2ORGR;KORG NanoKONTROL2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1166/nanokontrol2-orgr
-KRNANOKO2W;KORG nanoKONTROL2-WH;20;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
+KRNANOKO2W;KORG nanoKONTROL2-WH;15;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
 KRNANOKOST;KORG nanoKONTROL Studio;15;https://www.music-park.sk/produkt/midi-kontrolery/1168/nanokontrol-studio
 KRNANOKST;KORG nanoKEY Studio;4;https://www.music-park.sk/produkt/midi-kontrolery/1169/nanokey-studio
 KRNANOP2B;KORG nanoPAD2-BK;3;https://www.music-park.sk/produkt/midi-kontrolery/1170/nanopad2-bk
@@ -1674,13 +1674,13 @@ KRTUCM400WH;KORG CM-400 WH;20;https://www.music-park.sk/produkt/chromaticke-ladi
 DR1MR6130;DR Strings Hi-Beam MR6-130;5;https://www.music-park.sk/produkt/struny-na-baskytary/3004/hi-beam-mr6-130
 DR1MH630;DR Strings Lo-Rider MH6-30;5;https://www.music-park.sk/produkt/struny-na-baskytary/3005/lo-rider-mh6-30
 DR1MH6130;DR Strings Lo-Rider MH6-130;3;https://www.music-park.sk/produkt/struny-na-baskytary/3006/lo-rider-mh6-130
-DR3BA10;DR Strings Banjo Tenor BA-10;5;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3007/banjo-tenor-ba-10
-DR3BA510;DR Strings Banjo 5 String BA5-10;15;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3008/banjo-5-string-ba5-10
-DR3MD10;DR Strings Rare MD-10;10;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3009/rare-md-10
-DR3MD11;DR Strings Rare MD-11;5;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3010/rare-md-11
-DR3MD12;DR Strings Rare MD-12;0;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3011/rare-md-12
-DR3RNSPLUS;DR Strings RNS-PLUS;0;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3012/rns-plus
-DR3NSA;DR Strings Classical Nylon NSA;0;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3013/classical-nylon-nsa
+DR3BA10;DR Strings Banjo Tenor BA-10;5;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3007/banjo-tenor-ba-10
+DR3BA510;DR Strings Banjo 5 String BA5-10;15;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3008/banjo-5-string-ba5-10
+DR3MD10;DR Strings Rare MD-10;10;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3009/rare-md-10
+DR3MD11;DR Strings Rare MD-11;5;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3010/rare-md-11
+DR3MD12;DR Strings Rare MD-12;0;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3011/rare-md-12
+DR3RNSPLUS;DR Strings RNS-PLUS;0;https://www.music-park.sk/produkt/struny-na-klasicke-kytary/3012/rns-plus
+DR3NSA;DR Strings Classical Nylon NSA;0;https://www.music-park.sk/produkt/struny-na-klasicke-kytary/3013/classical-nylon-nsa
 AGTH500GD;Aguilar Tone Hammer 500 Gold;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3014/tone-hammer-500-gold
 AGAG700RD;Aguilar AG 700 Red;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3015/ag-700-red
 AGTH500V2;Aguilar Tone Hammer 500 V2;4;https://www.music-park.sk/produkt/baskytarove-zesilovace/3016/tone-hammer-500-v2
@@ -1839,10 +1839,10 @@ DR1DBQ630;DR Strings Dragon Skin+ DBQ6-30;5;https://www.music-park.sk/produkt/po
 DR1DBQM45;DR Strings Dragon Skin+ DBQM-45;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3185/dragon-skin-dbqm-45
 DR1DBQM545;DR Strings Dragon Skin+ DBQM5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3186/dragon-skin-dbqm5-45
 DR1DBQM630;DR Strings Dragon Skin+ DBQM6-30;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3187/dragon-skin-dbqm6-30
-DR3DMP10;DR Strings Dragon Skin+ DMP-10;10;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3188/dragon-skin-dmp-10
-DR3DMP11;DR Strings Dragon Skin+ DMP-11;20;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3189/dragon-skin-dmp-11
-DR3CNM;DR Strings Classical Nylon CN-M;15;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3190/classical-nylon-cn-m
-DR3CNH;DR Strings Classical Nylon CN-H;20;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/3191/classical-nylon-cn-h
+DR3DMP10;DR Strings Dragon Skin+ DMP-10;10;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3188/dragon-skin-dmp-10
+DR3DMP11;DR Strings Dragon Skin+ DMP-11;20;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/3189/dragon-skin-dmp-11
+DR3CNM;DR Strings Classical Nylon CN-M;15;https://www.music-park.sk/produkt/struny-na-klasicke-kytary/3190/classical-nylon-cn-m
+DR3CNH;DR Strings Classical Nylon CN-H;20;https://www.music-park.sk/produkt/struny-na-klasicke-kytary/3191/classical-nylon-cn-h
 MBE170017XX;Markbass Compressore (Demo);0;https://www.music-park.sk/produkt/baskytarove-efekty/3193/compressore-demo
 MBH110127;Markbass Little Mark Rocker 58R;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3194/little-mark-rocker-58r
 MBH110110XX;Markbass Little Mark IV 300 (Rozbalené);0;https://www.music-park.sk/produkt/baskytarove-zesilovace/3195/little-mark-iv-300-rozbalene
@@ -1905,10 +1905,10 @@ MBH110126;Markbass Little Mark Casa 58R;0;https://www.music-park.sk/produkt/bask
 QL10.01071;Quik Lok SW702;5;https://www.music-park.sk/produkt/kytarove-stojany/3256/sw702
 MBC105114;Markbass CMB 102 Black Line;0;https://www.music-park.sk/produkt/baskytarova-komba/3257/cmb-102-black-line
 GLFDASATZ3-3TS-RW;G&L USA Fullerton Deluxe ASAT Z-3 3-Tone Sunburst;0;https://www.music-park.sk/produkt/elektricke-kytary/3258/usa-fullerton-deluxe-asat-z-3-3-tone-sunburst
-KRB2+BK;KORG B2+ BK;20;https://www.music-park.sk/produkt/digitalni-piana/3259/b2-bk
-KRB2+WH;KORG B2+ WH;20;https://www.music-park.sk/produkt/digitalni-piana/3260/b2-wh
+KRB2+BK;KORG B2+ BK;15;https://www.music-park.sk/produkt/digitalni-piana/3259/b2-bk
+KRB2+WH;KORG B2+ WH;15;https://www.music-park.sk/produkt/digitalni-piana/3260/b2-wh
 KRB2+SPBK;KORG B2+SP BK;0;https://www.music-park.sk/produkt/digitalni-piana/3261/b2sp-bk
-KRB2+SPWH;KORG B2+SP WH;10;https://www.music-park.sk/produkt/digitalni-piana/3262/b2sp-wh
+KRB2+SPWH;KORG B2+SP WH;5;https://www.music-park.sk/produkt/digitalni-piana/3262/b2sp-wh
 KRE1AIRBK;KORG E1 Air BK;15;https://www.music-park.sk/produkt/digitalni-piana/3263/e1-air-bk
 KRBM1;KORG BM-1;20;https://www.music-park.sk/produkt/midi-kontrolery/3264/bm-1
 KRPOETRYM;KORG Poetry Magnifique;1;https://www.music-park.sk/produkt/digitalni-piana/3265/poetry-magnifique
@@ -2193,7 +2193,7 @@ KRSTWL;KORG ST-WL;2;https://www.music-park.sk/produkt/klavesove-stojany/2202/st-
 MBB148016;Markbass GV4 Gloxy 3-Tone Sunburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2203/gv4-gloxy-3-tone-sunburst
 VXVMG50;VOX Mini Go 50;0;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
 ASSTUDIOTOUR;Ashdown Studio Tourbus;5;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
-VXVMG10;VOX Mini Go 10;2;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
+VXVMG10;VOX Mini Go 10;1;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
 VXVMG3;VOX Mini Go 3;5;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
 KRKA430;KORG KA-430;0;https://www.music-park.sk/produkt/napajeci-adaptery/2208/ka-430
 KRMODWAVE;KORG Modwave;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2225/modwave
@@ -2716,7 +2716,7 @@ DR1NRB40;DR Strings Neon Red NRB-40;5;https://www.music-park.sk/produkt/potazene
 DR1NRB45;DR Strings Neon Red NRB-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2779/neon-red-nrb-45
 DR1NRB540;DR Strings Neon Red NRB5-40;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2780/neon-red-nrb5-40
 DR1NRB545;DR Strings Neon Red NRB5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2781/neon-red-nrb5-45
-DR3UMCSC;DR Strings Multi Color UMCSC;20;https://www.music-park.sk/produkt/struny-na-akusticke-kytary/2782/multi-color-umcsc
+DR3UMCSC;DR Strings Multi Color UMCSC;20;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/2782/multi-color-umcsc
 DR1DSB40;DR Strings Dragon Skin DSB-40;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2783/dragon-skin-dsb-40
 DR1EH50;DR Strings Lo-Rider EH-50;4;https://www.music-park.sk/produkt/struny-na-baskytary/2784/lo-rider-eh-50
 DR1FB5130;DR Strings Fat-Beams FB5-130;5;https://www.music-park.sk/produkt/struny-na-baskytary/2785/fat-beams-fb5-130

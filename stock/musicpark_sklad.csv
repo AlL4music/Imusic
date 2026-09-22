@@ -293,7 +293,7 @@ KRC1AIRBR;KORG C1 Air BR;0;https://www.music-park.sk/produkt/digitalni-piana/406
 KRC1AIRWH;KORG C1 Air WH;0;https://www.music-park.sk/produkt/digitalni-piana/407/c1-air-wh
 KRHAVIAN30;KORG Havian 30;0;https://www.music-park.sk/produkt/digitalni-piana/418/havian-30
 KRLP180BK;KORG LP-180 BK;0;https://www.music-park.sk/produkt/digitalni-piana/419/lp-180-bk
-KRLP180WH;KORG LP-180 WH;1;https://www.music-park.sk/produkt/digitalni-piana/420/lp-180-wh
+KRLP180WH;KORG LP-180 WH;0;https://www.music-park.sk/produkt/digitalni-piana/420/lp-180-wh
 KRLP350BK;KORG LP-350 BK;0;https://www.music-park.sk/produkt/digitalni-piana/421/lp-350-bk
 KRLP350WH;KORG LP-350 WH;0;https://www.music-park.sk/produkt/digitalni-piana/422/lp-350-wh
 KRLP38073CB;KORG LP-380 73 CB;0;https://www.music-park.sk/produkt/digitalni-piana/423/lp-380-73-cb
@@ -679,7 +679,7 @@ HWT10C;Hiwatt T10 Combo;4;https://www.music-park.sk/produkt/kytarova-komba/1727/
 HWHG412;Hiwatt HG412;1;https://www.music-park.sk/produkt/kytarove-reproboxy/1732/hg412
 HWHGS100H;Hiwatt HGS 100H;1;https://www.music-park.sk/produkt/kytarove-zesilovace/1735/hgs-100h
 HWB60;Hiwatt B60;2;https://www.music-park.sk/produkt/baskytarova-komba/1736/b60
-KRC1AIRWA;KORG C1 Air WA;1;https://www.music-park.sk/produkt/digitalni-piana/1737/c1-air-wa
+KRC1AIRWA;KORG C1 Air WA;0;https://www.music-park.sk/produkt/digitalni-piana/1737/c1-air-wa
 KRKROMEEX61;KORG Krome EX-61;0;https://www.music-park.sk/produkt/workstation/1738/krome-ex-61
 KRKROMEEX73;KORG Krome EX-73;0;https://www.music-park.sk/produkt/workstation/1739/krome-ex-73
 KRKROMEEX88;KORG Krome EX-88;0;https://www.music-park.sk/produkt/workstation/1740/krome-ex-88
@@ -796,7 +796,7 @@ DR4PBKM;DR Strings Black Delrin PBK-M;0;https://www.music-park.sk/produkt/kytaro
 DR4PBKT;DR Strings Black Delrin PBK-T;0;https://www.music-park.sk/produkt/kytarove-prislusenstvi/1898/black-delrin-pbk-t
 DR1DDT40;DR Strings Drop-Down Tuning DDT-40;0;https://www.music-park.sk/produkt/struny-na-baskytary/1899/drop-down-tuning-ddt-40
 DR1PBVW40;DR Strings Pure Blues PBVW-40;5;https://www.music-park.sk/produkt/struny-na-baskytary/1900/pure-blues-pbvw-40
-DR4STRINGLIFE;DR Strings Stringlife;3;https://www.music-park.sk/produkt/kytarove-prislusenstvi/1901/stringlife
+DR4STRINGLIFE;DR Strings Stringlife;4;https://www.music-park.sk/produkt/kytarove-prislusenstvi/1901/stringlife
 MBB146190;Markbass Kimandu Black 5;0;https://www.music-park.sk/produkt/elektricke-baskytary/1902/kimandu-black-5
 DR1NMR6130;DR Strings Sunbeams NMR6-130;10;https://www.music-park.sk/produkt/struny-na-baskytary/1903/sunbeams-nmr6-130
 DR1SNMR545;DR Strings Sunbeams SNMR5-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/1904/sunbeams-snmr5-45
@@ -1575,7 +1575,7 @@ KRMPS10;KORG MPS-10;5;https://www.music-park.sk/produkt/elektronicke-bici/2862/m
 KRMODWAVEMK2;KORG Modwave mk II;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2863/modwave-mk-ii
 EK05130071;EKO S-100 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-kytary/2865/s-100-chrome-red
 EK05130072;EKO S-100 Metallic Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2866/s-100-metallic-blue
-EK05130100;EKO S-350 Sunburst Flamed;2;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
+EK05130100;EKO S-350 Sunburst Flamed;3;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
 EK05130120;EKO S-350 See Thru Blue Quilted;0;https://www.music-park.sk/produkt/elektricke-kytary/2868/s-350-see-thru-blue-quilted
 EK05130210;EKO VT-380 Cream;2;https://www.music-park.sk/produkt/elektricke-kytary/2869/vt-380-cream
 EK05130300;EKO DV-10 Trasparent Red;1;https://www.music-park.sk/produkt/elektricke-kytary/2871/dv-10-trasparent-red
@@ -1735,7 +1735,10 @@ MBC105108;Markbass CMB 151 Black Line;0;https://www.music-park.sk/produkt/baskyt
 EK06204180;EKO CS-10 Blue Burst;3;https://www.music-park.sk/produkt/klasicke-kytary/3070/cs-10-blue-burst
 EK06204190;EKO CS-10 Red Burst;4;https://www.music-park.sk/produkt/klasicke-kytary/3071/cs-10-red-burst
 EK06204170;EKO CS-10 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3072/cs-10-sunburst
-EK06204108;EKO CS-5 Blue Burst;4;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
+EK06130060;EKO CS-10 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3073/cs-10-pack
+EK06204100;EKO CS-5 Natural;0;https://www.music-park.sk/produkt/klasicke-kytary/3074/cs-5-natural
+EK06204108;EKO CS-5 Blue Burst;5;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
+EK06204109;EKO CS-5 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3076/cs-5-sunburst
 EK06130065;EKO CS-5 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3077/cs-5-pack
 FDFNI40100;Fodera STR-4-40100-N;15;https://www.music-park.sk/produkt/struny-na-baskytary/3079/str-4-40100-n
 FDFNI45105;Fodera STR-4-45105-N;15;https://www.music-park.sk/produkt/struny-na-baskytary/3080/str-4-45105-n
@@ -2278,7 +2281,7 @@ MBB148004;Markbass GV5 Gloxy Val Surf Green;0;https://www.music-park.sk/produkt/
 MB1BANS00125LS;Markbass Balanced NS 1 00-125;0;https://www.music-park.sk/produkt/struny-na-baskytary/2326/balanced-ns-1-00-125
 MB1BANS00032LS;Markbass Balanced NS 1 00-32;0;https://www.music-park.sk/produkt/struny-na-baskytary/2327/balanced-ns-1-00-32
 MBH110093;Markbass Little Mark Vintage 1000;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/2328/little-mark-vintage-1000
-MBH110112;Markbass Little AG 1000;1;https://www.music-park.sk/produkt/baskytarove-zesilovace/2329/little-ag-1000
+MBH110112;Markbass Little AG 1000;0;https://www.music-park.sk/produkt/baskytarove-zesilovace/2329/little-ag-1000
 MB4AGSS40100LE;Markbass Andrew Gouche SS 4 040-100;0;https://www.music-park.sk/produkt/struny-na-baskytary/2330/andrew-gouche-ss-4-040-100
 MB5AGSS40120LE;Markbass Andrew Gouche SS 5 040-120;0;https://www.music-park.sk/produkt/struny-na-baskytary/2331/andrew-gouche-ss-5-040-120
 MB6AGSS30120LE;Markbass Andrew Gouche SS 6 030-120;0;https://www.music-park.sk/produkt/struny-na-baskytary/2332/andrew-gouche-ss-6-030-120

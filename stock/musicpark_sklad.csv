@@ -546,6 +546,7 @@ MBA195006;Markbass Little Mark Rack Ears;0;https://www.music-park.sk/produkt/pri
 KRTUPC2PZG;KORG Pitchclip 2 Squirtle;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1503/pitchclip-2-squirtle
 KRTUPC2PHT;KORG Pitchclip 2 Charmander;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1504/pitchclip-2-charmander
 MBA195047;Markbass Big Bang Rack Ears;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/1505/big-bang-rack-ears
+EK06217129;EKO Ranger XII VR EQ Natural Top Stained;0;https://www.music-park.sk/produkt/akusticke-kytary/1506/ranger-xii-vr-eq-natural-top-stained
 EK06216943;EKO Ranger XII VR EQ Honey Burst;0;https://www.music-park.sk/produkt/akusticke-kytary/1507/ranger-xii-vr-eq-honey-burst
 PHSAF2DC;Phonic Safari 2000DC;2;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1508/safari-2000dc
 PHSAF3DC;Phonic Safari 3000DC;4;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1509/safari-3000dc
@@ -738,7 +739,6 @@ DVA134073;DV Mark DV Little Guitar Bag;0;https://www.music-park.sk/produkt/obaly
 KRKROSS288MB;KORG Kross 2-88 MB;10;https://www.music-park.sk/produkt/workstation/1810/kross-2-88-mb
 KRD1WH;KORG D1-WH;4;https://www.music-park.sk/produkt/digitalni-piana/1811/d1-wh
 VXMSB50BA;VOX Mini SuperBeetle Bass;1;https://www.music-park.sk/produkt/baskytarova-komba/1812/mini-superbeetle-bass
-KRTUPC2+;KORG Pitchclip 2+;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1813/pitchclip-2
 KRTUPR01;KORG PuttRhythm;20;https://www.music-park.sk/produkt/metronomy/1814/puttrhythm
 DVH130053;DV Mark FG Little 250 Amplitude;0;https://www.music-park.sk/produkt/kytarove-zesilovace/1815/fg-little-250-amplitude
 DVC132040;DV Mark Powered Cab 112/60;0;https://www.music-park.sk/produkt/kytarove-reproboxy/1816/powered-cab-112-60
@@ -1586,12 +1586,19 @@ EK05130450;EKO VL-480 Aged Gold Sparkle;2;https://www.music-park.sk/produkt/elek
 EK05100340;EKO S-300V Sunburst;1;https://www.music-park.sk/produkt/elektricke-kytary/2878/s-300v-sunburst
 EK05100306;EKO S-300V Olympic White;5;https://www.music-park.sk/produkt/elektricke-kytary/2880/s-300v-olympic-white
 EK05130461;EKO S-300V Maple Sunburst;0;https://www.music-park.sk/produkt/elektricke-kytary/2881/s-300v-maple-sunburst
+EK06130130;EKO CS-10 White Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2885/cs-10-white-satin
+EK06130129;EKO CS-10 Violet Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2886/cs-10-violet-satin
+EK06130131;EKO CS-10 Pink Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2887/cs-10-pink-satin
 EK05130720;EKO VPB-100 Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/2889/vpb-100-black
 EK05130710;EKO VPB-100 Sunburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2890/vpb-100-sunburst
 EK05130920;EKO MM-300 Black;3;https://www.music-park.sk/produkt/elektricke-baskytary/2900/mm-300-black
+EK06130128;EKO CS-10 Natural Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2901/cs-10-natural-satin
 EK05130940;EKO MM-300 Metallic Blue;3;https://www.music-park.sk/produkt/elektricke-baskytary/2902/mm-300-metallic-blue
 EK05130930;EKO MM-300 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-baskytary/2903/mm-300-chrome-red
+EK06130126;EKO CS-5 Violet Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2905/cs-5-violet-satin
+EK06130127;EKO CS-5 Pink Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2906/cs-5-pink-satin
 EK05130681;EKO VJB-200V Vintage Sunburst;3;https://www.music-park.sk/produkt/elektricke-baskytary/2907/vjb-200v-vintage-sunburst
+EK06130124;EKO CS-5 Natural Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2908/cs-5-natural-satin
 EK05130822;EKO VPJ-280V Vintage White;3;https://www.music-park.sk/produkt/elektricke-baskytary/2910/vpj-280v-vintage-white
 EK06217119;EKO Ranger XII VR Natural Top Stained;1;https://www.music-park.sk/produkt/akusticke-kytary/2911/ranger-xii-vr-natural-top-stained
 EK06216941;EKO Ranger XII VR Honey Burst;0;https://www.music-park.sk/produkt/akusticke-kytary/2912/ranger-xii-vr-honey-burst

@@ -1740,7 +1740,7 @@ DS552B;Hercules instrument stand tuba, for baritone horn;3;50.96;EUR;0
 DS553B;Hercules instrument stand pad, for tuba and baritone;4;49;EUR;0
 DS561B;Hercules stand, bass clarinet and bassoon holder;3;43.12;EUR;0
 DS571BB;Hercules violin/viola stand, with case;9;28.22;EUR;0
-DS580B;Hercules cello stand, secure support, adjustable height;3;41.95;EUR;0
+DS580B;Hercules cello stand, secure support, adjustable height;2;41.95;EUR;0
 DS590B;Hercules double bass stand, sturdy and adjustable;6;52.92;EUR;0
 DS602B;Hercules stand, clarinet and flute holder;3;6.67;EUR;0
 DS630BB;Hercules saxophone stand, with automatic grip lock small+ case;7;22.34;EUR;0
@@ -2731,7 +2731,7 @@ GRG1FP06.0;Klotz audio cable, balanced, Klotz XLR to jack plug - 6m;0;12.36;EUR;
 GRG1FP10.0;Klotz GREYHOUND analog audio cable, balanced, Klotz XLR to balanced jack plug - 10m;5;15.88;EUR;0
 GRG1MP00.6;Klotz audio cable, analog balanced XLR male to balanced jack - 0.6m;0;6.59;EUR;0
 GRG1MP01.5;Klotz audio cable, analog, XLR male to balanced jack, 1.5m;9;8.11;EUR;0
-GRG1MP03.0;Klotz audio cable, Greyhound analog balanced XLR male to balanced jack - 3m;2;9.49;EUR;0
+GRG1MP03.0;Klotz audio cable, Greyhound analog balanced XLR male to balanced jack - 3m;0;9.49;EUR;0
 GRG1MP06.0;Klotz audio cable, balanced XLR male to balanced jack plug - 6m;3;12.27;EUR;0
 GRG1MP10.0;Klotz audio cable, XLR male to balanced jack, 10m;9;15.79;EUR;0
 GRG1PP00.6;Klotz analog audio cable, balanced metal connectors - 0.6m;0;9.31;EUR;0
@@ -10227,7 +10227,7 @@ BLX24E/B58-H8E;SHURE BLX vocal set, receiver, handheld transmitter with BETA58 m
 BLX24E/PG58-H8E;SHURE BLX vocal set, receiver, handheld transmitter with PG58 microphone head;14;264.14;USD;0
 BLX24E/SM58-H8E;SHURE BLX Vocal Set, receiver, handheld transmitter with SM58 microphone head;5;287.62;USD;0
 BLX24RE/B58-H8E;SHURE BLX vocal set, rack receiver, handheld transmitter with BETA58 microphone head;2;409.7;USD;0
-BLX24RE/SM58-H8E;SHURE BLX vocal set, rack receiver, handheld transmitter with SM58 microphone head;2;351;USD;0
+BLX24RE/SM58-H8E;SHURE BLX vocal set, rack receiver, handheld transmitter with SM58 microphone head;0;351;USD;0
 BLX288E/B58-H8E;SHURE BLX dual vocal set, dual receiver, 2 handheld transmitters with BETA58 mic heads;1;687.92;USD;0
 BLX288E/PG58-H8E;SHURE BLX dual vocal set, dual receiver, 2 handheld transmitters with PG58 microphone head;1;544.69;USD;0
 BLX288E/SM58-H8E;SHURE BLX dual vocal set, dual receiver, 2 handheld transmitters with SM58 mic head;2;592.83;USD;0
@@ -11940,8 +11940,8 @@ SM4-K-KIT;SHURE condenser large-diaphragm studio microphone, shock-absorbing mic
 SM48-LC;SHURE dynamic microphone, vocal, speech;4;53.66;USD;1
 SM48S-LC;SHURE dynamic microphone, with switch;2;57.79;USD;1
 SM57-LCE;SHURE dynamic instrument microphone;95;99.44;USD;0
-SM58-LCE;SHURE dynamic microphone, cardioid pattern, without switch;35;108.14;USD;0
-SM58SE;SHURE dynamic microphone, cardioid pattern, with switch;39;118.08;USD;0
+SM58-LCE;SHURE dynamic microphone, cardioid pattern, without switch;31;108.14;USD;0
+SM58SE;SHURE dynamic microphone, cardioid pattern, with switch;37;118.08;USD;0
 SM63L;SHURE reporter microphone, VERAFLEX™ grille, 23 cm handle, dynamic, omnidirectional, champagne-color;0;151.44;USD;0
 SM63LB;SHURE Reporter microphone, VERAFLEX™ grille, extended 23 cm handle, dynamic, omnidirectional, black;0;151.44;USD;0
 SM7B;SHURE dynamic studio microphone;18;428.82;USD;0

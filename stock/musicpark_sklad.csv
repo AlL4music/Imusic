@@ -186,7 +186,7 @@ AGDB210CB8;Aguilar DB 210-8 CB;1;https://www.music-park.sk/produkt/baskytarove-r
 AGDB212CB4;Aguilar DB 212-4 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/267/db-212-4-cb
 AGDB212CB8;Aguilar DB 212-8 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/268/db-212-8-cb
 AGDB410CB4;Aguilar DB 410-4 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/269/db-410-4-cb
-AGDB410CB8;Aguilar DB 410-8 CB;1;https://www.music-park.sk/produkt/baskytarove-reproboxy/270/db-410-8-cb
+AGDB410CB8;Aguilar DB 410-8 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/270/db-410-8-cb
 AGDB412CB4;Aguilar DB 412 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/271/db-412-cb
 AGDB810CB4;Aguilar DB 810 CB;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/272/db-810-cb
 AGGS1128;Aguilar GS 112;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/273/gs-112
@@ -581,7 +581,7 @@ QL30.00440;Quik Lok S/310-5;5;https://www.music-park.sk/produkt/reproduktorove-k
 QL30.00172;Quik Lok S/380-10;5;https://www.music-park.sk/produkt/reproduktorove-kabely/1571/s-380-10
 QL30.00609;Quik Lok S/380-5;3;https://www.music-park.sk/produkt/reproduktorove-kabely/1575/s-380-5
 QL30.00610;Quik Lok S/381-5;3;https://www.music-park.sk/produkt/reproduktorove-kabely/1581/s-381-5
-QL30.00611;Quik Lok S/383-5;3;https://www.music-park.sk/produkt/reproduktorove-kabely/1587/s-383-5
+QL30.00611;Quik Lok S/383-5;1;https://www.music-park.sk/produkt/reproduktorove-kabely/1587/s-383-5
 QL20.00162;Quik Lok CA/215;20;https://www.music-park.sk/produkt/repro-kabely-metraz/1588/ca-215
 QL20.00163;Quik Lok CA/225;20;https://www.music-park.sk/produkt/repro-kabely-metraz/1589/ca-225
 QL20.00164;Quik Lok CA/24;20;https://www.music-park.sk/produkt/repro-kabely-metraz/1590/ca-24
@@ -1159,7 +1159,7 @@ DVH130035;DV Mark DV Little 250 M;0;https://www.music-park.sk/produkt/kytarove-z
 DVH130037;DV Mark DV Micro 50 M;0;https://www.music-park.sk/produkt/kytarove-zesilovace/954/dv-micro-50-m
 DVH130038;DV Mark DV Micro 50 II;0;https://www.music-park.sk/produkt/kytarove-zesilovace/955/dv-micro-50-ii
 DVH130040;DV Mark DV Micro 50 Jazz;0;https://www.music-park.sk/produkt/kytarove-zesilovace/956/dv-micro-50-jazz
-DVH130049;DV Mark DV Raw Dawg EG;2;https://www.music-park.sk/produkt/kytarove-zesilovace/957/dv-raw-dawg-eg
+DVH130049;DV Mark DV Raw Dawg EG;1;https://www.music-park.sk/produkt/kytarove-zesilovace/957/dv-raw-dawg-eg
 KRTUAW3M;KORG AW-3M;0;https://www.music-park.sk/produkt/chromaticke-ladicky/967/aw-3m
 KRTUAW3T;KORG AW-3T;0;https://www.music-park.sk/produkt/chromaticke-ladicky/968/aw-3t
 KRTUAW3V;KORG AW-3V;0;https://www.music-park.sk/produkt/chromaticke-ladicky/969/aw-3v
@@ -2120,6 +2120,7 @@ DXBENCHBKP;Dexibell Black Polished Bench;1;https://www.music-park.sk/produkt/sto
 DXBENCHDRP;Dexibell Red Polished Bench;0;https://www.music-park.sk/produkt/stolicky-a-lavice/3517/red-polished-bench
 DXBENCHWHM;Dexibell White Matt Bench;0;https://www.music-park.sk/produkt/stolicky-a-lavice/3518/white-matt-bench
 DXBENCHWHP;Dexibell White Polished Bench;1;https://www.music-park.sk/produkt/stolicky-a-lavice/3519/white-polished-bench
+AGDB700;Aguilar DB 700;2;https://www.music-park.sk/produkt/baskytarove-zesilovace/3520/db-700
 DR1DBSMP45;DR Strings Pink Dragon DBSMP-45;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3521/pink-dragon-dbsmp-45
 DR1DBSMP545;DR Strings Pink Dragon DBSMP5-45;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3522/pink-dragon-dbsmp5-45
 DR1DBSMP630;DR Strings Pink Dragon DBSMP6-30;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3523/pink-dragon-dbsmp6-30

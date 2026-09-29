@@ -460,7 +460,7 @@ VXAC15HW1;VOX AC15HW1;0;https://www.music-park.sk/produkt/kytarova-komba/706/ac1
 VXAC15HW1X;VOX AC15HW1X;0;https://www.music-park.sk/produkt/kytarova-komba/707/ac15hw1x
 VXAC15HW60;VOX AC15HW60;0;https://www.music-park.sk/produkt/kytarova-komba/708/ac15hw60
 VXAC15VR;VOX AC15VR;0;https://www.music-park.sk/produkt/kytarova-komba/709/ac15vr
-MBA195065;Markbass Nano Amp Bag;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/1418/nano-amp-bag
+VXAC1RV;VOX AC1 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/710/ac1-rhythmvox
 MBA195046;Markbass Markworld Bag S;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1420/markworld-bag-s
 MBA195048;Markbass Cover Standard 102HF;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1421/cover-standard-102hf
 MBA195049;Markbass Cover CMD JB Players School;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1422/cover-cmd-jb-players-school
@@ -739,6 +739,7 @@ DVA134073;DV Mark DV Little Guitar Bag;0;https://www.music-park.sk/produkt/obaly
 KRKROSS288MB;KORG Kross 2-88 MB;10;https://www.music-park.sk/produkt/workstation/1810/kross-2-88-mb
 KRD1WH;KORG D1-WH;4;https://www.music-park.sk/produkt/digitalni-piana/1811/d1-wh
 VXMSB50BA;VOX Mini SuperBeetle Bass;1;https://www.music-park.sk/produkt/baskytarova-komba/1812/mini-superbeetle-bass
+KRTUPC2+;KORG Pitchclip 2+;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/1813/pitchclip-2
 KRTUPR01;KORG PuttRhythm;20;https://www.music-park.sk/produkt/metronomy/1814/puttrhythm
 DVH130053;DV Mark FG Little 250 Amplitude;0;https://www.music-park.sk/produkt/kytarove-zesilovace/1815/fg-little-250-amplitude
 DVC132040;DV Mark Powered Cab 112/60;0;https://www.music-park.sk/produkt/kytarove-reproboxy/1816/powered-cab-112-60
@@ -987,7 +988,9 @@ VXVALVENERGYSD;VOX Silk Drive;0;https://www.music-park.sk/produkt/kytarove-efekt
 VXVALVENERGYCD;VOX Copperhead Drive;0;https://www.music-park.sk/produkt/kytarove-efekty/2124/copperhead-drive
 VXTELSTAR;VOX Telstar 2020;0;https://www.music-park.sk/produkt/bici-soupravy/2125/telstar-2020
 ASSTUDIOJNR;Ashdown Studio Junior;0;https://www.music-park.sk/produkt/baskytarova-komba/2126/studio-junior
-VXAC1RV;VOX AC1 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/710/ac1-rhythmvox
+ASSTUDIO8;Ashdown Studio 8;5;https://www.music-park.sk/produkt/baskytarova-komba/2127/studio-8
+ASSTUDIO10;Ashdown Studio 10;5;https://www.music-park.sk/produkt/baskytarova-komba/2128/studio-10
+ASSTUDIO12;Ashdown Studio 12;4;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
 VXAC2RV;VOX AC2 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/711/ac2-rhythmvox
 VXAC30C2;VOX AC30C2;0;https://www.music-park.sk/produkt/kytarova-komba/712/ac30c2
 KRTUWDT1;KORG WDT-1;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/715/wdt-1
@@ -1545,9 +1548,7 @@ MBA195015;Markbass Cover Standard 104HF - 151HF;0;https://www.music-park.sk/prod
 MBA195016;Markbass Cover Standard 104HR - 151HR;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1414/cover-standard-104hr-151hr
 MBA195017;Markbass Cover Traveler 102P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1415/cover-traveler-102p
 MBA195018;Markbass Cover CMD 102P;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1416/cover-cmd-102p
-GLFDASATB-JTB-CR;G&L USA Fullerton Deluxe ASAT Bass - Jet Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/2834/usa-fullerton-deluxe-asat-bass-jet-black
-GLFDLGY-JTB-MP-L;G&L USA Fullerton Deluxe Legacy Lefty - Jet Black;1;https://www.music-park.sk/produkt/elektricke-kytary/2835/usa-fullerton-deluxe-legacy-lefty-jet-black
-GLFDDOH-HIM-CR;G&L USA Fullerton Deluxe Doheny - Himalayan Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2837/usa-fullerton-deluxe-doheny-himalayan-blue
+MBA195065;Markbass Nano Amp Bag;0;https://www.music-park.sk/produkt/prislusenstvi-pro-baskytarove-aparaty/1418/nano-amp-bag
 GLFDCOM-MBM-CR;G&L USA Fullerton Deluxe Comanche - Midnight Blue Metallic;0;https://www.music-park.sk/produkt/elektricke-kytary/2838/usa-fullerton-deluxe-comanche-midnight-blue-metallic
 GLFDACLA-OST-MP;G&L USA Fullerton Deluxe ASAT Classic Alnico - Old School Tobacco;1;https://www.music-park.sk/produkt/elektricke-kytary/2839/usa-fullerton-deluxe-asat-classic-alnico-old-school-tobacco
 GLFDPL2000-GRY-MP;G&L USA Fullerton Deluxe L-2000 - Grey Pearl;0;https://www.music-park.sk/produkt/elektricke-baskytary/2840/usa-fullerton-deluxe-l-2000-grey-pearl
@@ -2128,9 +2129,6 @@ DR2DDT113PK;DR Strings Drop-Down Tuning DDT-11 3-Pack;0;https://www.music-park.s
 DXCOVER73BL;Dexibell DX Cover 73 BL;1;https://www.music-park.sk/produkt/obaly-na-klavesy/3530/dx-cover-73-bl
 DXCOVER76BL;Dexibell DX Cover 76 BL;0;https://www.music-park.sk/produkt/obaly-na-klavesy/3531/dx-cover-76-bl
 DXCOVER88BL;Dexibell DX Cover 88 BL;3;https://www.music-park.sk/produkt/obaly-na-klavesy/3532/dx-cover-88-bl
-ASSTUDIO8;Ashdown Studio 8;5;https://www.music-park.sk/produkt/baskytarova-komba/2127/studio-8
-ASSTUDIO10;Ashdown Studio 10;5;https://www.music-park.sk/produkt/baskytarova-komba/2128/studio-10
-ASSTUDIO12;Ashdown Studio 12;4;https://www.music-park.sk/produkt/baskytarova-komba/2129/studio-12
 ASSTUDIO15;Ashdown Studio 15;4;https://www.music-park.sk/produkt/baskytarova-komba/2130/studio-15
 VXAC15C1VB;VOX AC15C1-VB;0;https://www.music-park.sk/produkt/kytarova-komba/2131/ac15c1-vb
 AGCC210SL;Aguilar SL 210 Cover;0;https://www.music-park.sk/produkt/obaly-na-aparaty/2132/sl-210-cover
@@ -2773,3 +2771,6 @@ AGSL1108CB;Aguilar SL 110 CB;0;https://www.music-park.sk/produkt/baskytarove-rep
 AGSL1108F;Aguilar SL 110 Fawn;0;https://www.music-park.sk/produkt/baskytarove-reproboxy/2831/sl-110-fawn
 GLFDJB-PPB-MP;G&L USA Fullerton Deluxe JB - Purpleburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2832/usa-fullerton-deluxe-jb-purpleburst
 GLFDJB-3TS-CR-L;G&L USA Fullerton Deluxe JB Lefty - 3-Tone Sunburst;1;https://www.music-park.sk/produkt/elektricke-baskytary/2833/usa-fullerton-deluxe-jb-lefty-3-tone-sunburst
+GLFDASATB-JTB-CR;G&L USA Fullerton Deluxe ASAT Bass - Jet Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/2834/usa-fullerton-deluxe-asat-bass-jet-black
+GLFDLGY-JTB-MP-L;G&L USA Fullerton Deluxe Legacy Lefty - Jet Black;1;https://www.music-park.sk/produkt/elektricke-kytary/2835/usa-fullerton-deluxe-legacy-lefty-jet-black
+GLFDDOH-HIM-CR;G&L USA Fullerton Deluxe Doheny - Himalayan Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2837/usa-fullerton-deluxe-doheny-himalayan-blue

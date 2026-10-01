@@ -4355,6 +4355,10 @@
 20024532,ESP USA,[B-Stock] ESP USA M-II FR APBMB BH EMG,0,3265,,,1
 10024533,ESP USA,ESP USA HORIZON II Burl Maple Pink Carmine CH EMG,0,"5405.00",,,1
 20024533,ESP USA,[B-Stock] ESP USA HORIZON II Burl Maple Pink Carmine CH EMG,0,5405,,,1
+10024730,ESP USA,"ESP USA TE-II Claro Walnut Maple FB SD Seymour Duncan, Limited Edition",1,"4699.00",,,1
+20024730,ESP USA,"[B-Stock] ESP USA TE-II Claro Walnut Maple FB SD Seymour Duncan, Limited Edition",0,4699,,,1
+10024731,ESP USA,"ESP USA V-II NTB FR FM STBLKSB Bare Knuckle, Limited Edition",1,"4849.00",,,1
+20024731,ESP USA,"[B-Stock] ESP USA V-II NTB FR FM STBLKSB Bare Knuckle, Limited Edition",0,4849,,,1
 10010576,JBL Bags,JBL Bags EON718S-CVR Slip On Cover for EON718S Speaker,1,"41.40",716408559780,,0
 20010576,JBL Bags,[B-Stock] JBL Bags EON718S-CVR Slip On Cover for EON718S Speaker,0,41.4,716408559780,,0
 10010580,JBL Bags,JBL Bags EONONECOMPACT-CVR EON ONE COMPACT,1,"16.80",716408553443,,0
@@ -6593,8 +6597,8 @@
 20010907,Gator,[B-Stock] Gator GB-4G-BASSX2 4G Series Gig Bag for 2 Bass Guitars,0,52,716408534329,,0
 10010918,Gator,Gator GPX-ACOUSTIC GPX Acoustic Gig Bag Black,1,"87.00",716408544038,,0
 20010918,Gator,[B-Stock] Gator GPX-ACOUSTIC GPX Acoustic Gig Bag Black,0,87,716408544038,,0
-10010919,Gator,Gator GPX-BASS GPX Bass Gig Bag Black,1,"84.00",716408544045,,0
-20010919,Gator,[B-Stock] Gator GPX-BASS GPX Bass Gig Bag Black,0,84,716408544045,,0
+10010919,Gator,Gator GPX-BASS GPX Bass Gig Bag Black,0,"84.00",716408544045,"2027-04-09 00:00:00",0
+20010919,Gator,[B-Stock] Gator GPX-BASS GPX Bass Gig Bag Black,0,84,716408544045,"2027-04-09 00:00:00",0
 10010969,Gator,Gator GPT-PRO-PWR-UK Wood Pedal Board/Black Carry Bag; Include G-Bus-8,0,"131.40",716408507392,"2027-04-05 00:00:00",0
 20010969,Gator,[B-Stock] Gator GPT-PRO-PWR-UK Wood Pedal Board/Black Carry Bag; Include G-Bus-8,0,131.4,716408507392,"2027-04-05 00:00:00",0
 10010973,Gator,"Gator G-LCD-TOTE-LGX2 Padded LCD Transport Bag, Large 40''-45''",0,"101.00",716408545974,"2027-01-21 00:00:00",0
@@ -6793,8 +6797,8 @@
 20010822,Gator,[B-Stock] Gator GTSA-GTRDREAD TSA Polyethylene Case for Dreadnought style AC,0,109,716408539720,"2026-12-04 00:00:00",0
 10010829,Gator,Gator GW-LPS Gibson Les Paul Deluxe Wood Case Black Gibson Les Paul Guitar Deluxe Wood Case Black,1,"69.00",716408500928,,0
 20010829,Gator,[B-Stock] Gator GW-LPS Gibson Les Paul Deluxe Wood Case Black Gibson Les Paul Guitar Deluxe Wood Case Black,0,69,716408500928,,0
-10010835,Gator,Gator GW-335-BROWN Semi-Hollow Guitar Deluxe Wood Case,1,"87.00",716408506500,,0
-20010835,Gator,[B-Stock] Gator GW-335-BROWN Semi-Hollow Guitar Deluxe Wood Case,0,87,716408506500,,0
+10010835,Gator,Gator GW-335-BROWN Semi-Hollow Guitar Deluxe Wood Case,0,"87.00",716408506500,"2026-10-22 00:00:00",0
+20010835,Gator,[B-Stock] Gator GW-335-BROWN Semi-Hollow Guitar Deluxe Wood Case,0,87,716408506500,"2026-10-22 00:00:00",0
 10010837,Gator,Gator GW-CLASSIC Classical Guitar Deluxe Wood Case,1,"70.50",716408502663,,0
 20010837,Gator,[B-Stock] Gator GW-CLASSIC Classical Guitar Deluxe Wood Case,0,70.5,716408502663,,0
 10010842,Gator,Gator GW-EXTREME Non-Standard Guitar Cases Black,1,"125.00",716408503257,,0
@@ -7123,8 +7127,8 @@
 20011005,Gator,"[B-Stock] Gator GTSA-MIX222508 Polyethylene Plastic Case 22x25x8""",0,208,716408539683,,0
 10011726,Gator,"Gator G-PROR-8U-19 Pro-Series Molded Mil-Grade Rack Case 8U 19"" Wheel",1,"305.00",716408525068,,0
 20011726,Gator,"[B-Stock] Gator G-PROR-8U-19 Pro-Series Molded Mil-Grade Rack Case 8U 19"" Wheel",0,305,716408525068,,0
-10011836,Gator,"Gator GPA-CVR10 Nylon Speaker Cover Compact 10"" Speaker Cabinets",1,"16.50",716408543390,,0
-20011836,Gator,"[B-Stock] Gator GPA-CVR10 Nylon Speaker Cover Compact 10"" Speaker Cabinets",0,16.5,716408543390,,0
+10011836,Gator,"Gator GPA-CVR10 Nylon Speaker Cover Compact 10"" Speaker Cabinets",0,"16.50",716408543390,"2026-10-22 00:00:00",0
+20011836,Gator,"[B-Stock] Gator GPA-CVR10 Nylon Speaker Cover Compact 10"" Speaker Cabinets",0,16.5,716408543390,"2026-10-22 00:00:00",0
 10011837,Gator,"Gator GPA-CVR12 Nylon Speaker Cover Compact 12"" Speaker Cabinets",0,"19.00",716408543383,"2026-10-01 00:00:00",0
 20011837,Gator,"[B-Stock] Gator GPA-CVR12 Nylon Speaker Cover Compact 12"" Speaker Cabinets",0,19,716408543383,"2026-10-01 00:00:00",0
 10011878,Gator,"Gator G-TOUR 10U CAST 10U, Standard Audio Road Rack Case w/ Casters",1,"309.00",716408506609,,0
@@ -8237,8 +8241,8 @@
 20024366,Gator Frameworks,[B-Stock] Gator Frameworks GRW-SCRW100 Rack Screws - 100 Pack,0,19,716408537474,,0
 10024364,Gator Frameworks,Gator Frameworks GRW-SCRW050 Rack Screws - 50 Pack,0,"7.90",716408546377,"2027-04-05 00:00:00",0
 20024364,Gator Frameworks,[B-Stock] Gator Frameworks GRW-SCRW050 Rack Screws - 50 Pack,0,7.9,716408546377,"2027-04-05 00:00:00",0
-10024379,Gator Frameworks,Gator Frameworks GFW-MIC-QRTOP Quick Release Microphone Attachment,1,"12.10",716408540009,,0
-20024379,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-QRTOP Quick Release Microphone Attachment,0,12.1,716408540009,,0
+10024379,Gator Frameworks,Gator Frameworks GFW-MIC-QRTOP Quick Release Microphone Attachment,0,"12.10",716408540009,"2027-04-09 00:00:00",0
+20024379,Gator Frameworks,[B-Stock] Gator Frameworks GFW-MIC-QRTOP Quick Release Microphone Attachment,0,12.1,716408540009,"2027-04-09 00:00:00",0
 10024487,Gator Frameworks,Gator Frameworks GFW-ELITEGTRAMPSM-BLK Elite Series Small Combo Guitar Amp Stand Black,0,"91.50",716408558783,"2027-04-05 00:00:00",0
 20024487,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITEGTRAMPSM-BLK Elite Series Small Combo Guitar Amp Stand Black,0,91.5,716408558783,"2027-04-05 00:00:00",0
 10024488,Gator Frameworks,Gator Frameworks GFW-ELITEGTRAMPLG-BLK Elite Series Large Combo Guitar Amp Stand Black,0,"95.50",716408558820,"2027-04-05 00:00:00",0
@@ -11623,8 +11627,8 @@
 20004280,DiMarzio,[B-Stock] DiMarzio DP 151RDBK PAF Pro red/black,0,70.7,,"2026-12-26 00:00:00",0
 10004282,DiMarzio,DiMarzio DP 159BKY Evolution Bridge black/yellow,0,"83.70",,"2026-12-26 00:00:00",0
 20004282,DiMarzio,[B-Stock] DiMarzio DP 159BKY Evolution Bridge black/yellow,0,83.7,,"2026-12-26 00:00:00",0
-10004289,DiMarzio,DiMarzio DD 2200JPBKRD John Petrucci ClipLock Black/Red John Petrucci,1,"22.10",663334044647,,0
-20004289,DiMarzio,[B-Stock] DiMarzio DD 2200JPBKRD John Petrucci ClipLock Black/Red John Petrucci,0,22.1,663334044647,,0
+10004289,DiMarzio,DiMarzio DD 2200JPBKRD John Petrucci ClipLock Black/Red John Petrucci,0,"22.10",663334044647,"2026-12-30 00:00:00",0
+20004289,DiMarzio,[B-Stock] DiMarzio DD 2200JPBKRD John Petrucci ClipLock Black/Red John Petrucci,0,22.1,663334044647,"2026-12-30 00:00:00",0
 10004290,DiMarzio,DiMarzio DP 709KK Ionizer 7 Neck black metal cov,0,"93.40",,"2026-12-26 00:00:00",0
 20004290,DiMarzio,[B-Stock] DiMarzio DP 709KK Ionizer 7 Neck black metal cov,0,93.4,,"2026-12-26 00:00:00",0
 10004300,DiMarzio,DiMarzio DP 155FBKW The Tone Zone black/white,0,"70.70",,"2026-12-26 00:00:00",0

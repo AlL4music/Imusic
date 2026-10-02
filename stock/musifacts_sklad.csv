@@ -27,7 +27,7 @@ CST-NUC;Nucleo (Cornerstone) [expected 2026-12-01];0;https://codots.app/availabi
 04-TBK-0018;Pickup. Thornbucker, Neck 50mm, Gold (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TQR-M;Quick Release Pedal Plate - Medium (Temple);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-ASX;RBX - Alto Sax Case (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-RBX-2B;RBX - Double Bass Guitar Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+RBX-2B;RBX - Double Bass Guitar Gig Bag (Reunion Blues) [expected 2026-10-07];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-2E;RBX - Double Electric Guitar Gig Bag (Reunion Blues) [expected 2026-10-07];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-A2;RBX - Dreadnought Guitar Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-335;RBX - Semi/Hollow Guitar Gig Bag (Reunion Blues) [expected 2027-01-15];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -138,7 +138,7 @@ TQR-SOLO;SOLO Mounting Bracket (Temple);1;https://codots.app/availability-by-pro
 SOLO-18-SC;SOLO-18 Soft Case (Temple) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-SUMV2;Stereo Sum Module V2 (Temple);3;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-STUDIO;Studio Re-Amping Module (Temple);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TQR-TRIO;TRIO Mounting Bracket (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TQR-TRIO;TRIO Mounting Bracket (Temple) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-21-HC;TRIO-21 Flight Case (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-21-SC;TRIO-21 Soft Case (Temple) [expected 2026-09-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TRIO-28-HC;TRIO-28 Flight Case (Temple);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -198,7 +198,7 @@ TKL7925;Performer Single Cut / LP-Style Hardshell Case (TKL);1;https://codots.ap
 03-SHI-0002;Shiba ReLoaded, Overdrive (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 VTR-236;Vectra Stealth 2.6 IPX Double Electric Bass Soft Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 VTR-136-STH;Vectra Stealth 2.6 IPX Electric Bass Soft Case (TKL);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-03-WSC-0001;Woodshed Comp, Andy Wood Signature (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+03-WSC-0001;Woodshed Comp, Andy Wood Signature (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0051;1x12 Badger Cabinet, Graphite, Silver Grill, Veteran 30 (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0050;1x12 Bella Cabinet, Graphite, Silver grill, V-Type (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-112;1x12" Extension Cabinet, Black, Vintage 30 (Revv);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -511,8 +511,8 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 05-SUR-0047;2x12 Speaker Cabinet. Black tolex. Gold Grill. No speaker (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 05-SUR-0070;4x12 PT100 Cabinet, Black, Black grill (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-VLP-0003;Pickup. V60 LP. Single Coil. Bridge. Parchment (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-VLP-0007;Pickup. V60 LP. Single Coil. Middle. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-VLP-0011;Pickup. V60 LP. Single Coil. Neck. Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-VLP-0007;Pickup. V60 LP. Single Coil. Middle. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-VLP-0011;Pickup. V60 LP. Single Coil. Neck. Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V63-0012;Pickup. V63 Single Coil. Neck. White (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V70-0003;Pickup. V70. Single Coil. Bridge. Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-V70-0004;Pickup. V70. Single Coil. Bridge. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv

@@ -1115,9 +1115,9 @@ CHL500LU5;Proel DMX cable 5 m, 3P DMX512 signal black, Yongsheng XLR 3PF and Yon
 CHLP175LU3;Proel balanced cable, 3 m black, 2x 3.5 mm Yongsheng stereo jack plug;0;5.04;EUR;0
 CHLP185LU15;Proel balanced cable, 1.5m black, 3.5mm stereo jack plug - 6.3mm stereo jack plug;0;4.78;EUR;0
 CL1;Rotosound classical guitar string set, nylon/silver, ball end, normal tension;5;6.46;EUR;0
-CL2;Rotosound classical guitar string set, nylon/silver, normal tension;5;6.36;EUR;0
-CL3;Rotosound classical guitar string set, nylon/silver, high tension;33;6.08;EUR;0
-CL4;Rotosound classical guitar string set, black nylon/silver, normal tension;31;6.08;EUR;0
+CL2;Rotosound classical guitar string set, nylon/silver, normal tension;3;6.36;EUR;0
+CL3;Rotosound classical guitar string set, nylon/silver, high tension;31;6.08;EUR;0
+CL4;Rotosound classical guitar string set, black nylon/silver, normal tension;29;6.08;EUR;0
 CLAES-MINI04;Klotz CATLink MINI 4-pair cable adapter, etherCON female - 4 x XLR 3p male - 1.5m;0;103.79;EUR;0
 CLAES-MINI22A;Klotz cable adapter, CATLink MINI 2/2 etherCON female - 2/2 x XLR 3p male/female - 0.8m;0;103.79;EUR;0
 CLAES-MINI22B;Klotz CATLink MINI, group cable adapter etherCON female - 2/2 x XLR 3p female/male - 0.8m;0;103.79;EUR;0
@@ -1736,7 +1736,7 @@ DS538B;Hercules wind instrument stand, 5 instruments, for alto/tenor saxophone, 
 DS543BB;Hercules wind instrument stand, for flute, clarinet, and piccolo;6;19.99;EUR;0
 DS550BB;Hercules brass instrument stand, for horn (French horn) + case;3;18.43;EUR;0
 DS551B;Hercules instrument stand, for sousaphone;0;56.45;EUR;0
-DS552B;Hercules instrument stand tuba, for baritone horn;3;50.96;EUR;0
+DS552B;Hercules instrument stand tuba, for baritone horn;4;50.96;EUR;0
 DS553B;Hercules instrument stand pad, for tuba and baritone;4;49;EUR;0
 DS561B;Hercules stand, bass clarinet and bassoon holder;3;43.12;EUR;0
 DS571BB;Hercules violin/viola stand, with case;9;28.22;EUR;0
@@ -5318,8 +5318,8 @@ LINEAR 5 MK II 115 FA;HK Audio active loudspeaker, 1200W bi-amp, 1x 15″/1″, 
 LINEAR 5 MK II 115 Sub A;HK Audio active subwoofer, 1200W, 1x 15″, bass-reflex, Class-D, M20, DSP out, DSP CONTROL Win/macOS;4;820.98;EUR;0
 LINEAR 5 MK II 115 XA;HK Audio active speaker, 1200W bi-amp, 1x 15″/1″, 70°x50° CD horn, DSP CONTROL Win/macO;0;794.48;EUR;0
 LINEAR 5 MK II 118 Sub A;HK Audio active subwoofer, 2000W, 1x 18″, bass-reflex, Class-D, M20, DSP out, DSP CONTROL Win/macOS;0;1059.47;EUR;0
-LINEAR 5 MK II 118 Sub HPA;"HK Audio active subwoofer, 3000W, 18"", bass-reflex, Class-D, 4 presets, DSP OUT";0;1589.48;EUR;0
-LINEAR 5 MK II 308 LTA;"HK Audio active speaker, 1200W, 3x 8"", multicell transformer, long-throw, bi-amp, DSP";0;1271.48;EUR;0
+LINEAR 5 MK II 118 Sub HPA;"HK Audio active subwoofer, 3000W, 18"", bass-reflex, Class-D, 4 presets, DSP OUT";2;1589.48;EUR;0
+LINEAR 5 MK II 308 LTA;"HK Audio active speaker, 1200W, 3x 8"", multicell transformer, long-throw, bi-amp, DSP";2;1271.48;EUR;0
 LINEAR 5 MK II BIG VENUE PACK;HK Audio active speaker set, 2x LINEAR 5 MK II 115 FA, 4x 118 Sub A, with covers;0;6094.51;EUR;0
 LINEAR 5 MK II LOUNGE PACK;HK Audio active speaker set, 2x LINEAR 5 MK II 110 XA, 1x MK II 115 Sub A, with protective covers;1;2331.49;EUR;0
 LINEAR 5 MK II ROCK PACK;HK Audio active speaker set, 2x LINEAR 5 MK II 112 FA, 4x LINEAR 5 MK II 115 Sub A, covers;0;5034.51;EUR;0
@@ -7237,16 +7237,16 @@ PLAYMIX6;Proel PLAYMIX6;0;74.67;EUR;0
 PLAYMIX8;Proel PLAYMIX8;0;93.01;EUR;0
 PLH232;Proel truss safety wire with loop and clamp, galvanized stainless steel, length: 850 mm;25;2.55;EUR;0
 PLH290;Proel truss clamp, M10x50 quick-release screw aluminum, inner d:50.8 mm, max: 100 kg;0;6.35;EUR;0
-PN10;Rotosound electric guitar string set, nickel, 10 13 17 26 36 46;3;4.96;EUR;0
-PN11;Rotosound electric guitar nickel string set, 11 14 18 28 38 48;19;4.96;EUR;0
-PN9;Rotosound electric guitar string set, nickel, 9 11 16 24 32 42;4;4.96;EUR;0
-POLAR 10 MK2;HK Audio POLAR 10 MK2;15;586.2;EUR;0
+PN10;Rotosound electric guitar string set, nickel, 10 13 17 26 36 46;0;4.96;EUR;0
+PN11;Rotosound electric guitar nickel string set, 11 14 18 28 38 48;17;4.96;EUR;0
+PN9;Rotosound electric guitar string set, nickel, 9 11 16 24 32 42;2;4.96;EUR;0
+POLAR 10 MK2;HK Audio POLAR 10 MK2;19;586.2;EUR;0
 POLAR 10 MK2 white;HK Audio POLAR 10 MK2 white;5;644.88;EUR;0
 POLAR 10/12 Wheelboard;HK Audio dolly, for POLAR 10 or POLAR 12 transport;0;64.99;EUR;0
-POLAR 12 MK2;HK Audio POLAR 12 MK2;0;674.23;EUR;0
-POLAR 12 MK2 white;"aktív oszlopsugárzó szett, 2000W, 12"" + 6x 3"", Bluetooth 5.0, keverő, hordtáska, fehér";4;732.9;EUR;0
+POLAR 12 MK2;HK Audio POLAR 12 MK2;1;674.23;EUR;0
+POLAR 12 MK2 white;"aktív oszlopsugárzó szett, 2000W, 12"" + 6x 3"", Bluetooth 5.0, keverő, hordtáska, fehér";8;732.9;EUR;0
 POLAR 8;"HK Audio active column speaker set, 1200W, 8"" + 6x 2.5"", Bluetooth 5.0, TWS, 3-ch mixer";3;380.82;EUR;0
-POLAR MK2 Wheel Board;HK Audio POLAR MK2 Wheel Board;3;58.09;EUR;0
+POLAR MK2 Wheel Board;HK Audio POLAR MK2 Wheel Board;5;58.09;EUR;0
 POWER-LK-BR;Klotz powerlink mount, M10 thread;0;12.54;EUR;0
 POWER-LK-CL;Klotz PowerLink truss mounting clamp;0;0.98;EUR;0
 POWER-LK-NFM;Klotz power distributor, 4-channel, 1 x power IN - 4 x power OUT;0;87.08;EUR;0
@@ -8147,7 +8147,7 @@ RG213-HB-E.100;Klotz coax cable 50 Ohm, RG213/U FRNC - Eca - 100m;0;308.52;EUR;0
 RG213-HB-E.200;Klotz coaxial cable, 50 Ohm RG213/U FRNC - Eca, 200m;0;642.32;EUR;0
 RG213-HB-E.300;Klotz 50 Ohm - coaxial cable RG213/U FRNC - Eca - 300m;0;948.78;EUR;0
 RH10;Rotosound electric guitar nickel string set, LTHB, 10 13 17 30 42 52;0;3.64;EUR;0
-RH9;Rotosound electric guitar string set, nickel, hybrid, 9 11 16 26 36 46;7;3.64;EUR;0
+RH9;Rotosound electric guitar string set, nickel, hybrid, 9 11 16 26 36 46;4;3.64;EUR;0
 RK12N;Proel rack panel, 12 XLR/SPEAKON slots, black, metal;0;4.45;EUR;0
 RK16N;Proel rack panel, 16 XLR slots, black, metal;11;5.57;EUR;0
 RK1L;Proel rack panel 1U, black, metal;0;4.06;EUR;0
@@ -8665,7 +8665,7 @@ SMY414N-015;Klotz stereo microphone Y-cable, XLR 5p female - 2 x XLR 3p male Neu
 SMY414N-030;Klotz stereo microphone Y-cable XLR 5pin female - 2 x XLR 3pin male Neutrik connectors - 3m;0;35.33;EUR;0
 SMY414N-050;Klotz stereo microphone Y-cable, XLR 5p female - 2 x XLR 3p male Neutrik connectors - 5m;0;37.95;EUR;0
 SONAR 110 Xi;HK Audio active speaker, 800W, 10″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;10;263.47;EUR;0
-SONAR 112 Xi;HK Audio active speaker, 1200W, 12″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;1;292.81;EUR;0
+SONAR 112 Xi;HK Audio active speaker, 1200W, 12″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;3;292.81;EUR;0
 SONAR 115 Sub D;HK Audio active subwoofer, 1500W, 15″, bass-reflex, D-Class, DSP, M20, LCD, wood;5;410.17;EUR;0
 SONAR 115 Xi;"HK Audio active speaker, 1200W, 15"" + 1"", Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App";0;339.75;EUR;0
 Speaker mounting pole, steel;HK Audio mounting accessory, adjustable height (89-149 cm), M20 satellite pole;0;26.93;EUR;0
@@ -10246,8 +10246,8 @@ BT51C;Yealink Bluetooth Dongle, USB-C Port, High-Performance Wireless Connectivi
 BTTOTALMK2;Alto Pro wireless audio receiver, stereo link, Bluetooth 5.0;30;34.61;USD;0
 BTULTIMATE;Alto Pro wireless audio receiver, stereo link, True Stereo, BT 5.0;0;55.39;USD;0
 BUSKERCOVER;Alto Pro BUSKERCOVER;2;28.03;USD;0
-BUSKERXEU;Alto Pro portable, battery-powered speaker, 2 mic/line inputs, effects and bluetooth connectivity;34;242.38;USD;0
-BX3PAIRBTXEU;"M-Audio studio monitor pair, active, 120W, 3.5"", EQ, aux, Bluetooth";10;76.88;USD;0
+BUSKERXEU;Alto Pro portable, battery-powered speaker, 2 mic/line inputs, effects and bluetooth connectivity;32;242.38;USD;0
+BX3PAIRBTXEU;"M-Audio studio monitor pair, active, 120W, 3.5"", EQ, aux, Bluetooth";9;76.88;USD;0
 BX3PAIRXEU;"M-Audio monitor speakers, active, 120W, 3.5"", EQ, aux";50;69.89;USD;0
 BX4PAIRBTXEU;"M-Audio monitor speakers, active, 120W, 4.5"", EQ, aux, Bluetooth";34;90.86;USD;0
 BX4PAIRXEU;"M-Audio monitor speaker pair, active, 120W, 4.5"", EQ, aux";40;83.86;USD;0
@@ -11086,7 +11086,7 @@ MTouch Plus;Yealink Touch Panel, 11.6-inch 1080P, Sleek Design, Multi-Screen Sup
 MTouch Plus White;Yealink MTouch Plus, 11.6-Inch 1080P Touch Panel, Sleek Black Design, Flexible Installation;0;864.5;USD;0
 MTouch Plus-Ex Package;Yealink MTouch Plus-EXT, 11.6-inch 1080P IPS screen, space-black finish;0;598.5;USD;0
 MTRACKDUO;M-Audio interface, 2-in/2-out, 16-bit/48 KHz, USB, +48V;101;41.93;USD;0
-MTRACKDUOHD;M-Audio MTRACKDUOHD;72;56.55;USD;0
+MTRACKDUOHD;M-Audio MTRACKDUOHD;70;56.55;USD;0
 MTRACKDUOHDPACK;M-Audio MTRACKDUOHDPACK;6;120.16;USD;0
 MTRACKSOLOII;M-Audio interface, 1-in/2-out, 16-bit/48 KHz, USB, +48V;34;34.94;USD;0
 MULTIPADCLAMPXEU;Alesis mount, for drum modules, universal;8;55.39;USD;0
@@ -11421,7 +11421,7 @@ RB 23410 B;RockBag Mixer Bag, water-resistant RokTex surface, foam cushioning, d
 RB 23430 B;RockBag Mixer Bag, water-resistant RokTex, foam cushioning, detachable divider;17;25.7;USD;0
 RB 23440 B;RockBag Mixer Bag, Water-Resistant, Foam Cushioning, Black;19;31.06;USD;0
 RB 25580 B;RockBag Microphone Stand Bag, holds 1-4 stands, water-resistant, padded handles;51;7.1;USD;0
-RB 25590 B;RockBag Speaker Stand Bag, water-resistant RokTex, accommodates 1-2 stands, padded handles;19;9.74;USD;0
+RB 25590 B;RockBag Speaker Stand Bag, water-resistant RokTex, accommodates 1-2 stands, padded handles;17;9.74;USD;0
 RB 25593 B;RockBag Speaker Stand Bag, water-resistant, fits 1-2 stands, padded handles;43;12.48;USD;0
 RB TOOL R-CARE KIT;RockCare Guitar Maintenance Kit, orange oil polish, string winder, cutter, hex-wrenches;19;11.77;USD;0
 RBO B 2.0 DUO B;RockBoard Pedalboard, lightweight aluminum, fits 3-5 pedals, includes gig bag;0;29.29;USD;0
@@ -11455,7 +11455,7 @@ RBO CAB PC F 5 BLK;RockBoard Flat Patch Cable, Extra Flat Design, 5 cm Length, B
 RBO CAB PC F 60 BLK;RockBoard Flat Patch Cable, extra flat design, angled plugs, 60 cm length;177;2;USD;0
 RBO CAB TIE 120 B;RockBoard Extra Small Cable Ties, Black, 10 pcs, Hook & Loop, Reusable;147;1.3;USD;0
 RBO CAB TIE 300 B;RockBoard Cable Ties, reusable, black, 10 pcs, medium, metal ring, Hook & Loop;165;1.77;USD;0
-RBO E HA 1;RockBoard In-Ear Monitoring Amplifier, Compact Design, Stereo/Mono Switch;81;31.6;USD;0
+RBO E HA 1;RockBoard In-Ear Monitoring Amplifier, Compact Design, Stereo/Mono Switch;78;31.6;USD;0
 RBO E ST 01 V2;RockBoard Chromatic Pedal Tuner, LED Display, True Bypass, Detuning Function;19;17.45;USD;0
 RBO HL TAPE 100;RockBoard Hook & Loop Tape, wide design, self-adhesive, 1 m length;0;1.33;USD;0
 RBO HL TAPE 25;RockBoard Hook & Loop Tape, self-adhesive, narrow design, 25 cm;0;0.63;USD;0
@@ -11567,7 +11567,7 @@ RK319;SHURE headband, rubber/elastic material, black, for WH10, WH20, WH30 heads
 RK320;SHURE microphone grille, for BETA56 and BETA57A microphones;1;36.65;USD;0
 RK321;SHURE microphone grille, for BETA52 microphone;0;42.63;USD;0
 RK323;SHURE clip (1 pc) and foam windscreens (2 pcs) set, for PG185 microphone;0;2.58;USD;0
-RK323G;SHURE microphone grille for BETA58A microphone, black color;1;42.38;USD;0
+RK323G;SHURE microphone grille for BETA58A microphone, black color;0;42.38;USD;0
 RK324G;SHURE microphone grille for BETA87A, black;0;45.44;USD;0
 RK334G;SHURE microphone grille 515SA, 515SB, 515SBGX microphones;0;12.78;USD;0
 RK345;SHURE windscreen for SM7B microphone, plastic rim, slim design, black;7;14.4;USD;0
@@ -11977,7 +11977,7 @@ SRH440A-EFS;SHURE professional headphone, includes 3.5-6.3mm jack adapter, strai
 SRH440A-PADS;SHURE ear pads for SRH440A headphones, 1 pair (compatible only with 2022 SRH440A model);4;17.77;USD;0
 SRH840A-EFS;SHURE professional studio headphones, with 3.5-6.3mm jack adapter and case, straight cable;0;123.27;USD;0
 SRH840A-PADS;SHURE ear pads for SRH840A headphones, 1 pair (compatible only with 2022 SRH840A model);2;17.77;USD;0
-STEALTH1XEUK;Alto Pro wireless audio transmission system, 8 UHF channels, mic/line, mono, XLR (863 - 865MHz);28;69.24;USD;0
+STEALTH1XEUK;Alto Pro wireless audio transmission system, 8 UHF channels, mic/line, mono, XLR (863 - 865MHz);27;69.24;USD;0
 STEALTHMK2EXPXEU;Alto Pro wireless audio transmission system, receiver unit only;13;99.66;USD;1
 STRATACLUBPACK;Alesis STRATACLUBPACK;1;293.42;USD;0
 STRATACLUBXEUK;"Alesis electronic drum set, 10 triggers, 10.1"" touchscreen and bluetooth";2;1144.79;USD;0
@@ -12035,9 +12035,9 @@ TS408XEU;"Alto Pro active speaker, 2000 W, 8""+1"", DSP, Bluetooth 5.0, TWS, App
 TS410COVER;Alto Pro cover, case for Alto Pro TS410 speaker;20;27.69;USD;0
 TS410XEU;"Alto Pro active speaker, 2000 W, 10""+1"", DSP, Bluetooth 5.0, TWS, App";36;217.88;USD;0
 TS412COVER;Alto Pro cover, case, for Alto Pro TS412 speakers;20;27.69;USD;0
-TS412XEU;"Alto Pro active speaker, 2500 W, 12""+1"", DSP, Bluetooth 5.0, TWS, App";42;247.32;USD;0
-TS415COVER;Alto Pro cover, case, for Alto Pro TS415 speaker;13;27.69;USD;0
-TS415XEU;"Alto Pro active loudspeaker, 2500W, 15""+1"", DSP, Bluetooth 5.0, TWS, App";104;273.33;USD;0
+TS412XEU;"Alto Pro active speaker, 2500 W, 12""+1"", DSP, Bluetooth 5.0, TWS, App";38;247.32;USD;0
+TS415COVER;Alto Pro cover, case, for Alto Pro TS415 speaker;11;27.69;USD;0
+TS415XEU;"Alto Pro active loudspeaker, 2500W, 15""+1"", DSP, Bluetooth 5.0, TWS, App";103;273.33;USD;0
 TURBOMESHKITXEUK;Alesis electronic drum set, 120 sounds, 7 triggers, dual-zone snare, mesh pads;12;221.98;USD;0
 TURBOPROXEUK;Alesis electronic drum set, 120 sounds, 7 triggers, dual-zone snare, mesh pads;9;278.76;USD;0
 TV-Clip Mount;Yealink TV-Top Mount Kit, compatible with UVC40, MeetingBar A20, MeetingEye 400;0;39.9;USD;0

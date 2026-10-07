@@ -1063,8 +1063,8 @@
 21000009,ESP,[B-Stock] ESP ORIGINAL KH WHITE ZOMBIE Kirk Hammett Signature,0,0,,,0
 10024574,ESP,ESP ORIGINAL M-II DX E DCAR,0,"3359.00",,"2027-10-28 00:00:00",0
 20024574,ESP,[B-Stock] ESP ORIGINAL M-II DX E DCAR,0,3359,,"2027-10-28 00:00:00",0
-10006265,ESP,ESP ORIGINAL HORIZON-III PEARL WHITE GOLD,1,"2729.00",,,1
-20006265,ESP,[B-Stock] ESP ORIGINAL HORIZON-III PEARL WHITE GOLD,0,2729,,,1
+10006265,ESP,ESP ORIGINAL HORIZON-III PWGC Chrome Hardware,1,"2729.00",,,1
+20006265,ESP,[B-Stock] ESP ORIGINAL HORIZON-III PWGC Chrome Hardware,0,2729,,,1
 10024644,ESP,ESP ORIGINAL Slatwall ESP Messe Slatwall ESP Messe,0,"0.00",,,0
 20024644,ESP,[B-Stock] ESP ORIGINAL Slatwall ESP Messe Slatwall ESP Messe,0,0,,,0
 10024647,ESP,ESP ORIGINAL Viper ET BLK - Endorser,0,"1.00",,,0
@@ -2119,8 +2119,8 @@
 20006848,Zoom,"[B-Stock] Zoom XYH-5 (EU) XY Capsule for H5, H6, Q8, F4, F8, U-44",0,76,4515260014071,,0
 10001969,Zoom,"Zoom AD-14F (UK) AC Adapter for H4nPro, R16, R24",1,"16.00",4515260007912,,0
 20001969,Zoom,"[B-Stock] Zoom AD-14F (UK) AC Adapter for H4nPro, R16, R24",0,16,4515260007912,,0
-10007197,Zoom,Zoom TPS-4 Tripod Stand for Microphones,1,"10.00",4515260023820,,0
-20007197,Zoom,[B-Stock] Zoom TPS-4 Tripod Stand for Microphones,0,10,4515260023820,,0
+10007197,Zoom,Zoom TPS-4 Tripod Stand for Microphones,0,"10.00",4515260023820,"2026-10-29 00:00:00",0
+20007197,Zoom,[B-Stock] Zoom TPS-4 Tripod Stand for Microphones,0,10,4515260023820,"2026-10-29 00:00:00",0
 10007202,Zoom,Zoom ZDM-1PMP Podcast Mic Pack,1,"76.00",4515260023783,,0
 20007202,Zoom,[B-Stock] Zoom ZDM-1PMP Podcast Mic Pack,4,68.4,4515260023783,,0
 10002248,Zoom,Zoom AD-17E (EU) AC Adapter USB - DC5V,1,"9.00",4515260016624,,0
@@ -2687,10 +2687,10 @@
 20024107,Sonstige,[B-Stock] Sonstige Messewand CITADEL Sidepanel CITADEL Rückwand,0,1,,,0
 10024108,Sonstige,Sonstige Messe CITADEL Tisch mit Banner CITADEL Tisch,0,"1.00",,,0
 20024108,Sonstige,[B-Stock] Sonstige Messe CITADEL Tisch mit Banner CITADEL Tisch,0,1,,,0
-10024645,Sonstige,Sonstige Teppich 115x200cm Nord Motiv,0,"0.00",,,0
-20024645,Sonstige,[B-Stock] Sonstige Teppich 115x200cm Nord Motiv,0,0,,,0
-10024646,Sonstige,Sonstige Teppich 115x300cm Nord Motiv,0,"0.00",,,0
-20024646,Sonstige,[B-Stock] Sonstige Teppich 115x300cm Nord Motiv,0,0,,,0
+10024645,Sonstige,Sonstige Teppich 115x200cm Nord Motiv,0,"1.00",,,0
+20024645,Sonstige,[B-Stock] Sonstige Teppich 115x200cm Nord Motiv,0,1,,,0
+10024646,Sonstige,Sonstige Teppich 115x300cm Nord Motiv,0,"1.00",,,0
+20024646,Sonstige,[B-Stock] Sonstige Teppich 115x300cm Nord Motiv,0,1,,,0
 10024648,Sonstige,Sonstige Teppich 200x300cm Nord Motiv,0,"1.00",,,0
 20024648,Sonstige,[B-Stock] Sonstige Teppich 200x300cm Nord Motiv,0,1,,,0
 10001287,Edwards,Edwards ALEXI SCYTHE WH/BK,0,"1389.00",4515303285970,,0
@@ -6355,8 +6355,8 @@
 20011155,Gator,"[B-Stock] Gator G-MONITOR2-GO22 Rigid EPS Foam 22"" Flat Screen Monitor Lightweight",0,85,716408526843,"2027-04-12 00:00:00",0
 10011156,Gator,Gator GP-1616 Floor Tom Bag 16''x16'',1,"21.50",716408507484,,0
 20011156,Gator,[B-Stock] Gator GP-1616 Floor Tom Bag 16''x16'',0,21.5,716408507484,,0
-10011157,Gator,Gator GL-APX APX-Type Guitar Lightweight Case,0,"68.00",716408502083,"2027-04-14 00:00:00",0
-20011157,Gator,[B-Stock] Gator GL-APX APX-Type Guitar Lightweight Case,0,68,716408502083,"2027-04-14 00:00:00",0
+10011157,Gator,Gator GL-APX APX-Type Guitar Lightweight Case,0,"68.00",716408502083,"2027-04-15 00:00:00",0
+20011157,Gator,[B-Stock] Gator GL-APX APX-Type Guitar Lightweight Case,0,68,716408502083,"2027-04-15 00:00:00",0
 10011469,Gator,Gator GT-BASS-TAN Transit Series Bag for Bass Guitars TAN,0,"71.00",716408544267,"2026-12-04 00:00:00",0
 20011469,Gator,[B-Stock] Gator GT-BASS-TAN Transit Series Bag for Bass Guitars TAN,0,71,716408544267,"2026-12-04 00:00:00",0
 10011472,Gator,"Gator G-ICON-3INSTRAP-BLKS ICON Guitar Strap - Short Version; 40-46""""",1,"36.00",716408564357,,0
@@ -12185,8 +12185,8 @@
 20005245,DiMarzio,[B-Stock] DiMarzio DP 416W Area 61 Reversed,0,65,,"2027-01-02 00:00:00",0
 10005247,DiMarzio,DiMarzio DD 2243 Steve Vai ClipLock Art Guitar Strap Black,0,"22.10",663334047600,"2027-01-02 00:00:00",0
 20005247,DiMarzio,[B-Stock] DiMarzio DD 2243 Steve Vai ClipLock Art Guitar Strap Black,0,22.1,663334047600,"2027-01-02 00:00:00",0
-10005248,DiMarzio,DiMarzio DD 2244 Steve Vai ClipLock Blue Cherry Universe,0,"22.10",663334047617,"2027-01-02 00:00:00",0
-20005248,DiMarzio,[B-Stock] DiMarzio DD 2244 Steve Vai ClipLock Blue Cherry Universe,0,22.1,663334047617,"2027-01-02 00:00:00",0
+10005248,DiMarzio,DiMarzio DD 2244 Steve Vai ClipLock Blue Cherry Universe,0,"22.10",663334047617,"2027-01-04 00:00:00",0
+20005248,DiMarzio,[B-Stock] DiMarzio DD 2244 Steve Vai ClipLock Blue Cherry Universe,0,22.1,663334047617,"2027-01-04 00:00:00",0
 10005262,DiMarzio,DiMarzio DP 227FBL+BK LiquiFire blue w. bk polep.,0,"92.10",,"2027-01-02 00:00:00",0
 20005262,DiMarzio,[B-Stock] DiMarzio DP 227FBL+BK LiquiFire blue w. bk polep.,0,92.1,,"2027-01-02 00:00:00",0
 10005277,DiMarzio,DiMarzio DP 224FBK+BK AT-1 BK Polepieces,0,"86.40",,"2027-01-02 00:00:00",0

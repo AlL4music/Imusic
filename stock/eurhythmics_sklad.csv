@@ -336,7 +336,7 @@ AS-EX20300;Klotz headphone extension cable, jack plug 6.35 mm - jack plug 6.35 m
 AS-EX20600;Klotz headphone extension cable, 6.35 mm jack plug - 6.35 mm jack plug - 6m;6;8.69;EUR;0
 AS-EX30300;Klotz headphone extension cable, mini jack 3.5 mm - jack socket 6.35 mm - 3m;4;7.7;EUR;0
 AS-EX30600;Klotz headphone extension cable, 3.5 mm mini jack plug - 6.35 mm jack socket - 6m;0;9.49;EUR;0
-AS-EX60300;Klotz headphone extension cable, 6.35 mm jack plug - 3.5 mm mini jack socket - 3m;1;7.7;EUR;0
+AS-EX60300;Klotz headphone extension cable, 6.35 mm jack plug - 3.5 mm mini jack socket - 3m;0;7.7;EUR;0
 AS-EX60600;Klotz headphone extension cable, 6.35 mm jack plug to 3.5 mm mini jack socket - 6m;3;9.49;EUR;0
 AS-MJ0030;Klotz stereo mini Jack cable, 3.5 mm - 6.35 mm - 0.3m;8;9.77;EUR;0
 AS-MJ0060;Klotz lightweight stereo mini Jack cable 3.5 mm - 6.35 mm - 0.6m;9;10.22;EUR;0
@@ -606,7 +606,7 @@ BEX4-0600;Klotz headphone extension cable, jack 6.35 mm - jack 6.35 mm - 6m;0;34
 BEX4-1000;Klotz headphone extension cable, jack 6.35 mm - jack 6.35 mm - 10m;0;36.62;EUR;0
 BOX1204S;Proel stage box, 12 x XLR female, 4 x XLR male, 54-pin multipin male;0;271.56;EUR;0
 BRV100LU5BK;Proel instrument cable, 5 m black, 2x 6.3 mm mono jack plugs;8;7.21;EUR;0
-BRV120LU3BY;Proel instrument cable, 3 m brown-gold, 1x 6.3 mm mono jack and 1x 6.3 mm angled mono jack plug;10;7.01;EUR;0
+BRV120LU3BY;Proel instrument cable, 3 m brown-gold, 1x 6.3 mm mono jack and 1x 6.3 mm angled mono jack plug;9;7.01;EUR;0
 BRV250LU5BK;Proel microphone cable, 5 m black, XLR 3P connectors, flexible PVC coating;2;8.25;EUR;0
 BS010BB;Hercules BS010BB;11;11.84;EUR;0
 BS020BB;Hercules music stand, perforated, fan-shaped holder, foldable, lightweight 1.1kg frame, with case;5;11.84;EUR;0
@@ -628,7 +628,7 @@ BS9;Rotosound stainless steel, electric guitar string set, 9 11 16 24 32 42;2;4.
 BSB001;Hercules stand carrying bag, for BS411B, BS401B, BS300B, BS415B, and BS405B, 860x210 mm;0;16.85;EUR;0
 BSB002;Hercules music sheet holder bag BS100B, cylindrical 670x110 mm;0;7.84;EUR;0
 BSC800;Hercules music stand holder, for up to 12 BS200B stands, black, 2 fixed and 2 rotating wheels;0;201.85;EUR;0
-BULK100LU05;Proel instrument cable, 0.5m 2x6.3mm mono jack plug, nickel-plated metal housing, HPC115 cable;35;2.33;EUR;0
+BULK100LU05;Proel instrument cable, 0.5m 2x6.3mm mono jack plug, nickel-plated metal housing, HPC115 cable;30;2.33;EUR;0
 BULK100LU1;Proel instrument cable, 1 m 2x6.3 mm S4CPRO mono jack plug, nickel-plated metal, HPC115 cable;35;2.52;EUR;0
 BULK100LU10;Proel instrument cable, 10 m 2x6.3 mm mono jack plug, nickel-plated metal housing, HPC115 cable;38;6.12;EUR;0
 BULK100LU2;Proel instrument cable, 2 m, 2x6.3 mm S4CPRO mono jack plug, nickel-plated housing, HPC115 cable;7;2.95;EUR;0
@@ -2763,7 +2763,7 @@ GSP38WBLT;Hercules guitar stand, wood base, short stem, painted black base, AGS 
 GSP38WBR PLUS;Hercules guitar stand, wooden base, short arm, painted red bottom;70;11.37;EUR;0
 GSP38WBW PLUS;Hercules guitar stand, wooden base, short neck, painted dark brown base;19;11.37;EUR;0
 GSP39SB PLUS;Hercules guitar holder, aluminum rail mountable, metal, short arm, AGS holder;12;11.37;EUR;0
-GSP39WB PLUS;Hercules guitar holder, metal, short neck, AGS support;197;11.37;EUR;0
+GSP39WB PLUS;Hercules guitar holder, metal, short neck, AGS support;192;11.37;EUR;0
 GSP39WBLT;Hercules guitar stand, metal, short arm, AGS plexi holder, limited edition;27;11.37;EUR;0
 GSP40B PLUS;Hercules guitar hanger, perforated transparent wall-mount, metal, long arm, AGS;40;11.37;EUR;0
 GSP40HB PLUS;Hercules Guitar Holder, grid transparent wall-mountable, metal, long arm, modified AGS;0;11.37;EUR;0
@@ -4879,7 +4879,7 @@ KY7-090;Klotz cable, MiniLink Pro TRS 3.5 mm - 2x RCA Y-cable - 0.9m;0;11.55;EUR
 KY7-150;Klotz Y-cable, MiniLink Pro TRS 3.5 mm to 2x RCA, 1.5m;3;12.69;EUR;0
 KY7-300;Klotz MiniLink Pro TRS 3.5 mm - 2x RCA Y-cable - 3m;3;13.8;EUR;0
 KY7-600;Klotz MiniLink Pro TRS 3.5 mm - 2x RCA y-cable - 6m;0;14.89;EUR;0
-KY8-180;Klotz MiniLink Pro TRS 3.5 mm - 2x XLR female Y-cable - 1.8m;6;12.05;EUR;0
+KY8-180;Klotz MiniLink Pro TRS 3.5 mm - 2x XLR female Y-cable - 1.8m;5;12.05;EUR;0
 KY8-300;Klotz cable, MiniLink Pro TRS 3.5 mm to 2x XLR female Y-cable - 3m;6;13;EUR;0
 KY9-180;Klotz MiniLink Pro TRS 3.5 mm - 2x XLR Male Y-cable - 1.8m;4;11.39;EUR;0
 KY9-300;Klotz Y-cable, MiniLink Pro TRS 3.5 mm - 2x XLR male - 3m;10;12.19;EUR;0
@@ -8666,7 +8666,7 @@ SMY414N-030;Klotz stereo microphone Y-cable XLR 5pin female - 2 x XLR 3pin male 
 SMY414N-050;Klotz stereo microphone Y-cable, XLR 5p female - 2 x XLR 3p male Neutrik connectors - 5m;0;37.95;EUR;0
 SONAR 110 Xi;HK Audio active speaker, 800W, 10″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;9;263.47;EUR;0
 SONAR 112 Xi;HK Audio active speaker, 1200W, 12″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;3;292.81;EUR;0
-SONAR 115 Sub D;HK Audio active subwoofer, 1500W, 15″, bass-reflex, D-Class, DSP, M20, LCD, wood;5;410.17;EUR;0
+SONAR 115 Sub D;HK Audio active subwoofer, 1500W, 15″, bass-reflex, D-Class, DSP, M20, LCD, wood;4;410.17;EUR;0
 SONAR 115 Xi;"HK Audio active speaker, 1200W, 15"" + 1"", Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App";0;339.75;EUR;0
 Speaker mounting pole, steel;HK Audio mounting accessory, adjustable height (89-149 cm), M20 satellite pole;0;26.93;EUR;0
 Speaker Stand Add On XLR;HK Audio accessory set, two aluminum speaker stands and two XLR cables, with carrying bag;9;87.43;EUR;0
@@ -10157,7 +10157,7 @@ BETA 27;SHURE large-diaphragm condenser microphone;0;294.64;USD;0
 BETA 52A;SHURE dynamic drum microphone, kick drum and bass;3;153.71;USD;0
 BETA 56A;SHURE dynamic instrument microphone, percussion, drum;1;131.59;USD;0
 BETA 57A;SHURE dynamic instrument microphone;7;108.37;USD;0
-BETA 58A;SHURE dynamic vocal microphone, supercardioid pattern;23;132.7;USD;0
+BETA 58A;SHURE dynamic vocal microphone, supercardioid pattern;21;132.7;USD;0
 BETA 91A;SHURE boundary condenser microphone, switchable high-pass filter, built-in preamp, XLR;3;217.85;USD;0
 BETA 98AD/C;SHURE instrument microphone, BETA98 condenser microphone, cardioid pattern, A98D mount;0;209;USD;0
 BETA 98AMP/C;SHURE instrument microphone, BETA98 condenser microphone, cardioid, built-in preamp, A75M mount;0;242.18;USD;0
@@ -10223,7 +10223,7 @@ BLX1=-H8E;SHURE wireless system bodypack (518-542 MHz);1;129.13;USD;0
 BLX2/B58=-H8E;SHURE BLX handheld transmitter, with BETA58 microphone head;1;239.47;USD;0
 BLX2/PG58=-H8E;SHURE BLX handheld transmitter, with PG58 microphone head;6;146.75;USD;0
 BLX2/SM58=-H8E;SHURE BLX handheld transmitter, with SM58 microphone head;1;179.6;USD;0
-BLX24E/B58-H8E;SHURE BLX vocal set, receiver, handheld transmitter with BETA58 microphone head;5;351;USD;0
+BLX24E/B58-H8E;SHURE BLX vocal set, receiver, handheld transmitter with BETA58 microphone head;2;351;USD;0
 BLX24E/PG58-H8E;SHURE BLX vocal set, receiver, handheld transmitter with PG58 microphone head;13;264.14;USD;0
 BLX24E/SM58-H8E;SHURE BLX Vocal Set, receiver, handheld transmitter with SM58 microphone head;0;287.62;USD;0
 BLX24RE/B58-H8E;SHURE BLX vocal set, rack receiver, handheld transmitter with BETA58 microphone head;0;409.7;USD;0
@@ -10249,7 +10249,7 @@ BUSKERCOVER;Alto Pro BUSKERCOVER;2;28.03;USD;0
 BUSKERXEU;Alto Pro portable, battery-powered speaker, 2 mic/line inputs, effects and bluetooth connectivity;28;242.38;USD;0
 BX3PAIRBTXEU;"M-Audio studio monitor pair, active, 120W, 3.5"", EQ, aux, Bluetooth";8;76.88;USD;0
 BX3PAIRXEU;"M-Audio monitor speakers, active, 120W, 3.5"", EQ, aux";49;69.89;USD;0
-BX4PAIRBTXEU;"M-Audio monitor speakers, active, 120W, 4.5"", EQ, aux, Bluetooth";24;90.86;USD;0
+BX4PAIRBTXEU;"M-Audio monitor speakers, active, 120W, 4.5"", EQ, aux, Bluetooth";23;90.86;USD;0
 BX4PAIRXEU;"M-Audio monitor speaker pair, active, 120W, 4.5"", EQ, aux";40;83.86;USD;0
 BX5BTXEU;"M-Audio studio monitor, active, 100W, 5""+1"", 52Hz-35 kHz, unit price!";10;150.04;USD;0
 BYOD-BOX;Yealink Cable Hub, versatile, for connecting and charging devices;0;86.45;USD;0
@@ -10321,7 +10321,7 @@ DH5C/O-LM3;SHURE head microphone, cocoa color, omnidirectional, LEMO3;0;325.11;U
 DH5C/O-MTQG;SHURE DuraPlex headworn microphone, cocoa color, omnidirectional, TA4F;0;309.63;USD;0
 DH5T/O-LM3;SHURE headworn microphone, tan color, omnidirectional, LEMO3;0;325.11;USD;0
 DH5T/O-MTQG;SHURE DuraPlex headworn microphone, tan color, omnidirectional, TA4F;5;309.63;USD;0
-DISTRO4-EU;RF Venue antenna signal distributor, 470-952MHz (2x) 1 in, 4 out, 1+loop out, 4x12VDC (4x1A);2;490.17;USD;0
+DISTRO4-EU;RF Venue antenna signal distributor, 470-952MHz (2x) 1 in, 4 out, 1+loop out, 4x12VDC (4x1A);1;490.17;USD;0
 DISTRO5HDR-EU;RF Venue DISTRO5HDR Antenna Distro, Euro PSU;2;557.18;USD;0
 DISTRO9-E;RF Venue dual-zone broadband antenna distributor for 9 receivers, 2x2 inputs, 2x9 outputs;1;1971.03;USD;1
 DISTRO9HDR-EU;RF Venue DISTRO9 HDR Nine (9) Channel Multi-Zone Antenna Distribution System;0;1491.61;USD;0
@@ -10843,7 +10843,7 @@ GWE-UKE-SOP;Gator economy hard case for concert ukulele;0;30.54;USD;0
 GWE-UKE-TEN;Gator Economy wood hard case for soprano ukulele;0;34.36;USD;0
 GX-33;Gator microphone padded bag, for 5 microphones, 3 stands and cables, 109x20x20 cm;0;24.01;USD;0
 HA-4540;SHURE tour series wideband helical UHF antenna (460-900 MHz);1;570.22;USD;0
-HA-8089;SHURE wideband helical UHF antenna, (470-900 MHz);3;497.62;USD;0
+HA-8089;SHURE wideband helical UHF antenna, (470-900 MHz);1;497.62;USD;0
 HA-8091;SHURE wideband DOME UHF antenna, 470-900 MHz;2;893.37;USD;0
 HALF-WAVE KIT 470T530;RF Venue half-wave antenna kit, 470MHz to 530MHz;0;74.46;USD;0
 HALF-WAVE KIT 500T570;RF Venue half-wave antenna kit, 500MHz to 570MHz;0;74.46;USD;0
@@ -11275,7 +11275,7 @@ P3TER-K3E;SHURE PSM300 wireless in-ear monitor system, plastic receiver, without
 P3TER-L19;SHURE PSM300 wireless in-ear monitor system, plastic receiver, without earphones;0;621;USD;0
 P3TER112GR-K12;SHURE PSM300 wireless in-ear monitor system, plastic receiver, SE112 earphones;1;578.68;USD;1
 P3TERA-H20;SHURE PSM300 wireless in-ear monitor system, metal receiver, without earphones;0;686.75;USD;0
-P3TERA-K12;SHURE PSM300 wireless in-ear monitor system, metal receiver, without earphones;1;686.75;USD;0
+P3TERA-K12;SHURE PSM300 wireless in-ear monitor system, metal receiver, without earphones;0;686.75;USD;0
 P3TERA-K3E;SHURE PSM300 wireless in-ear monitor system, metal receiver, without earphones;0;686.75;USD;0
 P3TERA-L19;SHURE PSM300 wireless in-ear monitor system, metal receiver, without earphones;0;686.75;USD;0
 P3TERA215CL-H20;SHURE PSM300 wireless in-ear monitoring system, metal receiver housing, SE215CL earphones;0;744.26;USD;0
@@ -11303,7 +11303,7 @@ PG27-USB;SHURE USB large-diaphragm condenser microphone;1;154.84;USD;1
 PG42-USB;SHURE USB large diaphragm condenser microphone;3;202.31;USD;1
 PGA27-LC;SHURE large diaphragm condenser vocal microphone, cardioid pattern;0;153.12;USD;0
 PGA31-TQG;SHURE condenser headset microphone, with TA4F connector;2;46.44;USD;0
-PGA48-XLR-E;SHURE dynamic microphone, switch, XLR-XLR cable;29;41.02;USD;0
+PGA48-XLR-E;SHURE dynamic microphone, switch, XLR-XLR cable;27;41.02;USD;0
 PGA52-XLR;SHURE cardioid dynamic kick drum microphone, XLR-XLR cable;1;113.1;USD;0
 PGA56-XLR;SHURE dynamic percussion and drum microphone, A50D mount, XLR-XLR cable;0;70.85;USD;0
 PGA57-XLR;SHURE dynamic instrument microphone, XLR-XLR cable;1;62.15;USD;0
@@ -11391,7 +11391,7 @@ RB 20534 B;RockBag Eco Line Gig Bag, 3/4 Classical Guitar, Water-resistant, Blac
 RB 20535 B;RockBag Bass Guitar Gig Bag, Eco-friendly, Water-resistant, Adjustable Strap;52;4.44;USD;0
 RB 20536 B;RockBag Electric Guitar Gig Bag, Eco-friendly, Water-resistant RokTex®;75;3.97;USD;0
 RB 20538 B;RockBag Classical Guitar Gig Bag, Eco Line, water-resistant, black, adjustable strap;208;4.27;USD;0
-RB 20539 B;RockBag Acoustic Guitar Gig Bag, Eco Line, Durable RokTex®, Black, Multiple Pockets;167;4.6;USD;0
+RB 20539 B;RockBag Acoustic Guitar Gig Bag, Eco Line, Durable RokTex®, Black, Multiple Pockets;157;4.6;USD;0
 RB 20605 B/PLUS;RockBag Bass Guitar Gig Bag, Premium Line, Water-resistant, Protective Padding;12;35.7;USD;0
 RB 20606 B/PLUS;RockBag Electric Guitar Gig Bag, RokTex® fabric, 30 mm padding, black;12;34.38;USD;0
 RB 20608 B/PLUS;RockBag Classical Guitar Gig Bag, water-resistant, padded, black velvet lining;19;38.9;USD;0
@@ -11542,7 +11542,7 @@ RG8X50;RF Venue coaxial cable, BNC-BNC RG8X, 15 meters;0;167.53;USD;0
 RG8X75;RF Venue coaxial cable, RG8X, BNC connectors, 22.86m;0;220.89;USD;0
 RK100PK;SHURE XLR preamplifier, TQG connector, black (WL183, WL184, WL185);0;103.86;USD;0
 RK100PKW;SHURE XLR adapter preamplifier TQG connector, white;0;103.86;USD;0
-RK143G;SHURE microphone grille, for SM58;14;9.83;USD;0
+RK143G;SHURE microphone grille, for SM58;4;9.83;USD;0
 RK183T1;SHURE microphone clip with metal loop, for MX183/4/5, WL183/4/5 microphones (2 pcs/pack);2;16.74;USD;0
 RK183T2;SHURE microphone clip, double metal loops, fits MX183…MX185, WL183…WL185 microphones;0;15.57;USD;0
 RK183WS;"SHURE windscreen, ""snap-on"", short, black, WL, MX, WH30, SM35, BETA98 - pack of 4";2;17.92;USD;0
@@ -11783,7 +11783,7 @@ RPMUL4SFWS/W;SHURE windscreen for UniPlex UL4 microphone, white color, 3 pieces;
 RPW112;SHURE wireless SM58 microphone head, dynamic, cardioid;3;112.4;USD;0
 RPW114;SHURE wireless SM86 microphone head, condenser, cardioid;2;179.14;USD;1
 RPW116;SHURE wireless SM87A microphone head, condenser, supercardioid;0;145.19;USD;0
-RPW118;SHURE wireless BETA58A microphone head, dynamic, supercardioid;5;133.48;USD;0
+RPW118;SHURE wireless BETA58A microphone head, dynamic, supercardioid;4;133.48;USD;0
 RPW120;SHURE wireless BETA87A microphone head, condenser, supercardioid;0;271.65;USD;0
 RPW122;SHURE wireless BETA87C microphone head, condenser, cardioid;0;271.65;USD;0
 RPW124;SHURE wireless VP68 microphone head, condenser, omnidirectional;5;204.9;USD;0
@@ -11825,7 +11825,7 @@ S9829;Professional Wireless passive 3-channel antenna signal splitter/combiner, 
 SAC BAG BASS PORTA;Sadowsky Electric Bass Gig Bag, Durable Nylon, 30mm Padding, Velveteen Lining;25;53.8;USD;0
 SAMPLEPAD4XEU;Alesis instrument, drum machine, 4 pads, SD card, 2 triggers, USB MIDI;12;124.65;USD;0
 SAMPLEPADPROXEU;Alesis instrument, drum machine, 8 illuminated pads, SD card;5;254.66;USD;0
-SB900B;SHURE rechargeable Li-Ion battery P3RA, P9RA, P10R+ for ULXD, QLXD, AD transmitters;3;70.25;USD;1
+SB900B;SHURE rechargeable Li-Ion battery P3RA, P9RA, P10R+ for ULXD, QLXD, AD transmitters;2;70.25;USD;1
 SB903;SHURE rechargeable Li-Ion battery for SLXD1, SLXD2, SLXD3 transmitter and SLXD5 receiver;19;46.83;USD;0
 SB904;SHURE rechargeable Li-ion battery for GLXD+ system (for GLXD1+ and GLXD2+ transmitters);1;30.44;USD;0
 SB906;SHURE rechargeable Li-ion battery Microflex Wireless Next - MXW1X, MXW6X;0;35.13;USD;0
@@ -11940,9 +11940,9 @@ SM4-K;SHURE condenser large diaphragm studio microphone, stand adapter, black;43
 SM4-K-KIT;SHURE condenser large-diaphragm studio microphone, shock-absorbing mic mount, case, black;6;221.87;USD;0
 SM48-LC;SHURE dynamic microphone, vocal, speech;4;53.66;USD;1
 SM48S-LC;SHURE dynamic microphone, with switch;2;57.79;USD;1
-SM57-LCE;SHURE dynamic instrument microphone;83;99.44;USD;0
+SM57-LCE;SHURE dynamic instrument microphone;80;99.44;USD;0
 SM58-LCE;SHURE dynamic microphone, cardioid pattern, without switch;25;108.14;USD;0
-SM58SE;SHURE dynamic microphone, cardioid pattern, with switch;12;118.08;USD;0
+SM58SE;SHURE dynamic microphone, cardioid pattern, with switch;6;118.08;USD;0
 SM63L;SHURE reporter microphone, VERAFLEX™ grille, 23 cm handle, dynamic, omnidirectional, champagne-color;0;151.44;USD;0
 SM63LB;SHURE Reporter microphone, VERAFLEX™ grille, extended 23 cm handle, dynamic, omnidirectional, black;0;151.44;USD;0
 SM7B;SHURE dynamic studio microphone;18;428.82;USD;0
@@ -11989,7 +11989,7 @@ STRIKEAMP12MK2XEUK;"Alesis active speaker, 1100 W RMS, 2500 W PEAK 12""+1.4"", 1
 STRIKEAMP8MK2XEUK;"Alesis active speaker, 1100 W RMS, 2000W PEAK, 8""+1.4"", 126 dB SPL, biamp, Bluetooth";6;207.75;USD;0
 STRIKEMULTIPADXEU;Alesis instrument, drum machine, 9 light-up pads, SD card, sampler, looper;0;436.29;USD;0
 SUPER 55;SHURE microphone, vocal and speech;0;217.52;USD;0
-SV100;"SHURE dynamic microphone, switch, XLR-1/4"" (mono jack) cable, black handle, silver grille";4;18.64;USD;0
+SV100;"SHURE dynamic microphone, switch, XLR-1/4"" (mono jack) cable, black handle, silver grille";2;18.64;USD;0
 SV200;SHURE dynamic microphone, switch, XLR-XLR cable, black;0;21.76;USD;0
 Telephone Cable for WH62/WH63;Yealink Telephone Cable, Compatible with WH62/WH63, Micro USB, RJ9;0;6.65;USD;0
 TH53B/O-LEMO;SHURE TwinPlex TH53, headset microphone, dual-ear design, 1.6mm cable, LEMO3, black color;0;497.62;USD;0
@@ -12036,7 +12036,7 @@ TS408COVER;Alto Pro cover, case, for Alto Pro TS408 speaker;16;27.69;USD;0
 TS408XEU;"Alto Pro active speaker, 2000 W, 8""+1"", DSP, Bluetooth 5.0, TWS, App";44;223.5;USD;0
 TS410COVER;Alto Pro cover, case for Alto Pro TS410 speaker;20;27.69;USD;0
 TS410XEU;"Alto Pro active speaker, 2000 W, 10""+1"", DSP, Bluetooth 5.0, TWS, App";33;217.88;USD;0
-TS412COVER;Alto Pro cover, case, for Alto Pro TS412 speakers;13;27.69;USD;0
+TS412COVER;Alto Pro cover, case, for Alto Pro TS412 speakers;11;27.69;USD;0
 TS412XEU;"Alto Pro active speaker, 2500 W, 12""+1"", DSP, Bluetooth 5.0, TWS, App";22;247.32;USD;0
 TS415COVER;Alto Pro cover, case, for Alto Pro TS415 speaker;4;27.69;USD;0
 TS415XEU;"Alto Pro active loudspeaker, 2500W, 15""+1"", DSP, Bluetooth 5.0, TWS, App";77;273.33;USD;0
@@ -12349,7 +12349,7 @@ WL93T;SHURE lavalier microphone, omnidirectional, skin-colored;0;77.41;USD;0
 WMK-BLACK;RF Venue wall mount, for DFIN antenna, black;0;52.12;USD;0
 WMK-WHITE;RF Venue wall mount, for DFIN antenna, black;0;52.12;USD;0
 WPP30;Yealink Wireless Presentation Pod, 4K UHD, Plug & Play, Multi-Device;2;212.8;USD;1
-WRB1504 02AA ALD FR;Warwick RockBass Corvette Basic, 4-String - Ocean Blue Transparent Satin;1;453.57;USD;0
+WRB1504 02AA ALD FR;Warwick RockBass Corvette Basic, 4-String - Ocean Blue Transparent Satin;2;453.57;USD;0
 WRB1505 01AA ALD FR;Warwick RockBass Corvette Basic, 5-String - Burgundy Red Transparent Satin;4;485.21;USD;0
 WRB1514 05PA CAR FR;Warwick RockBass Streamer Standard, 4-String - Honey Violin Transparent Satin;4;380.77;USD;0
 WRB1514 23PA CAR FR;Warwick RockBass Streamer Standard, 4-String - Solid Black High Polish;2;380.77;USD;0

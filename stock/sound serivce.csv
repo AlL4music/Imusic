@@ -1069,6 +1069,8 @@
 20024644,ESP,[B-Stock] ESP ORIGINAL Slatwall ESP Messe Slatwall ESP Messe,0,0,,,0
 10024647,ESP,ESP ORIGINAL Viper ET BLK - Endorser,0,"1.00",,,0
 20024647,ESP,[B-Stock] ESP ORIGINAL Viper ET BLK - Endorser,0,1,,,0
+10024745,ESP,ESP ORIGINAL M-II DX E DCARS,0,"3359.00",,"2026-12-28 00:00:00",0
+20024745,ESP,[B-Stock] ESP ORIGINAL M-II DX E DCARS,0,3359,,"2026-12-28 00:00:00",0
 10001172,LTD,LTD Case für Axxion,1,"77.00",,,1
 20001172,LTD,[B-Stock] LTD Case für Axxion,0,77,,,1
 10001418,LTD,LTD Picks Set A 300 Picks Assorted,1,"239.00",,,1
@@ -6045,6 +6047,12 @@
 20024725,Dixon,[B-Stock] Dixon PARF-BDT2 Phone rest rubber for PAKL-BDT Schutzgummi,0,0.75,,"2027-03-13 00:00:00",0
 10024726,Dixon,Dixon PARF-BDT3 Hoop guard rubber for PAKL-BDT Schutzgummi,0,"0.75",,"2027-03-13 00:00:00",0
 20024726,Dixon,[B-Stock] Dixon PARF-BDT3 Hoop guard rubber for PAKL-BDT Schutzgummi,0,0.75,,"2027-03-13 00:00:00",0
+10024746,Dixon,Dixon Artisan Maple Sascha Waack incl. Hardware 24''BD/12''/14''FT/16''FT/18''FT PODAN524-03-CPS-C,0,"2699.00",4718981507123,"2027-03-17 00:00:00",0
+20024746,Dixon,[B-Stock] Dixon Artisan Maple Sascha Waack incl. Hardware 24''BD/12''/14''FT/16''FT/18''FT PODAN524-03-CPS-C,0,2699,4718981507123,"2027-03-17 00:00:00",0
+10024747,Dixon,Dixon Cornerstone Hybrid Sascha Waack incl. Hardware 22''BD/10''/12''/14''FT /16''FT PODCSTC522-02-SN,0,"2699.00",4718981507116,"2027-03-17 00:00:00",0
+20024747,Dixon,[B-Stock] Dixon Cornerstone Hybrid Sascha Waack incl. Hardware 22''BD/10''/12''/14''FT /16''FT PODCSTC522-02-SN,0,2699,4718981507116,"2027-03-17 00:00:00",0
+10024748,Dixon,Dixon Little Roomer Sascha Waack PODL520CF,0,"2699.00",4718981495574,"2027-03-17 00:00:00",0
+20024748,Dixon,[B-Stock] Dixon Little Roomer Sascha Waack PODL520CF,0,2699,4718981495574,"2027-03-17 00:00:00",0
 10000715,E-II,E-II FRX RDB Reindeer Blue,0,"2217.00",840248007054,"2027-03-28 00:00:00",0
 20000715,E-II,[B-Stock] E-II FRX RDB Reindeer Blue,0,2217,840248007054,"2027-03-28 00:00:00",0
 10000738,E-II,E-II ECLIPSE BB BLKS Black Satin,0,"1884.00",799493254839,"2027-01-28 00:00:00",0
@@ -7487,8 +7495,8 @@
 20011102,Gator,[B-Stock] Gator LATCH-GWE-NL Non-locking latch for 2016 TSA Guitar Case,0,2.28,716408541617,,0
 10011103,Gator,Gator FT-112/212 Foot for G-112A/G-212A Cases,0,"0.96",716408540238,,0
 20011103,Gator,[B-Stock] Gator FT-112/212 Foot for G-112A/G-212A Cases,0,0.96,716408540238,,0
-10011104,Gator,Gator LATCH-TSAGTR-NL-2016 Non-locking latch for 2016 TSA Cases,0,"4.14",716408549613,,0
-20011104,Gator,[B-Stock] Gator LATCH-TSAGTR-NL-2016 Non-locking latch for 2016 TSA Cases,0,4.14,716408549613,,0
+10011104,Gator,Gator LATCH-TSAGTR-NL-2016 Non-locking latch for 2016 TSA Cases,0,"4.15",716408549613,,0
+20011104,Gator,[B-Stock] Gator LATCH-TSAGTR-NL-2016 Non-locking latch for 2016 TSA Cases,0,4.15,716408549613,,0
 10011105,Gator,Gator PART-PU-RATCHET Pop-Op ratchet assembly for Mixer Cases,0,"8.40",716408541723,,0
 20011105,Gator,[B-Stock] Gator PART-PU-RATCHET Pop-Op ratchet assembly for Mixer Cases,0,8.4,716408541723,,0
 10011106,Gator,Gator LATCH-SM-BF-W/K Small butterfly latch with keeper,0,"2.34",716408541648,,0

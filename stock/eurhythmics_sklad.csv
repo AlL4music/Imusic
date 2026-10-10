@@ -360,7 +360,7 @@ AT-CJ0100;Klotz unbalanced professional twin cable, RCA and jack plugs - 1m;0;6.
 AT-CJ0200;Klotz unbalanced professional twin cable, RCA and jack plugs - 2m;0;7.08;EUR;0
 AT-CJ0300;Klotz unbalanced professional twin cable, RCA and jack plugs - 3m;5;7.97;EUR;0
 AT-CJ0600;Klotz unbalanced professional twin cable, RCA and jack plugs - 6m;0;10.02;EUR;0
-AT-CM0100;Klotz pro dual cable, straight RCA and XLR male plugs - 1m;8;17.38;EUR;0
+AT-CM0100;Klotz pro dual cable, straight RCA and XLR male plugs - 1m;6;17.38;EUR;0
 AT-CM0200;Klotz cable, pro twin cable with straight RCA and XLR male plugs - 2m;7;18.37;EUR;0
 AT-CM0300;Klotz cable, pro twin cable straight RCA and XLR male plugs - 3m;4;19.44;EUR;0
 AT-CM0600;Klotz pro dual cable straight RCA and XLR male plugs - 6m;0;20.51;EUR;0
@@ -615,7 +615,7 @@ BS050B;Hercules music stand, folding with music sheet holder;9;16.8;EUR;0
 BS10;Rotosound electric guitar string set, stainless steel, 10 13 17 26 36 46;5;4.28;EUR;0
 BS100B;Hercules music stand, sheet holder, foldable (9 pcs/carton);2;20.99;EUR;0
 BS11;Rotosound electric guitar string set, stainless steel, 11 14 18 28 38 48;10;4.28;EUR;0
-BS118BB;Hercules music stand, foldable with sheet holder + carrying case;11;25.96;EUR;0
+BS118BB;Hercules music stand, foldable with sheet holder + carrying case;9;25.96;EUR;0
 BS200B PLUS;Hercules music stand, 3 fixed legs, 690-1100 mm high, 480x345 mm tray, new version;14;30.92;EUR;0
 BS223B;Hercules music stand, 3 foldable legs, 740-1190 mm high, 480x345 mm board, new EZ Grip;3;41.95;EUR;0
 BS243B;Hercules music stand, 3 folding legs, 710-1140 mm height, 815x360 mm board, new EZ Grip;2;60.76;EUR;0
@@ -645,7 +645,7 @@ BULK130LU1;Proel instrument cable, 1 m 2x6.3 mm S4RCS mono right-angle jack plug
 BULK130LU2;Proel instrument cable 2 m 2x6.3 mm S4RCS mono right-angle jack plug, nickel-plated housing, HPC115;0;3.34;EUR;0
 BULK140LU1;Proel balanced cable 1 m black, 2x 6.3 mm S5CPRO stereo jack plugs metal connectors;17;3.08;EUR;0
 BULK140LU2;Proel balanced cable 2 m black, 2x 6.3 mm S5CPRO stereo jack plug with metal connectors;26;3.52;EUR;0
-BULK140LU3;Proel balanced cable 3 m black, 2x 6.3 mm S5CPRO stereo jack plug with metal connectors;7;4.07;EUR;0
+BULK140LU3;Proel balanced cable 3 m black, 2x 6.3 mm S5CPRO stereo jack plug with metal connectors;2;4.07;EUR;0
 BULK200LU10;Proel unbalanced cable M, 10m black, 6.3mm S4CPRO mono jack plug and XLR 3FVPRO, HPC225 cable;0;7.44;EUR;0
 BULK200LU3;Proel unbalanced cable M, 3m black, 6.3mm S4C PRO mono jack plug and XLR 3F V PRO, HPC225 cable;11;3.85;EUR;0
 BULK200LU5;Proel XLR-Jack cable, unbalanced, 5m black, 6.3mm mono jack plug and XLR 3-pin female, HPC225 cable;0;4.72;EUR;0
@@ -7298,7 +7298,7 @@ PRO200BKFF;Proel boom microphone stand, black, h: 860-1500 mm, boom: 540-840 mm;
 PRO200CR;Proel microphone stand, chrome, h: 950-1600 mm, boom: 540-840 mm;1;40.09;EUR;0
 PRO281BK;Proel microphone boom stand, h: 570-1000 mm, boom: 540-840 mm, black;7;26.72;EUR;0
 PRO300BK;Proel microphone stand, height: 1600-2350 mm, boom: 1350-2050 mm, black;0;63.54;EUR;0
-PROIPS03;Proel tablet holder, black, for microphone stand;7;13.43;EUR;0
+PROIPS03;Proel tablet holder, black, for microphone stand;6;13.43;EUR;0
 PROIPS04;"Proel universal tablet holder for microphone stands, 4.7"" - 12.9"" device size, black";10;24.44;EUR;0
 PROK015PP;Klotz instrument cable, pro artist metal connectors with gold-plated contacts - Klotz - 1.5m;0;15.91;EUR;0
 PROK015PR;Klotz professional artist guitar cable, metal connectors and gold-plated contacts - 1.5m;0;16.45;EUR;0
@@ -9958,7 +9958,7 @@ YCDAED10.0;Klotz cable, YAMAHA D-Sub 25p male - D-Sub 25p male 8-channel digital
 53A22140;SHURE bracket lower plate, QLXD4;0;5.74;USD;0
 53A22141;SHURE long rack ear, QLXD4;3;7.79;USD;0
 53A23221;SHURE short rack ear, QLXD4;5;4.64;USD;0
-53A38728;SHURE short rack ear for BLX4R, SLXD4, SLXD4D, ULXD4 receivers, P3T, P9T transmitters (14cm);3;2.46;USD;0
+53A38728;SHURE short rack ear for BLX4R, SLXD4, SLXD4D, ULXD4 receivers, P3T, P9T transmitters (14cm);0;2.46;USD;0
 53A38729;SHURE long rack ear for BLX4R, SLXD4, ULXD4 receivers and P3T, P9T transmitters (newer);0;4.24;USD;0
 53A8612;SHURE long rack ear for BLX4R, GLXD4R, SLX4, ULXD4 receivers, P3T, P9T transmitters and PA411E;1;2.59;USD;0
 53D8484;SHURE rack ear, P2T, old: 53A8484;0;1.78;USD;0
@@ -9971,12 +9971,12 @@ YCDAED10.0;Klotz cable, YAMAHA D-Sub 25p male - D-Sub 25p male 8-channel digital
 65A1963;SHURE gooseneck positioning curved holder for WB98H/C and Beta98H/C microphones, black, plastic;0;0.54;USD;0
 65BA8451;SHURE battery cover, for PGX2, SLX2, FP2 handheld transmitter, black, plastic;0;4.52;USD;0
 66A310;SHURE silicone rubber ring for BETA57 microphone grilles, blue;0;0.54;USD;0
-66A8035;SHURE silicone rubber ring BETA 87A, for 58 microphone grilles, blue;3;0.54;USD;0
+66A8035;SHURE silicone rubber ring BETA 87A, for 58 microphone grilles, blue;0;0.54;USD;0
 90A16916;SHURE spacer adapter, for AA battery use, QLXD1, ULXD1, AD1, P9RA, P10R, UR5;6;1.91;USD;0
 90A4360;SHURE XLR inline preamplifier for SM93 lapel microphone;0;82.04;USD;0
 90AR8100;SHURE screw kit for rack mounting ULXP4, ULXS4 receiver, P9T transmitter;0;2.73;USD;0
 90AX8100;SHURE screw kit, for rack mounting P2T transmitter;0;6.3;USD;0
-90AZ8100;SHURE screw set, for rack mounting SLX4, SLXD4, SLXD4D, ULXD4 receivers;2;4.93;USD;0
+90AZ8100;SHURE screw set, for rack mounting SLX4, SLXD4, SLXD4D, ULXD4 receivers;0;4.93;USD;0
 90YH1371;SHURE screw kit, for rack installation only for QLXD4 receiver;0;4.64;USD;0
 95A15624;SHURE DC Power Cable, 'Y' split to four branches, threaded common end, standard connectors;0;20.51;USD;0
 95A15625;"SHURE assembled DC power cable, ""Y"" four-way split with threaded connectors on each end";1;35.55;USD;0
@@ -10143,7 +10143,7 @@ ANXNC;SHURE microphone case, for NXN8/C, NXN8/S wired microphone;0;25.76;USD;0
 AP08;Yealink AVHub Meeting Audio & Video Processor, Multi-camera, AI Chipset, PoE;0;1490.93;USD;0
 ARPWC;SHURE wireless microphone head (capsule), zipper case;1;16.4;USD;0
 ASP1MKIIPEDAL;Alesis pedal, sustain, universal, polarity switch, 1.5m cable, 6.3mm Jack connector (TS);21;10.38;USD;0
-ASP2;Alesis sustain pedal, universal;9;13.84;USD;0
+ASP2;Alesis sustain pedal, universal;8;13.84;USD;0
 ATTENUATOR KIT - 6dB;RF Venue Attenuator Kit, -6dB (2pk);0;71.97;USD;0
 AUTOTUNE;HeadRush AUTOTUNE;4;287.65;USD;0
 AVHub;Yealink AVHub Meeting Audio & Video Processor, Multi-camera, AI Chipset, PoE;1;1197;USD;0
@@ -10530,7 +10530,7 @@ GB-4G-UKE TEN;Gator soft case for tenor ukulele, 20 mm thick padding;2;14.92;USD
 GBE-AC-BASS;Gator gig bag for acoustic bass guitar, 10 mm padding;0;17.15;USD;0
 GBE-BASS;Gator economy gig bag for bass guitar, 10 mm thick padding;43;14.4;USD;0
 GBE-CLASSIC;Gator Economy soft case for classical guitar, 10 mm thick padding;58;13.97;USD;0
-GBE-DREAD;Gator guitar gig bag, economy for dreadnought acoustic guitar, 10 mm padding;70;15.17;USD;0
+GBE-DREAD;Gator guitar gig bag, economy for dreadnought acoustic guitar, 10 mm padding;67;15.17;USD;0
 GBE-ELECT;Gator economy gig bag for electric guitar, 10 mm thick padding;38;13.32;USD;0
 GBE-EXTREME-1;Gator case, economy soft case for unique electric guitar shapes (Flying V, Explorer), 10 mm padding;10;16.55;USD;0
 GBE-JMASTER;Gator gig bag for Jazzmaster style electric guitar, 10mm padding;0;12.12;USD;0
@@ -10595,7 +10595,7 @@ GKBE-49;Gator keyboard bag for 49-key instrument, 10 mm padding;8;14.27;USD;0
 GKBE-61;Gator economy keyboard case for 61-key instrument, 10 mm padding;2;15.46;USD;0
 GKBE-76;Gator keyboard bag, economy 76-key instrument with 10 mm padding;12;17.78;USD;0
 GKBE-88;Gator Economy Keyboard case for 88-key instrument, 10 mm padding;4;20.34;USD;0
-GKC-1540;Gator keyboard dust cover, stretchable for 61 and 76 key instruments;24;9.64;USD;0
+GKC-1540;Gator keyboard dust cover, stretchable for 61 and 76 key instruments;23;9.64;USD;0
 GKC-1648;Gator elastic keyboard cover, for 88-key instruments;16;10.76;USD;0
 GL-AC-BASS;Gator hard case, lightweight rigid EPS for acoustic bass guitar;0;65.59;USD;0
 GL-ALTOSAX-MPC;Gator case, lightweight polyfoam hard case for alto saxophone and accessories;4;53.96;USD;0
@@ -10746,7 +10746,7 @@ GT-ACOUSTIC-GRY;Gator case for acoustic guitar, rigid interior design, 20mm thic
 GT-ACOUSTIC-TAN;Gator guitar case, rigid inner construction, 20mm padding, beige;0;43.28;USD;0
 GT-BASS-BLK;Gator bass guitar gig bag, rigid internal design, 20mm thick padding, black;0;46.36;USD;0
 GT-BASS-GRY;Gator bass guitar soft case, rigid interior design, 20 mm thick padding, grey;3;46.36;USD;0
-GT-BASS-TAN;Gator bass guitar soft case, rigid interior design, 20mm thick padding, sand color;11;46.36;USD;0
+GT-BASS-TAN;Gator bass guitar soft case, rigid interior design, 20mm thick padding, sand color;9;46.36;USD;0
 GT-ELECTRIC-BLK;Gator case for electric guitar, rigid interior construction, 20 mm thick padding, black;0;43.28;USD;0
 GT-ELECTRIC-GRY;Gator transit case for electric guitar, rigid interior design, 20 mm thick padding, grey;0;43.28;USD;0
 GT-ELECTRIC-TAN;Gator gig bag for electric guitar, rigid internal structure, 20mm padding, tan color;0;43.28;USD;0
@@ -11102,7 +11102,7 @@ MV7+-K-BNDL;SHURE MOTIV digital podcast microphone, XLR, USB-C cable, black, wit
 MV7+-W;SHURE MOTIV digital podcast microphone, XLR, USB-C cable, white;0;242.38;USD;0
 MV7I;SHURE MV7i Smart Mic + Interface;67;303.29;USD;0
 MV7X;SHURE MOTIV podcast microphone, dynamic, XLR output, black;0;155.37;USD;0
-MV88+DIG-VIDKIT;SHURE MOTIV stereo digital condenser microphone, video kit, with stand, lightning and TypeC cable;4;217.52;USD;1
+MV88+DIG-VIDKIT;SHURE MOTIV stereo digital condenser microphone, video kit, with stand, lightning and TypeC cable;3;217.52;USD;1
 MV88+STEREO-USB;SHURE MOTIV stereo digital condenser microphone, mount, lightning and TypeC cable (3m);1;172.78;USD;1
 MV88+W-KIT-Z6;SHURE Wireless Stereo Mic, Camera Receiver;1;418.88;USD;0
 MV88+W-Z6;SHURE Wireless Stereo Mic to Phone;1;278.43;USD;0
@@ -11236,7 +11236,7 @@ MX424/S;"SHURE gooseneck microphone 24"", supercardioid capsule, built-in XLR pr
 Neckband for WH63/WH67;Yealink Neckband, for WH63/WH67 headsets, secure fit, easy to attach;0;6.65;USD;0
 NITROAMPPROXEU;Akesis 8” Compact Floor Monitor for Electronic Drums;0;112.54;USD;0
 NITROMAXEXPACK;"Alesis drum accessory for NITROMAX, 8"" dual zone mesh pad, 10"" cymbal, cables, mounting bracket";13;69.24;USD;0
-NITROMAXKITXEUK;Alesis electronic drum set, 440 sounds, 8 triggers, Bluetooth;90;309.66;USD;0
+NITROMAXKITXEUK;Alesis electronic drum set, 440 sounds, 8 triggers, Bluetooth;87;309.66;USD;0
 NITROPROKITXEUK;Alesis drum kit;10;600.68;USD;0
 NITROPROXLKITXEUK;Alesis drum kit XL;12;560;USD;0
 NITROULTIMTKITXEUK;Alesis electronic drum set, 440 sounds, 8 triggers, Bluetooth;12;671.27;USD;0
@@ -11250,11 +11250,11 @@ OCTOPOWER;RF Venue DC-OCTO Power Kit for Additional Power Outputs;0;176.21;USD;0
 OPTIX1-S3-EU;RF Venue RF signal optical converter, 1 transmitter 1 receiver set;0;3668.21;USD;0
 OPTIX2-S3-EU;RF Venue RF signal optical converter, 2 transmitters 2 receivers set;0;7336.42;USD;0
 OXYGEN25MKV;M-Audio USB/MIDI controller, 25 keys, 8 pads, 8 rotary, 1 slider;0;69.89;USD;0
-OXYGEN49MKV;M-Audio USB/MIDI controller, 49 keys, 8 pads, 8 knobs, 9 faders;3;104.84;USD;0
+OXYGEN49MKV;M-Audio USB/MIDI controller, 49 keys, 8 pads, 8 knobs, 9 faders;2;104.84;USD;0
 OXYGEN61MKV;M-Audio USB/MIDI controller, 61 keys, 8 pads, 8 knobs, 9 faders;2;139.78;USD;0
 OXYGENPRO25;M-Audio USB/MIDI controller, 25 keys, 16 drum pads, 8 rotary knobs, OLED;1;125.81;USD;0
-OXYGENPRO49;M-Audio USB/MIDI controller, 49 keys, 16 drum pads, 8 rotary knobs, 9 faders, OLED;3;153.77;USD;0
-OXYGENPRO61;M-Audio USB/MIDI controller, 61 keys, 16 drum pads, 8 knobs, 9 faders, OLED;6;181.72;USD;0
+OXYGENPRO49;M-Audio USB/MIDI controller, 49 keys, 16 drum pads, 8 rotary knobs, 9 faders, OLED;2;153.77;USD;0
+OXYGENPRO61;M-Audio USB/MIDI controller, 61 keys, 16 drum pads, 8 knobs, 9 faders, OLED;5;181.72;USD;0
 OXYGENPROMINI;M-Audio USB/MIDI controller, 32 keys, 8 drum pads, 4 rotary knobs, 4 faders, OLED;6;69.89;USD;0
 P3R=-H20;SHURE PSM300 wireless in-ear monitor receiver, plastic housing;0;302.87;USD;0
 P3R=-K12;SHURE PSM300 wireless in-ear monitor receiver, plastic housing;0;302.87;USD;0
@@ -11303,13 +11303,13 @@ PG27-USB;SHURE USB large-diaphragm condenser microphone;1;154.84;USD;1
 PG42-USB;SHURE USB large diaphragm condenser microphone;3;202.31;USD;1
 PGA27-LC;SHURE large diaphragm condenser vocal microphone, cardioid pattern;0;153.12;USD;0
 PGA31-TQG;SHURE condenser headset microphone, with TA4F connector;2;46.44;USD;0
-PGA48-XLR-E;SHURE dynamic microphone, switch, XLR-XLR cable;22;41.02;USD;0
+PGA48-XLR-E;SHURE dynamic microphone, switch, XLR-XLR cable;21;41.02;USD;0
 PGA52-XLR;SHURE cardioid dynamic kick drum microphone, XLR-XLR cable;1;113.1;USD;0
 PGA56-XLR;SHURE dynamic percussion and drum microphone, A50D mount, XLR-XLR cable;0;70.85;USD;0
 PGA57-XLR;SHURE dynamic instrument microphone, XLR-XLR cable;1;62.15;USD;0
 PGA58-QTR-E;"SHURE dynamic microphone, switch, XLR-Jack (1/4"") cable";5;63.39;USD;0
 PGA58-XLR-E;SHURE dynamic microphone, switch, XLR-XLR cable;47;63.39;USD;0
-PGA81-XLR;SHURE cardioid condenser microphone, XLR-XLR cable;2;108.14;USD;0
+PGA81-XLR;SHURE cardioid condenser microphone, XLR-XLR cable;0;108.14;USD;0
 PGA98D-XLR;SHURE miniature, condenser drum microphone, with AP98DM holder, cardioid polar pattern;1;116.84;USD;1
 PGA98H-TQG;SHURE clip-on, gooseneck instrument microphone, cardioid, TA4F;2;98.2;USD;1
 PGADRUMKIT4;SHURE drum microphone kit, 1 unit PGA52, 1 unit PGA57, 2 units PGA56, cables, bag;2;247.36;USD;0
@@ -11382,13 +11382,13 @@ RB 20516 B;RockBag Electric Guitar Gig Bag, Water-Resistant, 10mm Padding, Black
 RB 20518 B;RockBag Classical Guitar Gig Bag, Water-Resistant, 10mm Padding, Black;305;11.64;USD;0
 RB 20518 B/PLUS;RockBag Classical Guitar Gig Bag, Water-resistant RokTex, Foam Padding, Black;0;14.42;USD;0
 RB 20519 B;RockBag Acoustic Guitar Gig Bag, water-resistant RokTex®, padded, black;231;12.48;USD;0
-RB 20524 B;RockBag 3/4 Classical Guitar Gig Bag, Durable RokTex Fabric, Water-Resistant;3;7.84;USD;0
+RB 20524 B;RockBag 3/4 Classical Guitar Gig Bag, Durable RokTex Fabric, Water-Resistant;1;7.84;USD;0
 RB 20525 B;RockBag Bass Guitar Gig Bag, water-resistant RokTex, 5mm padding, black;134;8.46;USD;0
 RB 20526 B;RockBag Electric Guitar Gig Bag, water-resistant RokTex, multiple pockets, backpack straps;294;8.2;USD;0
 RB 20528 B;RockBag Classical Guitar Gig Bag, Water-resistant, Cushioned Handle, Black;224;8.52;USD;0
 RB 20529 B;RockBag Acoustic Guitar Gig Bag, Durable RokTex Fabric, Water-Resistant;225;9.06;USD;0
-RB 20534 B;RockBag Eco Line Gig Bag, 3/4 Classical Guitar, Water-resistant, Black;8;3.9;USD;0
-RB 20535 B;RockBag Bass Guitar Gig Bag, Eco-friendly, Water-resistant, Adjustable Strap;52;4.44;USD;0
+RB 20534 B;RockBag Eco Line Gig Bag, 3/4 Classical Guitar, Water-resistant, Black;3;3.9;USD;0
+RB 20535 B;RockBag Bass Guitar Gig Bag, Eco-friendly, Water-resistant, Adjustable Strap;51;4.44;USD;0
 RB 20536 B;RockBag Electric Guitar Gig Bag, Eco-friendly, Water-resistant RokTex®;75;3.97;USD;0
 RB 20538 B;RockBag Classical Guitar Gig Bag, Eco Line, water-resistant, black, adjustable strap;208;4.27;USD;0
 RB 20539 B;RockBag Acoustic Guitar Gig Bag, Eco Line, Durable RokTex®, Black, Multiple Pockets;157;4.6;USD;0
@@ -11823,7 +11823,7 @@ S7640/S0205;Professional Wireless plastic case, dual dome antenna container with
 S9068;Professional Wireless, PWS HA8089 and HA8091 metal mount, microphone thread (5/8 and 3/8), black;2;33.74;USD;0
 S9829;Professional Wireless passive 3-channel antenna signal splitter/combiner, BNC;0;178.92;USD;0
 SAC BAG BASS PORTA;Sadowsky Electric Bass Gig Bag, Durable Nylon, 30mm Padding, Velveteen Lining;25;53.8;USD;0
-SAMPLEPAD4XEU;Alesis instrument, drum machine, 4 pads, SD card, 2 triggers, USB MIDI;12;124.65;USD;0
+SAMPLEPAD4XEU;Alesis instrument, drum machine, 4 pads, SD card, 2 triggers, USB MIDI;11;124.65;USD;0
 SAMPLEPADPROXEU;Alesis instrument, drum machine, 8 illuminated pads, SD card;5;254.66;USD;0
 SB900B;SHURE rechargeable Li-Ion battery P3RA, P9RA, P10R+ for ULXD, QLXD, AD transmitters;2;70.25;USD;1
 SB903;SHURE rechargeable Li-Ion battery for SLXD1, SLXD2, SLXD3 transmitter and SLXD5 receiver;19;46.83;USD;0
@@ -11859,7 +11859,7 @@ SBC800-E;SHURE desktop charger for Li-ion batteries, charges 8 SB900B, with PS60
 SBC840-E;SHURE desktop charger, for Li-ion battery charging (without battery) SB910 and SB920A;0;551.48;USD;0
 SBC840M-E;SHURE charger, for ADX1M-LEMO3 (micro bodypack) battery charging;0;551.48;USD;0
 SBC850-E;SHURE charger, docking unit, 8 docking slots, for ULXD6 and ULXD8, network communication;0;946.06;USD;0
-SBH50G2-BK;SHURE wireless headphones, noise-cancelling, black;1;286.43;USD;0
+SBH50G2-BK;SHURE wireless headphones, noise-cancelling, black;0;286.43;USD;0
 SBH50G2-BK-PADS;SHURE ear pads for SBH50G2-BK headphones, 1 pair, black;0;43.5;USD;0
 SBM910;SHURE insert module SBRC rack frame 2 pcs SB910 battery for charging (ADX1) - without battery;2;98.36;USD;0
 SBM910M;SHURE insert module for SBRC rack frame, charges 2 SB910M batteries (ADX1M) - without battery;0;98.36;USD;0
@@ -11883,7 +11883,7 @@ SE846G2CL+UNI-EFS;SHURE four-driver earphones, interchangeable cable with contro
 SE846G2CL-EFS;SHURE in-ear headphones, four drivers, detachable cable, 3.5mm jack, transparent, Gen.2;0;746.61;USD;0
 SE846G2GT+UNI-EFS;SHURE four-driver earphones, control and mic, replaceable cable, 3.5mm jack, graphite, Gen.2;0;746.61;USD;0
 SH-BROADCAST1;Deluxe Articulating Desktop Mic Boom Stand;0;48.38;USD;0
-SH-BROADCAST2;Low-Profile Desktop Mic Boom Stand;6;55.99;USD;0
+SH-BROADCAST2;Low-Profile Desktop Mic Boom Stand;5;55.99;USD;0
 SH-MICBAG04;Microphone Bag That Holds Up To 4 Mics;4;22.44;USD;0
 SH-MICBAG12;Microphone Bag That Holds Up To 12 Mics;0;30.36;USD;0
 SH-MICCASE15;Molded Case W/ Drops For (30) Mics – TSA Latch;0;67.32;USD;0
@@ -11947,7 +11947,7 @@ SM63L;SHURE reporter microphone, VERAFLEX™ grille, 23 cm handle, dynamic, omni
 SM63LB;SHURE Reporter microphone, VERAFLEX™ grille, extended 23 cm handle, dynamic, omnidirectional, black;0;151.44;USD;0
 SM7B;SHURE dynamic studio microphone;18;428.82;USD;0
 SM7DB;SHURE dynamic studio microphone with preamp, +18dB or +28dB extra gain, +48V phantom required;3;433.8;USD;0
-SM81-LC;SHURE condenser microphone, cardioid;2;351;USD;0
+SM81-LC;SHURE condenser microphone, cardioid;1;351;USD;0
 SM86;SHURE condenser vocal microphone, cardioid;1;163.18;USD;1
 SmartVision 40;Yealink SmartVision 40 Conferencing Camera, Dual-Eye System, AI Noise Cancellation;4;665;USD;0
 SmartVision 60;Yealink All-in-One Video Conferencing Camera, 360° Coverage, Auto Framing and Tracking;0;2128;USD;0
@@ -12228,7 +12228,7 @@ VP89S;SHURE modular shotgun microphone, preamp and short module, hypercardioid, 
 VPH;SHURE microphone handle for RPW head, wired, XLR, +48V, black;0;136.01;USD;0
 WA153;SHURE carrying case, for MX153 microphone;0;18.73;USD;0
 WA301;SHURE silicone case, water-resistant, for SLXD5 portable (camera) receiver;0;29.27;USD;0
-WA302;SHURE guitar cable 6.3 mm mono jack male - TA4F female (TQG), 75 cm;8;16.4;USD;0
+WA302;SHURE guitar cable 6.3 mm mono jack male - TA4F female (TQG), 75 cm;7;16.4;USD;0
 WA304;SHURE guitar cable 6.3 mm mono jack angled male - TA4F female (TQG), 70 cm;2;17.56;USD;0
 WA305;SHURE premium guitar cable, 6.3 mm mono jack male - TA4F female (TQG) LOCK, 75 cm;2;32.78;USD;0
 WA306;SHURE premium guitar cable, 6.3 mm mono jack male - TA4F female (TQG) push button, 75 cm;4;28.11;USD;0

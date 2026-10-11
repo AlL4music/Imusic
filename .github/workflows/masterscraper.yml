@@ -55,7 +55,7 @@ jobs:
           # Music Park moved to local PC scheduled task (run_and_push.py) - site blocks GH Actions IPs since ~Aug 2026, runner wasted ~1.5h/day finding 0 products
           # run "Music Park"                python -u musicpark.py
           run "Muziker"                   python -u muziker.py
-          run "PMC"                       python -u pmc.py
+          # run "PMC"                     python -u pmc.py   # 2026-10-11: runs on the home server only (qty from music-city.cz cache)
           run "Music Trade"               python -u musictrade.py
           run "Rockster"                  python -u rockster.py
 

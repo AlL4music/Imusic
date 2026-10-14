@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-10-14T12:39:31.759607Z",
+  "site_url": "https://new.all4music.sk",
+  "pages": [
+    {
+      "url": "https://new.all4music.sk/",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "msg": "Could not fetch page (status: connection error)"
+        }
+      ]
+    },
+    {
+      "url": "https://new.all4music.sk/index.php?route=common/home",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "msg": "Could not fetch page (status: connection error)"
+        }
+      ]
+    },
+    {
+      "url": "https://new.all4music.sk/index.php?route=product/category",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "msg": "Could not fetch page (status: connection error)"
+        }
+      ]
+    }
+  ],
+  "global_checks": {
+    "robots_txt": {
+      "info": {
+        "exists": false
+      },
+      "issues": [
+        {
+          "severity": "warning",
+          "msg": "No robots.txt found"
+        }
+      ]
+    },
+    "sitemap": {
+      "info": {
+        "url": null
+      },
+      "issues": [
+        {
+          "severity": "error",
+          "msg": "No sitemap.xml found"
+        }
+      ]
+    },
+    "language_separation": {
+      "info": {
+        "language_versions": {}
+      },
+      "issues": [
+        {
+          "severity": "info",
+          "msg": "Could not auto-detect language URL patterns. Check manually."
+        }
+      ]
+    }
+  },
+  "summary": {
+    "errors": 4,
+    "warnings": 1,
+    "info": 1,
+    "passed": 0,
+    "total_checks": 6
+  }
+}

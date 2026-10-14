@@ -1741,12 +1741,12 @@ KRNAUTILUS61ATGR;KORG Nautilus 61 AT Gray;0;https://www.music-park.sk/produkt/wo
 KRNAUTILUS88ATGR;KORG Nautilus 88 AT Gray;0;https://www.music-park.sk/produkt/workstation/3067/nautilus-88-at-gray
 KRTUPBXSBS;KORG Pitchblack XS Bass;5;https://www.music-park.sk/produkt/chromaticke-ladicky/3068/pitchblack-xs-bass
 MBC105108;Markbass CMB 151 Black Line;0;https://www.music-park.sk/produkt/baskytarova-komba/3069/cmb-151-black-line
-EK06204180;EKO CS-10 Blue Burst;0;https://www.music-park.sk/produkt/klasicke-kytary/3070/cs-10-blue-burst
-EK06204190;EKO CS-10 Red Burst;0;https://www.music-park.sk/produkt/klasicke-kytary/3071/cs-10-red-burst
+EK06204180;EKO CS-10 Blue Burst;3;https://www.music-park.sk/produkt/klasicke-kytary/3070/cs-10-blue-burst
+EK06204190;EKO CS-10 Red Burst;4;https://www.music-park.sk/produkt/klasicke-kytary/3071/cs-10-red-burst
 EK06204170;EKO CS-10 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3072/cs-10-sunburst
 EK06130060;EKO CS-10 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3073/cs-10-pack
 EK06204100;EKO CS-5 Natural;0;https://www.music-park.sk/produkt/klasicke-kytary/3074/cs-5-natural
-EK06204108;EKO CS-5 Blue Burst;0;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
+EK06204108;EKO CS-5 Blue Burst;4;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
 EK06204109;EKO CS-5 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3076/cs-5-sunburst
 EK06130065;EKO CS-5 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3077/cs-5-pack
 FDFNI40100;Fodera STR-4-40100-N;15;https://www.music-park.sk/produkt/struny-na-baskytary/3079/str-4-40100-n
@@ -2204,7 +2204,7 @@ MBB148016;Markbass GV4 Gloxy 3-Tone Sunburst;0;https://www.music-park.sk/produkt
 VXVMG50;VOX Mini Go 50;0;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
 ASSTUDIOTOUR;Ashdown Studio Tourbus;4;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
 VXVMG10;VOX Mini Go 10;0;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
-VXVMG3;VOX Mini Go 3;4;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
+VXVMG3;VOX Mini Go 3;3;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
 KRKA430;KORG KA-430;0;https://www.music-park.sk/produkt/napajeci-adaptery/2208/ka-430
 KRMODWAVE;KORG Modwave;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2225/modwave
 KRMINI700FS;KORG MiniKORG 700 FS;0;https://www.music-park.sk/produkt/analogove-syntezatory/2226/minikorg-700-fs
@@ -2488,8 +2488,8 @@ MBB148030;Markbass GV5 Gloxy Tobacco Sunburst;0;https://www.music-park.sk/produk
 MBB148019;Markbass GV5 Gloxy Fiesta Red;0;https://www.music-park.sk/produkt/elektricke-baskytary/2539/gv5-gloxy-fiesta-red
 QL10.01144;Quik Lok TST/001;10;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/2540/tst-001
 QL10.01145;Quik Lok VSC/001;1;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/2541/vsc-001
-EK06216200;EKO Ranger 6 Natural;1;https://www.music-park.sk/produkt/akusticke-kytary/2542/ranger-6-natural
-EK06216210;EKO Ranger 6 Black;0;https://www.music-park.sk/produkt/akusticke-kytary/2543/ranger-6-black
+EK06216200;EKO Ranger 6 Natural;5;https://www.music-park.sk/produkt/akusticke-kytary/2542/ranger-6-natural
+EK06216210;EKO Ranger 6 Black;2;https://www.music-park.sk/produkt/akusticke-kytary/2543/ranger-6-black
 EK06216220;EKO Ranger 6 Red Sunburst;4;https://www.music-park.sk/produkt/akusticke-kytary/2544/ranger-6-red-sunburst
 EK06216230;EKO Ranger 6 Blue Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2545/ranger-6-blue-sunburst
 EK06216250;EKO Ranger 6 Brown Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2546/ranger-6-brown-sunburst
@@ -2698,7 +2698,7 @@ DR1NMH630;DR Strings Nickel Lo-Rider NMH6-30;0;https://www.music-park.sk/produkt
 DR1NMH6130;DR Strings Nickel Lo-Rider NMH6-130;0;https://www.music-park.sk/produkt/struny-na-baskytary/2751/nickel-lo-rider-nmh6-130
 DR1FL45;DR Strings Legend FL-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2752/legend-fl-45
 DR1SFL45;DR Strings Legend SFL-45;4;https://www.music-park.sk/produkt/struny-na-baskytary/2753/legend-sfl-45
-DR1FL545;DR Strings Legend FL5-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2754/legend-fl5-45
+DR1FL545;DR Strings Legend FL5-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2754/legend-fl5-45
 DR1BZ45;DR Strings Bootzillas BZ-45;3;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2755/bootzillas-bz-45
 DR1BZ50;DR Strings Bootzillas BZ-50;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2756/bootzillas-bz-50
 DR1BZ545;DR Strings Bootzillas BZ5-45;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2757/bootzillas-bz5-45

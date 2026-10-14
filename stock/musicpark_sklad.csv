@@ -311,7 +311,7 @@ KRSP170SWH;KORG SP-170S WH;0;https://www.music-park.sk/produkt/digitalni-piana/4
 KRSP250BK;KORG SP-250 BK;0;https://www.music-park.sk/produkt/digitalni-piana/444/sp-250-bk
 KRSP250SB;KORG SP-250 SB;0;https://www.music-park.sk/produkt/digitalni-piana/445/sp-250-sb
 KRSP250WS;KORG SP-250 WS;0;https://www.music-park.sk/produkt/digitalni-piana/446/sp-250-ws
-KRSP280BK;KORG SP-280 BK;2;https://www.music-park.sk/produkt/digitalni-piana/447/sp-280-bk
+KRSP280BK;KORG SP-280 BK;1;https://www.music-park.sk/produkt/digitalni-piana/447/sp-280-bk
 KRSP280WH;KORG SP-280 WH;0;https://www.music-park.sk/produkt/digitalni-piana/448/sp-280-wh
 KRTINYBK;KORG tinyPIANO BK;0;https://www.music-park.sk/produkt/digitalni-piana/451/tinypiano-bk
 KRTINYPK;KORG tinyPIANO PK;0;https://www.music-park.sk/produkt/digitalni-piana/452/tinypiano-pk
@@ -489,7 +489,7 @@ SAEV2218TS5RB;Sakae EV2218TS5-RB;1;https://www.music-park.sk/produkt/bici-soupra
 PHSAF2P;Phonic Safari 2000P;2;https://www.music-park.sk/produkt/reproboxy/1442/safari-2000p
 PHSAF3P;Phonic Safari 3000P;3;https://www.music-park.sk/produkt/reproboxy/1443/safari-3000p
 PHPPOD1062R;Phonic Powerpod 1062R;0;https://www.music-park.sk/produkt/powermixy/1444/powerpod-1062r
-PHPPOD1082R;Phonic Powerpod 1082R;1;https://www.music-park.sk/produkt/powermixy/1445/powerpod-1082r
+PHPPOD1082R;Phonic Powerpod 1082R;0;https://www.music-park.sk/produkt/powermixy/1445/powerpod-1082r
 PHPPOD1860;Phonic Powerpod 1860;0;https://www.music-park.sk/produkt/powermixy/1446/powerpod-1860
 PHPPOD410;Phonic Powerpod 410;0;https://www.music-park.sk/produkt/powermixy/1447/powerpod-410
 PHPPOD410R;Phonic Powerpod 410R;0;https://www.music-park.sk/produkt/powermixy/1448/powerpod-410r
@@ -504,7 +504,7 @@ PHPPOD750RW;Phonic Powerpod 750RW;0;https://www.music-park.sk/produkt/powermixy/
 QL10.00236;Quik Lok Z/726;2;https://www.music-park.sk/produkt/klavesove-stojany/1457/z-726
 PHPPODK12;Phonic Powerpod K-12;0;https://www.music-park.sk/produkt/powermixy/1458/powerpod-k-12
 PHPPODK16;Phonic Powerpod K-16;0;https://www.music-park.sk/produkt/powermixy/1459/powerpod-k-16
-QL30.00219;Quik Lok AD/12-3K;4;https://www.music-park.sk/produkt/propojovaci-kabely/1460/ad-12-3k
+QL30.00219;Quik Lok AD/12-3K;3;https://www.music-park.sk/produkt/propojovaci-kabely/1460/ad-12-3k
 GLL1000-CLF-OST-CR;G&L USA CLF Research L-1000 Old School Tobacco, CR;0;https://www.music-park.sk/produkt/elektricke-baskytary/1462/usa-clf-research-l-1000-old-school-tobacco-cr
 QL30.00224;Quik Lok AD/13-5K;3;https://www.music-park.sk/produkt/propojovaci-kabely/1463/ad-13-5k
 QL30.00231;Quik Lok AD/15-3K;5;https://www.music-park.sk/produkt/propojovaci-kabely/1464/ad-15-3k
@@ -1741,12 +1741,12 @@ KRNAUTILUS61ATGR;KORG Nautilus 61 AT Gray;0;https://www.music-park.sk/produkt/wo
 KRNAUTILUS88ATGR;KORG Nautilus 88 AT Gray;0;https://www.music-park.sk/produkt/workstation/3067/nautilus-88-at-gray
 KRTUPBXSBS;KORG Pitchblack XS Bass;5;https://www.music-park.sk/produkt/chromaticke-ladicky/3068/pitchblack-xs-bass
 MBC105108;Markbass CMB 151 Black Line;0;https://www.music-park.sk/produkt/baskytarova-komba/3069/cmb-151-black-line
-EK06204180;EKO CS-10 Blue Burst;3;https://www.music-park.sk/produkt/klasicke-kytary/3070/cs-10-blue-burst
-EK06204190;EKO CS-10 Red Burst;4;https://www.music-park.sk/produkt/klasicke-kytary/3071/cs-10-red-burst
+EK06204180;EKO CS-10 Blue Burst;0;https://www.music-park.sk/produkt/klasicke-kytary/3070/cs-10-blue-burst
+EK06204190;EKO CS-10 Red Burst;0;https://www.music-park.sk/produkt/klasicke-kytary/3071/cs-10-red-burst
 EK06204170;EKO CS-10 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3072/cs-10-sunburst
 EK06130060;EKO CS-10 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3073/cs-10-pack
 EK06204100;EKO CS-5 Natural;0;https://www.music-park.sk/produkt/klasicke-kytary/3074/cs-5-natural
-EK06204108;EKO CS-5 Blue Burst;4;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
+EK06204108;EKO CS-5 Blue Burst;0;https://www.music-park.sk/produkt/klasicke-kytary/3075/cs-5-blue-burst
 EK06204109;EKO CS-5 Sunburst;0;https://www.music-park.sk/produkt/klasicke-kytary/3076/cs-5-sunburst
 EK06130065;EKO CS-5 Pack;0;https://www.music-park.sk/produkt/klasicke-kytary/3077/cs-5-pack
 FDFNI40100;Fodera STR-4-40100-N;15;https://www.music-park.sk/produkt/struny-na-baskytary/3079/str-4-40100-n
@@ -1901,7 +1901,7 @@ KRKRONOS361;KORG Kronos 3 61;5;https://www.music-park.sk/produkt/workstation/323
 KRKRONOS373;KORG Kronos 3 73;0;https://www.music-park.sk/produkt/workstation/3238/kronos-3-73
 KRKRONOS388;KORG Kronos 3 88;10;https://www.music-park.sk/produkt/workstation/3239/kronos-3-88
 KRFSUPCBMBK;KORG FISA Suprema C B;1;https://www.music-park.sk/produkt/akordeony/3240/fisa-suprema-c-b
-KRFSUPCPMBK;KORG FISA Suprema C P;3;https://www.music-park.sk/produkt/akordeony/3241/fisa-suprema-c-p
+KRFSUPCPMBK;KORG FISA Suprema C P;2;https://www.music-park.sk/produkt/akordeony/3241/fisa-suprema-c-p
 DR2NBE9;DR Strings Neon Blue NBE-9;5;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3242/neon-blue-nbe-9
 DR2NBE946;DR Strings Neon Blue NBE-9/46;5;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3243/neon-blue-nbe-9-46
 DR2NBE10;DR Strings Neon Blue NBE-10;10;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3244/neon-blue-nbe-10
@@ -2488,8 +2488,8 @@ MBB148030;Markbass GV5 Gloxy Tobacco Sunburst;0;https://www.music-park.sk/produk
 MBB148019;Markbass GV5 Gloxy Fiesta Red;0;https://www.music-park.sk/produkt/elektricke-baskytary/2539/gv5-gloxy-fiesta-red
 QL10.01144;Quik Lok TST/001;10;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/2540/tst-001
 QL10.01145;Quik Lok VSC/001;1;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/2541/vsc-001
-EK06216200;EKO Ranger 6 Natural;5;https://www.music-park.sk/produkt/akusticke-kytary/2542/ranger-6-natural
-EK06216210;EKO Ranger 6 Black;2;https://www.music-park.sk/produkt/akusticke-kytary/2543/ranger-6-black
+EK06216200;EKO Ranger 6 Natural;1;https://www.music-park.sk/produkt/akusticke-kytary/2542/ranger-6-natural
+EK06216210;EKO Ranger 6 Black;0;https://www.music-park.sk/produkt/akusticke-kytary/2543/ranger-6-black
 EK06216220;EKO Ranger 6 Red Sunburst;4;https://www.music-park.sk/produkt/akusticke-kytary/2544/ranger-6-red-sunburst
 EK06216230;EKO Ranger 6 Blue Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2545/ranger-6-blue-sunburst
 EK06216250;EKO Ranger 6 Brown Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2546/ranger-6-brown-sunburst

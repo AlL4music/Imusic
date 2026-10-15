@@ -250,7 +250,17 @@ async function main() {
       const q = ov[p.item];
       if (String(p.stock).trim() === '' && Number.isInteger(q) && q > 0) { p.stock = String(q); applied++; }
     }
-    const msg = `Sound Service API: empty stock for ${emptyStock}/${products.length} products. Feed written as 0 (out of stock); manual overrides applied: ${applied}. Ask Sound Service to fix the API.`;
+    // 2nd fallback (2026-10-15): live stock from mezeaudio.co.uk (SS's own shop API) cached by mezeaudio_stock.cjs, max 36 h old
+    let meze = 0, mezeAge = null;
+    try {
+      const mc = JSON.parse(fs.readFileSync(path.join(__dirname, 'cache', 'mezeaudio_stock.json'), 'utf-8'));
+      mezeAge = (Date.now() - new Date(mc.ts).getTime()) / 3600e3;
+      if (mezeAge < 36) for (const p of products) {
+        const m = mc.items[String(p.item)];
+        if (String(p.stock).trim() === '' && m) { p.stock = String(Math.max(0, m.stock | 0)); if (m.stock > 0) meze++; }
+      }
+    } catch (e) {}
+    const msg = `Sound Service API: empty stock for ${emptyStock}/${products.length} products. Manual overrides: ${applied}; mezeaudio.co.uk fallback in stock: ${meze}${mezeAge == null ? ' (no cache!)' : mezeAge >= 36 ? ' (cache too old: ' + mezeAge.toFixed(0) + ' h)' : ''}. Ask Sound Service to fix the API.`;
     console.log('  !! OUTAGE: ' + msg);
     await notifyOwner(msg);
   }

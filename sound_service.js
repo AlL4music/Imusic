@@ -162,6 +162,23 @@ function generateCsv(products) {
   return { csv: rows.join('\n') + '\n', totalRows, productCount: products.length };
 }
 
+// --- Owner alert (ntfy + WhatsApp via callmebot, same channel as skimmer_guard), max once per 6 h ---
+async function notifyOwner(text) {
+  const stateFile = path.join(__dirname, 'logs', 'sound_service_alert.json');
+  try { const st = JSON.parse(fs.readFileSync(stateFile, 'utf-8')); if (Date.now() - st.ts < 6 * 3600e3) return; } catch (e) {}
+  try {
+    const env = {};
+    for (const l of fs.readFileSync('/srv/docker/reverb/.env', 'utf-8').split('\n')) { const m = l.match(/^([A-Z_]+)=(.*)$/); if (m) env[m[1]] = m[2].replace(/^["']|["']$/g, ''); }
+    const mysql = require('/srv/docker/catalog/node_modules/mysql2/promise');
+    const c = await mysql.createConnection({ host: env.OC_DB_HOST, user: env.OC_DB_USER, password: env.OC_DB_PASS, database: env.OC_DB_NAME });
+    const [rows] = await c.query("SELECT k, v FROM oc_a4m_chat_state WHERE k IN ('callmebot_phone','callmebot_key','ntfy_topic')"); await c.end();
+    const cfg = Object.fromEntries(rows.map(r => [r.k, r.v]));
+    if (cfg.ntfy_topic) await fetch('https://ntfy.sh/' + encodeURIComponent(cfg.ntfy_topic), { method: 'POST', headers: { Title: 'A4M Sound Service feed', Priority: 'high', Tags: 'warning' }, body: text }).catch(() => {});
+    if (cfg.callmebot_phone && cfg.callmebot_key) await fetch(`https://api.callmebot.com/whatsapp.php?phone=${encodeURIComponent(cfg.callmebot_phone)}&apikey=${encodeURIComponent(cfg.callmebot_key)}&text=${encodeURIComponent('⚠️ ' + text)}`).catch(() => {});
+    fs.writeFileSync(stateFile, JSON.stringify({ ts: Date.now(), text }));
+  } catch (e) { console.error('  notify failed:', e.message); }
+}
+
 // --- Main ---
 
 async function main() {
@@ -218,6 +235,24 @@ async function main() {
     fs.writeFileSync(debugFile, response.body.substring(0, 10000));
     console.error(`    No products found. First 10KB saved to ${debugFile}`);
     process.exit(1);
+  }
+
+  // --- Outage guard (2026-10-15): API sent an empty <stock/> for every product ---
+  // We keep writing what the API says (empty = 0, never stale numbers), but: alert the owner, and apply
+  // stock_overrides.json ONLY to items whose <stock> is empty. As soon as the API sends real numbers they win.
+  const emptyStock = products.filter(p => String(p.stock).trim() === '').length;
+  const outage = emptyStock / products.length > 0.9;
+  if (outage) {
+    let ov = {};
+    try { ov = JSON.parse(fs.readFileSync(path.join(__dirname, 'stock_overrides.json'), 'utf-8')); } catch (e) {}
+    let applied = 0;
+    for (const p of products) {
+      const q = ov[p.item];
+      if (String(p.stock).trim() === '' && Number.isInteger(q) && q > 0) { p.stock = String(q); applied++; }
+    }
+    const msg = `Sound Service API: empty stock for ${emptyStock}/${products.length} products. Feed written as 0 (out of stock); manual overrides applied: ${applied}. Ask Sound Service to fix the API.`;
+    console.log('  !! OUTAGE: ' + msg);
+    await notifyOwner(msg);
   }
 
   // Generate CSV

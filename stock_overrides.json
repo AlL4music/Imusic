@@ -1,0 +1,5 @@
+{
+  "_comment": "Manual stock for Sound Service items, used ONLY while the API sends an EMPTY <stock/> (outage 2026-10-15 16:00). Real API numbers always win. Black Friday deals confirmed in stock by Benjamin Gal (e-mails 13.-15.10.2026).",
+  "10007848": 1, "10009692": 1, "10009830": 1, "10007873": 1, "10005373": 1, "10007869": 1, "10011345": 1,
+  "10009984": 1, "10009983": 1, "10009940": 1
+}

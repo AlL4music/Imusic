@@ -27,3 +27,9 @@ logs/
 .env
 .venv/
 node_modules/
+lauda_products.json
+lauda_payload.json
+musifacts_products.json
+musifacts_full.json
+mf_payload.json
+.ss_portal

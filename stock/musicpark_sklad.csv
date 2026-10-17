@@ -615,7 +615,7 @@ QL10.00775;Quik Lok SLS/15;0;https://www.music-park.sk/produkt/stojany-pro-repro
 QL10.00201;Quik Lok SP/180;2;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1626/sp-180
 QL10.01037;Quik Lok SP/282 BK;3;https://www.music-park.sk/produkt/stojany-pro-repro-a-svetla/1627/sp-282-bk
 KRPC300BK;KORG PC-300BK;3;https://www.music-park.sk/produkt/stolicky-a-lavice/1628/pc-300bk
-KRPC300WH;KORG PC-300WH;15;https://www.music-park.sk/produkt/stolicky-a-lavice/1629/pc-300wh
+KRPC300WH;KORG PC-300WH;10;https://www.music-park.sk/produkt/stolicky-a-lavice/1629/pc-300wh
 KRPC550WH;KORG PC-550-WH;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1631/pc-550-wh
 KRPC770BK;KORG PC-770-BK;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1632/pc-770-bk
 KRPC770WH;KORG PC-770-WH;0;https://www.music-park.sk/produkt/stolicky-a-lavice/1633/pc-770-wh
@@ -1122,7 +1122,7 @@ QL10.00083;Quik Lok GS/403;20;https://www.music-park.sk/produkt/kytarove-stojany
 QL10.00087;Quik Lok GS/436;0;https://www.music-park.sk/produkt/kytarove-stojany/882/gs-436
 QL10.00089;Quik Lok GS/438;15;https://www.music-park.sk/produkt/kytarove-stojany/883/gs-438
 QL10.01057;Quik Lok GS/460;5;https://www.music-park.sk/produkt/kytarove-stojany/884/gs-460
-QL10.01065;Quik Lok GS/508;5;https://www.music-park.sk/produkt/kytarove-stojany/885/gs-508
+QL10.01065;Quik Lok GS/508;4;https://www.music-park.sk/produkt/kytarove-stojany/885/gs-508
 QL10.01066;Quik Lok GS/528;5;https://www.music-park.sk/produkt/kytarove-stojany/886/gs-528
 QL10.01015;Quik Lok QL/791;5;https://www.music-park.sk/produkt/kytarove-stojany/887/ql-791
 VXAC15H1TVH;VOX AC15H1TVH;0;https://www.music-park.sk/produkt/kytarove-zesilovace/890/ac15h1tvh
@@ -1799,9 +1799,9 @@ KRNANOKFOLDLO;KORG nanoKEY Fold Lava Orange;20;https://www.music-park.sk/produkt
 KRNANOKFOLDSB;KORG nanoKEY Fold Sand Beige;20;https://www.music-park.sk/produkt/midi-kontrolery/3126/nanokey-fold-sand-beige
 KRNANOKFOLDWH;KORG nanoKEY Fold White;20;https://www.music-park.sk/produkt/midi-kontrolery/3127/nanokey-fold-white
 KRFSUPBMBK;KORG FISA Suprema B;1;https://www.music-park.sk/produkt/akordeony/3128/fisa-suprema-b
-KRFSUPPMBK;KORG FISA Suprema P;1;https://www.music-park.sk/produkt/akordeony/3129/fisa-suprema-p
+KRFSUPPMBK;KORG FISA Suprema P;0;https://www.music-park.sk/produkt/akordeony/3129/fisa-suprema-p
 KRTUST1K;KORG ST1K;10;https://www.music-park.sk/produkt/ladicky-a-metronomy/3130/st1k
-QL30.02353;Quik Lok JUST JJ-6 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3131/just-jj-6-sl
+QL30.02353;Quik Lok JUST JJ-6 SL;4;https://www.music-park.sk/produkt/nastrojove-kabely/3131/just-jj-6-sl
 QL30.02359;Quik Lok JUST JR-6 SL;5;https://www.music-park.sk/produkt/nastrojove-kabely/3132/just-jr-6-sl
 EK06217265;EKO MIA A400E;2;https://www.music-park.sk/produkt/akusticke-kytary/3134/mia-a400e
 EK06217266;EKO MIA A400CE;2;https://www.music-park.sk/produkt/akusticke-kytary/3135/mia-a400ce
@@ -1900,7 +1900,7 @@ KRHDTRX1B;KORG handytraxx 1bit;4;https://www.music-park.sk/produkt/produkcni-nas
 KRKRONOS361;KORG Kronos 3 61;5;https://www.music-park.sk/produkt/workstation/3237/kronos-3-61
 KRKRONOS373;KORG Kronos 3 73;0;https://www.music-park.sk/produkt/workstation/3238/kronos-3-73
 KRKRONOS388;KORG Kronos 3 88;10;https://www.music-park.sk/produkt/workstation/3239/kronos-3-88
-KRFSUPCBMBK;KORG FISA Suprema C B;1;https://www.music-park.sk/produkt/akordeony/3240/fisa-suprema-c-b
+KRFSUPCBMBK;KORG FISA Suprema C B;2;https://www.music-park.sk/produkt/akordeony/3240/fisa-suprema-c-b
 KRFSUPCPMBK;KORG FISA Suprema C P;2;https://www.music-park.sk/produkt/akordeony/3241/fisa-suprema-c-p
 DR2NBE9;DR Strings Neon Blue NBE-9;5;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3242/neon-blue-nbe-9
 DR2NBE946;DR Strings Neon Blue NBE-9/46;5;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3243/neon-blue-nbe-9-46
@@ -2605,7 +2605,7 @@ DR1DSB45;DR Strings Dragon Skin DSB-45;10;https://www.music-park.sk/produkt/pota
 DR1DSB545;DR Strings Dragon Skin DSB5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2657/dragon-skin-dsb5-45
 DR1FB40;DR Strings Fat-Beams FB-40;5;https://www.music-park.sk/produkt/struny-na-baskytary/2658/fat-beams-fb-40
 DR1FB45;DR Strings Fat-Beams FB-45;3;https://www.music-park.sk/produkt/struny-na-baskytary/2659/fat-beams-fb-45
-DR1FB45100;DR Strings Fat-Beams FB-45/100;5;https://www.music-park.sk/produkt/struny-na-baskytary/2660/fat-beams-fb-45-100
+DR1FB45100;DR Strings Fat-Beams FB-45/100;3;https://www.music-park.sk/produkt/struny-na-baskytary/2660/fat-beams-fb-45-100
 DR1FB545;DR Strings Fat-Beams FB5-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2661/fat-beams-fb5-45
 DR1LR40;DR Strings Hi-Beam LR-40;15;https://www.music-park.sk/produkt/struny-na-baskytary/2662/hi-beam-lr-40
 DR1MLR45;DR Strings Hi-Beam MLR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2663/hi-beam-mlr-45

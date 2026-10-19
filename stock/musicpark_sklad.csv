@@ -318,7 +318,7 @@ KRTINYPK;KORG tinyPIANO PK;0;https://www.music-park.sk/produkt/digitalni-piana/4
 KRTINYRD;KORG tinyPIANO RD;0;https://www.music-park.sk/produkt/digitalni-piana/453/tinypiano-rd
 KRTINYWH;KORG tinyPIANO WH;0;https://www.music-park.sk/produkt/digitalni-piana/454/tinypiano-wh
 KRKINGKORGB;KORG KingKORG BK;0;https://www.music-park.sk/produkt/digitalni-syntezatory/472/kingkorg-bk
-KRMICRO;KORG microKORG;3;https://www.music-park.sk/produkt/digitalni-syntezatory/473/microkorg
+KRMICRO;KORG microKORG;2;https://www.music-park.sk/produkt/digitalni-syntezatory/473/microkorg
 KRMICROMK1S;KORG microKORG S;0;https://www.music-park.sk/produkt/digitalni-syntezatory/474/microkorg-s
 KRMICROPT;KORG MicroKORG PT;0;https://www.music-park.sk/produkt/digitalni-syntezatory/475/microkorg-pt
 KRMKRX;KORG microX;0;https://www.music-park.sk/produkt/digitalni-syntezatory/479/microx
@@ -1236,7 +1236,7 @@ KREC5;KORG EC5;0;https://www.music-park.sk/produkt/klavesove-pedaly/1056/ec5
 KREXP2;KORG EXP-2;20;https://www.music-park.sk/produkt/klavesove-pedaly/1057/exp-2
 KRPS1;KORG PS-1;20;https://www.music-park.sk/produkt/klavesove-pedaly/1058/ps-1
 KRPS3;KORG PS-3;20;https://www.music-park.sk/produkt/klavesove-pedaly/1059/ps-3
-KRPU2;KORG PU-2;20;https://www.music-park.sk/produkt/klavesove-pedaly/1060/pu-2
+KRPU2;KORG PU-2;15;https://www.music-park.sk/produkt/klavesove-pedaly/1060/pu-2
 KRXVP10;KORG XVP-10;0;https://www.music-park.sk/produkt/klavesove-pedaly/1061/xvp-10
 KRXVP20;KORG XVP-20;5;https://www.music-park.sk/produkt/klavesove-pedaly/1062/xvp-20
 QL60.00010;Quik Lok PS/25;0;https://www.music-park.sk/produkt/klavesove-pedaly/1063/ps-25
@@ -1918,7 +1918,7 @@ QL10.01071;Quik Lok SW702;5;https://www.music-park.sk/produkt/kytarove-stojany/3
 MBC105114;Markbass CMB 102 Black Line;0;https://www.music-park.sk/produkt/baskytarova-komba/3257/cmb-102-black-line
 GLFDASATZ3-3TS-RW;G&L USA Fullerton Deluxe ASAT Z-3 3-Tone Sunburst;0;https://www.music-park.sk/produkt/elektricke-kytary/3258/usa-fullerton-deluxe-asat-z-3-3-tone-sunburst
 KRB2+BK;KORG B2+ BK;20;https://www.music-park.sk/produkt/digitalni-piana/3259/b2-bk
-KRB2+WH;KORG B2+ WH;20;https://www.music-park.sk/produkt/digitalni-piana/3260/b2-wh
+KRB2+WH;KORG B2+ WH;15;https://www.music-park.sk/produkt/digitalni-piana/3260/b2-wh
 KRB2+SPBK;KORG B2+SP BK;3;https://www.music-park.sk/produkt/digitalni-piana/3261/b2sp-bk
 KRB2+SPWH;KORG B2+SP WH;0;https://www.music-park.sk/produkt/digitalni-piana/3262/b2sp-wh
 KRE1AIRBK;KORG E1 Air BK;15;https://www.music-park.sk/produkt/digitalni-piana/3263/e1-air-bk

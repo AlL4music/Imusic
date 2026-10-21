@@ -555,7 +555,7 @@ PHSAF2DC;Phonic Safari 2000DC;2;https://www.music-park.sk/produkt/prislusenstvi-
 PHSAF3DC;Phonic Safari 3000DC;4;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1509/safari-3000dc
 PHUSBR1;Phonic USBR-1;5;https://www.music-park.sk/produkt/prislusenstvi-pro-reproboxy/1510/usbr-1
 KRELECTR2B;KORG Electribe BL;20;https://www.music-park.sk/produkt/produkcni-nastroje/1514/electribe-bl
-KRELECTR2SR;KORG Electribe Sampler RD;5;https://www.music-park.sk/produkt/produkcni-nastroje/1516/electribe-sampler-rd
+KRELECTR2SR;KORG Electribe Sampler RD;4;https://www.music-park.sk/produkt/produkcni-nastroje/1516/electribe-sampler-rd
 KRKAOSSDJ;KORG Kaoss DJ;0;https://www.music-park.sk/produkt/produkcni-nastroje/1523/kaoss-dj
 KRKO2S;KORG Kaossilator 2S;0;https://www.music-park.sk/produkt/produkcni-nastroje/1529/kaossilator-2s
 KRKOPRO+;KORG Kaossilator Pro+;0;https://www.music-park.sk/produkt/produkcni-nastroje/1532/kaossilator-pro
@@ -933,7 +933,7 @@ KRODS;KORG OD-S;10;https://www.music-park.sk/produkt/kytarove-efekty/2048/od-s
 KRI3MS;KORG i3 MS;2;https://www.music-park.sk/produkt/workstation/2049/i3-ms
 KRWAVESTATE;KORG Wavestate;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2050/wavestate
 KRG1BAIRWA;KORG G1B Air WA;2;https://www.music-park.sk/produkt/digitalni-piana/2051/g1b-air-wa
-KRC1AIRWBK;KORG C1 Air WBK;3;https://www.music-park.sk/produkt/digitalni-piana/2052/c1-air-wbk
+KRC1AIRWBK;KORG C1 Air WBK;2;https://www.music-park.sk/produkt/digitalni-piana/2052/c1-air-wbk
 KRNCQ1BK;KORG NC-Q1 BK;0;https://www.music-park.sk/produkt/sluchatka/2055/nc-q1-bk
 KRNCQ1WH;KORG NC-Q1 WH;4;https://www.music-park.sk/produkt/sluchatka/2056/nc-q1-wh
 VXVHQ1BK;VOX VH-Q1 BK;0;https://www.music-park.sk/produkt/sluchatka/2057/vh-q1-bk
@@ -1273,7 +1273,7 @@ QL10.00209;Quik Lok T-20 BK;10;https://www.music-park.sk/produkt/klavesove-stoja
 QL10.00212;Quik Lok T/22;3;https://www.music-park.sk/produkt/klavesove-stojany/1098/t-22
 QL10.00943;Quik Lok WS/421;5;https://www.music-park.sk/produkt/klavesove-stojany/1099/ws-421
 QL10.00976;Quik Lok WS/650;3;https://www.music-park.sk/produkt/klavesove-stojany/1100/ws-650
-QL10.00361;Quik Lok Z/716;3;https://www.music-park.sk/produkt/klavesove-stojany/1101/z-716
+QL10.00361;Quik Lok Z/716;2;https://www.music-park.sk/produkt/klavesove-stojany/1101/z-716
 QL10.00237;Quik Lok Z/726L;3;https://www.music-park.sk/produkt/klavesove-stojany/1102/z-726l
 KRSQSKHB;SEQUENZ SKH-B;0;https://www.music-park.sk/produkt/klavesove-stojany/1103/skh-b
 KRSQSTALB;SEQUENZ STA-L-B;0;https://www.music-park.sk/produkt/klavesove-stojany/1104/sta-l-b
@@ -1321,7 +1321,7 @@ KRNANOK2W;KORG nanoKEY2-WH;5;https://www.music-park.sk/produkt/midi-kontrolery/1
 KRNANOKO2B;KORG nanoKONTROL2-BK;15;https://www.music-park.sk/produkt/midi-kontrolery/1164/nanokontrol2-bk
 KRNANOKO2BLYL;KORG NanoKONTROL2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1165/nanokontrol2-blyl
 KRNANOKO2ORGR;KORG NanoKONTROL2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1166/nanokontrol2-orgr
-KRNANOKO2W;KORG nanoKONTROL2-WH;15;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
+KRNANOKO2W;KORG nanoKONTROL2-WH;10;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
 KRNANOKOST;KORG nanoKONTROL Studio;15;https://www.music-park.sk/produkt/midi-kontrolery/1168/nanokontrol-studio
 KRNANOKST;KORG nanoKEY Studio;3;https://www.music-park.sk/produkt/midi-kontrolery/1169/nanokey-studio
 KRNANOP2B;KORG nanoPAD2-BK;0;https://www.music-park.sk/produkt/midi-kontrolery/1170/nanopad2-bk
@@ -1573,7 +1573,7 @@ EK05130000;EKO S-300 Sunburst;2;https://www.music-park.sk/produkt/elektricke-kyt
 EK05130050;EKO S-300 Chrome Red;0;https://www.music-park.sk/produkt/elektricke-kytary/2857/s-300-chrome-red
 EK05130060;EKO S-300 Metallic Blue;4;https://www.music-park.sk/produkt/elektricke-kytary/2858/s-300-metallic-blue
 EK05130130;EKO S-300 LH Black;3;https://www.music-park.sk/produkt/elektricke-kytary/2859/s-300-lh-black
-KRKPREPLAY;KORG KAOSS Replay;2;https://www.music-park.sk/produkt/produkcni-nastroje/2861/kaoss-replay
+KRKPREPLAY;KORG KAOSS Replay;1;https://www.music-park.sk/produkt/produkcni-nastroje/2861/kaoss-replay
 KRMPS10;KORG MPS-10;5;https://www.music-park.sk/produkt/elektronicke-bici/2862/mps-10
 KRMODWAVEMK2;KORG Modwave mk II;5;https://www.music-park.sk/produkt/digitalni-syntezatory/2863/modwave-mk-ii
 EK05130071;EKO S-100 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-kytary/2865/s-100-chrome-red
@@ -1604,7 +1604,7 @@ EK06130127;EKO CS-5 Pink Satin;0;https://www.music-park.sk/produkt/klasicke-kyta
 EK05130681;EKO VJB-200V Vintage Sunburst;3;https://www.music-park.sk/produkt/elektricke-baskytary/2907/vjb-200v-vintage-sunburst
 EK06130124;EKO CS-5 Natural Satin;0;https://www.music-park.sk/produkt/klasicke-kytary/2908/cs-5-natural-satin
 EK05130822;EKO VPJ-280V Vintage White;3;https://www.music-park.sk/produkt/elektricke-baskytary/2910/vpj-280v-vintage-white
-EK06217119;EKO Ranger XII VR Natural Top Stained;1;https://www.music-park.sk/produkt/akusticke-kytary/2911/ranger-xii-vr-natural-top-stained
+EK06217119;EKO Ranger XII VR Natural Top Stained;0;https://www.music-park.sk/produkt/akusticke-kytary/2911/ranger-xii-vr-natural-top-stained
 EK06216941;EKO Ranger XII VR Honey Burst;0;https://www.music-park.sk/produkt/akusticke-kytary/2912/ranger-xii-vr-honey-burst
 VXVMG10BE;VOX Mini Go 10 BE;0;https://www.music-park.sk/produkt/kytarova-komba/2913/mini-go-10-be
 VXVMG10BL;VOX Mini Go 10 BL;0;https://www.music-park.sk/produkt/kytarova-komba/2914/mini-go-10-bl
@@ -2154,7 +2154,7 @@ VXVGA3PSTR;VOX Giulietta VGA-3PS Red;0;https://www.music-park.sk/produkt/akustic
 VXVGA3PSTK;VOX Giulietta VGA-3PS Black;4;https://www.music-park.sk/produkt/akusticke-kytary/2149/giulietta-vga-3ps-black
 VXVGA3PSNA;VOX Giulietta VGA-3PS Natural;3;https://www.music-park.sk/produkt/akusticke-kytary/2150/giulietta-vga-3ps-natural
 KROPSIX;KORG Opsix;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2154/opsix
-KRNAUTILUS88;KORG Nautilus 88;3;https://www.music-park.sk/produkt/workstation/2155/nautilus-88
+KRNAUTILUS88;KORG Nautilus 88;2;https://www.music-park.sk/produkt/workstation/2155/nautilus-88
 KRNAUTILUS73;KORG Nautilus 73;0;https://www.music-park.sk/produkt/workstation/2156/nautilus-73
 KRNAUTILUS61;KORG Nautilus 61;4;https://www.music-park.sk/produkt/workstation/2157/nautilus-61
 KRLP380UWH;KORG LP-380U WH;1;https://www.music-park.sk/produkt/digitalni-piana/2158/lp-380u-wh
@@ -2493,13 +2493,13 @@ EK06216210;EKO Ranger 6 Black;2;https://www.music-park.sk/produkt/akusticke-kyta
 EK06216220;EKO Ranger 6 Red Sunburst;4;https://www.music-park.sk/produkt/akusticke-kytary/2544/ranger-6-red-sunburst
 EK06216230;EKO Ranger 6 Blue Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2545/ranger-6-blue-sunburst
 EK06216250;EKO Ranger 6 Brown Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2546/ranger-6-brown-sunburst
-EK06216500;EKO Ranger 6 EQ Natural;1;https://www.music-park.sk/produkt/akusticke-kytary/2547/ranger-6-eq-natural
+EK06216500;EKO Ranger 6 EQ Natural;0;https://www.music-park.sk/produkt/akusticke-kytary/2547/ranger-6-eq-natural
 EK06216510;EKO Ranger 6 EQ Black;3;https://www.music-park.sk/produkt/akusticke-kytary/2548/ranger-6-eq-black
 EK06216520;EKO Ranger 6 EQ Red Sunburst;2;https://www.music-park.sk/produkt/akusticke-kytary/2549/ranger-6-eq-red-sunburst
 EK06216530;EKO Ranger 6 EQ Blue Sunburst;1;https://www.music-park.sk/produkt/akusticke-kytary/2550/ranger-6-eq-blue-sunburst
 EK06216550;EKO Ranger 6 EQ Brown Sunburst;2;https://www.music-park.sk/produkt/akusticke-kytary/2551/ranger-6-eq-brown-sunburst
 EK06216600;EKO Ranger CW EQ Natural;5;https://www.music-park.sk/produkt/akusticke-kytary/2552/ranger-cw-eq-natural
-EK06216610;EKO Ranger CW EQ Black;4;https://www.music-park.sk/produkt/akusticke-kytary/2553/ranger-cw-eq-black
+EK06216610;EKO Ranger CW EQ Black;3;https://www.music-park.sk/produkt/akusticke-kytary/2553/ranger-cw-eq-black
 EK06216620;EKO Ranger CW EQ Red Sunburst;3;https://www.music-park.sk/produkt/akusticke-kytary/2554/ranger-cw-eq-red-sunburst
 EK06216630;EKO Ranger CW EQ Blue Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2555/ranger-cw-eq-blue-sunburst
 EK06216650;EKO Ranger CW EQ Brown Sunburst;5;https://www.music-park.sk/produkt/akusticke-kytary/2556/ranger-cw-eq-brown-sunburst

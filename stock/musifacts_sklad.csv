@@ -356,7 +356,7 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-ALD-0002;Pickup. Aldrich Humbucker, Bridge 50mm, Gold (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0003;Pickup. Aldrich Humbucker, Bridge 50mm, Nickel Chrome (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0004;Pickup. Aldrich Humbucker, Bridge 50mm, Parchment (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-ALD-0005;Pickup. Aldrich Humbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-ALD-0005;Pickup. Aldrich Humbucker, Bridge 50mm, Raw Nickel (Suhr) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0008;Pickup. Aldrich Humbucker, Bridge 50mm, Zebra (Suhr) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0009;Pickup. Aldrich Humbucker, Bridge 53mm, Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-ALD-0010;Pickup. Aldrich Humbucker, Bridge 53mm, Gold (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -683,7 +683,7 @@ SL0069;Owls - Brown (GS0441NM01WB) (Souldier) [expected 2026-01-23];0;https://co
 SL0070;Owls - Navy (GS0012NV02NV) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0039;Paisley - Brown (GS1116NM05WB) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0040;Paisley - Magenta (GS1117BK04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0041;Paisley - Navy/Purple (GS1114NV04TQ) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0041;Paisley - Navy/Purple (GS1114NV04TQ) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0042;Persian - Black (GS0112BK05BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0043;Persian - Gold (GS0075BK01BD) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0029;Providence - Black/Burgundy (GS1100BK04BK) (Souldier) [expected 2026-08-22];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -729,8 +729,8 @@ SL0128;Banjo Strap Providence - Navy (BJC0761NV04NV) (Souldier);0;https://codots
 SL0142;Banjo Strap Stained Glass - Red (BJC0178WH02WH) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0136;Banjo Strap Zapata (BJC0886BK02WB) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0137;Banjo Strap Zodiak - Brown/Tan (BJC0372TP02WB) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0097;Bass Strap Black (GT0000BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0102;Bass Strap Kildare - Green (GT0054BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0097;Bass Strap Black (GT0000BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0102;Bass Strap Kildare - Green (GT0054BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0103;Bass Strap Kildare - Red (GT0055BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0101;Bass Strap Racing Stripe (GT0130BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0099;Bass Strap Red (GT0000RD02RD) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -826,7 +826,7 @@ SL0240;Saddle Strap - Tobacco/Brown (SSD0000TB02BR) (Souldier);1;https://codots.
 SL0088;Seatbelt Navy (GS0000NV04NV) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0089;Seatbelt Nutmeg (GS0000NM05WB) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0090;Seatbelt Olive Drab (GS0000OD04BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0091;Seatbelt Orange (GS0000OR04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0091;Seatbelt Orange (GS0000OR04BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0092;Seatbelt Purple (GS0000PR04PR) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0093;Seatbelt Red (GS0000RD04RD) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0095;Seatbelt Taupe (GS0000TP04TP) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -929,9 +929,9 @@ SL0305;Lightning Bolt - Silver (GS0856BK04BK) (Souldier);1;https://codots.app/av
 SL0297;Lotus - Light Blue/White/Black (GS0885BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0284;Lovebirds Black (GS1313BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0285;Lovebirds Blue (GS1314NV02NV) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0283;Lovebirds Brown (GS1315NM02WB) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0283;Lovebirds Brown (GS1315NM02WB) (Souldier);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0299;Lovebirds Grey (GS1316BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-SL0286;Lovebirds White (GS1312BD02BD) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0286;Lovebirds White (GS1312BD02BD) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0300;Madrid - Olive (GS1320OD04BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0376;Marigold - Burgundy (GS1443BD02BD) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0375;Marigold - Taupe (GS1442TP02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv

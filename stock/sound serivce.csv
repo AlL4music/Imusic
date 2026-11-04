@@ -1621,8 +1621,8 @@
 20000274,DiMarzio,[B-Stock] DiMarzio DP 103BK PAF,0,71,663334002869,"2026-11-28 00:00:00",0
 10000282,DiMarzio,DiMarzio DP 116BK HS-2,0,"57.00",663334004337,"2027-02-01 00:00:00",0
 20000282,DiMarzio,[B-Stock] DiMarzio DP 116BK HS-2,0,57,663334004337,"2027-02-01 00:00:00",0
-10000308,DiMarzio,DiMarzio DP 158BK Evolution Neck,1,"78.00",663334007642,,0
-20000308,DiMarzio,[B-Stock] DiMarzio DP 158BK Evolution Neck,0,78,663334007642,,0
+10000308,DiMarzio,DiMarzio DP 158BK Evolution Neck,0,"78.00",663334007642,"2027-02-01 00:00:00",0
+20000308,DiMarzio,[B-Stock] DiMarzio DP 158BK Evolution Neck,0,78,663334007642,"2027-02-01 00:00:00",0
 10000311,DiMarzio,DiMarzio DP 159BK Evolution Bridge,1,"78.00",663334008045,,0
 20000311,DiMarzio,[B-Stock] DiMarzio DP 159BK Evolution Bridge,0,78,663334008045,,0
 10000323,DiMarzio,DiMarzio DP 127W Split-P,0,"71.00",663334004931,"2027-01-30 00:00:00",0
@@ -30893,8 +30893,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20012741,Masterwork,"[B-Stock] Masterwork Troy Traditional 13"" Hi-Hat",0,109,4250673500086,,0
 10013021,Masterwork,Masterwork Sehhar 20'' Crash / ca. 2100g,0,"144.00",,"2027-01-30 00:00:00",0
 20013021,Masterwork,[B-Stock] Masterwork Sehhar 20'' Crash / ca. 2100g,0,144,,"2027-01-30 00:00:00",0
-10013042,Masterwork,Masterwork Troy Traditional 14'' Crash,0,"72.50",4250673500123,"2027-02-01 00:00:00",0
-20013042,Masterwork,[B-Stock] Masterwork Troy Traditional 14'' Crash,0,72.5,4250673500123,"2027-02-01 00:00:00",0
+10013042,Masterwork,Masterwork Troy Traditional 14'' Crash,0,"72.50",4250673500123,"2027-02-02 00:00:00",0
+20013042,Masterwork,[B-Stock] Masterwork Troy Traditional 14'' Crash,0,72.5,4250673500123,"2027-02-02 00:00:00",0
 10013044,Masterwork,Masterwork Troy Traditional 21'' Ride,0,"131.90",4250673500178,"2027-01-30 00:00:00",0
 20013044,Masterwork,[B-Stock] Masterwork Troy Traditional 21'' Ride,0,131.9,4250673500178,"2027-01-30 00:00:00",0
 10012268,Masterwork,Masterwork Flame 18” Medium Crash,0,"126.56",,"2027-01-30 00:00:00",0

@@ -148,7 +148,7 @@ TRIO-43-SC;TRIO-43 Soft Case (Temple);2;https://codots.app/availability-by-produ
 101006;Toci (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-XLRFF;XLR Module, Female/Female (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-XLRMF;XLR Module, Male/Female (Temple);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-MOD-XLRMM;XLR Module, Male/Male (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+MOD-XLRMM;XLR Module, Male/Male (Temple) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101013;Atlanero (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-BUF-0001;Buffer (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101010;Chantico (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -395,7 +395,7 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);15;https://codots.ap
 04-63P-0004;Pickup. V63+. Single Coil. Bridge. White (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0006;Pickup. V63+. Single Coil. Middle. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0007;Pickup. V63+. Single Coil. Middle. Parchment (Suhr) [expected 2026-11-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-63P-0008;Pickup. V63+. Single Coil. Middle. White (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-63P-0008;Pickup. V63+. Single Coil. Middle. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0010;Pickup. V63+. Single Coil. Neck. Black (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0011;Pickup. V63+. Single Coil. Neck. Parchment (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-63P-0012;Pickup. V63+. Single Coil. Neck. White (Suhr) [expected 2026-10-30];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -631,7 +631,7 @@ MP-SP6S;Performer 600, Speaker 6 ft. - Speak-On (600509) (Monster);1;https://cod
 MP-SP6;Performer 600, Speaker 6 ft. - straight 1/4" plugs (600582) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MP-SP3F;Performer 600, Speakon 3 ft. - Faston (600510) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SHP-0008;Pickup. SSH+, Hot Humbucker, Bridge 50mm, Zebra (Suhr) [expected 2026-12-23];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-MR-SS21;Rock 21 ft. - straight 1/4” plugs (600542) (Monster);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+MR-SS21;Rock 21 ft. - straight 1/4” plugs (600542) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MR-SS3;Rock 3 ft. - straight 1/4” plugs (600625) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MR-SS6;Rock 6 ft. - straight 1/4” plugs (600626) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MR-RR08;Rock 8 in. - angled 1/4” plugs (600536) (Monster);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -970,13 +970,13 @@ FT-FZO;Fuzz O)) (Fortin);1;https://codots.app/availability-by-product/buy/musifa
 RV-G50CS;G50 50-watt Tube Head – Custom (Revv) [expected 2026-08-31];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RV-G120v3CS;Generator 120 MKIII 120-watt Tube Head, Custom (Revv);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0398;Greenwich - Brown (GS1438BK02BK) (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+SL0397;Greenwich - Olive (GS1437BK02BK) (Souldier);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0396;Greenwich - Pelham Blue (GS1436BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0395;Greenwich - Red (GS0942BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0394;Greenwich - White Wedding (GS1212WH02WH) (Souldier);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 07-SLP-0012;Hombre Amp Head Cover, Black Nylon (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 FT-HYD;Hydra (Fortin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 CST-IMP2;Imperium V2 (Cornerstone);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-CON-MIDI-7;MIDI Micro Module 7-PIN (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0404;Medallion - Black (vinyl tabs)(GS0044FG04BKV) (Souldier) [expected 2026-09-23];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0399;Memphis - Black (GS1351BK02BK) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0400;Memphis - Brown (GS1352BR02BR) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -1029,6 +1029,7 @@ KNG-0010;Knob, G, Tone, Plastic, Parchment (Suhr);0;https://codots.app/availabil
 KNG-0014;Knob, G, Volume, Plastic, Parchment (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0410;Koi (GS0094FG05FG) (Souldier);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 MOD-LINE;Line Input Module (Temple);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+CON-MIDI-7;MIDI Micro Module 7-PIN (Temple);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 FT-NABKT;NATAS Blackout LTD (Fortin);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 02-PF1-0004;PF-100. Peter Frampton Signature 100W, 230V (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 PG-04;Pickguard Classic T Shorty, Solid Color, HH (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -1036,7 +1037,6 @@ KNG-0018;Pickup Selector Switch Tip, Plastic Parchment (Suhr);0;https://codots.a
 04-CLJ-0001;Pickup. Classic J Humphrey Bass Pickup, Bridge, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-CLJ-0002;Pickup. Classic J Humphrey Bass Pickup, Neck, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-DHP-0006;Pickup. DHP Plus, Vintage Humbucker, Bridge, 53mm, Black (Suhr) [expected 2026-12-23];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-BRI-0157;Pivot Screw & Insert for Suhr 2-Post Bridge (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 06-CAS-0046;Premium Soft Case (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-HE;RBX - Headless Guitar Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0238;Saddle Strap - Rust/Navy (Souldier);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -1057,6 +1057,7 @@ RV-G25-CS;G25 - Tube Head Custom Tolex (Revv);0;https://codots.app/availability-
 HWG-0022;Neck Screw, 1,75", Gold Plated (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 HWG-0018;Neck Screws, 1,5", Gold Plated (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 NPT-0006;Neckplate, Gold, Mateus Asato (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+BRI-0157;Pivot Screw & Insert for Suhr 2-Post Bridge (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 RBX-CUK;RBX Concert Ukulele Gig Bag (Reunion Blues);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 SL0256;Saddle Strap - Pistachio - Forest (SSD0708BR02BR) (Souldier);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 BRI-0144;Suhr 2-Post Bridge, Bent Saddles, Chrome (inc. tremolo arm) (Suhr);2;https://codots.app/availability-by-product/buy/musifacts-europe-bv

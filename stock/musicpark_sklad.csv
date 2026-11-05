@@ -372,10 +372,6 @@ VXAC15VR;VOX AC15VR;0;https://www.music-park.sk/produkt/kytarova-komba/709/ac15v
 VXAC1RV;VOX AC1 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/710/ac1-rhythmvox
 VXAC2RV;VOX AC2 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/711/ac2-rhythmvox
 VXAC30C2;VOX AC30C2;0;https://www.music-park.sk/produkt/kytarova-komba/712/ac30c2
-EK05134023;EKO LS-300 Gold;3;https://www.music-park.sk/produkt/elektricke-kytary/3556/ls-300-gold
-EK05134024;EKO LS-300 Honey Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3557/ls-300-honey-burst
-EK05134025;EKO LS-300 Cherry Sunburst;4;https://www.music-park.sk/produkt/elektricke-kytary/3558/ls-300-cherry-sunburst
-EK05134051;EKO LS-300 Blue Quilted;5;https://www.music-park.sk/produkt/elektricke-kytary/3559/ls-300-blue-quilted
 KRKONNECT;KORG KONNECT;0;https://www.music-park.sk/produkt/ozvucovaci-systemy/1426/konnect
 KRMMA130;KORG MMA130;0;https://www.music-park.sk/produkt/ozvucovaci-systemy/1427/mma130
 PHSM303A;Phonic Smartman 303A;5;https://www.music-park.sk/produkt/reproboxy/1437/smartman-303a
@@ -822,6 +818,9 @@ ASSTUDIO12;Ashdown Studio 12;3;https://www.music-park.sk/produkt/baskytarova-kom
 ASSTUDIO15;Ashdown Studio 15;4;https://www.music-park.sk/produkt/baskytarova-komba/2130/studio-15
 VXAC15C1VB;VOX AC15C1-VB;0;https://www.music-park.sk/produkt/kytarova-komba/2131/ac15c1-vb
 AGCC210SL;Aguilar SL 210 Cover;0;https://www.music-park.sk/produkt/obaly-na-aparaty/2132/sl-210-cover
+KRKROMEEX61CU;KORG KROME-61 EX CU;0;https://www.music-park.sk/produkt/workstation/2136/krome-61-ex-cu
+VXAC10COVER;VOX AC10 Cover;10;https://www.music-park.sk/produkt/obaly-na-aparaty/2137/ac10-cover
+VXAC15COVER;VOX AC15 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2138/ac15-cover
 KRTUWDT1;KORG WDT-1;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/715/wdt-1
 VXAC30C2CM;VOX AC30C2 Cream;0;https://www.music-park.sk/produkt/kytarova-komba/716/ac30c2-cream
 VXAC30C2MB;VOX AC30C2 Maroon Bronco;0;https://www.music-park.sk/produkt/kytarova-komba/717/ac30c2-maroon-bronco
@@ -1300,9 +1299,6 @@ AGCC410SL;Aguilar SL 410 Cover;0;https://www.music-park.sk/produkt/obaly-na-apar
 QL10.01082;Quik Lok GS/437-BB;20;https://www.music-park.sk/produkt/kytarove-stojany/1402/gs-437-bb
 AGCC810DB;Aguilar DB 810 Cover;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1403/db-810-cover
 AGHCDB751CB;Aguilar DB 751 HC CB;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1404/db-751-hc-cb
-KRKROMEEX61CU;KORG KROME-61 EX CU;0;https://www.music-park.sk/produkt/workstation/2136/krome-61-ex-cu
-VXAC10COVER;VOX AC10 Cover;10;https://www.music-park.sk/produkt/obaly-na-aparaty/2137/ac10-cover
-VXAC15COVER;VOX AC15 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2138/ac15-cover
 VXAC30COVER;VOX AC30 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2139/ac30-cover
 VXAC15HCOVER;VOX AC15H Cover;1;https://www.music-park.sk/produkt/obaly-na-aparaty/2140/ac15h-cover
 VXAC30HCOVER;VOX AC30H Cover;3;https://www.music-park.sk/produkt/obaly-na-aparaty/2141/ac30h-cover
@@ -2101,7 +2097,7 @@ KRMINI700SM;KORG miniKORG 700Sm;10;https://www.music-park.sk/produkt/analogove-s
 VXPF10RD;VOX Pathfinder 10 Red;10;https://www.music-park.sk/produkt/kytarova-komba/3227/pathfinder-10-red
 KRTUPBXBL;KORG Pitchblack X BL;5;https://www.music-park.sk/produkt/chromaticke-ladicky/3228/pitchblack-x-bl
 KRTUPBXCR;KORG Pitchblack X CR;10;https://www.music-park.sk/produkt/chromaticke-ladicky/3229/pitchblack-x-cr
-QL10.00919;Quik Lok LPH001;2;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/3230/lph001
+QL10.00919;Quik Lok LPH001;1;https://www.music-park.sk/produkt/stojany-pro-pocitace-a-tablety/3230/lph001
 GLFDLGYHB-TEA-MP;G&L USA Fullerton Deluxe Legacy HSS Matcha Green;0;https://www.music-park.sk/produkt/elektricke-kytary/3231/usa-fullerton-deluxe-legacy-hss-matcha-green
 KRHDTRXPL;KORG handytraxx play;5;https://www.music-park.sk/produkt/produkcni-nastroje/3233/handytraxx-play
 KRHDTRXTU;KORG handytraxx tube;1;https://www.music-park.sk/produkt/produkcni-nastroje/3234/handytraxx-tube
@@ -2343,3 +2339,7 @@ EK05134007;EKO ST-300 Cream;5;https://www.music-park.sk/produkt/elektricke-kytar
 EK05134009;EKO ST-300 Daphne Blue;5;https://www.music-park.sk/produkt/elektricke-kytary/3553/st-300-daphne-blue
 EK05134010;EKO ST-300 Olymphic White;5;https://www.music-park.sk/produkt/elektricke-kytary/3554/st-300-olymphic-white
 EK05134022;EKO LS-300 Black;4;https://www.music-park.sk/produkt/elektricke-kytary/3555/ls-300-black
+EK05134023;EKO LS-300 Gold;3;https://www.music-park.sk/produkt/elektricke-kytary/3556/ls-300-gold
+EK05134024;EKO LS-300 Honey Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3557/ls-300-honey-burst
+EK05134025;EKO LS-300 Cherry Sunburst;4;https://www.music-park.sk/produkt/elektricke-kytary/3558/ls-300-cherry-sunburst
+EK05134051;EKO LS-300 Blue Quilted;5;https://www.music-park.sk/produkt/elektricke-kytary/3559/ls-300-blue-quilted

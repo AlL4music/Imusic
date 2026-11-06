@@ -41,8 +41,8 @@
 20003310,Tech21,[B-Stock] Tech21 VT Bass 200,0,329.4,837088002356,,0
 10007501,Markbass,"Markbass Marcus Miller CMD 101 Micro 60 1 x 10"" Bass Combo",1,"339.00",8033829131695,,0
 20007501,Markbass,"[B-Stock] Markbass Marcus Miller CMD 101 Micro 60 1 x 10"" Bass Combo",0,339,8033829131695,,0
-10007523,Markbass,"Markbass Traveler 102 P - 8 Ohm 2 x 10"" Bass Cabinet",1,"371.00",8033829130599,,0
-20007523,Markbass,"[B-Stock] Markbass Traveler 102 P - 8 Ohm 2 x 10"" Bass Cabinet",0,371,8033829130599,,0
+10007523,Markbass,"Markbass Traveler 102 P - 8 Ohm 2 x 10"" Bass Cabinet",0,"371.00",8033829130599,"2027-02-04 00:00:00",0
+20007523,Markbass,"[B-Stock] Markbass Traveler 102 P - 8 Ohm 2 x 10"" Bass Cabinet",0,371,8033829130599,"2027-02-04 00:00:00",0
 10007531,Markbass,"Markbass Standard 104 HF - 8 Ohm 4 x 10"" Bass Cabinet",1,"618.00",8033829130513,,0
 20007531,Markbass,"[B-Stock] Markbass Standard 104 HF - 8 Ohm 4 x 10"" Bass Cabinet",0,618,8033829130513,,0
 10007544,Markbass,"Markbass New York 121 1 x 12"" Bass Cabinet",1,"309.00",8033829130636,,0
@@ -1675,8 +1675,8 @@
 20001101,DiMarzio,[B-Stock] DiMarzio DP 181V Fast Track 1,0,70.7,,"2027-01-30 00:00:00",0
 10001104,DiMarzio,DiMarzio DP 158FGNBK Evolution Neck,0,"83.70",,"2027-01-30 00:00:00",0
 20001104,DiMarzio,[B-Stock] DiMarzio DP 158FGNBK Evolution Neck,0,83.7,,"2027-01-30 00:00:00",0
-10001108,DiMarzio,DiMarzio DP 193BW Air Norton,1,"70.70",663334012127,,0
-20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,70.7,663334012127,,0
+10001108,DiMarzio,DiMarzio DP 193BW Air Norton,0,"70.70",663334012127,"2027-02-04 00:00:00",0
+20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,70.7,663334012127,"2027-02-04 00:00:00",0
 10001126,DiMarzio,DiMarzio DP 165BW The Breed Neck,0,"72.70",,"2027-01-30 00:00:00",0
 20001126,DiMarzio,[B-Stock] DiMarzio DP 165BW The Breed Neck,0,72.7,,"2027-01-30 00:00:00",0
 10001128,DiMarzio,DiMarzio DP 193FSP PK/V Air Norton,1,"70.70",663334012332,,0
@@ -3735,8 +3735,8 @@
 20007074,DiMarzio,[B-Stock] DiMarzio DP 252FBP Gravity Storm Neck F-Spaced/Black/Pink/Nickel Polepieces,0,83.7,,"2027-01-30 00:00:00",0
 10007075,DiMarzio,DiMarzio DP 253FBP Gravity Storm Bridge F-Spaced/Black/Pink/Nickel Polepieces,0,"83.70",,"2027-01-30 00:00:00",0
 20007075,DiMarzio,[B-Stock] DiMarzio DP 253FBP Gravity Storm Bridge F-Spaced/Black/Pink/Nickel Polepieces,0,83.7,,"2027-01-30 00:00:00",0
-10007080,DiMarzio,DiMarzio DP 714BK+BK Titan 7 Bridge Black/Black Polepieces,0,"91.40",663334173569,"2027-01-30 00:00:00",0
-20007080,DiMarzio,[B-Stock] DiMarzio DP 714BK+BK Titan 7 Bridge Black/Black Polepieces,0,91.4,663334173569,"2027-01-30 00:00:00",0
+10007080,DiMarzio,DiMarzio DP 714BK+BK Titan 7 Bridge Black/Black Polepieces,0,"91.40",663334173569,"2027-02-04 00:00:00",0
+20007080,DiMarzio,[B-Stock] DiMarzio DP 714BK+BK Titan 7 Bridge Black/Black Polepieces,0,91.4,663334173569,"2027-02-04 00:00:00",0
 10007091,DiMarzio,DiMarzio DP 243G PG-13 Bridge Gold Cover,0,"98.20",663334168503,"2027-01-30 00:00:00",0
 20007091,DiMarzio,[B-Stock] DiMarzio DP 243G PG-13 Bridge Gold Cover,0,98.2,663334168503,"2027-01-30 00:00:00",0
 10007135,DiMarzio,DiMarzio DP 158FPK Evolution Neck F-Spaced/Pink,0,"83.70",663334007864,"2027-01-30 00:00:00",0
@@ -22117,8 +22117,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20022213,DiMarzio,"[B-Stock] DiMarzio DP 716BG+G Imperium 7 Bridge Black/Green, Gold Pole Pieces",0,97.1,,"2027-01-30 00:00:00",0
 10022090,DiMarzio,DiMarzio DP 712UN Super Distortion 7 Unplated Cover,0,"93.40",663334131125,"2027-01-30 00:00:00",0
 20022090,DiMarzio,[B-Stock] DiMarzio DP 712UN Super Distortion 7 Unplated Cover,0,93.4,663334131125,"2027-01-30 00:00:00",0
-10022100,DiMarzio,"DiMarzio DP 713BK+BK Titan 7 Neck Black, Black Pole Pieces",0,"91.40",663334173866,"2027-01-30 00:00:00",0
-20022100,DiMarzio,"[B-Stock] DiMarzio DP 713BK+BK Titan 7 Neck Black, Black Pole Pieces",0,91.4,663334173866,"2027-01-30 00:00:00",0
+10022100,DiMarzio,"DiMarzio DP 713BK+BK Titan 7 Neck Black, Black Pole Pieces",0,"91.40",663334173866,"2027-02-04 00:00:00",0
+20022100,DiMarzio,"[B-Stock] DiMarzio DP 713BK+BK Titan 7 Neck Black, Black Pole Pieces",0,91.4,663334173866,"2027-02-04 00:00:00",0
 10022114,DiMarzio,DiMarzio DP 713GN Titan 7 Neck Green,0,"88.70",663334046528,"2027-01-30 00:00:00",0
 20022114,DiMarzio,[B-Stock] DiMarzio DP 713GN Titan 7 Neck Green,0,88.7,663334046528,"2027-01-30 00:00:00",0
 10022122,DiMarzio,"DiMarzio DP 713RD+BK Titan 7 Neck Red, Black Pole Pieces",0,"97.10",,"2027-01-30 00:00:00",0
@@ -27631,8 +27631,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20012345,Markbass,[B-Stock] Markbass MB Gloxy Kimandu 5 3-Tone Sunburst BK MP Gloxy Series,0,616,8059307424028,,0
 10012948,Markbass,Markbass MB GV 5 Gloxy Metallic Yellow CR RW (passive) Gloxy Series,1,"462.00",8059307424615,,0
 20012948,Markbass,[B-Stock] Markbass MB GV 5 Gloxy Metallic Yellow CR RW (passive) Gloxy Series,0,462,8059307424615,,0
-10012949,Markbass,Markbass MB GV 4 Gloxy Metallic Yellow CR RW Gloxy Series,0,"432.00",8059307424561,"2026-11-05 00:00:00",0
-20012949,Markbass,[B-Stock] Markbass MB GV 4 Gloxy Metallic Yellow CR RW Gloxy Series,0,432,8059307424561,"2026-11-05 00:00:00",0
+10012949,Markbass,Markbass MB GV 4 Gloxy Metallic Yellow CR RW Gloxy Series,1,"432.00",8059307424561,,0
+20012949,Markbass,[B-Stock] Markbass MB GV 4 Gloxy Metallic Yellow CR RW Gloxy Series,0,432,8059307424561,,0
 10013221,Markbass,Markbass MB GV 4 GOG Blue Sky CR MP FC Gloxy Series,1,"492.00",8059307424929,,0
 20013221,Markbass,[B-Stock] Markbass MB GV 4 GOG Blue Sky CR MP FC Gloxy Series,0,492,8059307424929,,0
 10013222,Markbass,Markbass MB GV 4 GOG Blue Sky CR RW FC Gloxy Series,1,"492.00",8059307424943,,0
@@ -30697,8 +30697,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20000019,Masterwork,[B-Stock] Masterwork Custom 10'' Hi-Hat,0,106,4250673501014,,0
 10000020,Masterwork,Masterwork Custom 12'' Hi-Hat,1,"119.00",4250673501021,,0
 20000020,Masterwork,[B-Stock] Masterwork Custom 12'' Hi-Hat,0,119,4250673501021,,0
-10000035,Masterwork,Masterwork Custom 15'' Crash,1,"99.00",4250673501243,,0
-20000035,Masterwork,[B-Stock] Masterwork Custom 15'' Crash,0,99,4250673501243,,0
+10000035,Masterwork,Masterwork Custom 15'' Crash,0,"99.00",4250673501243,"2027-02-04 00:00:00",0
+20000035,Masterwork,[B-Stock] Masterwork Custom 15'' Crash,0,99,4250673501243,"2027-02-04 00:00:00",0
 10000037,Masterwork,Masterwork Custom 16'' Crash,1,"105.00",4250673501274,,0
 20000037,Masterwork,[B-Stock] Masterwork Custom 16'' Crash,0,105,4250673501274,,0
 10000041,Masterwork,Masterwork Custom 18'' Crash,1,"125.00",4250673501328,,0
@@ -30723,8 +30723,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20000075,Masterwork,[B-Stock] Masterwork Resonant 17'' Crash,0,120,4250673502868,,0
 10000076,Masterwork,Masterwork Resonant 18'' Crash,1,"129.00",4250673502875,,0
 20000076,Masterwork,[B-Stock] Masterwork Resonant 18'' Crash,0,129,4250673502875,,0
-10000080,Masterwork,Masterwork Resonant 21'' Ride,1,"165.00",4250673502912,,0
-20000080,Masterwork,[B-Stock] Masterwork Resonant 21'' Ride,0,165,4250673502912,,0
+10000080,Masterwork,Masterwork Resonant 21'' Ride,0,"165.00",4250673502912,"2027-02-04 00:00:00",0
+20000080,Masterwork,[B-Stock] Masterwork Resonant 21'' Ride,0,165,4250673502912,"2027-02-04 00:00:00",0
 10000085,Masterwork,Masterwork Resonant 16'' China,1,"121.00",4250673502974,,0
 20000085,Masterwork,[B-Stock] Masterwork Resonant 16'' China,0,121,4250673502974,,0
 10000087,Masterwork,Masterwork Resonant 20'' China,1,"159.00",4250673502998,,0
@@ -32537,8 +32537,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20008004,Markbass,"[B-Stock] Markbass MB SUPER POWER CABLE 1m - Jack Jack 1/4"" Jack Short Speaker Cable",0,21.5,8033829131589,,0
 10008005,Markbass,"Markbass MB SUPER POWER CABLE 1m - Jack speakON 1/4"" Jack - speakON Short Speaker Cable",1,"24.50",8033829131602,,0
 20008005,Markbass,"[B-Stock] Markbass MB SUPER POWER CABLE 1m - Jack speakON 1/4"" Jack - speakON Short Speaker Cable",0,24.5,8033829131602,,0
-10008006,Markbass,Markbass MB SUPER POWER CABLE 1m - speakON speakON speakON - speakON Short Speaker Cable,1,"24.50",8033829131565,,0
-20008006,Markbass,[B-Stock] Markbass MB SUPER POWER CABLE 1m - speakON speakON speakON - speakON Short Speaker Cable,0,24.5,8033829131565,,0
+10008006,Markbass,Markbass MB SUPER POWER CABLE 1m - speakON speakON speakON - speakON Short Speaker Cable,0,"24.50",8033829131565,"2027-02-04 00:00:00",0
+20008006,Markbass,[B-Stock] Markbass MB SUPER POWER CABLE 1m - speakON speakON speakON - speakON Short Speaker Cable,0,24.5,8033829131565,"2027-02-04 00:00:00",0
 10008007,Markbass,Markbass MB SUPER POWER CABLE 2m - Jack Jack Jack Jack Speaker Cable,1,"24.50",8033829131596,,0
 20008007,Markbass,[B-Stock] Markbass MB SUPER POWER CABLE 2m - Jack Jack Jack Jack Speaker Cable,0,24.5,8033829131596,,0
 10008008,Markbass,Markbass MB SUPER POWER CABLE 2m - speakON speakON speakON speakON Speaker Cable,1,"26.50",8033829131572,,0

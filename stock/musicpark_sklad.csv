@@ -44,7 +44,7 @@ KRARODYRV3K;KORG ARP Odyssey FS Rev3;0;https://www.music-park.sk/produkt/analogo
 KRARPODYSREV1;KORG ARP Odyssey Rev1;0;https://www.music-park.sk/produkt/analogove-syntezatory/105/arp-odyssey-rev1
 KREK50;KORG EK-50;10;https://www.music-park.sk/produkt/aranzery/106/ek-50
 KRMP10;KORG MP-10 Pro;0;https://www.music-park.sk/produkt/aranzery/107/mp-10-pro
-KRPA1000;KORG Pa1000;5;https://www.music-park.sk/produkt/aranzery/108/pa1000
+KRPA1000;KORG Pa1000;4;https://www.music-park.sk/produkt/aranzery/108/pa1000
 KRPA300;KORG Pa300;0;https://www.music-park.sk/produkt/aranzery/112/pa300
 KRPA3X61;KORG Pa3X-61;0;https://www.music-park.sk/produkt/aranzery/113/pa3x-61
 KRPA3X76;KORG Pa3X-76;0;https://www.music-park.sk/produkt/aranzery/114/pa3x-76
@@ -399,7 +399,7 @@ PHPPODK12;Phonic Powerpod K-12;0;https://www.music-park.sk/produkt/powermixy/145
 PHPPODK16;Phonic Powerpod K-16;0;https://www.music-park.sk/produkt/powermixy/1459/powerpod-k-16
 QL30.00219;Quik Lok AD/12-3K;2;https://www.music-park.sk/produkt/propojovaci-kabely/1460/ad-12-3k
 GLL1000-CLF-OST-CR;G&L USA CLF Research L-1000 Old School Tobacco, CR;0;https://www.music-park.sk/produkt/elektricke-baskytary/1462/usa-clf-research-l-1000-old-school-tobacco-cr
-QL30.00224;Quik Lok AD/13-5K;3;https://www.music-park.sk/produkt/propojovaci-kabely/1463/ad-13-5k
+QL30.00224;Quik Lok AD/13-5K;2;https://www.music-park.sk/produkt/propojovaci-kabely/1463/ad-13-5k
 QL30.00231;Quik Lok AD/15-3K;5;https://www.music-park.sk/produkt/propojovaci-kabely/1464/ad-15-3k
 GLL1000-CLF-NAT-MP;G&L USA CLF Research L-1000 Natural;0;https://www.music-park.sk/produkt/elektricke-baskytary/1465/usa-clf-research-l-1000-natural
 QLCAD303K;Quik Lok AD 30-3K;0;https://www.music-park.sk/produkt/propojovaci-kabely/1466/ad-30-3k
@@ -664,7 +664,7 @@ DR1NMR6130;DR Strings Sunbeams NMR6-130;10;https://www.music-park.sk/produkt/str
 DR1SNMR545;DR Strings Sunbeams SNMR5-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/1904/sunbeams-snmr5-45
 DR1DSB630;DR Strings Dragon Skin DSB6-30;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/1905/dragon-skin-dsb6-30
 DR1DSB45100;DR Strings Dragon Skin DSB-45/100;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/1906/dragon-skin-dsb-45-100
-DR1SNMR45;DR Strings Sunbeams SNMR-45;4;https://www.music-park.sk/produkt/struny-na-baskytary/1907/sunbeams-snmr-45
+DR1SNMR45;DR Strings Sunbeams SNMR-45;3;https://www.music-park.sk/produkt/struny-na-baskytary/1907/sunbeams-snmr-45
 DR1LMR5130;DR Strings Hi-Beam LMR5-130;5;https://www.music-park.sk/produkt/struny-na-baskytary/1908/hi-beam-lmr5-130
 VXAC30C2TTBMW;VOX AC30C2-TTBM-W;0;https://www.music-park.sk/produkt/kytarova-komba/1909/ac30c2-ttbm-w
 VXAC15C1TTBMW;VOX AC15C1-TTBM-W;0;https://www.music-park.sk/produkt/kytarova-komba/1910/ac15c1-ttbm-w
@@ -948,7 +948,7 @@ KRTUAWLT100M;KORG AW-LT100M;20;https://www.music-park.sk/produkt/chromaticke-lad
 KRTUAWLT100V;KORG AW-LT100V;0;https://www.music-park.sk/produkt/chromaticke-ladicky/972/aw-lt100v
 KRTUCA2;KORG CA-2;20;https://www.music-park.sk/produkt/chromaticke-ladicky/974/ca-2
 KRTUCA2SL;KORG CA-2 SL;0;https://www.music-park.sk/produkt/chromaticke-ladicky/975/ca-2-sl
-KRTUCA50;KORG CA-50;20;https://www.music-park.sk/produkt/chromaticke-ladicky/977/ca-50
+KRTUCA50;KORG CA-50;15;https://www.music-park.sk/produkt/chromaticke-ladicky/977/ca-50
 KRTUCM200BK;KORG CM-200 BK;0;https://www.music-park.sk/produkt/chromaticke-ladicky/978/cm-200-bk
 KRTUCM200BKRD;KORG CM-200 BKRD;0;https://www.music-park.sk/produkt/chromaticke-ladicky/979/cm-200-bkrd
 KRTUCM200WHBK;KORG CM-200 WHBK;0;https://www.music-park.sk/produkt/chromaticke-ladicky/980/cm-200-whbk
@@ -1043,7 +1043,7 @@ QL10.00209;Quik Lok T-20 BK;10;https://www.music-park.sk/produkt/klavesove-stoja
 QL10.00212;Quik Lok T/22;3;https://www.music-park.sk/produkt/klavesove-stojany/1098/t-22
 QL10.00943;Quik Lok WS/421;5;https://www.music-park.sk/produkt/klavesove-stojany/1099/ws-421
 QL10.00976;Quik Lok WS/650;3;https://www.music-park.sk/produkt/klavesove-stojany/1100/ws-650
-QL10.00361;Quik Lok Z/716;2;https://www.music-park.sk/produkt/klavesove-stojany/1101/z-716
+QL10.00361;Quik Lok Z/716;1;https://www.music-park.sk/produkt/klavesove-stojany/1101/z-716
 QL10.00237;Quik Lok Z/726L;3;https://www.music-park.sk/produkt/klavesove-stojany/1102/z-726l
 KRSQSKHB;SEQUENZ SKH-B;0;https://www.music-park.sk/produkt/klavesove-stojany/1103/skh-b
 KRSQSTALB;SEQUENZ STA-L-B;0;https://www.music-park.sk/produkt/klavesove-stojany/1104/sta-l-b
@@ -1796,7 +1796,7 @@ GLFDACLA-OST-MP;G&L USA Fullerton Deluxe ASAT Classic Alnico - Old School Tobacc
 GLFDPL2000-GRY-MP;G&L USA Fullerton Deluxe L-2000 - Grey Pearl;0;https://www.music-park.sk/produkt/elektricke-baskytary/2840/usa-fullerton-deluxe-l-2000-grey-pearl
 KRKEYSTAGE49;KORG Keystage 49;10;https://www.music-park.sk/produkt/midi-kontrolery/2841/keystage-49
 KRKEYSTAGE61;KORG Keystage 61;5;https://www.music-park.sk/produkt/midi-kontrolery/2842/keystage-61
-QL10.01021;Quik Lok MKS/4;3;https://www.music-park.sk/produkt/klavesove-stojany/2846/mks-4
+QL10.01021;Quik Lok MKS/4;2;https://www.music-park.sk/produkt/klavesove-stojany/2846/mks-4
 KRSQMPLARGEMSG;SEQUENZ MP-LARGE-MSG;20;https://www.music-park.sk/produkt/puzdra-na-klavesy/2847/mp-large-msg
 VXMK5MINIBK;VOX Mark V mini BK;4;https://www.music-park.sk/produkt/elektricke-kytary/2848/mark-v-mini-bk
 VXMK5MINIWH;VOX Mark V mini WH;2;https://www.music-park.sk/produkt/elektricke-kytary/2849/mark-v-mini-wh
@@ -1884,7 +1884,7 @@ KRWAVESTATEM;KORG Wavestate Module;10;https://www.music-park.sk/produkt/digitaln
 VXV846V;VOX V846 Vintage Wah;0;https://www.music-park.sk/produkt/kytarove-efekty/2970/v846-vintage-wah
 VXVRM1;VOX Real McCoy Wah;5;https://www.music-park.sk/produkt/kytarove-efekty/2971/real-mccoy-wah
 VXVRM1LTD;VOX Real McCoy Wah Ltd;4;https://www.music-park.sk/produkt/kytarove-efekty/2972/real-mccoy-wah-ltd
-KRGSX;KORG Grandstage X;5;https://www.music-park.sk/produkt/stage-piana/2973/grandstage-x
+KRGSX;KORG Grandstage X;4;https://www.music-park.sk/produkt/stage-piana/2973/grandstage-x
 KRNTS1MK2;KORG NTS-1 mk II;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2974/nts-1-mk-ii
 KRNTS3;KORG NTS-3;1;https://www.music-park.sk/produkt/produkcni-nastroje/2975/nts-3
 KRKR11;KORG KR-11;5;https://www.music-park.sk/produkt/bici-automaty/2976/kr-11

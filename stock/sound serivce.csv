@@ -3105,8 +3105,8 @@
 20005099,DiMarzio,[B-Stock] DiMarzio DP 253FBLBK Gravity Storm Bridge,0,83.7,,"2027-01-30 00:00:00",0
 10005108,DiMarzio,DiMarzio DP 700BC BLAZE NECK,0,"71.00",,"2027-01-30 00:00:00",0
 20005108,DiMarzio,[B-Stock] DiMarzio DP 700BC BLAZE NECK,0,71,,"2027-01-30 00:00:00",0
-10005110,DiMarzio,DiMarzio DP 270F Sonic Ecstasy Bridge,0,"91.70",663334047594,"2027-01-30 00:00:00",0
-20005110,DiMarzio,[B-Stock] DiMarzio DP 270F Sonic Ecstasy Bridge,0,91.7,663334047594,"2027-01-30 00:00:00",0
+10005110,DiMarzio,DiMarzio DP 270F Sonic Ecstasy Bridge,0,"91.70",663334047594,"2027-02-03 00:00:00",0
+20005110,DiMarzio,[B-Stock] DiMarzio DP 270F Sonic Ecstasy Bridge,0,91.7,663334047594,"2027-02-03 00:00:00",0
 10005155,DiMarzio,DiMarzio DP 212GG EJ Custom Bridge,0,"122.40",663334040946,"2027-01-30 00:00:00",0
 20005155,DiMarzio,[B-Stock] DiMarzio DP 212GG EJ Custom Bridge,0,122.4,663334040946,"2027-01-30 00:00:00",0
 10005162,DiMarzio,DiMarzio ISCV2PK Evolution Middle Pink,0,"56.00",,"2027-01-30 00:00:00",0
@@ -3621,8 +3621,8 @@
 20006765,DiMarzio,[B-Stock] DiMarzio DP 103KK PAF 36TH ANNIVERSARY NECK Black Metal Cover,0,83.6,663334037113,"2027-01-30 00:00:00",0
 10005106,DiMarzio,DiMarzio DP 253FPK+BK Gravity Storm Bridge Pink,0,"92.10",663334195080,"2027-01-30 00:00:00",0
 20005106,DiMarzio,[B-Stock] DiMarzio DP 253FPK+BK Gravity Storm Bridge Pink,0,92.1,663334195080,"2027-01-30 00:00:00",0
-10005111,DiMarzio,DiMarzio DP 269F Sonic Ecstasy Neck,0,"91.70",663334047587,"2027-01-30 00:00:00",0
-20005111,DiMarzio,[B-Stock] DiMarzio DP 269F Sonic Ecstasy Neck,0,91.7,663334047587,"2027-01-30 00:00:00",0
+10005111,DiMarzio,DiMarzio DP 269F Sonic Ecstasy Neck,0,"91.70",663334047587,"2027-02-03 00:00:00",0
+20005111,DiMarzio,[B-Stock] DiMarzio DP 269F Sonic Ecstasy Neck,0,91.7,663334047587,"2027-02-03 00:00:00",0
 10005124,DiMarzio,DiMarzio DP 259W+G Titan Bridge White White/Gold Pole Pieces,0,"92.10",,"2027-01-30 00:00:00",0
 20005124,DiMarzio,[B-Stock] DiMarzio DP 259W+G Titan Bridge White White/Gold Pole Pieces,0,92.1,,"2027-01-30 00:00:00",0
 10005135,DiMarzio,DiMarzio DP 260SN PAF Master Neck Satin Cover,0,"77.60",,"2027-01-30 00:00:00",0
@@ -3845,8 +3845,8 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20007167,DiMarzio,[B-Stock] DiMarzio DP 217PK HS-4 Pink,0,62.7,663334012875,"2027-01-30 00:00:00",0
 10007172,DiMarzio,DiMarzio DP267FPK Dark Matter 2™ Middle F-Spaced/Pink,0,"57.70",663334182837,"2027-01-30 00:00:00",0
 20007172,DiMarzio,[B-Stock] DiMarzio DP267FPK Dark Matter 2™ Middle F-Spaced/Pink,0,57.7,663334182837,"2027-01-30 00:00:00",0
-10007174,DiMarzio,DiMarzio DP 296N RELENTLESS Middle Nickel Cover,1,"98.60",663334171749,,0
-20007174,DiMarzio,[B-Stock] DiMarzio DP 296N RELENTLESS Middle Nickel Cover,0,98.6,663334171749,,0
+10007174,DiMarzio,DiMarzio DP 296N RELENTLESS Middle Nickel Cover,1,"86.00",663334171749,,0
+20007174,DiMarzio,[B-Stock] DiMarzio DP 296N RELENTLESS Middle Nickel Cover,0,86,663334171749,,0
 10007303,DiMarzio,DiMarzio DP 290FKK Fortitude Bridge Black Metal Cover,0,"90.60",663334179578,"2027-01-30 00:00:00",0
 20007303,DiMarzio,[B-Stock] DiMarzio DP 290FKK Fortitude Bridge Black Metal Cover,0,90.6,663334179578,"2027-01-30 00:00:00",0
 10007315,DiMarzio,DiMarzio DP 245FKK+N Dominion Bridge F-Spaced/Black Metal Cover/Nickel Pole Pieces,0,"99.00",663334039728,"2027-01-30 00:00:00",0
@@ -28821,6 +28821,38 @@ John Petrucci Signature Model",0,83.7,,"2027-01-30 00:00:00",0
 20024747,Dixon,[B-Stock] Dixon Cornerstone Hybrid Sascha Waack incl. Hardware 22''BD/10''/12''/14''FT /16''FT PODCSTC522-02-SN,0,2699,4718981507116,"2027-04-10 00:00:00",0
 10024748,Dixon,Dixon Little Roomer Sascha Waack PODL520CF,0,"2699.00",4718981495574,"2027-04-10 00:00:00",0
 20024748,Dixon,[B-Stock] Dixon Little Roomer Sascha Waack PODL520CF,0,2699,4718981495574,"2027-04-10 00:00:00",0
+10025206,Rogers,Rogers RS-0422-PBC R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Piano Black Copper Pinstripe,0,"1079.00",4718981506089,,0
+20025206,Rogers,[B-Stock] Rogers RS-0422-PBC R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Piano Black Copper Pinstripe,0,1079,4718981506089,,0
+10025207,Rogers,Rogers RS-0422-BBB R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Brushed Blue Burst,0,"999.00",4718981506119,,0
+20025207,Rogers,[B-Stock] Rogers RS-0422-BBB R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Brushed Blue Burst,0,999,4718981506119,,0
+10025208,Rogers,Rogers RS-0422-WB R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Walnut Burst,0,"999.00",4718981506096,,0
+20025208,Rogers,[B-Stock] Rogers RS-0422-WB R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Walnut Burst,0,999,4718981506096,,0
+10025209,Rogers,Rogers RS-0422-CAR R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Candy Apple Red,0,"999.00",4718981506102,,0
+20025209,Rogers,[B-Stock] Rogers RS-0422-CAR R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Candy Apple Red,0,999,4718981506102,,0
+10025210,Rogers,Rogers RS-0318-PBC R-Series 3pc Shell Pack 18x14/12x8/14x14 Piano Black Copper Pinstripe,0,"865.00",4718981506164,,0
+20025210,Rogers,[B-Stock] Rogers RS-0318-PBC R-Series 3pc Shell Pack 18x14/12x8/14x14 Piano Black Copper Pinstripe,0,865,4718981506164,,0
+10025211,Rogers,Rogers RS-0318-BBB R-Series 3pc Shell Pack 18x14/12x8/14x14 Brushed Blue Burst,0,"799.00",4718981506195,,0
+20025211,Rogers,[B-Stock] Rogers RS-0318-BBB R-Series 3pc Shell Pack 18x14/12x8/14x14 Brushed Blue Burst,0,799,4718981506195,,0
+10025212,Rogers,Rogers RS-0318-WB R-Series 3pc Shell Pack 18x14/12x8/14x14 Walnut Burst,0,"799.00",4718981506171,,0
+20025212,Rogers,[B-Stock] Rogers RS-0318-WB R-Series 3pc Shell Pack 18x14/12x8/14x14 Walnut Burst,0,799,4718981506171,,0
+10025213,Rogers,Rogers RS-0318-CAR R-Series 3pc Shell Pack 18x14/12x8/14x14 Candy Apple Red,0,"799.00",4718981506188,,0
+20025213,Rogers,[B-Stock] Rogers RS-0318-CAR R-Series 3pc Shell Pack 18x14/12x8/14x14 Candy Apple Red,0,799,4718981506188,,0
+10025214,Rogers,Rogers RS-0514S-PBC R-Series 14''x5'' Snare Piano Black with Copper Pinstripes,0,"189.00",4718981506201,,0
+20025214,Rogers,[B-Stock] Rogers RS-0514S-PBC R-Series 14''x5'' Snare Piano Black with Copper Pinstripes,0,189,4718981506201,,0
+10025215,Rogers,Rogers RS-0514S-BBB R-Series 14''x5'' Snare Brushed Blue Burst,0,"172.00",4718981506263,,0
+20025215,Rogers,[B-Stock] Rogers RS-0514S-BBB R-Series 14''x5'' Snare Brushed Blue Burst,0,172,4718981506263,,0
+10025216,Rogers,Rogers RS-0514S-WB R-Series 14''x5'' Snare Walnut Burst,0,"172.00",4718981506225,,0
+20025216,Rogers,[B-Stock] Rogers RS-0514S-WB R-Series 14''x5'' Snare Walnut Burst,0,172,4718981506225,,0
+10025217,Rogers,Rogers RS-0514S-CAR R-Series 14''x5'' Snare Candy Apple Red,0,"172.00",4718981506249,,0
+20025217,Rogers,[B-Stock] Rogers RS-0514S-CAR R-Series 14''x5'' Snare Candy Apple Red,0,172,4718981506249,,0
+10025218,Rogers,"Rogers RS-6514S-PBC R-Series 14''x6,5'' Snare Piano Black with Copper Pinstripes",0,"195.00",4718981506218,,0
+20025218,Rogers,"[B-Stock] Rogers RS-6514S-PBC R-Series 14''x6,5'' Snare Piano Black with Copper Pinstripes",0,195,4718981506218,,0
+10025219,Rogers,"Rogers RS-6514S-BBB R-Series 14''x6,5'' Snare Brushed Blue Burst",0,"175.00",4718981506270,,0
+20025219,Rogers,"[B-Stock] Rogers RS-6514S-BBB R-Series 14''x6,5'' Snare Brushed Blue Burst",0,175,4718981506270,,0
+10025220,Rogers,"Rogers RS-6514S-WB R-Series 14''x6,5'' Snare Walnut Burst",0,"175.00",4718981506232,,0
+20025220,Rogers,"[B-Stock] Rogers RS-6514S-WB R-Series 14''x6,5'' Snare Walnut Burst",0,175,4718981506232,,0
+10025221,Rogers,"Rogers RS-6514S-CAR R-Series 14''x6,5'' Snare Candy Apple Red",0,"175.00",4718981506256,,0
+20025221,Rogers,"[B-Stock] Rogers RS-6514S-CAR R-Series 14''x6,5'' Snare Candy Apple Red",0,175,4718981506256,,0
 10004009,Dixon,"Dixon PDSCL654MA Classic 14x6.5 Snare Marble Apex, Maple Formula Shell",1,"112.50",4718981475132,,0
 20004009,Dixon,"[B-Stock] Dixon PDSCL654MA Classic 14x6.5 Snare Marble Apex, Maple Formula Shell",0,112.5,4718981475132,,0
 10004010,Dixon,"Dixon PDSCL354MA Classic 14x3.5 Snare Marble Apex, Maple Formula Shell",0,"99.00",4718981475149,"2027-04-09 00:00:00",0

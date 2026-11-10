@@ -1071,7 +1071,7 @@ KRTUKDM3BK;KORG KDM-3 BK;0;https://www.music-park.sk/produkt/metronomy/1128/kdm-
 KRTUKDM3WBK;KORG KDM-3 WDBK;20;https://www.music-park.sk/produkt/metronomy/1129/kdm-3-wdbk
 KRTUKDM3WH;KORG KDM-3 WH;20;https://www.music-park.sk/produkt/metronomy/1130/kdm-3-wh
 KRTULMA120;KORG LMA-120;0;https://www.music-park.sk/produkt/metronomy/1131/lma-120
-KRTUMA2BK;KORG MA-2 BKRD;1;https://www.music-park.sk/produkt/metronomy/1134/ma-2-bkrd
+KRTUMA2BK;KORG MA-2 BKRD;0;https://www.music-park.sk/produkt/metronomy/1134/ma-2-bkrd
 KRTUMA2BL;KORG MA-2 BLBK;0;https://www.music-park.sk/produkt/metronomy/1135/ma-2-blbk
 KRTUSR1G;KORG StrokeRhythm;0;https://www.music-park.sk/produkt/metronomy/1136/strokerhythm
 KRTUSY1D;KORG SyncDancing;0;https://www.music-park.sk/produkt/metronomy/1137/syncdancing
@@ -1339,16 +1339,16 @@ VXVGHROCK;VOX VGH Rock;0;https://www.music-park.sk/produkt/sluchatka/2198/vgh-ro
 VXVGHBASS;VOX VGH Bass;0;https://www.music-park.sk/produkt/sluchatka/2199/vgh-bass
 VXVGHAC30;VOX VGH AC30;0;https://www.music-park.sk/produkt/sluchatka/2200/vgh-ac30
 KRSTWL;KORG ST-WL;2;https://www.music-park.sk/produkt/klavesove-stojany/2202/st-wl
-VXVMG50;VOX Mini Go 50;0;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
+VXVMG50;VOX Mini Go 50;1;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
 ASSTUDIOTOUR;Ashdown Studio Tourbus;4;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
-VXVMG10;VOX Mini Go 10;4;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
+VXVMG10;VOX Mini Go 10;5;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
 VXVMG3;VOX Mini Go 3;5;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
 KRKA430;KORG KA-430;0;https://www.music-park.sk/produkt/napajeci-adaptery/2208/ka-430
 KRMODWAVE;KORG Modwave;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2225/modwave
 KRMINI700FS;KORG MiniKORG 700 FS;0;https://www.music-park.sk/produkt/analogove-syntezatory/2226/minikorg-700-fs
 KRTUGM2;KORG GM-1 2 Set;0;https://www.music-park.sk/produkt/metronomy/2227/gm-1-2-set
 KRTUGM4;KORG GM-1 4 Set;0;https://www.music-park.sk/produkt/metronomy/2228/gm-1-4-set
-VXVFS3;VOX VFS3;3;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/2229/vfs3
+VXVFS3;VOX VFS3;4;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/2229/vfs3
 VXVBCS66BBK;VOX Bobcat S66B BK;1;https://www.music-park.sk/produkt/elektricke-kytary/2230/bobcat-s66b-bk
 QL30.01491;Quik Lok FPC/V-C2;10;https://www.music-park.sk/produkt/propojovaci-kabely/2250/fpc-v-c2
 QL10.00197;Quik Lok SBG/14L;0;https://www.music-park.sk/produkt/kytarove-stojany/2251/sbg-14l
@@ -1412,7 +1412,7 @@ KRLIANOWH;KORG Liano Pearl White;0;https://www.music-park.sk/produkt/digitalni-p
 KRPA5X61;KORG Pa5X-61;10;https://www.music-park.sk/produkt/aranzery/2373/pa5x-61
 KRPA5X76;KORG Pa5X-76;5;https://www.music-park.sk/produkt/aranzery/2374/pa5x-76
 KRPA5X88;KORG Pa5X-88;4;https://www.music-park.sk/produkt/aranzery/2375/pa5x-88
-GLTI-ACL-115R01M86;G&L Tribute ASAT Classic Gloss Black, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/2376/tribute-asat-classic-gloss-black-mp
+GLTI-ACL-115R01M86;G&L Tribute ASAT Classic Gloss Black, MP;1;https://www.music-park.sk/produkt/elektricke-kytary/2376/tribute-asat-classic-gloss-black-mp
 GLTI-ACL-120R39M56;G&L Tribute ASAT Classic Butterscotch Blonde, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2377/tribute-asat-classic-butterscotch-blonde-mp
 GLTI-ACB-115R03R46;G&L Tribute ASAT Classic Bluesboy Candy Apple Red, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/2378/tribute-asat-classic-bluesboy-candy-apple-red-rw
 GLTI-ACB-S71R46M76;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Clear Orange, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2379/tribute-asat-classic-bluesboy-semi-hollow-clear-orange-mp
@@ -1630,7 +1630,7 @@ DR3RPM123PK;DR Strings Rare RPM-12  3-Pack;20;https://www.music-park.sk/produkt/
 DR1BKB40;DR Strings Black Beauties BKB-40;15;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2652/black-beauties-bkb-40
 DR1BKB45;DR Strings Black Beauties BKB-45;20;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2653/black-beauties-bkb-45
 DR1BKB540;DR Strings Black Beauties BKB5-40;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2654/black-beauties-bkb5-40
-DR1BKB545;DR Strings Black Beauties BKB5-45;15;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2655/black-beauties-bkb5-45
+DR1BKB545;DR Strings Black Beauties BKB5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2655/black-beauties-bkb5-45
 DR1DSB45;DR Strings Dragon Skin DSB-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2656/dragon-skin-dsb-45
 DR1DSB545;DR Strings Dragon Skin DSB5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2657/dragon-skin-dsb5-45
 DR1FB40;DR Strings Fat-Beams FB-40;5;https://www.music-park.sk/produkt/struny-na-baskytary/2658/fat-beams-fb-40

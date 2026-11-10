@@ -27,8 +27,8 @@
 20023559,DV Mark,[B-Stock] DV Mark FG LITTLE 250 AMPLITUDE Frank Gambale Signature Amp,0,253.8,,,0
 10007574,DV Mark,"DV Mark DV Silver 212 2 x 12"" Guitar Cabinet",0,"329.40",8033829136911,,0
 20007574,DV Mark,"[B-Stock] DV Mark DV Silver 212 2 x 12"" Guitar Cabinet",0,329.4,8033829136911,,0
-10007490,Markbass,"Markbass Micromark 801 1 x 8"" Bass Combo",1,"247.00",8033829131152,,0
-20007490,Markbass,"[B-Stock] Markbass Micromark 801 1 x 8"" Bass Combo",0,247,8033829131152,,0
+10007490,Markbass,"Markbass Micromark 801 1 x 8"" Bass Combo",1,"247.00",8033829131282,,0
+20007490,Markbass,"[B-Stock] Markbass Micromark 801 1 x 8"" Bass Combo",0,247,8033829131282,,0
 10007534,Markbass,"Markbass Standard 104 HR - 4 Ohm 4 x 10"" Bass Cabinet",0,"587.00",8033829130544,"2027-02-06 00:00:00",0
 20007534,Markbass,"[B-Stock] Markbass Standard 104 HR - 4 Ohm 4 x 10"" Bass Cabinet",0,587,8033829130544,"2027-02-06 00:00:00",0
 10007524,Markbass,"Markbass Traveler 102 P - 4 Ohm 2 x 10"" Bass Cabinet",1,"371.00",8033829130605,,0
@@ -3465,8 +3465,8 @@
 20005397,DiMarzio,[B-Stock] DiMarzio DP 252BG Gravity Storm Neck black/green,0,83.7,,"2027-02-06 00:00:00",0
 10005400,DiMarzio,DiMarzio DP 273FBK+BK Satchur8™ Black Polepieces,0,"86.40",663334175105,"2027-02-06 00:00:00",0
 20005400,DiMarzio,[B-Stock] DiMarzio DP 273FBK+BK Satchur8™ Black Polepieces,0,86.4,663334175105,"2027-02-06 00:00:00",0
-10005410,DiMarzio,DiMarzio DP 218AW+N Super Distortion S aged white,0,"73.40",,"2027-02-06 00:00:00",0
-20005410,DiMarzio,[B-Stock] DiMarzio DP 218AW+N Super Distortion S aged white,0,73.4,,"2027-02-06 00:00:00",0
+10005410,DiMarzio,DiMarzio DP 218AW+N Super Distortion S aged white,0,"73.40",,"2027-02-08 00:00:00",0
+20005410,DiMarzio,[B-Stock] DiMarzio DP 218AW+N Super Distortion S aged white,0,73.4,,"2027-02-08 00:00:00",0
 10005411,DiMarzio,DiMarzio DP 101N+G Dual Sound Nickel Gold Polep.,0,"88.00",,"2027-02-06 00:00:00",0
 20005411,DiMarzio,[B-Stock] DiMarzio DP 101N+G Dual Sound Nickel Gold Polep.,0,88,,"2027-02-06 00:00:00",0
 10005422,DiMarzio,DiMarzio DP 258FSN+BK Titan Neck F-Spaced/Satin Nickel Cover/Black Pole Pieces,0,"99.00",,"2027-02-06 00:00:00",0
@@ -27995,8 +27995,8 @@ John Petrucci Signature Model",0,83.7,,"2027-02-06 00:00:00",0
 20010735,Gator,[B-Stock] Gator GL-LPS Gibson Les Paul Guitar Lightweight Case,0,68.5,716408502076,,0
 10010742,Gator,Gator GL-SG Gibson SG Guitar Lightweight Case,1,"65.00",716408505879,,0
 20010742,Gator,[B-Stock] Gator GL-SG Gibson SG Guitar Lightweight Case,0,65,716408505879,,0
-10010665,Gator,Gator GC-APX APX-Style Guitar Case,1,"71.00",716408501925,,0
-20010665,Gator,[B-Stock] Gator GC-APX APX-Style Guitar Case,0,71,716408501925,,0
+10010665,Gator,Gator GC-APX APX-Style Guitar Case,0,"71.00",716408501925,"2027-01-28 00:00:00",0
+20010665,Gator,[B-Stock] Gator GC-APX APX-Style Guitar Case,0,71,716408501925,"2027-01-28 00:00:00",0
 10010671,Gator,Gator GC-DREAD-12-4PK 12-String Dreadnought Guitar Case,1,"75.00",716408501918,,0
 20010671,Gator,[B-Stock] Gator GC-DREAD-12-4PK 12-String Dreadnought Guitar Case,0,75,716408501918,,0
 10010672,Gator,Gator GC-ELECTRIC-A Electric Guitar Case,1,"71.50",716408500140,,0
@@ -28853,6 +28853,8 @@ John Petrucci Signature Model",0,83.7,,"2027-02-06 00:00:00",0
 20025220,Rogers,"[B-Stock] Rogers RS-6514S-WB R-Series 14''x6,5'' Snare Walnut Burst",0,175,4718981506232,,0
 10025221,Rogers,"Rogers RS-6514S-CAR R-Series 14''x6,5'' Snare Candy Apple Red",0,"175.00",4718981506256,,0
 20025221,Rogers,"[B-Stock] Rogers RS-6514S-CAR R-Series 14''x6,5'' Snare Candy Apple Red",0,175,4718981506256,,0
+10025236,Dixon,Dixon PODCSTH422 Cornerstone Hybrid Shellset Custom BWN Wood Hoops / TMS / Bass Drum virgin 22/12/13/16,0,"1095.00",,,0
+20025236,Dixon,[B-Stock] Dixon PODCSTH422 Cornerstone Hybrid Shellset Custom BWN Wood Hoops / TMS / Bass Drum virgin 22/12/13/16,0,1095,,,0
 10004009,Dixon,"Dixon PDSCL654MA Classic 14x6.5 Snare Marble Apex, Maple Formula Shell",1,"112.50",4718981475132,,0
 20004009,Dixon,"[B-Stock] Dixon PDSCL654MA Classic 14x6.5 Snare Marble Apex, Maple Formula Shell",0,112.5,4718981475132,,0
 10004010,Dixon,"Dixon PDSCL354MA Classic 14x3.5 Snare Marble Apex, Maple Formula Shell",0,"99.00",4718981475149,"2027-04-09 00:00:00",0
@@ -30247,8 +30249,8 @@ John Petrucci Signature Model",0,83.7,,"2027-02-06 00:00:00",0
 20010191,Dixon,[B-Stock] Dixon PA-LR-SP L-Rod 9.5mm,0,6.9,4718981440956,,0
 10011242,Rogers,Rogers No.3917R B&B Lug with Gasket,1,"5.46",471898102525,,0
 20011242,Rogers,[B-Stock] Rogers No.3917R B&B Lug with Gasket,0,5.46,471898102525,,0
-10011244,Rogers,Rogers No.4298R Dyna-Sonic 14'' Bottom Hoop 10/holes,1,"29.50",471898102624,,0
-20011244,Rogers,[B-Stock] Rogers No.4298R Dyna-Sonic 14'' Bottom Hoop 10/holes,0,29.5,471898102624,,0
+10011244,Rogers,Rogers No.4298R Dyna-Sonic 14'' Bottom Hoop 10/holes,0,"29.50",471898102624,"2027-02-08 00:00:00",0
+20011244,Rogers,[B-Stock] Rogers No.4298R Dyna-Sonic 14'' Bottom Hoop 10/holes,0,29.5,471898102624,"2027-02-08 00:00:00",0
 10011256,Rogers,Rogers No.4943 Bow Tie Bass Drum T-Rod 2pcs.,1,"13.00",4718981481447,,0
 20011256,Rogers,[B-Stock] Rogers No.4943 Bow Tie Bass Drum T-Rod 2pcs.,0,13,4718981481447,,0
 10011263,Rogers,Rogers No.9357 Tension rod w/captive washer 1 5/8'' 20pcs,1,"11.00",4718981481645,,0
@@ -30935,8 +30937,8 @@ John Petrucci Signature Model",0,83.7,,"2027-02-06 00:00:00",0
 20012289,Masterwork,[B-Stock] Masterwork Custom 21'' Crash Paper Thin,0,140.06,,,0
 10012342,Masterwork,Masterwork Custom 18'' Crash Paper Thin,1,"104.06",,,0
 20012342,Masterwork,[B-Stock] Masterwork Custom 18'' Crash Paper Thin,0,104.06,,,0
-10013043,Masterwork,Masterwork Troy Traditional 22'' Ride,1,"141.90",4250673500185,,0
-20013043,Masterwork,[B-Stock] Masterwork Troy Traditional 22'' Ride,0,141.9,4250673500185,,0
+10013043,Masterwork,Masterwork Troy Traditional 22'' Ride,0,"141.90",4250673500185,"2027-02-08 00:00:00",0
+20013043,Masterwork,[B-Stock] Masterwork Troy Traditional 22'' Ride,0,141.9,4250673500185,"2027-02-08 00:00:00",0
 10013233,Masterwork,Masterwork Troy Traditional FX Stack 11''/13''/15'',1,"189.00",4250673500239,,0
 20013233,Masterwork,[B-Stock] Masterwork Troy Traditional FX Stack 11''/13''/15'',0,189,4250673500239,,0
 10012742,Masterwork,"Masterwork Troy Traditional 12"" Hi-Hat",1,"103.00",4250673500079,,0
@@ -33765,6 +33767,8 @@ John Petrucci Signature Model",0,83.7,,"2027-02-06 00:00:00",0
 20024722,Gator,[B-Stock] Gator PHMX20x30 Pull Handle for G-MIX20x30,0,13.5,,,0
 10024751,Gator,Gator PH-MX12X24 Retractable Pull Handle,0,"11.75",,,0
 20024751,Gator,[B-Stock] Gator PH-MX12X24 Retractable Pull Handle,0,11.75,,,0
+10025235,Gator,Gator PART-BUCKLE-10001 Set of eight (8) Cable Buckles,0,"2.00",,,0
+20025235,Gator,[B-Stock] Gator PART-BUCKLE-10001 Set of eight (8) Cable Buckles,0,2,,,0
 10007057,Sonstige,Sonstige TestTestTestTestTestTestTestTestTestTestTestTest 4Sellers,0,"63.75",,,0
 20007057,Sonstige,[B-Stock] Sonstige TestTestTestTestTestTestTestTestTestTestTestTest 4Sellers,0,63.75,,,0
 10024396,Sonstige,Sonstige Testartikel inkl. Lagerführung Testartikel inkl. Lagerführung,0,"89.00",133122133133,,0

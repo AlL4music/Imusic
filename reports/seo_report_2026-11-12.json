@@ -1,0 +1,207 @@
+{
+  "timestamp": "2026-11-12T15:47:00.481941Z",
+  "site_url": "https://new.all4music.sk",
+  "pages": [
+    {
+      "url": "https://new.all4music.sk/",
+      "status": 200,
+      "checks": {
+        "meta_tags": {
+          "title": "All4Music.sk | Guitars, Basses & Musical Instruments",
+          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "canonical": "https://new.all4music.sk/",
+          "html_lang": "en",
+          "has_viewport": true,
+          "og_title": null,
+          "og_description": null,
+          "og_image": null
+        },
+        "hreflang": {
+          "hreflang_tags": []
+        },
+        "headings": {
+          "h1_count": 1,
+          "h1_texts": [
+            "Guitars, basses & drums.Shipped worldwide."
+          ],
+          "h2_count": 8
+        },
+        "images": {
+          "total_images": 108,
+          "missing_alt_count": 80
+        },
+        "structured_data": {
+          "json_ld_count": 0,
+          "json_ld_types": []
+        },
+        "page_speed": {
+          "total_scripts": 10,
+          "async_defer_scripts": 0,
+          "page_size_kb": 90.8,
+          "is_https": true
+        }
+      },
+      "issues": [
+        {
+          "severity": "info",
+          "msg": "Missing og:title (Open Graph for social sharing)"
+        },
+        {
+          "severity": "info",
+          "msg": "Missing og:image (Open Graph image for social sharing)"
+        },
+        {
+          "severity": "error",
+          "msg": "No hreflang tags found. Google cannot distinguish SK/EN versions. Add <link rel=\"alternate\" hreflang=\"sk\" href=\"...\"> and hreflang=\"en\" for each page."
+        },
+        {
+          "severity": "warning",
+          "msg": "80 of 108 images missing alt text"
+        },
+        {
+          "severity": "warning",
+          "msg": "No structured data (JSON-LD) found. Add Organization, Product, or BreadcrumbList schema for better Google results."
+        },
+        {
+          "severity": "warning",
+          "msg": "10 render-blocking scripts found. Consider adding async/defer."
+        }
+      ]
+    },
+    {
+      "url": "https://new.all4music.sk/index.php?route=common/home",
+      "status": 200,
+      "checks": {
+        "meta_tags": {
+          "title": "All4Music.sk | Guitars, Basses & Musical Instruments",
+          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "canonical": "https://new.all4music.sk/",
+          "html_lang": "en",
+          "has_viewport": true,
+          "og_title": null,
+          "og_description": null,
+          "og_image": null
+        },
+        "hreflang": {
+          "hreflang_tags": []
+        },
+        "headings": {
+          "h1_count": 1,
+          "h1_texts": [
+            "Guitars, basses & drums.Shipped worldwide."
+          ],
+          "h2_count": 8
+        },
+        "images": {
+          "total_images": 108,
+          "missing_alt_count": 80
+        },
+        "structured_data": {
+          "json_ld_count": 0,
+          "json_ld_types": []
+        },
+        "page_speed": {
+          "total_scripts": 10,
+          "async_defer_scripts": 0,
+          "page_size_kb": 90.8,
+          "is_https": true
+        }
+      },
+      "issues": [
+        {
+          "severity": "info",
+          "msg": "Missing og:title (Open Graph for social sharing)"
+        },
+        {
+          "severity": "info",
+          "msg": "Missing og:image (Open Graph image for social sharing)"
+        },
+        {
+          "severity": "error",
+          "msg": "No hreflang tags found. Google cannot distinguish SK/EN versions. Add <link rel=\"alternate\" hreflang=\"sk\" href=\"...\"> and hreflang=\"en\" for each page."
+        },
+        {
+          "severity": "warning",
+          "msg": "80 of 108 images missing alt text"
+        },
+        {
+          "severity": "warning",
+          "msg": "No structured data (JSON-LD) found. Add Organization, Product, or BreadcrumbList schema for better Google results."
+        },
+        {
+          "severity": "warning",
+          "msg": "10 render-blocking scripts found. Consider adding async/defer."
+        }
+      ]
+    },
+    {
+      "url": "https://new.all4music.sk/index.php?route=product/category",
+      "status": "error",
+      "issues": [
+        {
+          "severity": "error",
+          "msg": "Could not fetch page (status: connection error)"
+        }
+      ]
+    }
+  ],
+  "global_checks": {
+    "robots_txt": {
+      "info": {
+        "exists": true,
+        "content": "User-agent: *\nDisallow: /\n",
+        "has_sitemap": false
+      },
+      "issues": [
+        {
+          "severity": "warning",
+          "msg": "robots.txt does not reference a Sitemap"
+        },
+        {
+          "severity": "error",
+          "msg": "robots.txt is blocking all crawlers with \"Disallow: /\""
+        },
+        {
+          "severity": "info",
+          "msg": "Consider adding \"Allow: /\" to explicitly allow crawling of non-blocked paths"
+        }
+      ]
+    },
+    "sitemap": {
+      "info": {
+        "url": null
+      },
+      "issues": [
+        {
+          "severity": "error",
+          "msg": "No sitemap.xml found"
+        }
+      ]
+    },
+    "language_separation": {
+      "info": {
+        "language_versions": {
+          "sk": {
+            "url": "https://new.all4music.sk/index.php?route=common/home&language=en-gb",
+            "pattern": "query_param",
+            "html_lang": "en",
+            "title": "All4Music.sk | Guitars, Basses & Musical Instruments"
+          }
+        }
+      },
+      "issues": [
+        {
+          "severity": "warning",
+          "msg": "Only one language version detected. Could not find the other language."
+        }
+      ]
+    }
+  },
+  "summary": {
+    "errors": 5,
+    "warnings": 8,
+    "info": 5,
+    "passed": 0,
+    "total_checks": 18
+  }
+}

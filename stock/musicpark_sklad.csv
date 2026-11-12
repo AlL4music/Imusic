@@ -57,7 +57,7 @@ KRPA50;KORG Pa50;0;https://www.music-park.sk/produkt/aranzery/122/pa50
 KRPA500;KORG PA500;0;https://www.music-park.sk/produkt/aranzery/123/pa500
 KRPA50SD;KORG Pa50SD;0;https://www.music-park.sk/produkt/aranzery/124/pa50sd
 KRPA588;KORG PA588;0;https://www.music-park.sk/produkt/aranzery/125/pa588
-KRPA600;KORG Pa600;1;https://www.music-park.sk/produkt/aranzery/127/pa600
+KRPA600;KORG Pa600;0;https://www.music-park.sk/produkt/aranzery/127/pa600
 KRPA700;KORG Pa700;0;https://www.music-park.sk/produkt/aranzery/128/pa700
 KRPA700OR;KORG Pa700 Oriental;0;https://www.music-park.sk/produkt/aranzery/129/pa700-oriental
 KRPA800;KORG PA800;0;https://www.music-park.sk/produkt/aranzery/131/pa800
@@ -201,7 +201,7 @@ KRB1SPBK;KORG B1SP-BK;0;https://www.music-park.sk/produkt/digitalni-piana/402/b1
 KRB1SPWH;KORG B1SP-WH;0;https://www.music-park.sk/produkt/digitalni-piana/403/b1sp-wh
 KRB1WH;KORG B1-WH;0;https://www.music-park.sk/produkt/digitalni-piana/404/b1-wh
 KRC1AIRBK;KORG C1 Air BK;5;https://www.music-park.sk/produkt/digitalni-piana/405/c1-air-bk
-KRC1AIRBR;KORG C1 Air BR;5;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
+KRC1AIRBR;KORG C1 Air BR;3;https://www.music-park.sk/produkt/digitalni-piana/406/c1-air-br
 KRC1AIRWH;KORG C1 Air WH;0;https://www.music-park.sk/produkt/digitalni-piana/407/c1-air-wh
 KRHAVIAN30;KORG Havian 30;0;https://www.music-park.sk/produkt/digitalni-piana/418/havian-30
 KRLP180BK;KORG LP-180 BK;0;https://www.music-park.sk/produkt/digitalni-piana/419/lp-180-bk
@@ -713,9 +713,9 @@ PHPAA3X;Phonic PAA3X;0;https://www.music-park.sk/produkt/testovaci-nastroje/1961
 PHPAA6;Phonic PAA6;0;https://www.music-park.sk/produkt/testovaci-nastroje/1962/paa6
 PHER12GE;Phonic ER-12GE;4;https://www.music-park.sk/produkt/prislusenstvi-pro-mixpulty/1963/er-12ge
 PHER14GE;Phonic ER-14GE;3;https://www.music-park.sk/produkt/prislusenstvi-pro-mixpulty/1964/er-14ge
-KRG1BAIRBK;KORG G1B Air BK;4;https://www.music-park.sk/produkt/digitalni-piana/1965/g1b-air-bk
+KRG1BAIRBK;KORG G1B Air BK;3;https://www.music-park.sk/produkt/digitalni-piana/1965/g1b-air-bk
 KRG1BAIRBR;KORG G1B Air BR;4;https://www.music-park.sk/produkt/digitalni-piana/1966/g1b-air-br
-KRG1BAIRWH;KORG G1B Air WH;5;https://www.music-park.sk/produkt/digitalni-piana/1967/g1b-air-wh
+KRG1BAIRWH;KORG G1B Air WH;4;https://www.music-park.sk/produkt/digitalni-piana/1967/g1b-air-wh
 VXCAMBRIDGE50;VOX Cambridge50;0;https://www.music-park.sk/produkt/kytarova-komba/1968/cambridge50
 KRTUVPT1;KORG VPT-1;20;https://www.music-park.sk/produkt/chromaticke-ladicky/1969/vpt-1
 VXTUVXT1;VOX VXT-1;10;https://www.music-park.sk/produkt/chromaticke-ladicky/1970/vxt-1
@@ -1756,7 +1756,7 @@ DR1NRB40;DR Strings Neon Red NRB-40;5;https://www.music-park.sk/produkt/potazene
 DR1NRB45;DR Strings Neon Red NRB-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2779/neon-red-nrb-45
 DR1NRB540;DR Strings Neon Red NRB5-40;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2780/neon-red-nrb5-40
 DR1NRB545;DR Strings Neon Red NRB5-45;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2781/neon-red-nrb5-45
-DR3UMCSC;DR Strings Multi Color UMCSC;20;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/2782/multi-color-umcsc
+DR3UMCSC;DR Strings Multi Color UMCSC;15;https://www.music-park.sk/produkt/struny-na-mandolinu-bajnjo-a-ukulele/2782/multi-color-umcsc
 DR1DSB40;DR Strings Dragon Skin DSB-40;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/2783/dragon-skin-dsb-40
 DR1EH50;DR Strings Lo-Rider EH-50;4;https://www.music-park.sk/produkt/struny-na-baskytary/2784/lo-rider-eh-50
 DR1FB5130;DR Strings Fat-Beams FB5-130;5;https://www.music-park.sk/produkt/struny-na-baskytary/2785/fat-beams-fb5-130
@@ -1926,7 +1926,7 @@ AGAG700RD;Aguilar AG 700 Red;0;https://www.music-park.sk/produkt/baskytarove-zes
 AGTH500V2;Aguilar Tone Hammer 500 V2;1;https://www.music-park.sk/produkt/baskytarove-zesilovace/3016/tone-hammer-500-v2
 AGTH700V2;Aguilar Tone Hammer 700 V2;1;https://www.music-park.sk/produkt/baskytarove-zesilovace/3017/tone-hammer-700-v2
 AGAG500V2;Aguilar AG 500 V2;10;https://www.music-park.sk/produkt/baskytarove-zesilovace/3018/ag-500-v2
-AGAG700V2;Aguilar AG 700 V2;3;https://www.music-park.sk/produkt/baskytarove-zesilovace/3019/ag-700-v2
+AGAG700V2;Aguilar AG 700 V2;4;https://www.music-park.sk/produkt/baskytarove-zesilovace/3019/ag-700-v2
 DR1BKB50;DR Strings Black Beauties BKB-50;10;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3020/black-beauties-bkb-50
 DR1BKBT50;DR Strings Black Beauties BKBT-50;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3021/black-beauties-bkbt-50
 DR1BKB5130;DR Strings Black Beauties BKB5-130;0;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3022/black-beauties-bkb5-130

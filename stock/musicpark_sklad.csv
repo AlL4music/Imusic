@@ -140,7 +140,7 @@ AGOBP1TK;Aguilar OBP-1TK;5;https://www.music-park.sk/produkt/baskytarove-snimace
 AGOBP2SK;Aguilar OBP-2SK;3;https://www.music-park.sk/produkt/baskytarove-snimace/248/obp-2sk
 AGOBP2TK;Aguilar OBP-2TK;4;https://www.music-park.sk/produkt/baskytarove-snimace/249/obp-2tk
 AGOBP3SK;Aguilar OBP-3SK;4;https://www.music-park.sk/produkt/baskytarove-snimace/250/obp-3sk
-AGOBP3SKPP;Aguilar OBP-3SK/PP;10;https://www.music-park.sk/produkt/baskytarove-snimace/251/obp-3sk-pp
+AGOBP3SKPP;Aguilar OBP-3SK/PP;5;https://www.music-park.sk/produkt/baskytarove-snimace/251/obp-3sk-pp
 AGOBP3TK;Aguilar OBP-3TK;5;https://www.music-park.sk/produkt/baskytarove-snimace/252/obp-3tk
 AGOBP3TKPP;Aguilar OBP-3TK/PP;2;https://www.music-park.sk/produkt/baskytarove-snimace/253/obp-3tk-pp
 AGDB112CB8;Aguilar DB 112 CB;3;https://www.music-park.sk/produkt/baskytarove-reproboxy/262/db-112-cb
@@ -565,7 +565,7 @@ HWT10C;Hiwatt T10 Combo;4;https://www.music-park.sk/produkt/kytarova-komba/1727/
 HWHG412;Hiwatt HG412;0;https://www.music-park.sk/produkt/kytarove-reproboxy/1732/hg412
 HWHGS100H;Hiwatt HGS 100H;1;https://www.music-park.sk/produkt/kytarove-zesilovace/1735/hgs-100h
 HWB60;Hiwatt B60;2;https://www.music-park.sk/produkt/baskytarova-komba/1736/b60
-KRC1AIRWA;KORG C1 Air WA;1;https://www.music-park.sk/produkt/digitalni-piana/1737/c1-air-wa
+KRC1AIRWA;KORG C1 Air WA;0;https://www.music-park.sk/produkt/digitalni-piana/1737/c1-air-wa
 KRKROMEEX61;KORG Krome EX-61;0;https://www.music-park.sk/produkt/workstation/1738/krome-ex-61
 KRKROMEEX73;KORG Krome EX-73;0;https://www.music-park.sk/produkt/workstation/1739/krome-ex-73
 KRKROMEEX88;KORG Krome EX-88;0;https://www.music-park.sk/produkt/workstation/1740/krome-ex-88
@@ -1087,7 +1087,7 @@ KRNANOK2B;KORG nanoKEY2-BK;10;https://www.music-park.sk/produkt/midi-kontrolery/
 KRNANOK2BLYL;KORG NanoKEY2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1161/nanokey2-blyl
 KRNANOK2ORGR;KORG NanoKEY2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1162/nanokey2-orgr
 KRNANOK2W;KORG nanoKEY2-WH;20;https://www.music-park.sk/produkt/midi-kontrolery/1163/nanokey2-wh
-KRNANOKO2B;KORG nanoKONTROL2-BK;10;https://www.music-park.sk/produkt/midi-kontrolery/1164/nanokontrol2-bk
+KRNANOKO2B;KORG nanoKONTROL2-BK;5;https://www.music-park.sk/produkt/midi-kontrolery/1164/nanokontrol2-bk
 KRNANOKO2BLYL;KORG NanoKONTROL2-BLYL;0;https://www.music-park.sk/produkt/midi-kontrolery/1165/nanokontrol2-blyl
 KRNANOKO2ORGR;KORG NanoKONTROL2-ORGR;0;https://www.music-park.sk/produkt/midi-kontrolery/1166/nanokontrol2-orgr
 KRNANOKO2W;KORG nanoKONTROL2-WH;10;https://www.music-park.sk/produkt/midi-kontrolery/1167/nanokontrol2-wh
@@ -1338,16 +1338,16 @@ VXVGHROCK;VOX VGH Rock;0;https://www.music-park.sk/produkt/sluchatka/2198/vgh-ro
 VXVGHBASS;VOX VGH Bass;0;https://www.music-park.sk/produkt/sluchatka/2199/vgh-bass
 VXVGHAC30;VOX VGH AC30;0;https://www.music-park.sk/produkt/sluchatka/2200/vgh-ac30
 KRSTWL;KORG ST-WL;2;https://www.music-park.sk/produkt/klavesove-stojany/2202/st-wl
-VXVMG50;VOX Mini Go 50;1;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
-ASSTUDIOTOUR;Ashdown Studio Tourbus;4;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
-VXVMG10;VOX Mini Go 10;5;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
+VXVMG50;VOX Mini Go 50;0;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
+ASSTUDIOTOUR;Ashdown Studio Tourbus;3;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
+VXVMG10;VOX Mini Go 10;3;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
 VXVMG3;VOX Mini Go 3;5;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
 KRKA430;KORG KA-430;0;https://www.music-park.sk/produkt/napajeci-adaptery/2208/ka-430
 KRMODWAVE;KORG Modwave;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2225/modwave
 KRMINI700FS;KORG MiniKORG 700 FS;0;https://www.music-park.sk/produkt/analogove-syntezatory/2226/minikorg-700-fs
 KRTUGM2;KORG GM-1 2 Set;0;https://www.music-park.sk/produkt/metronomy/2227/gm-1-2-set
 KRTUGM4;KORG GM-1 4 Set;0;https://www.music-park.sk/produkt/metronomy/2228/gm-1-4-set
-VXVFS3;VOX VFS3;4;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/2229/vfs3
+VXVFS3;VOX VFS3;1;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/2229/vfs3
 VXVBCS66BBK;VOX Bobcat S66B BK;1;https://www.music-park.sk/produkt/elektricke-kytary/2230/bobcat-s66b-bk
 QL30.01491;Quik Lok FPC-V-C2;10;https://www.music-park.sk/produkt/propojovaci-kabely/2250/fpc-v-c2
 QL10.00197;Quik Lok SBG-14L;0;https://www.music-park.sk/produkt/kytarove-stojany/2251/sbg-14l
@@ -1810,7 +1810,7 @@ KRMPS10;KORG MPS-10;5;https://www.music-park.sk/produkt/elektronicke-bici/2862/m
 KRMODWAVEMK2;KORG Modwave mk II;5;https://www.music-park.sk/produkt/digitalni-syntezatory/2863/modwave-mk-ii
 EK05130071;EKO S-100 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-kytary/2865/s-100-chrome-red
 EK05130072;EKO S-100 Metallic Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2866/s-100-metallic-blue
-EK05130100;EKO S-350 Sunburst Flamed;3;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
+EK05130100;EKO S-350 Sunburst Flamed;2;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
 EK05130120;EKO S-350 See Thru Blue Quilted;0;https://www.music-park.sk/produkt/elektricke-kytary/2868/s-350-see-thru-blue-quilted
 EK05130210;EKO VT-380 Cream;2;https://www.music-park.sk/produkt/elektricke-kytary/2869/vt-380-cream
 EK05130300;EKO DV-10 Trasparent Red;1;https://www.music-park.sk/produkt/elektricke-kytary/2871/dv-10-trasparent-red
@@ -1833,7 +1833,7 @@ EK05130930;EKO MM-300 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-
 EK06130125;EKO CS-5 White Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2904/cs-5-white-satin
 EK06130126;EKO CS-5 Violet Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2905/cs-5-violet-satin
 EK06130127;EKO CS-5 Pink Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2906/cs-5-pink-satin
-EK05130681;EKO VJB-200V Vintage Sunburst;3;https://www.music-park.sk/produkt/elektricke-baskytary/2907/vjb-200v-vintage-sunburst
+EK05130681;EKO VJB-200V Vintage Sunburst;1;https://www.music-park.sk/produkt/elektricke-baskytary/2907/vjb-200v-vintage-sunburst
 EK06130124;EKO CS-5 Natural Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2908/cs-5-natural-satin
 EK05130822;EKO VPJ-280V Vintage White;3;https://www.music-park.sk/produkt/elektricke-baskytary/2910/vpj-280v-vintage-white
 EK06217119;EKO Ranger XII VR Natural Top Stained;0;https://www.music-park.sk/produkt/akusticke-kytary/2911/ranger-xii-vr-natural-top-stained

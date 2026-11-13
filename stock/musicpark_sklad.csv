@@ -1,7 +1,6 @@
 ﻿SKU;Nazov;Pocet_ks;URL
 VXMK3B-SB;VOX Mark III Bass SB;0;https://www.music-park.sk/produkt/elektricke-baskytary/9/mark-iii-bass-sb
 VXVBWTS;VOX VBW2000TS;0;https://www.music-park.sk/produkt/elektricke-baskytary/17/vbw2000ts
-KR200422030101;KORG Nautilus AT-61 Upgrade kit;0;https://www.music-park.sk/produkt/workstation/24/nautilus-at-61-upgrade-kit
 KR200422160101;KORG Nautilus AT-88 Upgrade kit;3;https://www.music-park.sk/produkt/workstation/25/nautilus-at-88-upgrade-kit
 KRPA4X61O;KORG Pa4X Oriental 61;0;https://www.music-park.sk/produkt/aranzery/50/pa4x-oriental-61
 VXSTCONTINENT;VOX ST-Continental;0;https://www.music-park.sk/produkt/klavesove-stojany/51/st-continental
@@ -141,7 +140,7 @@ AGOBP1TK;Aguilar OBP-1TK;5;https://www.music-park.sk/produkt/baskytarove-snimace
 AGOBP2SK;Aguilar OBP-2SK;3;https://www.music-park.sk/produkt/baskytarove-snimace/248/obp-2sk
 AGOBP2TK;Aguilar OBP-2TK;4;https://www.music-park.sk/produkt/baskytarove-snimace/249/obp-2tk
 AGOBP3SK;Aguilar OBP-3SK;4;https://www.music-park.sk/produkt/baskytarove-snimace/250/obp-3sk
-AGOBP3SKPP;Aguilar OBP-3SK/PP;5;https://www.music-park.sk/produkt/baskytarove-snimace/251/obp-3sk-pp
+AGOBP3SKPP;Aguilar OBP-3SK/PP;10;https://www.music-park.sk/produkt/baskytarove-snimace/251/obp-3sk-pp
 AGOBP3TK;Aguilar OBP-3TK;5;https://www.music-park.sk/produkt/baskytarove-snimace/252/obp-3tk
 AGOBP3TKPP;Aguilar OBP-3TK/PP;2;https://www.music-park.sk/produkt/baskytarove-snimace/253/obp-3tk-pp
 AGDB112CB8;Aguilar DB 112 CB;3;https://www.music-park.sk/produkt/baskytarove-reproboxy/262/db-112-cb
@@ -1339,16 +1338,16 @@ VXVGHROCK;VOX VGH Rock;0;https://www.music-park.sk/produkt/sluchatka/2198/vgh-ro
 VXVGHBASS;VOX VGH Bass;0;https://www.music-park.sk/produkt/sluchatka/2199/vgh-bass
 VXVGHAC30;VOX VGH AC30;0;https://www.music-park.sk/produkt/sluchatka/2200/vgh-ac30
 KRSTWL;KORG ST-WL;2;https://www.music-park.sk/produkt/klavesove-stojany/2202/st-wl
-VXVMG50;VOX Mini Go 50;0;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
-ASSTUDIOTOUR;Ashdown Studio Tourbus;3;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
-VXVMG10;VOX Mini Go 10;4;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
+VXVMG50;VOX Mini Go 50;1;https://www.music-park.sk/produkt/kytarova-komba/2204/mini-go-50
+ASSTUDIOTOUR;Ashdown Studio Tourbus;4;https://www.music-park.sk/produkt/baskytarova-komba/2205/studio-tourbus
+VXVMG10;VOX Mini Go 10;5;https://www.music-park.sk/produkt/kytarova-komba/2206/mini-go-10
 VXVMG3;VOX Mini Go 3;5;https://www.music-park.sk/produkt/kytarova-komba/2207/mini-go-3
 KRKA430;KORG KA-430;0;https://www.music-park.sk/produkt/napajeci-adaptery/2208/ka-430
 KRMODWAVE;KORG Modwave;0;https://www.music-park.sk/produkt/digitalni-syntezatory/2225/modwave
 KRMINI700FS;KORG MiniKORG 700 FS;0;https://www.music-park.sk/produkt/analogove-syntezatory/2226/minikorg-700-fs
 KRTUGM2;KORG GM-1 2 Set;0;https://www.music-park.sk/produkt/metronomy/2227/gm-1-2-set
 KRTUGM4;KORG GM-1 4 Set;0;https://www.music-park.sk/produkt/metronomy/2228/gm-1-4-set
-VXVFS3;VOX VFS3;3;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/2229/vfs3
+VXVFS3;VOX VFS3;4;https://www.music-park.sk/produkt/nozni-prepinace-a-ovladace/2229/vfs3
 VXVBCS66BBK;VOX Bobcat S66B BK;1;https://www.music-park.sk/produkt/elektricke-kytary/2230/bobcat-s66b-bk
 QL30.01491;Quik Lok FPC-V-C2;10;https://www.music-park.sk/produkt/propojovaci-kabely/2250/fpc-v-c2
 QL10.00197;Quik Lok SBG-14L;0;https://www.music-park.sk/produkt/kytarove-stojany/2251/sbg-14l
@@ -1412,7 +1411,7 @@ KRLIANOWH;KORG Liano Pearl White;0;https://www.music-park.sk/produkt/digitalni-p
 KRPA5X61;KORG Pa5X-61;10;https://www.music-park.sk/produkt/aranzery/2373/pa5x-61
 KRPA5X76;KORG Pa5X-76;5;https://www.music-park.sk/produkt/aranzery/2374/pa5x-76
 KRPA5X88;KORG Pa5X-88;4;https://www.music-park.sk/produkt/aranzery/2375/pa5x-88
-GLTI-ACL-115R01M86;G&L Tribute ASAT Classic Gloss Black, MP;1;https://www.music-park.sk/produkt/elektricke-kytary/2376/tribute-asat-classic-gloss-black-mp
+GLTI-ACL-115R01M86;G&L Tribute ASAT Classic Gloss Black, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/2376/tribute-asat-classic-gloss-black-mp
 GLTI-ACL-120R39M56;G&L Tribute ASAT Classic Butterscotch Blonde, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2377/tribute-asat-classic-butterscotch-blonde-mp
 GLTI-ACB-115R03R46;G&L Tribute ASAT Classic Bluesboy Candy Apple Red, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/2378/tribute-asat-classic-bluesboy-candy-apple-red-rw
 GLTI-ACB-S71R46M76;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Clear Orange, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2379/tribute-asat-classic-bluesboy-semi-hollow-clear-orange-mp
@@ -1423,7 +1422,7 @@ GLTI-ACB-S71L20M46;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Lefty 3-Tone Su
 GLTI-ACB-140R04R46;G&L Tribute ASAT Classic Bluesboy Lake Placid Blue, RW;4;https://www.music-park.sk/produkt/elektricke-kytary/2384/tribute-asat-classic-bluesboy-lake-placid-blue-rw
 GLTI-ACB-S61R20M36;G&L Tribute ASAT Classic Bluesboy Semi-Hollow 3-Tone Sunburst, MP;2;https://www.music-park.sk/produkt/elektricke-kytary/2385/tribute-asat-classic-bluesboy-semi-hollow-3-tone-sunburst-mp
 GLTI-ACB-S61R23R36;G&L Tribute ASAT Classic Bluesboy Semi-Hollow Red Burst, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/2386/tribute-asat-classic-bluesboy-semi-hollow-red-burst-rw
-GLTI-ASTD-C38R21R0;G&L Tribute ASAT Deluxe Carved Top Bright Blueburst, RW;2;https://www.music-park.sk/produkt/elektricke-kytary/2387/tribute-asat-deluxe-carved-top-bright-blueburst-rw
+GLTI-ASTD-C38R21R0;G&L Tribute ASAT Deluxe Carved Top Bright Blueburst, RW;3;https://www.music-park.sk/produkt/elektricke-kytary/2387/tribute-asat-deluxe-carved-top-bright-blueburst-rw
 GLTI-ASTD-C38R43R0;G&L Tribute ASAT Deluxe Carved Top Trans Black, RW;0;https://www.music-park.sk/produkt/elektricke-kytary/2388/tribute-asat-deluxe-carved-top-trans-black-rw
 GLTI-ASP-115R01M46;G&L Tribute ASAT Special Gloss Black, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2389/tribute-asat-special-gloss-black-mp
 GLTI-ASP-115R51M16;G&L Tribute ASAT Special Surf Green, MP;0;https://www.music-park.sk/produkt/elektricke-kytary/2390/tribute-asat-special-surf-green-mp
@@ -1540,7 +1539,7 @@ EK06216940;EKO Ranger VI VR Honey Burst;0;https://www.music-park.sk/produkt/akus
 EK06217128;EKO Ranger VI VR EQ Natural Top Stained;3;https://www.music-park.sk/produkt/akusticke-kytary/2559/ranger-vi-vr-eq-natural-top-stained
 EK06216942;EKO Ranger VI VR EQ Honey Burst;5;https://www.music-park.sk/produkt/akusticke-kytary/2560/ranger-vi-vr-eq-honey-burst
 EK06217203;EKO One D Natural;0;https://www.music-park.sk/produkt/akusticke-kytary/2561/one-d-natural
-EK06217204;EKO One D Vintage Burst;0;https://www.music-park.sk/produkt/akusticke-kytary/2562/one-d-vintage-burst
+EK06217204;EKO One D Vintage Burst;1;https://www.music-park.sk/produkt/akusticke-kytary/2562/one-d-vintage-burst
 EK06217250;EKO One D EQ Natural;1;https://www.music-park.sk/produkt/akusticke-kytary/2563/one-d-eq-natural
 EK06217207;EKO One D CW EQ Natural;2;https://www.music-park.sk/produkt/akusticke-kytary/2565/one-d-cw-eq-natural
 EK06217208;EKO One D CW EQ Vintage Burst;5;https://www.music-park.sk/produkt/akusticke-kytary/2566/one-d-cw-eq-vintage-burst
@@ -1811,7 +1810,7 @@ KRMPS10;KORG MPS-10;5;https://www.music-park.sk/produkt/elektronicke-bici/2862/m
 KRMODWAVEMK2;KORG Modwave mk II;5;https://www.music-park.sk/produkt/digitalni-syntezatory/2863/modwave-mk-ii
 EK05130071;EKO S-100 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-kytary/2865/s-100-chrome-red
 EK05130072;EKO S-100 Metallic Blue;1;https://www.music-park.sk/produkt/elektricke-kytary/2866/s-100-metallic-blue
-EK05130100;EKO S-350 Sunburst Flamed;2;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
+EK05130100;EKO S-350 Sunburst Flamed;3;https://www.music-park.sk/produkt/elektricke-kytary/2867/s-350-sunburst-flamed
 EK05130120;EKO S-350 See Thru Blue Quilted;0;https://www.music-park.sk/produkt/elektricke-kytary/2868/s-350-see-thru-blue-quilted
 EK05130210;EKO VT-380 Cream;2;https://www.music-park.sk/produkt/elektricke-kytary/2869/vt-380-cream
 EK05130300;EKO DV-10 Trasparent Red;1;https://www.music-park.sk/produkt/elektricke-kytary/2871/dv-10-trasparent-red
@@ -1824,7 +1823,7 @@ EK05100306;EKO S-300V Olympic White;5;https://www.music-park.sk/produkt/elektric
 EK05130461;EKO S-300V Maple Sunburst;0;https://www.music-park.sk/produkt/elektricke-kytary/2881/s-300v-maple-sunburst
 EK06130130;EKO CS-10 White Satin;4;https://www.music-park.sk/produkt/klasicke-kytary/2885/cs-10-white-satin
 EK06130129;EKO CS-10 Violet Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2886/cs-10-violet-satin
-EK06130131;EKO CS-10 Pink Satin;3;https://www.music-park.sk/produkt/klasicke-kytary/2887/cs-10-pink-satin
+EK06130131;EKO CS-10 Pink Satin;4;https://www.music-park.sk/produkt/klasicke-kytary/2887/cs-10-pink-satin
 EK05130720;EKO VPB-100 Black;0;https://www.music-park.sk/produkt/elektricke-baskytary/2889/vpb-100-black
 EK05130710;EKO VPB-100 Sunburst;0;https://www.music-park.sk/produkt/elektricke-baskytary/2890/vpb-100-sunburst
 EK05130920;EKO MM-300 Black;3;https://www.music-park.sk/produkt/elektricke-baskytary/2900/mm-300-black
@@ -1834,7 +1833,7 @@ EK05130930;EKO MM-300 Chrome Red;3;https://www.music-park.sk/produkt/elektricke-
 EK06130125;EKO CS-5 White Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2904/cs-5-white-satin
 EK06130126;EKO CS-5 Violet Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2905/cs-5-violet-satin
 EK06130127;EKO CS-5 Pink Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2906/cs-5-pink-satin
-EK05130681;EKO VJB-200V Vintage Sunburst;1;https://www.music-park.sk/produkt/elektricke-baskytary/2907/vjb-200v-vintage-sunburst
+EK05130681;EKO VJB-200V Vintage Sunburst;3;https://www.music-park.sk/produkt/elektricke-baskytary/2907/vjb-200v-vintage-sunburst
 EK06130124;EKO CS-5 Natural Satin;5;https://www.music-park.sk/produkt/klasicke-kytary/2908/cs-5-natural-satin
 EK05130822;EKO VPJ-280V Vintage White;3;https://www.music-park.sk/produkt/elektricke-baskytary/2910/vpj-280v-vintage-white
 EK06217119;EKO Ranger XII VR Natural Top Stained;0;https://www.music-park.sk/produkt/akusticke-kytary/2911/ranger-xii-vr-natural-top-stained
@@ -2337,11 +2336,11 @@ DXCOVER88BL;Dexibell DX Cover 88 BL;3;https://www.music-park.sk/produkt/obaly-na
 QL99.00029;Quik Lok HP-10;5;https://www.music-park.sk/produkt/sluchatka/3542/hp-10
 EK05134005;EKO ST-300 Black;0;https://www.music-park.sk/produkt/elektricke-kytary/3550/st-300-black
 EK05134006;EKO ST 300-Sunburst;0;https://www.music-park.sk/produkt/elektricke-kytary/3551/st-300-sunburst
-EK05134007;EKO ST-300 Cream;4;https://www.music-park.sk/produkt/elektricke-kytary/3552/st-300-cream
-EK05134009;EKO ST-300 Daphne Blue;3;https://www.music-park.sk/produkt/elektricke-kytary/3553/st-300-daphne-blue
-EK05134010;EKO ST-300 Olymphic White;4;https://www.music-park.sk/produkt/elektricke-kytary/3554/st-300-olymphic-white
-EK05134022;EKO LS-300 Black;4;https://www.music-park.sk/produkt/elektricke-kytary/3555/ls-300-black
+EK05134007;EKO ST-300 Cream;5;https://www.music-park.sk/produkt/elektricke-kytary/3552/st-300-cream
+EK05134009;EKO ST-300 Daphne Blue;4;https://www.music-park.sk/produkt/elektricke-kytary/3553/st-300-daphne-blue
+EK05134010;EKO ST-300 Olymphic White;5;https://www.music-park.sk/produkt/elektricke-kytary/3554/st-300-olymphic-white
+EK05134022;EKO LS-300 Black;5;https://www.music-park.sk/produkt/elektricke-kytary/3555/ls-300-black
 EK05134023;EKO LS-300 Gold;3;https://www.music-park.sk/produkt/elektricke-kytary/3556/ls-300-gold
 EK05134024;EKO LS-300 Honey Burst;0;https://www.music-park.sk/produkt/elektricke-kytary/3557/ls-300-honey-burst
-EK05134025;EKO LS-300 Cherry Sunburst;3;https://www.music-park.sk/produkt/elektricke-kytary/3558/ls-300-cherry-sunburst
+EK05134025;EKO LS-300 Cherry Sunburst;4;https://www.music-park.sk/produkt/elektricke-kytary/3558/ls-300-cherry-sunburst
 EK05134051;EKO LS-300 Blue Quilted;4;https://www.music-park.sk/produkt/elektricke-kytary/3559/ls-300-blue-quilted

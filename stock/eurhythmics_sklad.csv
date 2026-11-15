@@ -1735,7 +1735,7 @@ DS550BB;Hercules brass instrument stand, for horn (French horn) + case;3;;EUR;0
 DS551B;Hercules instrument stand, for sousaphone;0;;EUR;0
 DS552B;Hercules instrument stand tuba, for baritone horn;2;;EUR;0
 DS553B;Hercules instrument stand pad, for tuba and baritone;4;;EUR;0
-DS561B;Hercules stand, bass clarinet and bassoon holder;3;;EUR;0
+DS561B;Hercules stand, bass clarinet and bassoon holder;2;;EUR;0
 DS571BB;Hercules violin/viola stand, with case;9;;EUR;0
 DS580B;Hercules cello stand, secure support, adjustable height;8;;EUR;0
 DS590B;Hercules double bass stand, sturdy and adjustable;6;;EUR;0
@@ -2739,7 +2739,7 @@ GS200B;Hercules guitar stand, for acoustic and electric guitar;5;;EUR;0
 GS301B;Hercules guitar stand, acoustic;11;;EUR;0
 GS302B;Hercules guitar stand, electric;16;;EUR;0
 GS303B;"Hercules stand, ""TravLite"" series, for acoustic folk instruments";6;;EUR;0
-GS402BB;Hercules guitar stand, small, for electric guitar + case;7;;EUR;0
+GS402BB;Hercules guitar stand, small, for electric guitar + case;6;;EUR;0
 GS405B;Hercules guitar stand, shockproof;17;;EUR;0
 GS412B PLUS;Hercules guitar stand, with neck support and AGS holder;11;;EUR;0
 GS414B PLUS;Hercules guitar stand, modified Auto Grip System;0;;EUR;0
@@ -4857,7 +4857,7 @@ KT-CC300;Klotz MiniLink Pro stereo twin cable, gold-plated metal RCA plugs - 3m;
 KT-CC600;Klotz stereo twin cable, MiniLink Pro gold-plated metal RCA plugs - 6m;0;;EUR;0
 KT-CJ090;Klotz stereo twin cable, MiniLink Pro gold-plated RCA and jack plugs - 0.9m;0;;EUR;0
 KT-CJ150;Klotz MiniLink Pro stereo twin cable, gold-plated metal RCA and jack connectors - 1.5m;1;;EUR;0
-KT-CJ300;Klotz MiniLink Pro stereo twin cable, gold-plated metal RCA and jack connectors - 3m;3;;EUR;0
+KT-CJ300;Klotz MiniLink Pro stereo twin cable, gold-plated metal RCA and jack connectors - 3m;0;;EUR;0
 KT-CJ600;Klotz MiniLink Pro stereo twin cable, gold-plated metal RCA and jack plugs - 6m;0;;EUR;0
 KT-JJ090;Klotz MiniLink Pro stereo twin cable, gold-plated jack plugs - 0.9m;0;;EUR;0
 KT-JJ150;Klotz stereo twin cable, gold-plated jack plugs - 1.5m;4;;EUR;0
@@ -4868,7 +4868,7 @@ KY1-150;Klotz cable, MiniLink Pro TRS 6.35 mm - 2x TS 6.35 mm Y-cable - insert -
 KY1-300;Klotz MiniLink Pro TRS 6.35 mm - 2x TS 6.35 mm Y cable - insert - 3m;4;;EUR;0
 KY1-600;Klotz cable, MiniLink Pro TRS 6.35 mm - 2x TS 6.35 mm Y-cable - insert - 6m;0;;EUR;0
 KY5-090;Klotz cable, MiniLink Pro TRS 3.5 mm - 2x TS 6.35 mm Y-cable - 0.9m;0;;EUR;0
-KY5-150;Klotz Y-cable, MiniLink Pro TRS 3.5 mm to 2x TS 6.35 mm - 1.5m;3;;EUR;0
+KY5-150;Klotz Y-cable, MiniLink Pro TRS 3.5 mm to 2x TS 6.35 mm - 1.5m;2;;EUR;0
 KY5-300;Klotz cable, MiniLink Pro TRS 3.5mm to 2x TS 6.35mm Y-cable - 3m;3;;EUR;0
 KY5-600;Klotz Y-cable MiniLink Pro TRS 3.5 mm - 2x TS 6.35 mm, 6m;0;;EUR;0
 KY7-090;Klotz cable, MiniLink Pro TRS 3.5 mm - 2x RCA Y-cable - 0.9m;0;;EUR;0
@@ -7656,7 +7656,7 @@ PYB5N;Klotz XLR 3p female - 2x XLR 3p male / Neutrik Y adapter - mono - 0.2m;0;;
 QC2.4;Axiom two-channel power amplifier, 8ohm, 1000W, built-in DSP;0;;EUR;0
 QC4.2;Axiom amplifier, 2U 4CH DSP 4x500W;0;;EUR;0
 QC4.4;Axiom four-channel amplifier, 8 ohm 500w built-in DSP;1;;EUR;0
-R10;Rotosound nickel electric guitar string set, regular, 10 13 17 26 36 46;36;;EUR;0
+R10;Rotosound nickel electric guitar string set, regular, 10 13 17 26 36 46;33;;EUR;0
 R10-2;Rotosound electric guitar string set, nickel, 10 double decker;0;;EUR;0
 R10-31;Rotosound electric guitar string set, nickel, 10 13 17 26 36 46, 3-pack with extra guitar strap;0;;EUR;0
 R10-7;Rotosound electric guitar string set, nickel, 7-string, regular, 10 13 17 26 36 46 56;13;;EUR;0
@@ -8186,7 +8186,7 @@ RS66LB;Rotosound bass guitar string set, stainless steel, 35 55 70 90;0;;EUR;0
 RS66LC;Rotosound bass guitar string set, stainless steel, 40 60 75 95;6;;EUR;0
 RS66LD;Rotosound bass guitar string set, stainless steel, 45 65 80 105;8;;EUR;0
 RS66LDN;Rotosound bass guitar string set, nickel, 45 65 85 105;7;;EUR;0
-RS66LE;Rotosound bass guitar string set, stainless steel, 50 70 85 110;4;;EUR;0
+RS66LE;Rotosound bass guitar string set, stainless steel, 50 70 85 110;3;;EUR;0
 RS66LF;Rotosound bass guitar strings, stainless steel, 45 65 85 105;9;;EUR;0
 RS66LH;Rotosound bass guitar string set, stainless steel, 65 80 105 130 – DROP ZONE;3;;EUR;0
 RS66LH+;Rotosound bass guitar string set, stainless steel, 85 105 135 175;5;;EUR;0
@@ -11393,7 +11393,7 @@ RB 20618 B/PLUS;RockBag FV-Style Electric Guitar Gig Bag, RokTex fabric, 30mm pa
 RB 20619 B/PLUS;RockBag Jazz Guitar Gig Bag, water-resistant RokTex®, Guitar-Saving-System™;2;;USD;0
 RB 20620 B/PLUS;RockBag XP-Style Electric Guitar Gig Bag, water-resistant RokTex, padded, black;6;;USD;0
 RB 20621 B/PLUS;RockBag Electric Guitar/Bass Gig Bag, RokTex® Fabric, 30mm Padding, Black;3;;USD;0
-RB 20623 B/PLUS;RockBag Electric Guitar Gig Bag, fits B.C. Rich models, water-resistant, padded;1;;USD;0
+RB 20623 B/PLUS;RockBag Electric Guitar Gig Bag, fits B.C. Rich models, water-resistant, padded;0;;USD;0
 RB 21412 B;RockBag Keyboard Bag, 61 Keys, Water-resistant RokTex, Black, 1 Large Pocket;31;;USD;0
 RB 21414 B;RockBag Keyboard Bag, 61 Keys, Water-resistant RokTex®, Black, Cushioned Handle;35;;USD;0
 RB 21415 B;RockBag Keyboard Bag, 76 keys, water-resistant RokTex®, cushioned handle;22;;USD;0

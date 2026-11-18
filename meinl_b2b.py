@@ -4,64 +4,60 @@ Meinl B2B stock (b2b.meinl.de) -> stock/{Meinl,Tama,Ibanez,Ortega,Nino}.csv
 Prihlasovacie udaje sa citaju z prostredia (MEINL_B2B_USER / MEINL_B2B_PASS),
 nikdy nie su v repozitari.
 
+Portal je ASP.NET aplikacia s nahodnymi nazvami poli vo formulari, preto sa
+pouziva skutocny prehliadac (Playwright) a polia sa hladaju podla toho, co je
+na stranke viditelne.
+
 Rezimy:
-  python meinl_b2b.py --discover   # len zisti, ako vyzera verejna prihlasovacia stranka
+  python meinl_b2b.py --discover   # len popise VEREJNU prihlasovaciu stranku
 """
 
 import argparse
 import sys
-from urllib.parse import urljoin
 
-import requests
-from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://b2b.meinl.de/"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "en,de;q=0.9,sk;q=0.8",
-}
+
+DESCRIBE_INPUTS_JS = """
+() => Array.from(document.querySelectorAll('form input, form button, form select')).map(el => {
+  const r = el.getBoundingClientRect();
+  const cs = getComputedStyle(el);
+  const lab = el.labels && el.labels.length ? el.labels[0].innerText.trim() : null;
+  return {
+    tag: el.tagName.toLowerCase(),
+    type: el.type || null,
+    visible: r.width > 0 && r.height > 0 && cs.visibility !== 'hidden' && cs.display !== 'none' && cs.opacity !== '0',
+    box: [Math.round(r.x), Math.round(r.y), Math.round(r.width), Math.round(r.height)],
+    placeholder: el.getAttribute('placeholder'),
+    autocomplete: el.getAttribute('autocomplete'),
+    label: lab,
+    text: (el.innerText || el.value || '').trim().slice(0, 40),
+    cls: el.className || null,
+    tabindex: el.getAttribute('tabindex'),
+  };
+})
+"""
 
 
 def discover() -> int:
-    """Vypise strukturu VEREJNEJ prihlasovacej stranky (ziadne prihlasenie, ziadne data)."""
-    s = requests.Session()
-    s.headers.update(HEADERS)
-    r = s.get(BASE_URL, timeout=30)
-    print(f"status={r.status_code} final_url={r.url}")
-    for h in r.history:
-        print(f"  redirect {h.status_code} -> {h.headers.get('Location')}")
-    for k in ("Server", "X-Powered-By", "Content-Type", "Set-Cookie"):
-        v = r.headers.get(k)
-        if v:
-            # pri cookies staci nazov, nie hodnota
-            if k == "Set-Cookie":
-                v = ", ".join(c.split("=")[0].strip() for c in v.split(","))
-            print(f"header {k}: {v}")
-    soup = BeautifulSoup(r.text, "lxml")
-    print(f"title: {soup.title.string.strip() if soup.title and soup.title.string else None}")
-    gen = soup.find("meta", attrs={"name": "generator"})
-    print(f"generator: {gen.get('content') if gen else None}")
-    print(f"html bytes: {len(r.text)}")
-    for i, f in enumerate(soup.find_all("form")):
-        print(f"form[{i}] method={f.get('method')} action={urljoin(r.url, f.get('action') or '')} id={f.get('id')}")
-        for inp in f.find_all(["input", "select", "button"]):
-            print(f"    {inp.name} name={inp.get('name')} type={inp.get('type')} id={inp.get('id')}")
-    scripts = [urljoin(r.url, sc["src"]) for sc in soup.find_all("script", src=True)]
-    print(f"scripts ({len(scripts)}):")
-    for sc in scripts[:25]:
-        print(f"    {sc}")
-    links = sorted({urljoin(r.url, a["href"]) for a in soup.find_all("a", href=True)})
-    print(f"links ({len(links)}):")
-    for l in links[:40]:
-        print(f"    {l}")
+    """Popise verejnu prihlasovaciu stranku tak, ako ju vidi prehliadac. Ziadne prihlasenie."""
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(locale="en-US")
+        page.goto(BASE_URL, wait_until="networkidle", timeout=60000)
+        print(f"url: {page.url}")
+        print(f"title: {page.title()}")
+        for i, item in enumerate(page.evaluate(DESCRIBE_INPUTS_JS)):
+            print(f"[{i}] {item}")
+        browser.close()
     return 0
 
 
 def main() -> int:
-    p = argparse.ArgumentParser()
-    p.add_argument("--discover", action="store_true")
-    args = p.parse_args()
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--discover", action="store_true")
+    args = ap.parse_args()
     if args.discover:
         return discover()
     print("Zatial je hotovy len rezim --discover.", file=sys.stderr)

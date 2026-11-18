@@ -1,0 +1,23 @@
+name: Meinl B2B stock
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ccr-c9183785-xumo7y]
+    paths:
+      - meinl_b2b.py
+      - .github/workflows/meinl_b2b.yml
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests beautifulsoup4 lxml
+      - name: Discover public login page
+        run: python -u meinl_b2b.py --discover

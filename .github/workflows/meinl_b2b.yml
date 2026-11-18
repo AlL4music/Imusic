@@ -9,7 +9,7 @@ on:
       - .github/workflows/meinl_b2b.yml
 
 jobs:
-  discover:
+  explore:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -19,5 +19,8 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install playwright && python -m playwright install --with-deps chromium
-      - name: Discover public login page
-        run: python -u meinl_b2b.py --discover
+      - name: Log in and list export links (no prices, no data)
+        env:
+          MEINL_B2B_USER: ${{ secrets.MEINL_B2B_USER }}
+          MEINL_B2B_PASS: ${{ secrets.MEINL_B2B_PASS }}
+        run: python -u meinl_b2b.py --explore

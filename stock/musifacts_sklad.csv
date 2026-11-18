@@ -155,8 +155,8 @@ MOD-XLRMF;XLR Module, Male/Female (undefined);1;https://codots.app/availability-
 03-BUF-0001;Buffer (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101010;Chantico (undefined) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101005;Cocomama (undefined) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TKL8710;Concept 2.9 Dreadnought Molded Case (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TKL8710-CSB;Concept 2.9 Dreadnought Molded Case - Slate Blue (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TKL8710;Concept 2.9 Dreadnought Molded Case (undefined);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TKL8710-CSB;Concept 2.9 Dreadnought Molded Case - Slate Blue (undefined);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8720;Concept 2.9 Jumbo 6 / 12 String Molded Case (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8705-CSB;Concept 2.9 OM / 000 Molded Case - Slate Blue (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8705;Concept 2.9 OM / 000 Pro-Form® Molded Case (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -171,7 +171,7 @@ TKL9710-ALX;Concept 3.2 Dreadnought 6/12 String Case - Alumin-X (undefined);1;ht
 03-KOJ-0002;Koji Compressor™, Black (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-BST-0003;Koko Boost Pedal (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-BST-0005;Koko Boost™, Black (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TKL8800/LTD;LTD Arch-Top Classical / 00 Hardshell Case (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TKL8800/LTD;LTD Arch-Top Classical / 00 Hardshell Case (undefined);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8836/LTD;LTD Rectangular Jazz Bass Hardshell Case (undefined);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101001;Mama Cocha (undefined) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101020;Navajo (undefined) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -444,7 +444,7 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (undefined);1;https://codots.
 04-SSV-0013;Pickup. SSV, Humbucker, Bridge 53mm, Raw Nickel (undefined) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0015;Pickup. SSV, Humbucker, Bridge 53mm, White (undefined) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0016;Pickup. SSV, Humbucker, Bridge 53mm, Zebra (undefined);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0017;Pickup. SSV, Humbucker, Neck 50mm, Black (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0017;Pickup. SSV, Humbucker, Neck 50mm, Black (undefined);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0019;Pickup. SSV, Humbucker, Neck 50mm, Nickel Chrome (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0020;Pickup. SSV, Humbucker, Neck 50mm, Parchment (undefined) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0021;Pickup. SSV, Humbucker, Neck 50mm, Raw Nickel (undefined);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv

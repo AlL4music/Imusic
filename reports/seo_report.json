@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-18T16:11:00.245591Z",
+  "timestamp": "2026-11-19T16:18:21.815365Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -12,9 +12,9 @@
           "canonical": "https://new.all4music.sk/",
           "html_lang": "en",
           "has_viewport": true,
-          "og_title": null,
-          "og_description": null,
-          "og_image": null
+          "og_title": "All4Music.sk | Guitars, Basses & Musical Instruments",
+          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "og_image": "https://new.all4music.sk/catalog/view/theme/a4m/img/og-default.jpg"
         },
         "hreflang": {
           "hreflang_tags": []
@@ -37,19 +37,11 @@
         "page_speed": {
           "total_scripts": 10,
           "async_defer_scripts": 0,
-          "page_size_kb": 90.9,
+          "page_size_kb": 90.8,
           "is_https": true
         }
       },
       "issues": [
-        {
-          "severity": "info",
-          "msg": "Missing og:title (Open Graph for social sharing)"
-        },
-        {
-          "severity": "info",
-          "msg": "Missing og:image (Open Graph image for social sharing)"
-        },
         {
           "severity": "error",
           "msg": "No hreflang tags found. Google cannot distinguish SK/EN versions. Add <link rel=\"alternate\" hreflang=\"sk\" href=\"...\"> and hreflang=\"en\" for each page."
@@ -78,9 +70,9 @@
           "canonical": "https://new.all4music.sk/",
           "html_lang": "en",
           "has_viewport": true,
-          "og_title": null,
-          "og_description": null,
-          "og_image": null
+          "og_title": "All4Music.sk | Guitars, Basses & Musical Instruments",
+          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "og_image": "https://new.all4music.sk/catalog/view/theme/a4m/img/og-default.jpg"
         },
         "hreflang": {
           "hreflang_tags": []
@@ -103,19 +95,11 @@
         "page_speed": {
           "total_scripts": 10,
           "async_defer_scripts": 0,
-          "page_size_kb": 90.9,
+          "page_size_kb": 90.8,
           "is_https": true
         }
       },
       "issues": [
-        {
-          "severity": "info",
-          "msg": "Missing og:title (Open Graph for social sharing)"
-        },
-        {
-          "severity": "info",
-          "msg": "Missing og:image (Open Graph image for social sharing)"
-        },
         {
           "severity": "error",
           "msg": "No hreflang tags found. Google cannot distinguish SK/EN versions. Add <link rel=\"alternate\" hreflang=\"sk\" href=\"...\"> and hreflang=\"en\" for each page."
@@ -200,8 +184,8 @@
   "summary": {
     "errors": 5,
     "warnings": 8,
-    "info": 5,
+    "info": 1,
     "passed": 0,
-    "total_checks": 18
+    "total_checks": 14
   }
 }

@@ -155,8 +155,8 @@ MOD-XLRMF;XLR Module, Male/Female (Temple);1;https://codots.app/availability-by-
 03-BUF-0001;Buffer (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101010;Chantico (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101005;Cocomama (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TKL8710;Concept 2.9 Dreadnought Molded Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TKL8710-CSB;Concept 2.9 Dreadnought Molded Case - Slate Blue (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TKL8710;Concept 2.9 Dreadnought Molded Case (TKL);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TKL8710-CSB;Concept 2.9 Dreadnought Molded Case - Slate Blue (TKL);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8720;Concept 2.9 Jumbo 6 / 12 String Molded Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8705-CSB;Concept 2.9 OM / 000 Molded Case - Slate Blue (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8705;Concept 2.9 OM / 000 Pro-Form® Molded Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -171,7 +171,7 @@ TKL9710-ALX;Concept 3.2 Dreadnought 6/12 String Case - Alumin-X (TKL);1;https://
 03-KOJ-0002;Koji Compressor™, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-BST-0003;Koko Boost Pedal (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 03-BST-0005;Koko Boost™, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-TKL8800/LTD;LTD Arch-Top Classical / 00 Hardshell Case (TKL);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+TKL8800/LTD;LTD Arch-Top Classical / 00 Hardshell Case (TKL);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 TKL8836/LTD;LTD Rectangular Jazz Bass Hardshell Case (TKL);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101001;Mama Cocha (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 101020;Navajo (Silver Coin) [expected 2026-11-16];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
@@ -444,7 +444,7 @@ S7R16WB;RUN16: SX Carved Top 7-string, White/Black (Ormsby);1;https://codots.app
 04-SSV-0013;Pickup. SSV, Humbucker, Bridge 53mm, Raw Nickel (Suhr) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0015;Pickup. SSV, Humbucker, Bridge 53mm, White (Suhr) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0016;Pickup. SSV, Humbucker, Bridge 53mm, Zebra (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
-04-SSV-0017;Pickup. SSV, Humbucker, Neck 50mm, Black (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
+04-SSV-0017;Pickup. SSV, Humbucker, Neck 50mm, Black (Suhr);0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0019;Pickup. SSV, Humbucker, Neck 50mm, Nickel Chrome (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0020;Pickup. SSV, Humbucker, Neck 50mm, Parchment (Suhr) [expected 2027-01-29];0;https://codots.app/availability-by-product/buy/musifacts-europe-bv
 04-SSV-0021;Pickup. SSV, Humbucker, Neck 50mm, Raw Nickel (Suhr);1;https://codots.app/availability-by-product/buy/musifacts-europe-bv

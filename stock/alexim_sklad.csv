@@ -198,26 +198,26 @@
 05804.01;NSdesign Viola;0;https://www.alexim.cz/nsdesign-viola
 05805.01;NSdesign CR4 Violin (housle);0;https://www.alexim.cz/nsdesign-cr4-violin-housle
 7703.01;EMG SA;1;https://www.alexim.cz/emg-sa-5
-1750.01;CTS PR-01;0;https://www.alexim.cz/kts-pr-01
-1751.01;CTS PR-02;1;https://www.alexim.cz/kts-pr-02
-17541.01;CTS PR-03;0;https://www.alexim.cz/kts-pr-03
-1754.01;CTS PR-03SP;1;https://www.alexim.cz/kts-pr-03sp
-1755.01;CTS PR-04;0;https://www.alexim.cz/kts-pr-04
-1756.01;CTS PR-05;0;https://www.alexim.cz/kts-pr-05
-1757.01;CTS PR-06;0;https://www.alexim.cz/kts-pr-06
-17521.01;CTS PR-08;0;https://www.alexim.cz/kts-pr-08
-1752.01;CTS PR-08WD;1;https://www.alexim.cz/kts-pr-08wd
-17522.01;CTS PR-08quattro;0;https://www.alexim.cz/kts-pr-08quattro
-17551.01;CTS PR-11;0;https://www.alexim.cz/kts-pr-11
-1759.01;CTS PR-12;0;https://www.alexim.cz/kts-pr-12
-17552.01;CTS PR-14;0;https://www.alexim.cz/kts-pr-14
-1753.01;CTS PR-15;1;https://www.alexim.cz/kts-pr-15
-17523.01;CTS PR-16;0;https://www.alexim.cz/kts-pr-16
-1760.01;CTS PR-Mu;0;https://www.alexim.cz/kts-pr-mu
-1762.01;CTS PR-03WB1;0;https://www.alexim.cz/kts-pr-03wb1
-1763.01;CTS PR-06SET;0;https://www.alexim.cz/kts-pr-06set
-17631.01;CTS PR-06SET(G);0;https://www.alexim.cz/kts-pr-06set-g
-1764.01;CTS Ti-block;0;https://www.alexim.cz/kts-ti-block
+1750.01;KTS PR-01;0;https://www.alexim.cz/kts-pr-01
+1751.01;KTS PR-02;1;https://www.alexim.cz/kts-pr-02
+17541.01;KTS PR-03;0;https://www.alexim.cz/kts-pr-03
+1754.01;KTS PR-03SP;1;https://www.alexim.cz/kts-pr-03sp
+1755.01;KTS PR-04;0;https://www.alexim.cz/kts-pr-04
+1756.01;KTS PR-05;0;https://www.alexim.cz/kts-pr-05
+1757.01;KTS PR-06;0;https://www.alexim.cz/kts-pr-06
+17521.01;KTS PR-08;0;https://www.alexim.cz/kts-pr-08
+1752.01;KTS PR-08WD;1;https://www.alexim.cz/kts-pr-08wd
+17522.01;KTS PR-08quattro;0;https://www.alexim.cz/kts-pr-08quattro
+17551.01;KTS PR-11;0;https://www.alexim.cz/kts-pr-11
+1759.01;KTS PR-12;0;https://www.alexim.cz/kts-pr-12
+17552.01;KTS PR-14;0;https://www.alexim.cz/kts-pr-14
+1753.01;KTS PR-15;1;https://www.alexim.cz/kts-pr-15
+17523.01;KTS PR-16;0;https://www.alexim.cz/kts-pr-16
+1760.01;KTS PR-Mu;0;https://www.alexim.cz/kts-pr-mu
+1762.01;KTS PR-03WB1;0;https://www.alexim.cz/kts-pr-03wb1
+1763.01;KTS PR-06SET;0;https://www.alexim.cz/kts-pr-06set
+17631.01;KTS PR-06SET(G);0;https://www.alexim.cz/kts-pr-06set-g
+1764.01;KTS Ti-block;0;https://www.alexim.cz/kts-ti-block
 9090.01;Lightsnake USB;0;https://www.alexim.cz/lightsnake-usb
 7779.01;AER AS 281;1;https://www.alexim.cz/aer-as-281
 2830.01;EBS LB4S;0;https://www.alexim.cz/ebs-lb4s
@@ -1075,6 +1075,13 @@
 5022.01;Martinez MCG-70S  650mm;0;https://www.alexim.cz/martinez-mcg-70s-650mm
 040412.01;Casio CTK-1150;0;https://www.alexim.cz/casio-ctk-1150
 10470.01;Dunlop Nylon 0.46;1;https://www.alexim.cz/dunlop-nylon-0-46
+06141.01;Gotoh GTC-12 CK;1;https://www.alexim.cz/gotoh-gtc-12-ck
+09761.01;Turner  D10S;1;https://www.alexim.cz/turner-d10s
+09791.01;Turner  OM20S;1;https://www.alexim.cz/turner-om20s
+50520.30;RODE M1;1;https://www.alexim.cz/rode-m1
+900551.05;MusicMan Sabre II;1;https://www.alexim.cz/musicman-sabre-ii
+04715.01;L.R.Baggs HiFi DNA Bridge Plate;1;https://www.alexim.cz/lrbaggs-hifi-dna-bridge-plate
+90124.04;PRS Custom Anniversary 35;1;https://www.alexim.cz/prs-custom-anniversary-35
 7727.01;EMG 60;1;https://www.alexim.cz/emg-60
 7700.01;EMG 81 BK;1;https://www.alexim.cz/emg-81-bk-humbucker
 7701.01;EMG 85 BK;1;https://www.alexim.cz/emg-85-bk
@@ -1171,13 +1178,6 @@
 19421.01;KRC KN200G  Knob GD;1;https://www.alexim.cz/krc-dpk600-knob-gd
 194213.01;KRC KN300IV  Knob IV;1;https://www.alexim.cz/krc-dpk700-knob-iv
 194214.01;KRC KN300B  Knob BK;1;https://www.alexim.cz/krc-dpk700-knob-bk
-06141.01;Gotoh GTC-12 CK;1;https://www.alexim.cz/gotoh-gtc-12-ck
-09761.01;Turner  D10S;1;https://www.alexim.cz/turner-d10s
-09791.01;Turner  OM20S;1;https://www.alexim.cz/turner-om20s
-50520.30;RODE M1;1;https://www.alexim.cz/rode-m1
-900551.05;MusicMan Sabre II;1;https://www.alexim.cz/musicman-sabre-ii
-04715.01;L.R.Baggs HiFi DNA Bridge Plate;1;https://www.alexim.cz/lrbaggs-hifi-dna-bridge-plate
-90124.04;PRS Custom Anniversary 35;1;https://www.alexim.cz/prs-custom-anniversary-35
 1947.01;KRC HJ005 CR jack plate;1;https://www.alexim.cz/krc-hj005-cr-jack-plate
 1936.01;KRC LP2+LP2-1 GD;0;https://www.alexim.cz/krc-lp2-lp2-1-gd
 1949.01;KRC HK001 GD  držák;1;https://www.alexim.cz/krc-hk001-gd-drzak
@@ -1372,7 +1372,7 @@
 270752.01;LeeHooker Quad Trip;1;https://www.alexim.cz/leehooker-quad-trip
 901491.04;Paulino Bernabé M50;1;https://www.alexim.cz/paulino-bernabe-m50
 03782.01;Ernie Ball 2148 Earthwood .011-.052 Light Phosphor Bronze Acoustic Strings;0;https://www.alexim.cz/ernie-ball-2148-ernie-ball-earthwood-011-052-light-phosphor-bronze-acoustic-strings
-0372.01;Ernie Ball 2221 Regular Slinky Nickel Wound .010 - .046 Lime Pack struny na elektrickou kytaru;1;https://www.alexim.cz/ernie-ball-2221-ernie-ball-regular-slinky-nickel-wound-010-046-lime-pack-struny-na-elektrickou-kytaru
+0372.01;Ernie Ball 2221 Regular Slinky Nickel Wound .010 - .046 Lime Pack struny na elektrickou kytaru;0;https://www.alexim.cz/ernie-ball-2221-ernie-ball-regular-slinky-nickel-wound-010-046-lime-pack-struny-na-elektrickou-kytaru
 0371.01;Ernie Ball 2222 Hybrid Slinky Nickel Wound .009 - .046 Orange Pack struny na elektrickou kytaru;0;https://www.alexim.cz/ernie-ball-2222-ernie-ball-hybrid-slinky-nickel-wound-009-046-orange-pack-struny-na-elektrickou-kytaru
 0370.01;Ernie Ball 2223 Super Slinky Nickel Wound .009 - .042 Pink Pack struny na elektrickou kytaru;1;https://www.alexim.cz/ernie-ball-2223-ernie-ball-super-slinky-nickel-wound-009-042-pink-pack-struny-na-elektrickou-kytaru
 037570.01;Ernie Ball 2210 Extra Light Electric Nickel Wound .010 - .050 w/ wound G;0;https://www.alexim.cz/ernie-ball-2210-ernie-ball-extra-light-electric-nickel-wound-010-050-w-wound-g
@@ -1426,7 +1426,6 @@
 77274.01;EMG 60-7;1;https://www.alexim.cz/emg-60-7
 77008.01;EMG 81TWX BK;1;https://www.alexim.cz/emg-81twx-bk
 770041.01;EMG 81TW-R BK;1;https://www.alexim.cz/emg-81tw-r-bk
-90061.05;Gibson SG Standard 2024, USA;0;https://www.alexim.cz/gibson-sg-standard-2024-usa
 10610.01;D´Addario EXL120+;0;https://www.alexim.cz/daddario-exl120-1
 1066.01;D´Addario EXP12;0;https://www.alexim.cz/daddario-exp12
 1067.01;D´Addario EXP16;0;https://www.alexim.cz/daddario-exp16
@@ -1587,6 +1586,7 @@
 901470.04;Laney LC50-II combo 50W;1;https://www.alexim.cz/laney-lc50-ii-combo-50w
 18911.01;KRC GBN-005 nut;1;https://www.alexim.cz/krc-gbn-005-nut
 00741.01;Jolana Tornado II Trans Black Gloss;0;https://www.alexim.cz/jolana-tornado-ii-trans-black-gloss
+270191.01;LeeHooker S-caster Relic BTS;0;https://www.alexim.cz/leehooker-s-caster-relic-bts
 282961.01;EBS Strap MB popruh;0;https://www.alexim.cz/ebs-strap-mb-popruh
 28295.01;EBS Strap Vintage TR Relic;1;https://www.alexim.cz/ebs-strap-vintage-tr-relic
 28296.01;EBS Strap BB Bourbon Brown;0;https://www.alexim.cz/ebs-strap-vintage-vb-relic

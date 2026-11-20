@@ -1281,8 +1281,8 @@
 20000361,DiMarzio,[B-Stock] DiMarzio DP 191CR Air Classic Bridge,0,,663334011373,"2027-02-13 00:00:00",0
 10000365,DiMarzio,DiMarzio DP 136RW Super Natural Plus,0,"",663334005068,"2027-02-13 00:00:00",0
 20000365,DiMarzio,[B-Stock] DiMarzio DP 136RW Super Natural Plus,0,,663334005068,"2027-02-13 00:00:00",0
-10000370,DiMarzio,DiMarzio DP 147BK Ultra Jazz Neck,0,"",663334005143,"2027-02-13 00:00:00",0
-20000370,DiMarzio,[B-Stock] DiMarzio DP 147BK Ultra Jazz Neck,0,,663334005143,"2027-02-13 00:00:00",0
+10000370,DiMarzio,DiMarzio DP 147BK Ultra Jazz Neck,0,"",663334005143,"2027-02-18 00:00:00",0
+20000370,DiMarzio,[B-Stock] DiMarzio DP 147BK Ultra Jazz Neck,0,,663334005143,"2027-02-18 00:00:00",0
 10000387,DiMarzio,DiMarzio DP 166FBK The Breed Bridge,0,"",663334009769,"2027-02-13 00:00:00",0
 20000387,DiMarzio,[B-Stock] DiMarzio DP 166FBK The Breed Bridge,0,,663334009769,"2027-02-13 00:00:00",0
 10000396,DiMarzio,DiMarzio DP 166BK The Breed Bridge,1,"",663334009653,,0
@@ -1675,8 +1675,8 @@
 20001101,DiMarzio,[B-Stock] DiMarzio DP 181V Fast Track 1,0,,,"2027-02-13 00:00:00",0
 10001104,DiMarzio,DiMarzio DP 158FGNBK Evolution Neck,0,"",,"2027-02-13 00:00:00",0
 20001104,DiMarzio,[B-Stock] DiMarzio DP 158FGNBK Evolution Neck,0,,,"2027-02-13 00:00:00",0
-10001108,DiMarzio,DiMarzio DP 193BW Air Norton,0,"",663334012127,"2027-02-13 00:00:00",0
-20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,,663334012127,"2027-02-13 00:00:00",0
+10001108,DiMarzio,DiMarzio DP 193BW Air Norton,1,"",663334012127,,0
+20001108,DiMarzio,[B-Stock] DiMarzio DP 193BW Air Norton,0,,663334012127,,0
 10001126,DiMarzio,DiMarzio DP 165BW The Breed Neck,0,"",,"2027-02-13 00:00:00",0
 20001126,DiMarzio,[B-Stock] DiMarzio DP 165BW The Breed Neck,0,,,"2027-02-13 00:00:00",0
 10001128,DiMarzio,DiMarzio DP 193FSP PK/V Air Norton,1,"",663334012332,,0
@@ -25459,7 +25459,7 @@ John Petrucci Signature Model",0,83.7,,"",0
 20000703,ESP,[B-Stock] ESP ORIGINAL RICHARD Z RZK-II BURNT Signature Series,0,,840248029612,,0
 10000710,ESP,ESP ORIGINAL MYSTIQUE CTM MARINE BLUE Original Series,0,"",840248006958,"2027-10-11 00:00:00",0
 20000710,ESP,[B-Stock] ESP ORIGINAL MYSTIQUE CTM MARINE BLUE Original Series,0,,840248006958,"2027-10-11 00:00:00",0
-10000717,E-II,E-II HORIZON-III RDB LEFTHAND Reindeer Blue,1,"",840248008914,,0
+10000717,E-II,E-II HORIZON-III RDB LEFTHAND Reindeer Blue,0,"",840248008914,,0
 20000717,E-II,[B-Stock] E-II HORIZON-III RDB LEFTHAND Reindeer Blue,0,,840248008914,,0
 10000725,E-II,E-II ARROW BLK Black,0,"",799493248371,"2027-03-28 00:00:00",0
 20000725,E-II,[B-Stock] E-II ARROW BLK Black,0,,799493248371,"2027-03-28 00:00:00",0
@@ -28815,12 +28815,12 @@ John Petrucci Signature Model",0,83.7,,"",0
 20024649,Dixon,[B-Stock] Dixon Artisan Maple Caleb Signature Set,0,,,"2027-04-24 00:00:00",0
 10024720,Dixon,Dixon Artisan Maple James Cook Set incl. Hardware  2x 22'' BD / 10''/ 12''/ 14''FT / 16''FT,0,"",,"2027-04-24 00:00:00",0
 20024720,Dixon,[B-Stock] Dixon Artisan Maple James Cook Set incl. Hardware  2x 22'' BD / 10''/ 12''/ 14''FT / 16''FT,0,,,"2027-04-24 00:00:00",0
-10024746,Dixon,Dixon Artisan Maple Sascha Waack incl. Hardware 24''BD/12''/14''FT/16''FT/18''FT PODAN524-03-CPS-C,0,"",4718981507123,,0
-20024746,Dixon,[B-Stock] Dixon Artisan Maple Sascha Waack incl. Hardware 24''BD/12''/14''FT/16''FT/18''FT PODAN524-03-CPS-C,0,,4718981507123,,0
-10024747,Dixon,Dixon Cornerstone Hybrid Sascha Waack incl. Hardware 22''BD/10''/12''/14''FT /16''FT PODCSTC522-02-SN,0,"",4718981507116,,0
-20024747,Dixon,[B-Stock] Dixon Cornerstone Hybrid Sascha Waack incl. Hardware 22''BD/10''/12''/14''FT /16''FT PODCSTC522-02-SN,0,,4718981507116,,0
-10024748,Dixon,Dixon Little Roomer Sascha Waack PODL520CF,0,"",4718981495574,,0
-20024748,Dixon,[B-Stock] Dixon Little Roomer Sascha Waack PODL520CF,0,,4718981495574,,0
+10024746,Dixon,Dixon Artisan Maple PODAN524-03-CPS-CR Sascha Waack 24''BD/12''/14''FT/16''FT/18''FT,0,"",4718981507123,,0
+20024746,Dixon,[B-Stock] Dixon Artisan Maple PODAN524-03-CPS-CR Sascha Waack 24''BD/12''/14''FT/16''FT/18''FT,0,,4718981507123,,0
+10024747,Dixon,Dixon Cornerstone Hybrid PODCSTC522-02-SN Sascha Waack 22''BD/10''/12''/14''FT /16''FT,0,"",4718981507116,,0
+20024747,Dixon,[B-Stock] Dixon Cornerstone Hybrid PODCSTC522-02-SN Sascha Waack 22''BD/10''/12''/14''FT /16''FT,0,,4718981507116,,0
+10024748,Dixon,Dixon Little Roomer PODL520CF Sascha Waack,0,"",4718981495574,,0
+20024748,Dixon,[B-Stock] Dixon Little Roomer PODL520CF Sascha Waack,0,,4718981495574,,0
 10025206,Rogers,Rogers RS-0422-PBC R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Piano Black Copper Pinstripe,0,"",4718981506089,,0
 20025206,Rogers,[B-Stock] Rogers RS-0422-PBC R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Piano Black Copper Pinstripe,0,,4718981506089,,0
 10025207,Rogers,Rogers RS-0422-BBB R-Series 4pc Shell Pack 22x14/10x7/12x8/16x16 Brushed Blue Burst,0,"",4718981506119,,0
@@ -29567,6 +29567,24 @@ John Petrucci Signature Model",0,83.7,,"",0
 20024556,Gator,[B-Stock] Gator GP-DTH-BR-RD Drum Throne Backrest - Red,0,,716408570662,,0
 10024695,Dixon,Dixon PSN-10ST Round Throne Soft,0,"",4718981506959,"2027-03-31 00:00:00",0
 20024695,Dixon,[B-Stock] Dixon PSN-10ST Round Throne Soft,0,,4718981506959,"2027-03-31 00:00:00",0
+10025271,Dixon,Dixon PSN-13RW Motorcycle Throne Sascha Waack,0,"",,,0
+20025271,Dixon,[B-Stock] Dixon PSN-13RW Motorcycle Throne Sascha Waack,0,,,,0
+10025272,Dixon,Dixon PP-PCPD1 Precision Coil Double Pedal Sascha Waack Double Chain with Bag,0,"",,,0
+20025272,Dixon,[B-Stock] Dixon PP-PCPD1 Precision Coil Double Pedal Sascha Waack Double Chain with Bag,0,,,,0
+10025273,Dixon,Dixon PP-PCP1 Precision Coil Single Pedal Sascha Waack Double Chain with Bag,0,"",,,0
+20025273,Dixon,[B-Stock] Dixon PP-PCP1 Precision Coil Single Pedal Sascha Waack Double Chain with Bag,0,,,,0
+10025274,Dixon,Dixon PSY-P3I Cymbal Boom Stand Heavy Duty Sascha Waack,0,"",,,0
+20025274,Dixon,[B-Stock] Dixon PSY-P3I Cymbal Boom Stand Heavy Duty Sascha Waack,0,,,,0
+10025275,Dixon,Dixon PSH-K9001-KS Hi-Hat Stand Premium Sascha Waack,0,"",,,0
+20025275,Dixon,[B-Stock] Dixon PSH-K9001-KS Hi-Hat Stand Premium Sascha Waack,0,,,,0
+10025276,Dixon,Dixon PSS-K900-KS Premium Snare Stand Sascha Waack,0,"",,,0
+20025276,Dixon,[B-Stock] Dixon PSS-K900-KS Premium Snare Stand Sascha Waack,0,,,,0
+10025277,Dixon,Dixon PSS-P2 Medium Snare Stand Sascha Waack,0,"",,,0
+20025277,Dixon,[B-Stock] Dixon PSS-P2 Medium Snare Stand Sascha Waack,0,,,,0
+10025291,Dixon,Dixon PSY-P0 Cymbal Stand Flat Base Sascha Waack,0,"",,,0
+20025291,Dixon,[B-Stock] Dixon PSY-P0 Cymbal Stand Flat Base Sascha Waack,0,,,,0
+10025292,Dixon,Dixon PSH-P0 Hi-Hat Stand Flat Base Sascha Waack,0,"",,,0
+20025292,Dixon,[B-Stock] Dixon PSH-P0 Hi-Hat Stand Flat Base Sascha Waack,0,,,,0
 10003810,Dixon,Dixon PSHK-7A-HP Standard Hi-Hat Clutch,0,"",4718981403296,"2027-01-15 00:00:00",0
 20003810,Dixon,[B-Stock] Dixon PSHK-7A-HP Standard Hi-Hat Clutch,0,,4718981403296,"2027-01-15 00:00:00",0
 10003820,Dixon,Dixon PAWS-11U-HP Metal Cup Washer,1,"",4718981447627,,0
@@ -30513,6 +30531,32 @@ John Petrucci Signature Model",0,83.7,,"",0
 20024725,Dixon,[B-Stock] Dixon PARF-BDT2 Phone rest rubber for PAKL-BDT Schutzgummi,0,,,"2027-04-24 00:00:00",0
 10024726,Dixon,Dixon PARF-BDT3 Hoop guard rubber for PAKL-BDT Schutzgummi,0,"",,"2027-04-24 00:00:00",0
 20024726,Dixon,[B-Stock] Dixon PARF-BDT3 Hoop guard rubber for PAKL-BDT Schutzgummi,0,,,"2027-04-24 00:00:00",0
+10025278,Dixon,Dixon PDTH977BL Tom Holder Sascha Waack,0,"",,,0
+20025278,Dixon,[B-Stock] Dixon PDTH977BL Tom Holder Sascha Waack,0,,,,0
+10025279,Dixon,Dixon PA-ACMSM-HP Short Cymbal Holder Sascha Waack,0,"",,,0
+20025279,Dixon,[B-Stock] Dixon PA-ACMSM-HP Short Cymbal Holder Sascha Waack,0,,,,0
+10025280,Dixon,Dixon PYH-MX-SP Short Boom Cymbal Holder Sascha Waack,0,"",,,0
+20025280,Dixon,[B-Stock] Dixon PYH-MX-SP Short Boom Cymbal Holder Sascha Waack,0,,,,0
+10025281,Dixon,"Dixon PAEA100-SP Extension Arm 1"" Tube Sascha Waack",0,"",,,0
+20025281,Dixon,"[B-Stock] Dixon PAEA100-SP Extension Arm 1"" Tube Sascha Waack",0,,,,0
+10025282,Dixon,Dixon PPA-PCCDA-SP Precision Coil Pedal Sascha Waack CAM Assembly,0,"",,,0
+20025282,Dixon,[B-Stock] Dixon PPA-PCCDA-SP Precision Coil Pedal Sascha Waack CAM Assembly,0,,,,0
+10025283,Dixon,Dixon PASP-PCP1-SP Precision Coil Pedal Sascha Waack Spring Assembly,0,"",,,0
+20025283,Dixon,[B-Stock] Dixon PASP-PCP1-SP Precision Coil Pedal Sascha Waack Spring Assembly,0,,,,0
+10025284,Dixon,Dixon PAKL-MONG2-SP 15'' Mic Arm w/ Clamp Sascha Waack Monster Clamp,0,"",,,0
+20025284,Dixon,[B-Stock] Dixon PAKL-MONG2-SP 15'' Mic Arm w/ Clamp Sascha Waack Monster Clamp,0,,,,0
+10025285,Dixon,Dixon PAKL257-SP Multi Clamp Sascha Waack,0,"",,,0
+20025285,Dixon,[B-Stock] Dixon PAKL257-SP Multi Clamp Sascha Waack,0,,,,0
+10025286,Dixon,Dixon PSR-MT Mini Percussion Table Sascha Waack,0,"",,,0
+20025286,Dixon,[B-Stock] Dixon PSR-MT Mini Percussion Table Sascha Waack,0,,,,0
+10025287,Dixon,Dixon PAWN-IVEZ-HP EZ Cymbal Topper Sascha Waack Quick release cymbal topper,0,"",,,0
+20025287,Dixon,[B-Stock] Dixon PAWN-IVEZ-HP EZ Cymbal Topper Sascha Waack Quick release cymbal topper,0,,,,0
+10025288,Dixon,Dixon PSHK-K1-HP Quick Mount Hi-Hat Clutch Sascha Waack,0,"",,,0
+20025288,Dixon,[B-Stock] Dixon PSHK-K1-HP Quick Mount Hi-Hat Clutch Sascha Waack,0,,,,0
+10025289,Dixon,Dixon PAKL179LR-HP Multi Clamp Sascha Waack,0,"",,,0
+20025289,Dixon,[B-Stock] Dixon PAKL179LR-HP Multi Clamp Sascha Waack,0,,,,0
+10025290,Dixon,Dixon PARF-TVM1-HP Sound Shaper Sascha Waack Gummifuß,0,"",,,0
+20025290,Dixon,[B-Stock] Dixon PARF-TVM1-HP Sound Shaper Sascha Waack Gummifuß,0,,,,0
 10000031,Masterwork,Masterwork Custom 11'' Splash,1,"",4250673501205,,0
 20000031,Masterwork,[B-Stock] Masterwork Custom 11'' Splash,0,,4250673501205,,0
 10000056,Masterwork,Masterwork Custom 22'' Ride Rock,1,"",4250673501571,,0

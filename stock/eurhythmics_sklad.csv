@@ -337,7 +337,7 @@ AS-EX20600;Klotz headphone extension cable, 6.35 mm jack plug - 6.35 mm jack plu
 AS-EX30300;Klotz headphone extension cable, mini jack 3.5 mm - jack socket 6.35 mm - 3m;3;;EUR;0
 AS-EX30600;Klotz headphone extension cable, 3.5 mm mini jack plug - 6.35 mm jack socket - 6m;0;;EUR;0
 AS-EX60300;Klotz headphone extension cable, 6.35 mm jack plug - 3.5 mm mini jack socket - 3m;0;;EUR;0
-AS-EX60600;Klotz headphone extension cable, 6.35 mm jack plug to 3.5 mm mini jack socket - 6m;2;;EUR;0
+AS-EX60600;Klotz headphone extension cable, 6.35 mm jack plug to 3.5 mm mini jack socket - 6m;0;;EUR;0
 AS-MJ0030;Klotz stereo mini Jack cable, 3.5 mm - 6.35 mm - 0.3m;8;;EUR;0
 AS-MJ0060;Klotz lightweight stereo mini Jack cable 3.5 mm - 6.35 mm - 0.6m;9;;EUR;0
 AS-MJ0090;Klotz stereo mini jack cable, 3.5mm - 6.35mm - 0.9m lightweight;10;;EUR;0
@@ -673,7 +673,7 @@ BULK250LU15;Proel microphone cable, 15 m black, XLR 3FVPRO and XLR 3MVPRO, HPC22
 BULK250LU2;Proel microphone cable, 2 m black, XLR 3FVPRO and XLR 3MVPRO, HPC225 cable with strain relief;0;;EUR;0
 BULK250LU20;Proel microphone cable, 20 m black, XLR 3FVPRO and XLR 3MVPRO, HPC225 cable with strain relief;1;;EUR;0
 BULK250LU3;Proel microphone cable, 3 m black, XLR 3FVPRO and XLR 3MVPRO, HPC225 cable with strain relief;1;;EUR;0
-BULK250LU5;Proel microphone cable, 5 m black, XLR 3FVPRO and XLR 3MVPRO, HPC225 cable with strain relief;38;;EUR;0
+BULK250LU5;Proel microphone cable, 5 m black, XLR 3FVPRO and XLR 3MVPRO, HPC225 cable with strain relief;33;;EUR;0
 BULK250LU6;Proel microphone cable, 6 m black, XLR 3FVPRO and XLR 3MVPRO, HPC225 cable with strain relief;9;;EUR;0
 BULK410LU15;Proel MIDI cable 15 m black, 2xSP DIN;0;;EUR;0
 BULK410LU3;Proel MIDI cable 3 m black, 2xSP DIN;0;;EUR;0
@@ -1487,7 +1487,7 @@ DC422CY.500;Klotz RS232/422 cable, 100 Ohm, 2 x 2 x 0.22 mm² - PVC - 500m;0;;EU
 DC9V-5;Klotz DC 9V extension cable, 2.5m;0;;EUR;0
 DFP;HK Audio mounting set, 2 pcs M20 threaded speaker stand for LINEAR 5 LTS / LTS A;0;;EUR;0
 DG107B;Hercules tabletop podcast microphone/camera stand, adjustable at 3 points;7;;EUR;0
-DG137B;Hercules multifunctional holder, for microphone or other stand-mounted devices;17;;EUR;0
+DG137B;Hercules multifunctional holder, for microphone or other stand-mounted devices;16;;EUR;0
 DG207B;"Hercules phone holder, 4.7""- 6.9"" screen size";21;;EUR;0
 DG307B;"Hercules phone and tablet holder, 4-point grip, 6.1""-13"" screen size";0;;EUR;0
 DG307BFS1;Hercules DG307BFS1;11;;EUR;0
@@ -2742,7 +2742,7 @@ GS302B;Hercules guitar stand, electric;16;;EUR;0
 GS303B;"Hercules stand, ""TravLite"" series, for acoustic folk instruments";6;;EUR;0
 GS402BB;Hercules guitar stand, small, for electric guitar + case;6;;EUR;0
 GS405B;Hercules guitar stand, shockproof;16;;EUR;0
-GS412B PLUS;Hercules guitar stand, with neck support and AGS holder;10;;EUR;0
+GS412B PLUS;Hercules guitar stand, with neck support and AGS holder;9;;EUR;0
 GS414B PLUS;Hercules guitar stand, modified Auto Grip System;0;;EUR;0
 GS414BLT *;Hercules guitar stand type A, modified Auto Grip System, plexi holder, limited edition;0;;EUR;0
 GS415B PLUS;Hercules foldable A-type guitar stand, AGS holder;10;;EUR;0
@@ -8186,7 +8186,7 @@ RS66EL;Rotosound bass guitar string set, stainless steel, extra long, 45 65 80 1
 RS66LA;Rotosound bass guitar string set, stainless steel, 30 50 65 85;0;;EUR;0
 RS66LB;Rotosound bass guitar string set, stainless steel, 35 55 70 90;0;;EUR;0
 RS66LC;Rotosound bass guitar string set, stainless steel, 40 60 75 95;2;;EUR;0
-RS66LD;Rotosound bass guitar string set, stainless steel, 45 65 80 105;8;;EUR;0
+RS66LD;Rotosound bass guitar string set, stainless steel, 45 65 80 105;7;;EUR;0
 RS66LDN;Rotosound bass guitar string set, nickel, 45 65 85 105;7;;EUR;0
 RS66LE;Rotosound bass guitar string set, stainless steel, 50 70 85 110;2;;EUR;0
 RS66LF;Rotosound bass guitar strings, stainless steel, 45 65 85 105;9;;EUR;0
@@ -10402,8 +10402,8 @@ FLEXXEU;"HeadRush guitar effect, pedalboard, 4"" touchscreen, USB interface, 3 f
 Foamy Ear Cush. WH62/WH66/UH36/YHS36 (1);Yealink Foamy Ear Cushion, compatible with WH62/WH66/UH36/YHS36, 1 PCS;0;;USD;0
 Foamy Ear Cushion for UH34/YHS34 (1 PCS);Yealink Foamy Ear Cushion, Compatible with UH34/YHS34, Superior Comfort;0;;USD;0
 Foamy Ear Cushion for UH34/YHS34 (12);Yealink Foamy Ear Cushion, for UH34/YHS34, pack of 12, soft and durable;0;;USD;0
-FORTYEIGHTYXEU;"M-Audio studio monitor, active, 150W, 8""+1"", 32Hz – 22kHz, unit price!";3;;USD;0
-FORTYSIXTYXEU;"M-Audio studio monitor, active, 100W, 6,5""+1"", 39Hz – 22kHz, unit price!";22;;USD;0
+FORTYEIGHTYXEU;"M-Audio studio monitor, active, 150W, 8""+1"", 32Hz – 22kHz, unit price!";1;;USD;0
+FORTYSIXTYXEU;"M-Audio studio monitor, active, 100W, 6,5""+1"", 39Hz – 22kHz, unit price!";19;;USD;0
 FP3=-G5E;SHURE wireless system, FP3 plug-on transmitter;1;;USD;1
 FP3=-K3E;SHURE FP wireless system, FP3 plug-on transmitter;1;;USD;1
 FRFR108MK2XEUK;"HeadRush active speaker, 2000 W, 8""+1.4"", 126 dB SPL, biamp, digital, Bluetooth";11;;USD;0
@@ -10767,7 +10767,7 @@ GTR-ELECTRIC-GRY;Gator guitar case, light rigid EPS hard case for electric guita
 GTR-FRETMUTELG-1BK;Gator fret muter, 1pc, black, size L;24;;USD;0
 GTR-FRETMUTEMD-1BK;Gator fret mute, 1pc, black, size M;90;;USD;0
 GTR-FRETMUTEMD-3BK;Gator string mute, 3 pcs, black, size M;37;;USD;0
-GTR-FRETMUTESM-1BK;Gator fret muter, 1pc, black, size S;4;;USD;0
+GTR-FRETMUTESM-1BK;Gator fret muter, 1pc, black, size S;3;;USD;0
 GTR-FRETMUTEXL-1BK;Gator fret mute, 1 piece, black, XL size;31;;USD;0
 GTSA-GTR-MINIAMPMOD;Gator Frequent Flyer Series case designed to fit popular mini amp modelers;2;;USD;0
 GTSA-GTR335;Gator hard case, TSA molded plastic for 335-style hollow body electric guitars;0;;USD;0
@@ -11511,7 +11511,7 @@ RCL 30306 D6;RockCable Microphone Cable, XLR male to female, 6m, durable design;
 RCL 30309 D6;RockCable Microphone Cable, XLR male to female, 9m, durable, black;241;;USD;0
 RCL 30320 D6;RockCable Microphone Cable, XLR Male to XLR Female, 20 m Length;22;;USD;0
 RCL 30360 D7;RockCable Microphone Cable, XLR male to female, color coded, 10m;30;;USD;0
-RCL 30386 D6 F BA;RockCable Microphone Cable, Balanced XLR to TRS, Color Coded, 6m;50;;USD;0
+RCL 30386 D6 F BA;RockCable Microphone Cable, Balanced XLR to TRS, Color Coded, 6m;49;;USD;0
 RCL 30390 D7 F BA;RockCable Microphone Cable, XLR to TRS, balanced, color-coded, 10m;30;;USD;0
 RCL 30402 D7;RockCable Speaker Cable, Straight TS 6.3 mm, 2m Length, Gold-Plated Tips;73;;USD;0
 RCL 30600 DC 5;RockCable Daisy Chain Cable, 5 Outputs, 5.5x2.1mm Connectors, 20cm Length;63;;USD;0

@@ -345,7 +345,7 @@ AS-MJ0150;Klotz stereo mini Jack cable, 3.5 mm - 6.35 mm - 1.5m;9;;EUR;0
 AS-MJ0300;Klotz mini stereo jack cable, 3.5 mm to 6.35 mm - 3m;8;;EUR;0
 AS-MM0090;Klotz stereo mini Jack cable, 0.9m;5;;EUR;0
 AS-MM0150;Klotz, lightweight stereo mini Jack cable, 1.5m;0;;EUR;0
-AS-MM0300;Klotz stereo mini Jack cable, 3m;11;;EUR;0
+AS-MM0300;Klotz stereo mini Jack cable, 3m;10;;EUR;0
 AT-CC0100;Klotz professional stereo twin cable, straight RCA plugs - 1m;0;;EUR;0
 AT-CC0200;Klotz stereo twin cable, straight RCA plugs - 2m;0;;EUR;0
 AT-CC0300;Klotz twin stereo cable, straight RCA plugs - 3m;0;;EUR;0
@@ -517,7 +517,7 @@ AYS-8;Klotz TRS 6.35 mm, stereo - 2x TS socket 6.35 mm, mono E-Drum splitter - Y
 AYU-2;Klotz 6.35 mm TS, mono - 2x 6.35 mm TS female jack, Y adapter - mono - 0.2m;1;;EUR;0
 AYU-4;Klotz TS 6.35 mm, mono - 2x RCA socket Y adapter - mono - 0.2m;2;;EUR;0
 AYU-5;Klotz Y adapter cable, 6.35 mm TS mono - 2x 6.35 mm TS mono, mono, 0.2m;2;;EUR;0
-AYU-6;Klotz TS jack 6.35 mm, mono - 2x RCA Y adapter - mono - 0.2m;3;;EUR;0
+AYU-6;Klotz TS jack 6.35 mm, mono - 2x RCA Y adapter - mono - 0.2m;2;;EUR;0
 AYU-8;Klotz RCA socket, 2x RCA Y adapter, mono, 0.2m;7;;EUR;0
 AYU-9;Klotz RCA - 2x RCA female Y adapter - mono - 0.2m;3;;EUR;0
 B2FM1N0030;Klotz pro analog audio cable, balanced patch cable with Neutrik mixed XLR - 0.3m;0;;EUR;0
@@ -629,12 +629,12 @@ BSB001;Hercules stand carrying bag, for BS411B, BS401B, BS300B, BS415B, and BS40
 BSB002;Hercules music sheet holder bag BS100B, cylindrical 670x110 mm;0;;EUR;0
 BSC800;Hercules music stand holder, for up to 12 BS200B stands, black, 2 fixed and 2 rotating wheels;0;;EUR;0
 BULK100LU05;Proel instrument cable, 0.5m 2x6.3mm mono jack plug, nickel-plated metal housing, HPC115 cable;6;;EUR;0
-BULK100LU1;Proel instrument cable, 1 m 2x6.3 mm S4CPRO mono jack plug, nickel-plated metal, HPC115 cable;34;;EUR;0
+BULK100LU1;Proel instrument cable, 1 m 2x6.3 mm S4CPRO mono jack plug, nickel-plated metal, HPC115 cable;33;;EUR;0
 BULK100LU10;Proel instrument cable, 10 m 2x6.3 mm mono jack plug, nickel-plated metal housing, HPC115 cable;14;;EUR;0
 BULK100LU2;Proel instrument cable, 2 m, 2x6.3 mm S4CPRO mono jack plug, nickel-plated housing, HPC115 cable;0;;EUR;0
 BULK100LU3;Proel instrument cable 3 m 2x6.3 mm S4CPRO mono jack plug, nickel-plated metal housing, HPC115 cable;18;;EUR;0
 BULK100LU5;Proel instrument cable, 5 m 2x6.3 mm mono jack plug, nickel-plated metal housing, HPC115 cable;14;;EUR;0
-BULK100LU6;Proel instrument cable, 6 m 2x6.3 mm S4CPRO mono jack plug, nickel-plated housing, HPC115 cable;10;;EUR;0
+BULK100LU6;Proel instrument cable, 6 m 2x6.3 mm S4CPRO mono jack plug, nickel-plated housing, HPC115 cable;6;;EUR;0
 BULK120LU3;Proel instrument cable, 3 m 6.3 mm S4CPRO mono jack plug and 6.3 mm S4RCS mono right-angle jack plug;0;;EUR;0
 BULK120LU5;Proel instrument cable, 5 m 6.3 mm S4CPRO mono jack plug and 6.3 mm S4RCS mono right-angle jack plug;20;;EUR;0
 BULK120LU6;Proel instrument cable, 6m 6.3mm S4CPRO mono jack plug and 6.3mm S4RCS mono angled jack plug;8;;EUR;0
@@ -2468,7 +2468,7 @@ FC520;Proel wall guitar holder, for guitar/bass with 33° rubber coating, grey, 
 FC600;Proel footrest for guitarists, non-slip rubber coating, five levels, matte black;18;;EUR;0
 FC720;Proel universal guitar stand with neck support, foam and rubber cover, anthracite gray, max:10kg;22;;EUR;0
 FC80;Proel guitar stand, universal, foam and rubber coating, anthracite gray, max: 6 kg;52;;EUR;0
-FC820;Proel universal guitar stand with neck support, 2 guitar foam and rubber covers, grey, max: 20kg;3;;EUR;0
+FC820;Proel universal guitar stand with neck support, 2 guitar foam and rubber covers, grey, max: 20kg;2;;EUR;0
 FC830N;Proel universal guitar stand, for 3 guitars with foam and rubber cover, black, max: 25 kg;3;;EUR;0
 FC850N;Proel universal guitar stand, for 5 guitars with foam and rubber covering, black, max: 25 kg;2;;EUR;0
 FC870N;Proel universal guitar stand, for 7 guitars with foam and rubber coating, black, max: 35 kg;0;;EUR;0
@@ -2737,7 +2737,7 @@ GRG1PP03.0;Klotz audio cable, analog, balanced metal connectors, 3m;0;;EUR;0
 GRG1PP06.0;Klotz audio cable, analog balanced with metal connectors - 6m;0;;EUR;0
 GRG1PP09.0;Klotz analog audio cable, balanced metal connectors, 9m;0;;EUR;0
 GS200B;Hercules guitar stand, for acoustic and electric guitar;5;;EUR;0
-GS301B;Hercules guitar stand, acoustic;11;;EUR;0
+GS301B;Hercules guitar stand, acoustic;10;;EUR;0
 GS302B;Hercules guitar stand, electric;16;;EUR;0
 GS303B;"Hercules stand, ""TravLite"" series, for acoustic folk instruments";6;;EUR;0
 GS402BB;Hercules guitar stand, small, for electric guitar + case;6;;EUR;0
@@ -2746,7 +2746,7 @@ GS412B PLUS;Hercules guitar stand, with neck support and AGS holder;9;;EUR;0
 GS414B PLUS;Hercules guitar stand, modified Auto Grip System;0;;EUR;0
 GS414BLT *;Hercules guitar stand type A, modified Auto Grip System, plexi holder, limited edition;0;;EUR;0
 GS415B PLUS;Hercules foldable A-type guitar stand, AGS holder;10;;EUR;0
-GS422B PLUS;Hercules guitar stand for two guitars, AGS holders;9;;EUR;0
+GS422B PLUS;Hercules guitar stand for two guitars, AGS holders;8;;EUR;0
 GS432B PLUS;Hercules guitar stand, for three guitars, with AGS holder;6;;EUR;0
 GS523B;Hercules guitar stand, fixed three guitars;1;;EUR;0
 GS523B PLUS;Hercules guitar stand for three guitars, with wheels;7;;EUR;0
@@ -8650,7 +8650,7 @@ SLW160XE15;Klotz stagebox, StraightLink 16/0 XLR 3p 16-channel 15m;0;;EUR;0
 SLW160XE20;Klotz StraightLink 16/0 XLR 3p, 16-channel stagebox - 20m;0;;EUR;0
 SLW160XE30;Klotz stagebox, StraightLink 16/0 XLR 3p 16-channel - 30m;0;;EUR;0
 SM55;Rotosound bass guitar string set, steel wrap, 40 60 80 100;6;;EUR;0
-SM66;Rotosound bass guitar string set, stainless steel, hybrid, 40 60 80 100;10;;EUR;0
+SM66;Rotosound bass guitar string set, stainless steel, hybrid, 40 60 80 100;9;;EUR;0
 SM665;Rotosound bass guitar string set, stainless steel, 5 strings, 40 60 80 100 125;5;;EUR;0
 SM666;Rotosound bass guitar string set, stainless steel, 6 strings, 30 40 60 80 100 125;6;;EUR;0
 SM66N;Rotosound bass guitar string set, nickel, 40 60 80 100;9;;EUR;0
@@ -8663,7 +8663,7 @@ SMY414N-030;Klotz stereo microphone Y-cable XLR 5pin female - 2 x XLR 3pin male 
 SMY414N-050;Klotz stereo microphone Y-cable, XLR 5p female - 2 x XLR 3p male Neutrik connectors - 5m;0;;EUR;0
 SONAR 110 Xi;HK Audio active speaker, 800W, 10″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;8;;EUR;0
 SONAR 112 Xi;HK Audio active speaker, 1200W, 12″ + 1″, Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App;6;;EUR;0
-SONAR 115 Sub D;HK Audio active subwoofer, 1500W, 15″, bass-reflex, D-Class, DSP, M20, LCD, wood;6;;EUR;0
+SONAR 115 Sub D;HK Audio active subwoofer, 1500W, 15″, bass-reflex, D-Class, DSP, M20, LCD, wood;4;;EUR;0
 SONAR 115 Xi;"HK Audio active speaker, 1200W, 15"" + 1"", Class AB+D, 3 presets, DSP, Bluetooth 5.0, TWS, Remote App";0;;EUR;0
 Speaker mounting pole, steel;HK Audio mounting accessory, adjustable height (89-149 cm), M20 satellite pole;0;;EUR;0
 Speaker Stand Add On XLR;HK Audio accessory set, two aluminum speaker stands and two XLR cables, with carrying bag;9;;EUR;0
@@ -10241,10 +10241,10 @@ BPF560T608;RF Venue RF bandpass filter, 560-608MHz;0;;USD;0
 BRH440M-LC;SHURE broadcast headset, double-sided, closed, headphones + microphone, wireless!;1;;USD;1
 BT51A;Yealink Bluetooth Dongle, USB-A, plug-and-play;0;;USD;0
 BT51C;Yealink Bluetooth Dongle, USB-C Port, High-Performance Wireless Connectivity;0;;USD;0
-BTTOTALMK2;Alto Pro wireless audio receiver, stereo link, Bluetooth 5.0;24;;USD;0
+BTTOTALMK2;Alto Pro wireless audio receiver, stereo link, Bluetooth 5.0;23;;USD;0
 BTULTIMATE;Alto Pro wireless audio receiver, stereo link, True Stereo, BT 5.0;40;;USD;0
 BUSKERCOVER;Alto Pro BUSKERCOVER;0;;USD;0
-BUSKERXEU;Alto Pro portable, battery-powered speaker, 2 mic/line inputs, effects and bluetooth connectivity;33;;USD;0
+BUSKERXEU;Alto Pro portable, battery-powered speaker, 2 mic/line inputs, effects and bluetooth connectivity;31;;USD;0
 BX3PAIRBTXEU;"M-Audio studio monitor pair, active, 120W, 3.5"", EQ, aux, Bluetooth";8;;USD;0
 BX3PAIRXEU;"M-Audio monitor speakers, active, 120W, 3.5"", EQ, aux";36;;USD;0
 BX4PAIRBTXEU;"M-Audio monitor speakers, active, 120W, 4.5"", EQ, aux, Bluetooth";20;;USD;0
@@ -11234,7 +11234,7 @@ MX424/C;"SHURE gooseneck 24"" microphone, cardioid, XLR with built-in preamp, A4
 MX424/N;"SHURE gooseneck 24"" microphone, without capsule, built-in XLR preamp, with A400SM mount";0;;USD;0
 MX424/S;"SHURE gooseneck microphone 24"", supercardioid capsule, built-in XLR preamp, A400SM mount";0;;USD;0
 Neckband for WH63/WH67;Yealink Neckband, for WH63/WH67 headsets, secure fit, easy to attach;0;;USD;0
-NITROAMPPROXEU;Akesis 8” Compact Floor Monitor for Electronic Drums;8;;USD;0
+NITROAMPPROXEU;Akesis 8” Compact Floor Monitor for Electronic Drums;6;;USD;0
 NITROMAXEXPACK;"Alesis drum accessory for NITROMAX, 8"" dual zone mesh pad, 10"" cymbal, cables, mounting bracket";4;;USD;0
 NITROMAXKITXEUK;Alesis electronic drum set, 440 sounds, 8 triggers, Bluetooth;45;;USD;0
 NITROPROKITXEUK;Alesis drum kit;3;;USD;0
@@ -11419,7 +11419,7 @@ RB 21620 B;RockBag Keyboard Bag 88 Keys, Water-resistant RokTex, Cushioning, Bla
 RB 21635 B;RockBag Keyboard Bag, 88 keys, water-resistant RokTex, cushioning, black;7;;USD;0
 RB 21723 B;RockBag Keyboard Dust Cover, 61 Keys, Black Nylon, Elastic Corners;18;;USD;0
 RB 21733 B;RockBag Keyboard Dust Cover, 88 Keys, High-Quality Nylon, Elastic Corners;14;;USD;0
-RB 22200 B;RockBag Drum Carpet, Antiskid, Sound Absorbing, 160x200 cm;11;;USD;0
+RB 22200 B;RockBag Drum Carpet, Antiskid, Sound Absorbing, 160x200 cm;10;;USD;0
 RB 22201 B;RockBag Drum Carpet, 200x200 cm, Antiskid Surface, Sound Absorbing, Grey;13;;USD;0
 RB 23405 B;RockBag Mixer Bag, water-resistant RokTex, foam cushioning, detachable divider;0;;USD;0
 RB 23410 B;RockBag Mixer Bag, water-resistant RokTex surface, foam cushioning, detachable divider;5;;USD;0
@@ -11496,7 +11496,7 @@ RCL 30031 D5;RockCable Patch Cable Set, angled TS, multi-color, 6 pcs, 30 cm;115
 RCL 30111 D6;RockCable Patch Cable, angled TS 6.3 mm, 15 cm length;260;;USD;0
 RCL 30203 D6;RockCable Instrument Cable, straight TS 6.3 mm, gold-plated tip, 3 m, Black;271;;USD;0
 RCL 30203 D6 GOLD;"RockCable Instrument Cable, straight TS 1/4"", 3m, gold-plated tips, robust connectivity";35;;USD;0
-RCL 30203 D7;RockCable Instrument Cable, straight/straight connectors, 3 m, black;14;;USD;0
+RCL 30203 D7;RockCable Instrument Cable, straight/straight connectors, 3 m, black;12;;USD;0
 RCL 30203 TC H/BEIGE;RockCable Instrument Cable, straight/straight, 3m, Bordeaux Tweed;39;;USD;0
 RCL 30205 D6 C;RockCable Coiled Instrument Cable, 5m, Straight TS, Gold-Plated Tip, Black;77;;USD;0
 RCL 30205 D7 C;RockCable Instrument Cable, straight/straight, coiled, 5 m, Black;94;;USD;0
@@ -12068,7 +12068,7 @@ UA7-518-542;SHURE antenna, 518-542 MHz;0;;USD;0
 UA7-542-574;SHURE pocket antenna, 542-574 MHz;0;;USD;0
 UA7-574-606;SHURE bodypack transmitter antenna, 574-606 MHz;0;;USD;0
 UA7-602-636;SHURE antenna, 602-636 MHz;0;;USD;0
-UA700;SHURE quarter-wave antenna 470-530 MHz, for bodypack and in-ear monitor receiver, SMA, yellow cap;3;;USD;0
+UA700;SHURE quarter-wave antenna 470-530 MHz, for bodypack and in-ear monitor receiver, SMA, yellow cap;2;;USD;0
 UA700-V;SHURE quarter-wave antenna, VHF;0;;USD;0
 UA700Z17;SHURE quarter wave antenna, 1.5 GHz;0;;USD;0
 UA700Z18;SHURE quarter-wave antenna, 1.8 GHz;0;;USD;0

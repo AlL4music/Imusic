@@ -79,9 +79,9 @@ AG4PHOT;Aguilar AG 4P-HOT;1;https://www.music-park.sk/produkt/baskytarove-snimac
 AG4PJHC;Aguilar AG 4PJ-HC;3;https://www.music-park.sk/produkt/baskytarove-snimace/148/ag-4pj-hc
 AG5J60;Aguilar AG 5J-60;0;https://www.music-park.sk/produkt/baskytarove-snimace/150/ag-5j-60
 AG5J70;Aguilar AG 5J-70;0;https://www.music-park.sk/produkt/baskytarove-snimace/151/ag-5j-70
-AG5JHC;Aguilar AG 5J-HC;0;https://www.music-park.sk/produkt/baskytarove-snimace/152/ag-5j-hc
+AG5JHC;Aguilar AG 5J-HC;4;https://www.music-park.sk/produkt/baskytarove-snimace/152/ag-5j-hc
 AG5JHOT;Aguilar AG 5J-Hot;0;https://www.music-park.sk/produkt/baskytarove-snimace/153/ag-5j-hot
-AG5PJHC;Aguilar AG 5PJ-HC;2;https://www.music-park.sk/produkt/baskytarove-snimace/156/ag-5pj-hc
+AG5PJHC;Aguilar AG 5PJ-HC;0;https://www.music-park.sk/produkt/baskytarove-snimace/156/ag-5pj-hc
 AG5SSD2;Aguilar 5SS-D2;0;https://www.music-park.sk/produkt/baskytarove-snimace/157/5ss-d2
 AG6PJHC;Aguilar AG 6PJ-HC;0;https://www.music-park.sk/produkt/baskytarove-snimace/160/ag-6pj-hc
 AG6SSD4;Aguilar 6SS-D4;0;https://www.music-park.sk/produkt/baskytarove-snimace/161/6ss-d4
@@ -371,7 +371,6 @@ VXAC15VR;VOX AC15VR;0;https://www.music-park.sk/produkt/kytarova-komba/709/ac15v
 VXAC1RV;VOX AC1 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/710/ac1-rhythmvox
 VXAC2RV;VOX AC2 RhythmVOX;0;https://www.music-park.sk/produkt/kytarova-komba/711/ac2-rhythmvox
 VXAC30C2;VOX AC30C2;0;https://www.music-park.sk/produkt/kytarova-komba/712/ac30c2
-KRKONNECT;KORG KONNECT;0;https://www.music-park.sk/produkt/ozvucovaci-systemy/1426/konnect
 KRMMA130;KORG MMA130;0;https://www.music-park.sk/produkt/ozvucovaci-systemy/1427/mma130
 PHSM303A;Phonic Smartman 303A;5;https://www.music-park.sk/produkt/reproboxy/1437/smartman-303a
 PHSM703A;Phonic Smartman 703A;3;https://www.music-park.sk/produkt/reproboxy/1438/smartman-703a
@@ -820,6 +819,9 @@ AGCC210SL;Aguilar SL 210 Cover;2;https://www.music-park.sk/produkt/obaly-na-apar
 KRKROMEEX61CU;KORG KROME-61 EX CU;0;https://www.music-park.sk/produkt/workstation/2136/krome-61-ex-cu
 VXAC10COVER;VOX AC10 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2137/ac10-cover
 VXAC15COVER;VOX AC15 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2138/ac15-cover
+VXAC30COVER;VOX AC30 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2139/ac30-cover
+VXAC15HCOVER;VOX AC15H Cover;1;https://www.music-park.sk/produkt/obaly-na-aparaty/2140/ac15h-cover
+VXAC30HCOVER;VOX AC30H Cover;3;https://www.music-park.sk/produkt/obaly-na-aparaty/2141/ac30h-cover
 KRTUWDT1;KORG WDT-1;0;https://www.music-park.sk/produkt/kytarove-a-basove-ladicky/715/wdt-1
 VXAC30C2CM;VOX AC30C2 Cream;0;https://www.music-park.sk/produkt/kytarova-komba/716/ac30c2-cream
 VXAC30C2MB;VOX AC30C2 Maroon Bronco;0;https://www.music-park.sk/produkt/kytarova-komba/717/ac30c2-maroon-bronco
@@ -1105,7 +1107,7 @@ KRTAKTRI49;KORG Triton Taktile 49;0;https://www.music-park.sk/produkt/midi-kontr
 QL10.00006;Quik Lok A-114 BK EU;3;https://www.music-park.sk/produkt/stojany-na-mikrofon/1181/a-114-bk-eu
 QL10.00009;Quik Lok A-188;5;https://www.music-park.sk/produkt/stojany-na-mikrofon/1182/a-188
 QL10.00998;Quik Lok A-302 BK EU;1;https://www.music-park.sk/produkt/stojany-na-mikrofon/1183/a-302-bk-eu
-QL10.01033;Quik Lok A-306 BK EU;5;https://www.music-park.sk/produkt/stojany-na-mikrofon/1184/a-306-bk-eu
+QL10.01033;Quik Lok A-306 BK EU;4;https://www.music-park.sk/produkt/stojany-na-mikrofon/1184/a-306-bk-eu
 QL10.00051;Quik Lok A-399 BK EU;3;https://www.music-park.sk/produkt/stojany-na-mikrofon/1185/a-399-bk-eu
 QL10.00758;Quik Lok A-494 BK EU;3;https://www.music-park.sk/produkt/stojany-na-mikrofon/1186/a-494-bk-eu
 QL10.00057;Quik Lok A-50 EU;2;https://www.music-park.sk/produkt/stojany-na-mikrofon/1187/a-50-eu
@@ -1298,9 +1300,7 @@ AGCC410SL;Aguilar SL 410 Cover;0;https://www.music-park.sk/produkt/obaly-na-apar
 QL10.01082;Quik Lok GS-437-BB;20;https://www.music-park.sk/produkt/kytarove-stojany/1402/gs-437-bb
 AGCC810DB;Aguilar DB 810 Cover;1;https://www.music-park.sk/produkt/obaly-na-aparaty/1403/db-810-cover
 AGHCDB751CB;Aguilar DB 751 HC CB;0;https://www.music-park.sk/produkt/obaly-na-aparaty/1404/db-751-hc-cb
-VXAC30COVER;VOX AC30 Cover;5;https://www.music-park.sk/produkt/obaly-na-aparaty/2139/ac30-cover
-VXAC15HCOVER;VOX AC15H Cover;1;https://www.music-park.sk/produkt/obaly-na-aparaty/2140/ac15h-cover
-VXAC30HCOVER;VOX AC30H Cover;3;https://www.music-park.sk/produkt/obaly-na-aparaty/2141/ac30h-cover
+KRKONNECT;KORG KONNECT;0;https://www.music-park.sk/produkt/ozvucovaci-systemy/1426/konnect
 KRVOLCASAMP2;KORG Volca Sample2;3;https://www.music-park.sk/produkt/produkcni-nastroje/2147/volca-sample2
 VXVGA3PSTR;VOX Giulietta VGA-3PS Red;0;https://www.music-park.sk/produkt/akusticke-kytary/2148/giulietta-vga-3ps-red
 VXVGA3PSTK;VOX Giulietta VGA-3PS Black;4;https://www.music-park.sk/produkt/akusticke-kytary/2149/giulietta-vga-3ps-black
@@ -1635,7 +1635,7 @@ DR1DSB545;DR Strings Dragon Skin DSB5-45;10;https://www.music-park.sk/produkt/po
 DR1FB40;DR Strings Fat-Beams FB-40;5;https://www.music-park.sk/produkt/struny-na-baskytary/2658/fat-beams-fb-40
 DR1FB45;DR Strings Fat-Beams FB-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2659/fat-beams-fb-45
 DR1FB45100;DR Strings Fat-Beams FB-45/100;1;https://www.music-park.sk/produkt/struny-na-baskytary/2660/fat-beams-fb-45-100
-DR1FB545;DR Strings Fat-Beams FB5-45;10;https://www.music-park.sk/produkt/struny-na-baskytary/2661/fat-beams-fb5-45
+DR1FB545;DR Strings Fat-Beams FB5-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2661/fat-beams-fb5-45
 DR1LR40;DR Strings Hi-Beam LR-40;15;https://www.music-park.sk/produkt/struny-na-baskytary/2662/hi-beam-lr-40
 DR1MLR45;DR Strings Hi-Beam MLR-45;5;https://www.music-park.sk/produkt/struny-na-baskytary/2663/hi-beam-mlr-45
 DR1MR45;DR Strings Hi-Beam MR-45;20;https://www.music-park.sk/produkt/struny-na-baskytary/2664/hi-beam-mr-45
@@ -2044,9 +2044,9 @@ VXAC15C1TTBC;VOX AC15C1 TTBC;0;https://www.music-park.sk/produkt/kytarova-komba/
 VXAC30C2TTBC;VOX AC30C2 TTBC;1;https://www.music-park.sk/produkt/kytarova-komba/3142/ac30c2-ttbc
 AGTHPREPEDAL;Aguilar Tone Hammer Preamp;0;https://www.music-park.sk/produkt/baskytarove-efekty/3145/tone-hammer-preamp
 DR2DEQ9;DR Strings Dragon Skin+ DEQ-9;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3151/dragon-skin-deq-9
-DR2DEQ946;DR Strings Dragon Skin+ DEQ-9/46;15;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3152/dragon-skin-deq-9-46
+DR2DEQ946;DR Strings Dragon Skin+ DEQ-9/46;10;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3152/dragon-skin-deq-9-46
 DR2DEQ10;DR Strings Dragon Skin+ DEQ-10;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3153/dragon-skin-deq-10
-DR2DEQ1052;DR Strings Dragon Skin+ DEQ-10/52;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3154/dragon-skin-deq-10-52
+DR2DEQ1052;DR Strings Dragon Skin+ DEQ-10/52;15;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3154/dragon-skin-deq-10-52
 DR2DEQ11;DR Strings Dragon Skin+ DEQ-11;20;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3155/dragon-skin-deq-11
 DR2DEQ79;DR Strings Dragon Skin+ DEQ7-9;5;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3156/dragon-skin-deq7-9
 DR2DEQ710;DR Strings Dragon Skin+ DEQ7-10;15;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3157/dragon-skin-deq7-10
@@ -2054,13 +2054,13 @@ DR2DEQ810;DR Strings Dragon Skin+ DEQ8-10;0;https://www.music-park.sk/produkt/po
 DR2DEQ811;DR Strings Dragon Skin+ DEQ8-11;0;https://www.music-park.sk/produkt/potazene-struny-na-elektricke-kytary/3159/dragon-skin-deq8-11
 DR3DAP10;DR Strings Dragon Skin+ DAP-10;20;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3160/dragon-skin-dap-10
 DR3DAP11;DR Strings Dragon Skin+ DAP-11;20;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3161/dragon-skin-dap-11
-DR3DAP12;DR Strings Dragon Skin+ DAP-12;10;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3162/dragon-skin-dap-12
+DR3DAP12;DR Strings Dragon Skin+ DAP-12;5;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3162/dragon-skin-dap-12
 DR3DAP1256;DR Strings Dragon Skin+ DAP-12/56;0;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3163/dragon-skin-dap-12-56
 DR3DAP13;DR Strings Dragon Skin+ DAP-13;0;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3164/dragon-skin-dap-13
 DR3DAP1012;DR Strings Dragon Skin+ DAP-10/12;0;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3165/dragon-skin-dap-10-12
 DR3DA810;DR Strings Dragon Skin+ DA8-10;5;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3166/dragon-skin-da8-10
 DR3DA811;DR Strings Dragon Skin+ DA8-11;15;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3167/dragon-skin-da8-11
-DR3DA812;DR Strings Dragon Skin+ DA8-12;15;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3168/dragon-skin-da8-12
+DR3DA812;DR Strings Dragon Skin+ DA8-12;10;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3168/dragon-skin-da8-12
 DR3DA813;DR Strings Dragon Skin+ DA8-13;0;https://www.music-park.sk/produkt/potazene-struny-na-akusticke-kytary/3169/dragon-skin-da8-13
 DR1DBS40;DR Strings Dragon Skin+ DBS-40;5;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3170/dragon-skin-dbs-40
 DR1DBS45100;DR Strings Dragon Skin+ DBS-45/100;15;https://www.music-park.sk/produkt/potazene-struny-na-baskytary/3171/dragon-skin-dbs-45-100

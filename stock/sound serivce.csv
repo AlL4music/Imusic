@@ -79,8 +79,8 @@
 20010242,Markbass,"[B-Stock] Markbass MB58R CMD 121 Pure 1x12"" Neodym Combo 1x12"" Neodym 500W Bass Cabinet with LM MB58R",0,,8059307422154,"2027-02-20 00:00:00",0
 10010243,Markbass,"Markbass MB58R CMD 151 Pure 1x15"" Neodym Combo 1x15"" Neodym 500W Bass Cabinet with LM MB58R",1,"",8059307422161,,0
 20010243,Markbass,"[B-Stock] Markbass MB58R CMD 151 Pure 1x15"" Neodym Combo 1x15"" Neodym 500W Bass Cabinet with LM MB58R",0,,8059307422161,,0
-10010248,Markbass,"Markbass Minimark 802 N 300 Combo 2x8"" 300W 4 Ohm / 150W 8 Ohm Bass Combo",0,"",8059307420969,"2027-02-24 00:00:00",0
-20010248,Markbass,"[B-Stock] Markbass Minimark 802 N 300 Combo 2x8"" 300W 4 Ohm / 150W 8 Ohm Bass Combo",0,,8059307420969,"2027-02-24 00:00:00",0
+10010248,Markbass,"Markbass Minimark 802 N 300 Combo 2x8"" 300W 4 Ohm / 150W 8 Ohm Bass Combo",1,"",8059307420969,,0
+20010248,Markbass,"[B-Stock] Markbass Minimark 802 N 300 Combo 2x8"" 300W 4 Ohm / 150W 8 Ohm Bass Combo",0,,8059307420969,,0
 10010215,Markbass,"Markbass MB58R 104 Energy - 4 Ohm 4x10"" Neodym Cabinet 4 Ohm 4x10"" Neodym 800W Bass Cabinet",1,"",8059307421928,,0
 20010215,Markbass,"[B-Stock] Markbass MB58R 104 Energy - 4 Ohm 4x10"" Neodym Cabinet 4 Ohm 4x10"" Neodym 800W Bass Cabinet",0,,8059307421928,,0
 10010224,Markbass,"Markbass MB58R 103 Pure - 6 Ohm 3x10"" Neodym Cabinet 6 Ohm 6x10"" Neodym 400W  Bass Cabinet",1,"",8059307422635,,0
@@ -197,10 +197,8 @@
 20024753,Markbass,[B-Stock] Markbass Little Mark Gen Z H0 1000 500W Bass Amplifier Head,0,,8059307425889,,0
 10001097,Tech21,Tech21 Gigbag Trademark 30/ 10 Silver Logo Silver Logo,1,"",837088001403,,1
 20001097,Tech21,[B-Stock] Tech21 Gigbag Trademark 30/ 10 Silver Logo Silver Logo,0,,837088001403,,1
-10006332,Tech21,Tech21 Vinyl Bass Amp Cover VC112-SL,0,"",837088001427,,0
-20006332,Tech21,[B-Stock] Tech21 Vinyl Bass Amp Cover VC112-SL,0,,837088001427,,0
-10003344,Tech21,"Tech21 Nylon Cover for 1x12"" Cabinets",1,"",837088002240,,0
-20003344,Tech21,"[B-Stock] Tech21 Nylon Cover for 1x12"" Cabinets",0,,837088002240,,0
+10003344,Tech21,"Tech21 Nylon Cover for 1x12"" Cabinets",1,"",837088002240,,1
+20003344,Tech21,"[B-Stock] Tech21 Nylon Cover for 1x12"" Cabinets",0,,837088002240,,1
 10003342,Tech21,Tech21 Gig Bag VT500,0,"",837088002226,,0
 20003342,Tech21,[B-Stock] Tech21 Gig Bag VT500,0,,837088002226,,0
 10007606,Markbass,Markbass Cover 801 Cabinet Cover Little Jazz / AC 801 P / Micromark,1,"",8033829138212,,0
@@ -271,8 +269,6 @@
 20007984,DV Mark,[B-Stock] DV Mark DV Picks Holder Black Pick Holder Key Chain,0,,8033829138441,"2027-02-20 00:00:00",0
 10008003,Markbass,Markbass MB Picks Holder Brown Pick Holder Key Chain,0,"",8033829131435,"2027-02-20 00:00:00",0
 20008003,Markbass,[B-Stock] Markbass MB Picks Holder Brown Pick Holder Key Chain,0,,8033829131435,"2027-02-20 00:00:00",0
-10008738,Tech21,Tech21 Vinyl Bass Amp Cover VC112-LM,0,"",837088002479,,0
-20008738,Tech21,[B-Stock] Tech21 Vinyl Bass Amp Cover VC112-LM,0,,837088002479,,0
 10011174,Markbass,Markbass MB58R RACK EARS Amp Accessory,1,"",8059307423861,,0
 20011174,Markbass,[B-Stock] Markbass MB58R RACK EARS Amp Accessory,0,,8059307423861,,0
 10011176,Markbass,Markbass MB58R COVER CAB - M AirMesh Cabinet Cover,1,"",8059307423816,,0
@@ -1239,8 +1235,8 @@
 20001442,DiMarzio,[B-Stock] DiMarzio DP 186BL The Cruiser Neck,0,,,"2027-02-20 00:00:00",0
 10000190,DiMarzio,DiMarzio DP 158FRD Evolution Neck,0,"",663334007888,"2027-02-20 00:00:00",0
 20000190,DiMarzio,[B-Stock] DiMarzio DP 158FRD Evolution Neck,0,,663334007888,"2027-02-20 00:00:00",0
-10000265,DiMarzio,DiMarzio DP 100FCR Super Distortion,1,"",663334001985,,0
-20000265,DiMarzio,[B-Stock] DiMarzio DP 100FCR Super Distortion,0,,663334001985,,0
+10000265,DiMarzio,DiMarzio DP 100FCR Super Distortion,0,"",663334001985,"2026-11-28 00:00:00",0
+20000265,DiMarzio,[B-Stock] DiMarzio DP 100FCR Super Distortion,0,,663334001985,"2026-11-28 00:00:00",0
 10000266,DiMarzio,DiMarzio DP 101BC Dual Sound,0,"",663334002203,"2027-02-20 00:00:00",0
 20000266,DiMarzio,[B-Stock] DiMarzio DP 101BC Dual Sound,0,,663334002203,"2027-02-20 00:00:00",0
 10000275,DiMarzio,DiMarzio DP 103CR PAF,0,"",663334002920,"2026-12-26 00:00:00",0
@@ -1405,8 +1401,8 @@
 20000587,DiMarzio,[B-Stock] DiMarzio FG2100CA1BK TE Vintage Set,0,,663334035256,,0
 10000600,DiMarzio,DiMarzio DP 244BK Dominion Neck,0,"",663334039599,"2027-02-20 00:00:00",0
 20000600,DiMarzio,[B-Stock] DiMarzio DP 244BK Dominion Neck,0,,663334039599,"2027-02-20 00:00:00",0
-10000601,DiMarzio,DiMarzio DP 424BK Area T 615,0,"",663334039568,"2027-02-20 00:00:00",0
-20000601,DiMarzio,[B-Stock] DiMarzio DP 424BK Area T 615,0,,663334039568,"2027-02-20 00:00:00",0
+10000601,DiMarzio,DiMarzio DP 424BK Area T 615,0,"",663334039568,"2027-02-25 00:00:00",0
+20000601,DiMarzio,[B-Stock] DiMarzio DP 424BK Area T 615,0,,663334039568,"2027-02-25 00:00:00",0
 10000614,DiMarzio,DiMarzio DP 255FBK Transition Bridge black,0,"",663334041059,"2026-11-28 00:00:00",0
 20000614,DiMarzio,[B-Stock] DiMarzio DP 255FBK Transition Bridge black,0,,663334041059,"2026-11-28 00:00:00",0
 10000626,DiMarzio,DiMarzio DP 258FBK Titan Neck black,0,"",663334042360,"2027-02-20 00:00:00",0
@@ -21297,8 +21293,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20021517,DiMarzio,"[B-Stock] DiMarzio DP 384C+G The Chopper T Bridge Chrome, Gold Pole Pieces",0,,663334187498,"2027-02-20 00:00:00",0
 10021525,DiMarzio,DiMarzio DP 384GN The Chopper T Bridge Green,0,"",663334013087,"2027-02-20 00:00:00",0
 20021525,DiMarzio,[B-Stock] DiMarzio DP 384GN The Chopper T Bridge Green,0,,663334013087,"2027-02-20 00:00:00",0
-10021540,DiMarzio,"DiMarzio DP 384W+N The Chopper T Bridge White, Nickel Pole Pieces",0,"",663334174689,"2027-02-24 00:00:00",0
-20021540,DiMarzio,"[B-Stock] DiMarzio DP 384W+N The Chopper T Bridge White, Nickel Pole Pieces",0,,663334174689,"2027-02-24 00:00:00",0
+10021540,DiMarzio,"DiMarzio DP 384W+N The Chopper T Bridge White, Nickel Pole Pieces",0,"",663334174689,"2027-02-25 00:00:00",0
+20021540,DiMarzio,"[B-Stock] DiMarzio DP 384W+N The Chopper T Bridge White, Nickel Pole Pieces",0,,663334174689,"2027-02-25 00:00:00",0
 10021557,DiMarzio,"DiMarzio DP 389G+N The Tone Zone T Gold Cover, Nickel Pole Pieces",0,"",,"2027-02-20 00:00:00",0
 20021557,DiMarzio,"[B-Stock] DiMarzio DP 389G+N The Tone Zone T Gold Cover, Nickel Pole Pieces",0,,,"2027-02-20 00:00:00",0
 10021482,DiMarzio,DiMarzio DP 381C Fast Track T Chrome,0,"",,"2027-02-20 00:00:00",0
@@ -28179,8 +28175,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20003318,Tech21,[B-Stock] Tech21 Fly Rig 5 v2,0,,837088002431,"2027-02-01 00:00:00",0
 10001079,Zoom,Zoom A1 FOUR Acoustic Instruments Multi-Effects Pedal,1,"",4515260022007,,0
 20001079,Zoom,[B-Stock] Zoom A1 FOUR Acoustic Instruments Multi-Effects Pedal,0,,4515260022007,,0
-10001659,Zoom,Zoom AC-2 (UK) Acoustic Creator,0,"",4515260017775,"2027-02-24 00:00:00",0
-20001659,Zoom,[B-Stock] Zoom AC-2 (UK) Acoustic Creator,0,,4515260017775,"2027-02-24 00:00:00",0
+10001659,Zoom,Zoom AC-2 (UK) Acoustic Creator,0,"",4515260017775,"2027-02-25 00:00:00",0
+20001659,Zoom,[B-Stock] Zoom AC-2 (UK) Acoustic Creator,0,,4515260017775,"2027-02-25 00:00:00",0
 10001686,Zoom,Zoom AC-3 Acoustic Creator,1,"",4515260017850,,1
 20001686,Zoom,[B-Stock] Zoom AC-3 Acoustic Creator,0,,4515260017850,,1
 10001700,Zoom,Zoom AC-3 (UK) Acoustic Creator,1,"",4515260017904,,1
@@ -28261,19 +28257,19 @@ John Petrucci Signature Model",0,83.7,,"",0
 20013080,Tech21,[B-Stock] Tech21 Killer Blue Wail Bass Wah Pedal,0,,837088002677,,0
 10023581,Tech21,Tech21 SansAmp Para Driver DI 20th Anniversary,1,"",837088002691,,1
 20023581,Tech21,[B-Stock] Tech21 SansAmp Para Driver DI 20th Anniversary,0,,837088002691,,1
-10023158,CITADEL,CITADEL Bus Driver Analog VCA Compressor,1,"",4897147560018,,0
+10023158,CITADEL,CITADEL Bus Driver Analog VCA Compressor,0,"",4897147560018,,0
 20023158,CITADEL,[B-Stock] CITADEL Bus Driver Analog VCA Compressor,0,,4897147560018,,0
-10023159,CITADEL,CITADEL Dynazero Adaptive Noise Gate,1,"",4897147560025,,0
+10023159,CITADEL,CITADEL Dynazero Adaptive Noise Gate,0,"",4897147560025,,0
 20023159,CITADEL,[B-Stock] CITADEL Dynazero Adaptive Noise Gate,0,,4897147560025,,0
-10023160,CITADEL,CITADEL Particle Drive High Gain Overdrive,1,"",4897147560049,,0
+10023160,CITADEL,CITADEL Particle Drive High Gain Overdrive,0,"",4897147560049,,0
 20023160,CITADEL,[B-Stock] CITADEL Particle Drive High Gain Overdrive,0,,4897147560049,,0
-10023161,CITADEL,CITADEL Planetary Phase VCA Phase Shifter,1,"",4897147560056,,0
+10023161,CITADEL,CITADEL Planetary Phase VCA Phase Shifter,0,"",4897147560056,,0
 20023161,CITADEL,[B-Stock] CITADEL Planetary Phase VCA Phase Shifter,0,,4897147560056,,0
-10023162,CITADEL,CITADEL Plutonium Overdrive Total Bass Annihilator,1,"",4897147560063,,0
+10023162,CITADEL,CITADEL Plutonium Overdrive Total Bass Annihilator,0,"",4897147560063,,0
 20023162,CITADEL,[B-Stock] CITADEL Plutonium Overdrive Total Bass Annihilator,0,,4897147560063,,0
-10023163,CITADEL,CITADEL Vector Hybrid Octave Fuzz,1,"",4897147560070,,0
+10023163,CITADEL,CITADEL Vector Hybrid Octave Fuzz,0,"",4897147560070,,0
 20023163,CITADEL,[B-Stock] CITADEL Vector Hybrid Octave Fuzz,0,,4897147560070,,0
-10023164,CITADEL,CITADEL Overtuber High Voltage Overdrive,1,"",4897147560032,,0
+10023164,CITADEL,CITADEL Overtuber High Voltage Overdrive,0,"",4897147560032,,0
 20023164,CITADEL,[B-Stock] CITADEL Overtuber High Voltage Overdrive,0,,4897147560032,,0
 10023670,Samson,Samson S-Max Mic Splitter Microphone Splitter Box,1,"",809164028307,,0
 20023670,Samson,[B-Stock] Samson S-Max Mic Splitter Microphone Splitter Box,0,,809164028307,,0
@@ -28567,8 +28563,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20012059,Dixon,[B-Stock] Dixon PODCSTM422-01-SDP Cornerstone Maple Shellset 4pc Satin Deep Purple / TMS 2024,0,,4718981496861,"2027-05-01 00:00:00",0
 10012280,Dixon,Dixon PODL520PF Little Roomer Shellset 5pc Peach Fuzz,1,"",4718981500896,,0
 20012280,Dixon,[B-Stock] Dixon PODL520PF Little Roomer Shellset 5pc Peach Fuzz,0,,4718981500896,,0
-10012277,Dixon,Dixon PODL520CF Little Roomer Shellset 5pc Cerulean Frost,0,"",4718981495574,"2027-05-05 00:00:00",0
-20012277,Dixon,[B-Stock] Dixon PODL520CF Little Roomer Shellset 5pc Cerulean Frost,0,,4718981495574,"2027-05-05 00:00:00",0
+10012277,Dixon,Dixon PODL520CF Little Roomer Shellset 5pc Cerulean Frost,1,"",4718981495574,,0
+20012277,Dixon,[B-Stock] Dixon PODL520CF Little Roomer Shellset 5pc Cerulean Frost,0,,4718981495574,,0
 10012317,Dixon,Dixon PODL520SN-WB Little Roomer Shellset with Bags Satin Natural,0,"",4718981476146,"2027-05-01 00:00:00",0
 20012317,Dixon,[B-Stock] Dixon PODL520SN-WB Little Roomer Shellset with Bags Satin Natural,0,,4718981476146,"2027-05-01 00:00:00",0
 10012327,Dixon,"Dixon PODCSTC418-01-SB Cornerstone Classic 18x14/12x8/14x14FT/14x5,5SN Satin Black",1,"",4718981500858,,0
@@ -28617,8 +28613,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20023156,Dixon,[B-Stock] Dixon PODCSTH420-02-SDP Cornerstone Hybrid Shellset 4pc Satin Deepl Purple,0,,4718981504689,,0
 10023157,Dixon,Dixon PODCSTH422-01-SDP Cornerstone Hybrid Shellset 4pc Satin Deep Purple,1,"",4718981496878,,0
 20023157,Dixon,[B-Stock] Dixon PODCSTH422-01-SDP Cornerstone Hybrid Shellset 4pc Satin Deep Purple,0,,4718981496878,,0
-10023908,Dixon,Dixon PODL520RGB1 Little Roomer Shellset 5pc Red/Green/Blue,0,"",4718981505655,"2027-05-05 00:00:00",0
-20023908,Dixon,[B-Stock] Dixon PODL520RGB1 Little Roomer Shellset 5pc Red/Green/Blue,0,,4718981505655,"2027-05-05 00:00:00",0
+10023908,Dixon,Dixon PODL520RGB1 Little Roomer Shellset 5pc Red/Green/Blue,0,"",4718981505655,"2027-05-06 00:00:00",0
+20023908,Dixon,[B-Stock] Dixon PODL520RGB1 Little Roomer Shellset 5pc Red/Green/Blue,0,,4718981505655,"2027-05-06 00:00:00",0
 50000048,Dixon,Dixon PODL520BK1-WB Little Roomer Shellset 4pc + Bags Gloss Black with black/yellow bass hoop,0,"",,,0
 20000048,Dixon,[B-Stock] Dixon PODL520BK1-WB Little Roomer Shellset 4pc + Bags Gloss Black with black/yellow bass hoop,0,,,,0
 50000049,Dixon,Dixon PODL520PKBK1-WB Little Roomer Shellset 4pc + HW +B Gloss Black with black/yellow bass hoop,0,"",,,0
@@ -29519,8 +29515,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20003903,Dixon,"[B-Stock] Dixon PKT112-6-HP 12"" Regular Hoop Chrome 6 Ears, 1,6mm Batter Side",0,,4718981435358,,0
 10003910,Dixon,"Dixon PKT308-4-HP 8"" Power Hoop Chrome 4 Ears, 2,3mm Batter Side",1,"",4718981428596,,0
 20003910,Dixon,"[B-Stock] Dixon PKT308-4-HP 8"" Power Hoop Chrome 4 Ears, 2,3mm Batter Side",0,,4718981428596,,0
-10003918,Dixon,"Dixon PKT314-8-HP 14"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,"",4718981426004,"2027-05-05 00:00:00",0
-20003918,Dixon,"[B-Stock] Dixon PKT314-8-HP 14"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,,4718981426004,"2027-05-05 00:00:00",0
+10003918,Dixon,"Dixon PKT314-8-HP 14"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",1,"",4718981426004,,0
+20003918,Dixon,"[B-Stock] Dixon PKT314-8-HP 14"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,,4718981426004,,0
 10003930,Dixon,Dixon PSO-80 Basic Rack Curv. Cross Bar T Legs,0,"",4718981406471,"2027-05-01 00:00:00",0
 20003930,Dixon,[B-Stock] Dixon PSO-80 Basic Rack Curv. Cross Bar T Legs,0,,4718981406471,"2027-05-01 00:00:00",0
 10003938,Dixon,Dixon PAKL1820-SP Rack Clamp Plastic Holder,0,"",4718981425380,"2027-01-15 00:00:00",0
@@ -29639,8 +29635,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20003958,Dixon,[B-Stock] Dixon PSOB-46CB Flex Rack Curved Extension Bar,0,,4718981404316,,0
 10004030,Dixon,Dixon PAWN-LN-HP Lug Nut 12pc/pack,1,"",4718981427599,,0
 20004030,Dixon,[B-Stock] Dixon PAWN-LN-HP Lug Nut 12pc/pack,0,,4718981427599,,0
-10004034,Dixon,Dixon PDSL-1N Snare Drum Lug with screw,0,"",4718981426110,"2027-05-05 00:00:00",0
-20004034,Dixon,[B-Stock] Dixon PDSL-1N Snare Drum Lug with screw,0,,4718981426110,"2027-05-05 00:00:00",0
+10004034,Dixon,Dixon PDSL-1N Snare Drum Lug with screw,1,"",4718981426110,,0
+20004034,Dixon,[B-Stock] Dixon PDSL-1N Snare Drum Lug with screw,0,,4718981426110,,0
 10004047,Dixon,Dixon PDP265-DX1 Tunable Practice Pad 8'' M6 Thread,1,"",4718981492511,,0
 20004047,Dixon,[B-Stock] Dixon PDP265-DX1 Tunable Practice Pad 8'' M6 Thread,0,,4718981492511,,0
 10004082,Dixon,Dixon PDFS-C1 Floor Tom Leg Set 12.7mm 3pcs,1,"",4718981436461,,0
@@ -29913,8 +29909,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20003913,Dixon,"[B-Stock] Dixon PKT310-6-HP 10"" Power Hoop Chrome 6 Ears, 2,3mm Batter Side",0,,4718981425977,,0
 10003915,Dixon,"Dixon PKT312-8-HP 12"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",1,"",4718981440536,,0
 20003915,Dixon,"[B-Stock] Dixon PKT312-8-HP 12"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,,4718981440536,,0
-10003919,Dixon,"Dixon PKT316-8-HP 16"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,"",4718981429043,"2027-02-19 00:00:00",0
-20003919,Dixon,"[B-Stock] Dixon PKT316-8-HP 16"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,,4718981429043,"2027-02-19 00:00:00",0
+10003919,Dixon,"Dixon PKT316-8-HP 16"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",1,"",4718981429043,,0
+20003919,Dixon,"[B-Stock] Dixon PKT316-8-HP 16"" Power Hoop Chrome 8 Ears, 2,3mm Batter Side",0,,4718981429043,,0
 10003939,Dixon,"Dixon PAKL1825-SP 1,5"" Plastic Leg Clamp",1,"",4718981410010,,0
 20003939,Dixon,"[B-Stock] Dixon PAKL1825-SP 1,5"" Plastic Leg Clamp",0,,4718981410010,,0
 10003943,Dixon,Dixon PAKL1831-SP Aluminum Tube Clamp,1,"",4718981403661,,0
@@ -31251,8 +31247,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20012655,Gator,[B-Stock] Gator GP-ICON-CYM24 Cymbal Bag 24'',0,,716408567112,,0
 10012656,Gator,Gator GP-STICKBAG-STD Standard Stick and Mallet Bag,1,"",716408567068,,0
 20012656,Gator,[B-Stock] Gator GP-STICKBAG-STD Standard Stick and Mallet Bag,0,,716408567068,,0
-10013252,Dixon,Dixon PCB-LR Little Roomer Carrying Bag,0,"",4718981444534,"2027-02-19 00:00:00",0
-20013252,Dixon,[B-Stock] Dixon PCB-LR Little Roomer Carrying Bag,0,,4718981444534,"2027-02-19 00:00:00",0
+10013252,Dixon,Dixon PCB-LR Little Roomer Carrying Bag,1,"",4718981444534,,0
+20013252,Dixon,[B-Stock] Dixon PCB-LR Little Roomer Carrying Bag,0,,4718981444534,,0
 10023019,Gator,Gator GPC3315DHW Hardware Case 33''x15'' with wheels,1,"",716408569239,,0
 20023019,Gator,[B-Stock] Gator GPC3315DHW Hardware Case 33''x15'' with wheels,0,,716408569239,,0
 10023020,Gator,Gator GPC4216DHW Hardware Case 42''x16''  with wheels,1,"",716408569246,,0
@@ -31263,8 +31259,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20023022,Gator,[B-Stock] Gator GPC1405SD Grooves Roto Snare Case 14''x5'',0,,716408569314,,0
 10023613,Gator,"Gator GP-2414BD Bass Drum Bag 24"" x 14""",1,"",716408564654,,0
 20023613,Gator,"[B-Stock] Gator GP-2414BD Bass Drum Bag 24"" x 14""",0,,716408564654,,0
-10023614,Dixon,Dixon PCB-LRBD Little Roomer Bass Drum Carrying Bag,0,"",4718981467014,"2027-05-05 00:00:00",0
-20023614,Dixon,[B-Stock] Dixon PCB-LRBD Little Roomer Bass Drum Carrying Bag,0,,4718981467014,"2027-05-05 00:00:00",0
+10023614,Dixon,Dixon PCB-LRBD Little Roomer Bass Drum Carrying Bag,1,"",4718981467014,,0
+20023614,Dixon,[B-Stock] Dixon PCB-LRBD Little Roomer Bass Drum Carrying Bag,0,,4718981467014,,0
 10023615,Dixon,Dixon PCB-DR Little Roomer Drum Rug and Hardware 2-in-1 Black,0,"",4718981467007,"2027-03-31 00:00:00",0
 20023615,Dixon,[B-Stock] Dixon PCB-DR Little Roomer Drum Rug and Hardware 2-in-1 Black,0,,4718981467007,"2027-03-31 00:00:00",0
 10024301,Gator,Gator GPCCYM22W Grooves Roto Cymbal Case 22'' with wheels,1,"",716408571584,,0
@@ -31633,8 +31629,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20007201,Zoom,[B-Stock] Zoom BTA-2 Bluetooth Adaptor for P4/P4next and P8,0,,4515260023806,,0
 10007432,Zoom,Zoom HWS-6 Hairy Windscreen for SGH-6 and SSH-6,1,"",4515260024353,,1
 20007432,Zoom,[B-Stock] Zoom HWS-6 Hairy Windscreen for SGH-6 and SSH-6,0,,4515260024353,,1
-10004395,Zoom,"Zoom AD-19E (EU) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",0,"",4515260014644,"2026-12-10 00:00:00",0
-20004395,Zoom,"[B-Stock] Zoom AD-19E (EU) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",0,,4515260014644,"2026-12-10 00:00:00",0
+10004395,Zoom,"Zoom AD-19E (EU) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",0,"",4515260014644,"2027-02-28 00:00:00",0
+20004395,Zoom,"[B-Stock] Zoom AD-19E (EU) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",0,,4515260014644,"2027-02-28 00:00:00",0
 10004396,Zoom,"Zoom AD-19F (UK) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",1,"",4515260014651,,0
 20004396,Zoom,"[B-Stock] Zoom AD-19F (UK) AC Adapter for F8n Pro, F8n, F8, F4, G11, LiveTrak",0,,4515260014651,,0
 10004417,Zoom,Zoom AIH-1 Audio Interface Holder,0,"",4515260017515,,0
@@ -31721,8 +31717,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20010517,Gator Frameworks,[B-Stock] Gator Frameworks GRW-SCRW025 Rack Screws - 25 Pack,0,,716408537498,,0
 10010043,Zoom,Zoom ZAD-1220E Locking AC Adaptor (DC12V) for R20,1,"",4515260025770,,0
 20010043,Zoom,[B-Stock] Zoom ZAD-1220E Locking AC Adaptor (DC12V) for R20,0,,4515260025770,,0
-10011040,Gator Frameworks,"Gator Frameworks GFW-ACPNL1212PCHA-8PK 8 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,"",716408556734,"2027-05-31 00:00:00",0
-20011040,Gator Frameworks,"[B-Stock] Gator Frameworks GFW-ACPNL1212PCHA-8PK 8 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,,716408556734,"2027-05-31 00:00:00",0
+10011040,Gator Frameworks,"Gator Frameworks GFW-ACPNL1212PCHA-8PK 8 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,"",716408556734,"2027-06-05 00:00:00",0
+20011040,Gator Frameworks,"[B-Stock] Gator Frameworks GFW-ACPNL1212PCHA-8PK 8 Pack of Charcoal 12x12"" Acoustic Pyramid Panel",0,,716408556734,"2027-06-05 00:00:00",0
 10011056,Gator Frameworks,Gator Frameworks GRW-PNLPRF3,0,"",716408537412,"2027-05-31 00:00:00",0
 20011056,Gator Frameworks,[B-Stock] Gator Frameworks GRW-PNLPRF3,0,,716408537412,"2027-05-31 00:00:00",0
 10010950,Gator Frameworks,Gator Frameworks GFW-MUS-LED Lamp for Music Stands,1,"",716408539829,,0
@@ -31821,8 +31817,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20011867,Gator Frameworks,[B-Stock] Gator Frameworks GFW-ELITEDESKCRNR-BLK Elite Series Furniture Desk Corner Section BLK,0,,716408560816,,0
 10012264,Zoom,Zoom APH-4e (EU) Accessory Pack for H4essential,1,"",4515260029754,,0
 20012264,Zoom,[B-Stock] Zoom APH-4e (EU) Accessory Pack for H4essential,0,,4515260029754,,0
-10011196,Gator Frameworks,Gator Frameworks GFW-SPKSTMNDSK-WDG Desktop Speaker Wedge Stand Pair,1,"",716408561752,,0
-20011196,Gator Frameworks,[B-Stock] Gator Frameworks GFW-SPKSTMNDSK-WDG Desktop Speaker Wedge Stand Pair,0,,716408561752,,0
+10011196,Gator Frameworks,Gator Frameworks GFW-SPKSTMNDSK-WDG Desktop Speaker Wedge Stand Pair,0,"",716408561752,"2027-06-05 00:00:00",0
+20011196,Gator Frameworks,[B-Stock] Gator Frameworks GFW-SPKSTMNDSK-WDG Desktop Speaker Wedge Stand Pair,0,,716408561752,"2027-06-05 00:00:00",0
 10012334,Zoom,Zoom APH-4e (UK) Accessory Pack for H4essential,1,"",4515260029785,,0
 20012334,Zoom,[B-Stock] Zoom APH-4e (UK) Accessory Pack for H4essential,0,,4515260029785,,0
 10012622,Zoom,Zoom APH-2e (EU) Accessory Pack for H2essential,1,"",4515260030125,,0
@@ -32457,8 +32453,8 @@ John Petrucci Signature Model",0,83.7,,"",0
 20023795,Samson,[B-Stock] Samson DMC 200 Drum Mic Clip 3 Pack,0,,809164019978,,0
 10023796,Samson,Samson MC1 Mic Clip 3-Pack,1,"",8091640041104,,0
 20023796,Samson,[B-Stock] Samson MC1 Mic Clip 3-Pack,0,,8091640041104,,0
-10024109,CITADEL,CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,"",,"2100-01-01 00:00:00",0
-20024109,CITADEL,[B-Stock] CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,,,"2100-01-01 00:00:00",0
+10024109,CITADEL,CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,"",,,0
+20024109,CITADEL,[B-Stock] CITADEL CITADEL DEMO_BOARD NFR NOT FOR RESALE - 2025 Launch Pedal Setup,0,,,,0
 10024155,Samson,Samson WS1 Windscreen 5-pack black,1,"",809164003311,,0
 20024155,Samson,[B-Stock] Samson WS1 Windscreen 5-pack black,0,,809164003311,,0
 10024157,Samson,Samson WS5E Windscreen 5-pack for QE,1,"",809164006343,,0

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T17:32:14.971508Z",
+  "timestamp": "2026-11-27T17:14:41.088840Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -37,7 +37,7 @@
         "page_speed": {
           "total_scripts": 10,
           "async_defer_scripts": 0,
-          "page_size_kb": 91.3,
+          "page_size_kb": 91.2,
           "is_https": true
         }
       },
@@ -95,7 +95,7 @@
         "page_speed": {
           "total_scripts": 10,
           "async_defer_scripts": 0,
-          "page_size_kb": 91.3,
+          "page_size_kb": 91.2,
           "is_https": true
         }
       },

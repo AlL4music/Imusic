@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-27T17:14:41.088840Z",
+  "timestamp": "2026-11-28T15:58:00.072400Z",
   "site_url": "https://new.all4music.sk",
   "pages": [
     {
@@ -8,12 +8,12 @@
       "checks": {
         "meta_tags": {
           "title": "All4Music.sk | Guitars, Basses & Musical Instruments",
-          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie.",
           "canonical": "https://new.all4music.sk/",
           "html_lang": "en",
           "has_viewport": true,
           "og_title": "All4Music.sk | Guitars, Basses & Musical Instruments",
-          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie.",
           "og_image": "https://new.all4music.sk/catalog/view/theme/a4m/img/og-default.jpg"
         },
         "hreflang": {
@@ -37,7 +37,7 @@
         "page_speed": {
           "total_scripts": 10,
           "async_defer_scripts": 0,
-          "page_size_kb": 91.2,
+          "page_size_kb": 90.9,
           "is_https": true
         }
       },
@@ -66,12 +66,12 @@
       "checks": {
         "meta_tags": {
           "title": "All4Music.sk | Guitars, Basses & Musical Instruments",
-          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "meta_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie.",
           "canonical": "https://new.all4music.sk/",
           "html_lang": "en",
           "has_viewport": true,
           "og_title": "All4Music.sk | Guitars, Basses & Musical Instruments",
-          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie. Rýchle dodanie.",
+          "og_description": "Najväčší výber gitár, basov a hudobných nástrojov na Slovensku. Značky ako Ibanez, Music Man, ESP, Meinl a ďalšie.",
           "og_image": "https://new.all4music.sk/catalog/view/theme/a4m/img/og-default.jpg"
         },
         "hreflang": {
@@ -95,7 +95,7 @@
         "page_speed": {
           "total_scripts": 10,
           "async_defer_scripts": 0,
-          "page_size_kb": 91.2,
+          "page_size_kb": 90.9,
           "is_https": true
         }
       },
